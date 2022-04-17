@@ -1,0 +1,382 @@
+\_sh v3.0  400  text
+
+\ref 001
+\ELANBegin 1.040
+\ELANEnd 2.520
+\ELANParticipant Roberto
+\trs ya entonces ahora sí ya puedes
+\tx ya entonces ahora sí ya puedes
+\ft ya entonces ahora sí ya puedes
+\sound IC-narracion.chacra-2013.wav 1.040 2.520
+
+\ref 002
+\ELANBegin 2.540
+\ELANEnd 7.380
+\ELANParticipant Isabel
+\trs tekasi heki banai atsa banai a pinohon
+\tx tekasi                           heki  banai         atsa banai         a   pinohon
+\mb te       =ka    -s    -i         heki  bana    -i    atsa bana    -i    a   pi      -nohon
+\gn trabajar =NAR   -VERB -SUJ>S:SIM maíz sembrar -IMPF yuca sembrar -IMPF ese comer   -PROP:TRAN
+\ps v.       =clit. -suf. -suf.      n.    v.tran  -suf. n.   v.tran  -suf. dem v.tran. -suf.
+
+\ft quisiera trabajar, sembrando maiz, sembrando yuca para comer eso
+\sound IC-narracion.chacra-2013.wav 2.540 7.380
+
+\ref 003
+\ELANBegin 8.110
+\ELANEnd 9.430
+\ELANParticipant Isabel
+\trs wai akai
+\tx wai    akai
+\mb wai    ak      -ai
+\gn chacra hacer   -IMPF(SK)
+\ps n.     v.tran. -suf.
+
+\ft voy a hacer chacra
+\sound IC-narracion.chacra-2013.wav 8.110 9.430
+
+\ref 004
+\ELANBegin 10.770
+\ELANEnd 12.400
+\ELANParticipant Isabel
+\trs atapa iná akasai
+\tx atapa       iná   akasai
+\mb atapa       iná   ak      -kas  -ai
+\gn gallina(SK) criado hacer   -DES  -IMPF(SK)
+\ps n.          adj.   v.tran. -suf. -suf.
+
+\ft quiero criar gallinas
+\sound IC-narracion.chacra-2013.wav 10.770 12.400
+
+\ref 005
+\ELANBegin 12.990
+\ELANEnd 14.740
+\ELANParticipant Isabel
+\trs kochi iná akasai ea
+\tx kochi iná   akasai                  ea
+\mb kochi iná   ak      -kas  -ai       ea
+\gn cerdo criado hacer   -DES  -IMPF(SK) 1SG.ABS(SK)
+\ps n.    adj.   v.tran. -suf. -suf.     pron.
+
+\ft quiero criar cerdos
+\sound IC-narracion.chacra-2013.wav 12.990 14.740
+
+\ref 006
+\ELANBegin 16.610
+\ELANEnd 18.330
+\ELANParticipant Isabel
+\trs atapa iná akika
+\tx atapa       iná   akika
+\mb atapa       iná   ak      -i    =ka
+\gn gallina(SK) criado hacer   -IMPF =NAR
+\ps n.          adj.   v.tran. -suf. =clit.
+
+\ft estoy criando gallinas
+\sound IC-narracion.chacra-2013.wav 16.610 18.330
+
+\ref 007
+\ELANBegin 18.720
+\ELANEnd 19.670
+\ELANParticipant Isabel
+\trs pinohon
+\tx pinohon
+\mb pi      -nohon
+\gn comer   -PROP:TRAN
+\ps v.tran. -suf.
+
+\ft para comer
+\sound IC-narracion.chacra-2013.wav 18.720 19.670
+
+\ref 008
+\ELANBegin 20.480
+\ELANEnd 21.610
+\ELANParticipant Isabel
+\trs ani ahon pinohon
+\tx ani        ahon               pinohon
+\mb ani        ak      -hon       pi      -nohon
+\gn grande(SK) hacer   -SUJ>A:SIM comer   -PROP:TRAN
+\ps adj.       v.tran. -suf.      v.tran. -suf.
+
+\ft para hacer crecer grande para comer
+\sound IC-narracion.chacra-2013.wav 20.480 21.610
+
+\ref 009
+\ELANBegin 22.700
+\ELANEnd 25.110
+\ELANParticipant Isabel
+\trs tekasai ea nokon benebetan
+\tx tekasai                  ea          nokon
+\mb te       -kas  -ai       ea          nokon
+\gn trabajar -DES  -IMPF(SK) 1SG.ABS(SK) 1SG.GEN(SK)
+\ps v.       -suf. -suf.     pron.       pron
+
+\tx benebetan
+\mb bene   =betan
+\gn esposo =COM
+\ps adj.   =clit.
+
+\ft yo quiero trabajar con mi marido
+\sound IC-narracion.chacra-2013.wav 22.700 25.110
+
+\ref 010
+\ELANBegin 25.890
+\ELANEnd 28.100
+\ELANParticipant Isabel
+\trs atsa banakasi wai akasi
+\tx atsa banakasi            wai
+\mb atsa bana    -kas  -i    wai
+\gn yuca sembrar -DES  -IMPF chacra
+\ps n.   v.tran  -suf. -suf. n.
+
+\tx akasi
+\mb ak      -kas  -i
+\gn hacer   -DES  -IMPF
+\ps v.tran. -suf. -suf.
+
+\ft yuca quiero sembrar, quiero hacer chacra
+\sound IC-narracion.chacra-2013.wav 25.890 28.100
+
+\ref 011
+\ELANBegin 31.220
+\ELANEnd 34.540
+\ELANParticipant Isabel
+\trs atsa banai heki banai paranta banai
+\tx atsa banai         heki  banai         paranta
+\mb atsa bana    -i    heki  bana    -i    paranta
+\gn yuca sembrar -IMPF maíz sembrar -IMPF plátano(SK)
+\ps n.   v.tran  -suf. n.    v.tran  -suf. n.
+
+\tx banai
+\mb bana    -i
+\gn sembrar -IMPF
+\ps v.tran  -suf.
+
+\ft voy a sembrar yuca, voy a sembrar maiz, voy a sembrar plátano
+\sound IC-narracion.chacra-2013.wav 31.220 34.540
+
+\ref 012
+\ELANBegin 34.930
+\ELANEnd 37.840
+\ELANParticipant Isabel
+\trs atapa kai akai kochi iná aki
+\tx atapa       kai          akai              kochi
+\mb atapa       ka     -i    ak      -ai       kochi
+\gn gallina(SK) ir     -IMPF hacer   -IMPF(SK) cerdo
+\ps n.          v.intr -suf. v.tran. -suf.     n.
+
+\tx iná   aki
+\mb iná   ak      -i
+\gn criado hacer   -IMPF
+\ps adj.   v.tran. -suf.
+
+\ft voy a hacer aumentar gallinas y voy a criar chanchos
+\sound IC-narracion.chacra-2013.wav 34.930 37.840
+
+\ref 013
+\ELANBegin 39.500
+\ELANEnd 40.930
+\ELANParticipant Isabel
+\trs esto esto nomás
+\tx esto esto nomás
+\ft esto esto nomás
+\sound IC-narracion.chacra-2013.wav 39.500 40.930
+
+\ref 014
+\ELANBegin 43.340
+\ELANEnd 44.930
+\ELANParticipant Roberto
+\trs ¿qué ha sido lo que has contado?
+\tx ¿qué ha sido lo que has contado?
+\ft ¿qué ha sido lo que has contado?
+\sound IC-narracion.chacra-2013.wav 43.340 44.930
+
+\ref 015
+\ELANBegin 45.000
+\ELANEnd 49.590
+\ELANParticipant Isabel
+\trs yo quiero sembrar maiz, yuca, plátano para criar mi animal
+\tx yo quiero sembrar maiz, yuca, plátano para criar mi animal
+\ft yo quiero sembrar maiz, yuca, plátano para criar mi animal
+\sound IC-narracion.chacra-2013.wav 45.000 49.590
+
+\ref 016
+\ELANBegin 50.260
+\ELANEnd 51.120
+\ELANParticipant Isabel
+\trs chancho
+\tx chancho
+\ft chancho
+\sound IC-narracion.chacra-2013.wav 50.260 51.120
+
+\ref 017
+\ELANBegin 51.745
+\ELANEnd 52.875
+\ELANParticipant Isabel
+\trs gallina
+\tx gallina
+\ft gallina
+\sound IC-narracion.chacra-2013.wav 51.745 52.875
+
+\ref 018
+\ELANBegin 53.185
+\ELANEnd 55.225
+\ELANParticipant Isabel
+\trs eso pienso yo para criar
+\tx eso pienso yo para criar
+\ft eso pienso yo para criar
+\sound IC-narracion.chacra-2013.wav 53.185 55.225
+
+\ref 019
+\ELANBegin 56.670
+\ELANEnd 60.610
+\ELANParticipant Isabel
+\trs yo crío bastante gallina, Roberto, ahí en mi chacra
+\tx yo crío bastante gallina, Roberto, ahí en mi chacra
+\ft yo crío bastante gallina, Roberto, ahí en mi chacra
+\sound IC-narracion.chacra-2013.wav 56.670 60.610
+
+\ref 020
+\ELANBegin 58.965
+\ELANEnd 59.885
+\ELANParticipant Roberto
+\trs ¿así?
+\tx ¿así?
+\ft ¿así?
+\sound IC-narracion.chacra-2013.wav 58.965 59.885
+
+\ref 021
+\ELANBegin 61.280
+\ELANEnd 62.940
+\ELANParticipant Roberto
+\trs ¿y dónde está tu chacra?
+\tx ¿y dónde está tu chacra?
+\ft ¿y dónde está tu chacra?
+\sound IC-narracion.chacra-2013.wav 61.280 62.940
+
+\ref 022
+\ELANBegin 62.540
+\ELANEnd 68.620
+\ELANParticipant Isabel
+\trs allá San Miguel tengo ahí un pedacito chacra tengo yuca ya estoy 
+acabando ya
+\tx allá San Miguel tengo ahí un pedacito chacra tengo yuca ya estoy 
+acabando ya
+\ft allá San Miguel tengo ahí un pedacito chacra tengo yuca ya estoy 
+acabando ya
+\sound IC-narracion.chacra-2013.wav 62.540 68.620
+
+\ref 023
+\ELANBegin 69.350
+\ELANEnd 70.800
+\ELANParticipant Isabel
+\trs tengo gallina
+\tx tengo gallina
+\ft tengo gallina
+\sound IC-narracion.chacra-2013.wav 69.350 70.800
+
+\ref 024
+\ELANBegin 70.940
+\ELANEnd 72.400
+\ELANParticipant Isabel
+\trs gallina he dejado
+\tx gallina he dejado
+\ft gallina he dejado
+\sound IC-narracion.chacra-2013.wav 70.940 72.400
+
+\ref 025
+\ELANBegin 75.960
+\ELANEnd 78.530
+\ELANParticipant Isabel
+\trs yo sé a mí me gusta criar
+\tx yo sé a mí me gusta criar
+\ft yo sé a mí me gusta criar
+\sound IC-narracion.chacra-2013.wav 75.960 78.530
+
+\ref 026
+\ELANBegin 78.830
+\ELANEnd 86.600
+\ELANParticipant Isabel
+\trs yo no vivo así nomás yo tengo gallina tengo mis animales he 
+dejado regulado veintidos veinticuatro gallina creo que he dejado 
+todos
+\tx yo no vivo así nomás yo tengo gallina tengo mis animales he 
+dejado regulado veintidos veinticuatro gallina creo que he dejado 
+todos
+\ft yo no vivo así nomás yo tengo gallina tengo mis animales he 
+dejado regulado veintidos veinticuatro gallina creo que he dejado 
+todos
+\sound IC-narracion.chacra-2013.wav 78.830 86.600
+
+\ref 027
+\ELANBegin 85.870
+\ELANEnd 86.860
+\ELANParticipant Roberto
+\trs ¿veinticuatro?
+\tx ¿veinticuatro?
+\ft ¿veinticuatro?
+\sound IC-narracion.chacra-2013.wav 85.870 86.860
+
+\ref 028
+\ELANBegin 89.720
+\ELANEnd 93.390
+\ELANParticipant Isabel
+\trs ya está robando ya la gente roba nomás ahí
+\tx ya está robando ya la gente roba nomás ahí
+\ft ya está robando ya la gente roba nomás ahí
+\sound IC-narracion.chacra-2013.wav 89.720 93.390
+
+\ref 029
+\ELANBegin 94.360
+\ELANEnd 96.110
+\ELANParticipant Isabel
+\trs vecino mismo come
+\tx vecino mismo come
+\ft vecino mismo come
+\sound IC-narracion.chacra-2013.wav 94.360 96.110
+
+\ref 030
+\ELANBegin 101.500
+\ELANEnd 104.350
+\ELANParticipant Isabel
+\trs uh duro trabajado también ya cuando era señorita
+\tx uh duro trabajado también ya cuando era señorita
+\ft uh duro trabajado también ya cuando era señorita
+\sound IC-narracion.chacra-2013.wav 101.500 104.350
+
+\ref 031
+\ELANBegin 105.470
+\ELANEnd 106.820
+\ELANParticipant Isabel
+\trs crié mis animales
+\tx crié mis animales
+\ft crié mis animales
+\sound IC-narracion.chacra-2013.wav 105.470 106.820
+
+\ref 032
+\ELANBegin 108.930
+\ELANEnd 110.360
+\ELANParticipant Isabel
+\trs yo no soy haragana
+\tx yo no soy haragana
+\ft yo no soy haragana
+\sound IC-narracion.chacra-2013.wav 108.930 110.360
+
+\ref 033
+\ELANBegin 110.760
+\ELANEnd 112.030
+\ELANParticipant Isabel
+\trs chikishma ea
+\tx chikishma      ea
+\mb chikish =ma    ea
+\gn ocioso  =NEG   1SG.ABS(SK)
+\ps adj.    =clit. pron.
+
+\ft yo no soy floja
+\sound IC-narracion.chacra-2013.wav 110.760 112.030
+
+
+\ELANMediaURL file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/IC-narracion.chacra-2013.mpg
+\ELANMediaMIME video/mpeg
+\ELANMediaExtracted file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/IC-narracion.chacra-2013.mpg
+\ELANMediaURL file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/IC-narracion.chacra-2013.wav
+\ELANMediaMIME audio/x-wav

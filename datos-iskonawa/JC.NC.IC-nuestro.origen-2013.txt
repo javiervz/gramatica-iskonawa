@@ -1,0 +1,1165 @@
+\_sh v3.0  400  text
+
+\ref 001
+\ELANBegin 0.000
+\ELANEnd 2.208
+\ELANParticipant Juanita
+\trs matsoika aki kenaki
+\tx Matsoika              aki kenaki.
+\mb matso  -i         =ka     kena   =ki
+\gn barrer -SUJ>S:SIM =NAR    llamar =REP
+\ps v.     -suf.      =clit.  v.     =clit.
+
+\ft estábamos barriendo para llamarnos (iskonawa)
+\sound JC.NC.IC-nuestro.origen-2013.wav 0.000 2.208
+
+\ref 002
+\ELANBegin 2.985
+\ELANEnd 5.500
+\ELANParticipant Juanita
+\trs Tama ra iskoki kenamis matsotai.
+\tx Tamara
+\mb Tama  -ra
+\gn maní -EVID(SK)
+\ps n.    -suf.
+
+\tx iskoki        kenamis
+\mb isko   =ki    kena   -mis
+\gn paucar =REP   llamar -PAS.HAB.
+\ps n.     =clit. v.     -suf.
+
+\tx matsotai.
+\mb matsot     -ai
+\gn barrer(SK) -IMPF(SK)
+\ps v.         -suf.
+
+\ft porque barrimos nos llamamos como el paucar del maní
+\sound JC.NC.IC-nuestro.origen-2013.wav 2.985 5.500
+
+\ref 003
+\ELANBegin 5.851
+\ELANEnd 15.673
+\ELANParticipant Juanita
+\trs Matsohonki atoki iki miara mah miara ma nokon (Ininteligible) 
+iskonawa iki mia iskobakebo iki.
+\tx Matsohonki               atoki
+\mb matso  -hon       =ki    ato   =ki
+\gn barrer -SUJ>A:SIM =REP   3PL   =REP
+\ps v.     -suf.      =clit. pron. =clit.
+
+\tx iki              miara
+\mb ik         -i    mia         =ra
+\gn decir:INTR -IMPF 2SG.ABS(SK) =EVID1(SK)
+\ps v.intr.    -suf. pron        =clit.
+
+\tx ma  miara                  ma
+\mb ma  mia         =ra        ma
+\gn ya  2SG.ABS(SK) =EVID1(SK) ya
+\ps adv pron        =clit.     adv
+
+\tx nokon       (Ininteligible)
+\mb nokon       ik      -ni      - *nteligible
+\gn 1SG.GEN(SK) copula  -PAS.REM - ***
+\ps pron        v.intr. -suf     - ***
+
+\tx iskonawa iki           mia         isko
+\mb iskonawa ik      -i    mia         isko
+\gn iskonawa copula  -IMPF 2SG.ABS(SK) paucar
+\ps n.       v.intr. -suf. pron        n.
+
+\tx bakebo      iki.
+\mb bake  =bo   ik      -i
+\gn niño =PLU  copula  -IMPF
+\ps n.    =clit v.intr. -suf.
+
+\ft mientras barre, (el paucar) les dice a ellos: "Tú ya eres; tú, 
+ya; mi (Ininteligible) son la gente del páucar. Ustedes son los 
+hijos del páucar".
+\sound JC.NC.IC-nuestro.origen-2013.wav 5.851 15.673
+
+\ref 004
+\ELANBegin 15.733
+\ELANEnd 18.148
+\ELANParticipant Juanita
+\trs Tawa isko bakebo. Mia tawaiskobakebo.
+\tx Tawa isko   bakebo.     Mia         tawa isko   bakebo.
+\mb Tawa isko   bake  =bo   mia         tawa isko   bake  =bo
+\gn pona paucar niño =PLU  2SG.ABS(SK) pona paucar niño =PLU
+\ps n.   n.     n.    =clit pron        n.   n.     n.    =clit
+
+\ft "Tú también eres hijo del paucar. Tú también eres hijo del paucar".
+\sound JC.NC.IC-nuestro.origen-2013.wav 15.733 18.148
+
+\ref 005
+\ELANBegin 20.869
+\ELANEnd 27.573
+\ELANParticipant Juanita
+\trs Bokon matsoi a bokon ki kena. Bokon ki ani mati. Nawa ki. Bokon 
+ani ki kená.
+\tx Bokon  matsoi            a   bokon  ki
+\mb bokon  matso  -i         a   bokon  ki
+\gn cetico barrer -SUJ>S:SIM ese cetico TOP.DIF
+\ps n.     v.     -suf.      dem n.     part.
+
+\tx kena.  Bokon  ki      ani
+\mb kena   bokon  ki      ani
+\gn llamar cetico TOP.DIF grande(SK)
+\ps v.     n.     part.   adj.
+
+\tx mati.      Bokon  ani        ki      kená.
+\mb ma  -ti    bokon  ani        ki      kená
+\gn ya  -NOMLZ cetico grande(SK) TOP.DIF palo
+\ps adv -suf.  n.     adj.       part.   n.
+
+\ft barriendo, fuimos llamados como el cetico, como el cetico, muy 
+grande. Lo llamaron un cetico grande.
+\sound JC.NC.IC-nuestro.origen-2013.wav 20.869 27.573
+
+\ref 006
+\ELANBegin 27.759
+\ELANEnd 29.573
+\ELANParticipant Juanita
+\trs Matsoribiai matsoribiai.
+\tx Matsoribiai                matsoribiai.
+\mb matso  =ribi     -ai       matso  =ribi     -ai
+\gn barrer =también -IMPF(SK) barrer =también -IMPF(SK)
+\ps v.     =clit.    -suf.     v.     =clit.    -suf.
+
+\ft Barríamos, también; barríamos, también.
+\sound JC.NC.IC-nuestro.origen-2013.wav 27.759 29.573
+
+\ref 007
+\ELANBegin 29.694
+\ELANEnd 36.065
+\ELANParticipant Juanita
+\trs Matsokin akai. Natoki. Natoki hawe atiki.
+\tx Matsokin          akai.                 Nato
+\mb matso  -kin       ak          -ai       nato
+\gn barrer -SUJ>A:SIM decir(TRAN) -IMPF(SK) este(SK)
+\ps v.     -suf.      v.tran.     -suf.     dem.
+
+\tx ki.     Nato     ki      hawe     atiki.
+\mb ki      nato     ki      hawe     ak      -ti    =ki
+\gn TOP.DIF este(SK) TOP.DIF cuál    hacer   -NOMLZ =INT
+\ps part.   dem.     part.   pal.int. v.tran. -suf.  =clit.
+
+\ft (El paucar) decía que barriéramos. "¿Esto?, ¿esto? ¿cómo vamos a 
+hacer?"
+\sound JC.NC.IC-nuestro.origen-2013.wav 29.694 36.065
+
+\ref 008
+\ELANBegin 36.525
+\ELANEnd 42.223
+\ELANParticipant Juanita
+\trs Ara. Ara peihata iki. Ma... a a a askahon. Askahon.
+\tx Ara.           Ara            peihata
+\mb a   =ra        a   =ra        peihata
+\gn ese =EVID1(SK) ese =EVID1(SK) peihata
+\ps dem =clit.     dem =clit.     n.
+
+\tx iki.          Ma... a    a    a
+\mb ik      -i    ma    a    a    a
+\gn copula  -IMPF ya    3SG  3SG  3SG
+\ps v.intr. -suf. adv   pron pron pron
+
+\tx askahon.        Askahon.
+\mb aska -hon       aska -hon
+\gn así -SUJ>A:SIM así -SUJ>A:SIM
+\ps adv. -suf.      adv. -suf.
+
+\ft
+
+\ft (El paucar) "Ese, ese, el árbol de peihata". Ya, ya; así, así era.
+
+\sound JC.NC.IC-nuestro.origen-2013.wav 36.525 42.223
+
+\ref 009
+\ELANBegin 42.223
+\ELANEnd 56.950
+\ELANParticipant Juanita
+\trs Aki kenatiki aki non kenai. Aweratokiki non iti iki. Tawa iskoki 
+mia iti iki aki tawa iskoki kenake tama. Tama aniosi.
+\tx Aki        kenatiki             aki
+\mb a   =ki    kena   -ti    =ki    a   =ki
+\gn ese =REP   llamar -NOMLZ =REP   ese =REP
+\ps dem =clit. v.     -suf.  =clit. dem =clit.
+
+\tx non         kenai.
+\mb no   =n     kena   -i
+\gn 1PL  =ERG   llamar -IMPF
+\ps pron =clit. v.     -suf.
+
+\tx Aweratonhon
+\mb Aweraton -hon
+\gn cuál    -SUJ>A:SIM
+\ps pal.int  -suf.
+
+\tx iti            iki.          Tama  iskoki
+\mb ik      -ti    ik      -i    Tama  isko   =ki
+\gn copula  -NOMLZ copula  -IMPF maní paucar =REP
+\ps v.intr. -suf.  v.intr. -suf. n.    n.     =clit.
+
+\tx mia         iti            iki
+\mb mia         ik      -ti    ik      -i
+\gn 2SG.ABS(SK) copula  -NOMLZ copula  -IMPF
+\ps pron        v.intr. -suf.  v.intr. -suf.
+
+\tx aki        tama  iskoki        kenake
+\mb a   =ki    tama  isko   =ki    kena   -ke
+\gn ese =REP   maní paucar =REP   llamar -PERF(SK)
+\ps dem =clit. n.    n.     =clit. v.     -suf.
+
+\tx tama. Tama  aniosi.
+\mb tama  tama  ani        -osi
+\gn maní maní grande(SK) -AUM
+\ps n.    n.    adj.       -suf.
+
+\ft "Así te vas a llamar". "Así nos llamamos, ¿cómo vamos a 
+llamarnos?" "Ustedes son los del páucar de la isana", dice. "Los 
+del páucar del maní". El maní muy grande.
+\sound JC.NC.IC-nuestro.origen-2013.wav 42.223 56.950
+
+\ref 010
+\ELANBegin 57.250
+\ELANEnd 58.950
+\ELANParticipant Juanita
+\trs Poyan katan katani.
+\tx Poyan katan katani.
+\mb poyan katan katan -i
+\gn rama  largo largo -IMPF
+\ps n.    adj.  adj.  -suf.
+
+\ft Muchas ramas largas
+\sound JC.NC.IC-nuestro.origen-2013.wav 57.250 58.950
+
+\ref 011
+\ELANBegin 59.163
+\ELANEnd 60.088
+\ELANParticipant Juanita
+\trs Aha.
+\tx Aha.
+\ft Ajá.
+\sound JC.NC.IC-nuestro.origen-2013.wav 59.163 60.088
+
+\ref 012
+\ELANBegin 63.038
+\ELANEnd 65.613
+\ELANParticipant Juanita
+\trs Non pike tama bohon. ewahon.
+\tx No   pike              tama  bohon.       ewahon.
+\mb no   pi      -ke       tama  bo     -hon  ewa           -hon
+\gn 1PL  comer   -PERF(SK) maní llevar -BEN  cocinar.maní -SUJ>A:SIM
+\ps pron v.tran. -suf.     n.    v.ambi -suf. v.            -suf.
+
+\ft Hemos comido llevando maní, cocinándolo.
+\sound JC.NC.IC-nuestro.origen-2013.wav 63.038 65.613
+
+\ref 013
+\ELANBegin 66.513
+\ELANEnd 69.663
+\ELANParticipant Juanita
+\trs Yobeyaton. Yoweyaton hanobo ka hanobo.
+\tx Yobeyaton.      Yoweyaton hanobo
+\mb yoi - be =ya =n
+\gn
+\ps
+
+\tx ka           hanobo.
+\mb ka     -a
+\gn ir     -PERF
+\ps v.intr -suf.
+
+\ft Un hechicero. Un hechicero, hanebo, era hanebo.
+\sound JC.NC.IC-nuestro.origen-2013.wav 66.513 69.663
+
+\ref 014
+\ELANBegin 70.076
+\ELANEnd 71.876
+\ELANParticipant Juanita
+\trs Hanobotonki.
+\tx Hanobotonki.
+\ft Hanobo.
+\sound JC.NC.IC-nuestro.origen-2013.wav 70.076 71.876
+
+\ref 015
+\ELANBegin 72.814
+\ELANEnd 74.864
+\ELANParticipant Juanita
+\trs Haires moakemoa.
+\tx Ma iro akemoa.
+\ft Hasta ahí nomás.
+\sound JC.NC.IC-nuestro.origen-2013.wav 72.814 74.864
+
+\ref 016
+\ELANBegin 76.125
+\ELANEnd 83.716
+\ELANParticipant Juanita
+\trs Oke. Oke. [ininteligible] Moara non [ininteligible] aki kenatai.
+\tx Oke. Oke. (Ininteligible) Moara no (Ininteligible) aki kenatai.
+\ft Otro lado, otro lado. [ininteligible] Nosotros ya [ininteligible] 
+nos llamábamos así.
+\sound JC.NC.IC-nuestro.origen-2013.wav 76.125 83.716
+
+\ref 017
+\ELANBegin 83.716
+\ELANEnd 91.500
+\ELANParticipant Juanita
+\trs [ininteligible] Beshtatama beshtatama mato kenaiki.
+\tx (Ininteligible) Beshtatama beshtatama hon kenaiki.
+\ft Nos llamábamos como el maní beshta.
+\sound JC.NC.IC-nuestro.origen-2013.wav 83.716 91.500
+
+\ref 018
+\ELANBegin 92.425
+\ELANEnd 93.550
+\ELANParticipant Juanita
+\trs Nokon heni ika iki.
+\tx Nokon heniriki.
+\ft (El paucar) "Con mis ancestros".
+\sound JC.NC.IC-nuestro.origen-2013.wav 92.425 93.550
+
+\ref 019
+\ELANBegin 94.675
+\ELANEnd 96.248
+\ELANParticipant Juanita
+\trs Tama ki nokon heni.
+\tx Tama ki nokon heni.
+\ft "El maní de mis ancestros".
+\sound JC.NC.IC-nuestro.origen-2013.wav 94.675 96.248
+
+\ref 020
+\ELANBegin 96.248
+\ELANEnd 97.910
+\ELANParticipant Juanita
+\trs Aki aki kenaka.
+\tx Aki aki kenaka.
+\ft Así, así nos llamó.
+\sound JC.NC.IC-nuestro.origen-2013.wav 96.248 97.910
+
+\ref 021
+\ELANBegin 98.285
+\ELANEnd 99.600
+\ELANParticipant Juanita
+\trs Nokon heni riki aka.
+\tx Nokon heni riki aka.
+\ft "Son (de) mis ancestro", dijo.
+\sound JC.NC.IC-nuestro.origen-2013.wav 98.285 99.600
+
+\ref 022
+\ELANBegin 101.450
+\ELANEnd 102.850
+\ELANParticipant Juanita
+\trs Nokon heniriki.
+\tx Nokon heniriki.
+\ft "De mis ancestros".
+\sound JC.NC.IC-nuestro.origen-2013.wav 101.450 102.850
+
+\ref 023
+\ELANBegin 103.486
+\ELANEnd 108.492
+\ELANParticipant Juanita
+\trs Tamakan champenhon minahon pokohon pitanahanwe
+\tx Tamakan champenhon.
+\ft "Vayan tomando chicha preparada y chicha fuerte y maní cocido".
+\sound JC.NC.IC-nuestro.origen-2013.wav 103.486 108.492
+
+\ref 024
+\ELANBegin 109.038
+\ELANEnd 110.525
+\ELANParticipant Juanita
+\trs Paha piamawe.
+\tx Minahon pokohon pitanwen. Paha piamawe.
+\ft "No coman cosas crudas".
+\sound JC.NC.IC-nuestro.origen-2013.wav 109.038 110.525
+
+\ref 025
+\ELANBegin 111.375
+\ELANEnd 113.313
+\ELANParticipant Juanita
+\trs Naya ewahon pitanwen.
+\tx Nayahon ewahon pitanwen.
+\ft "Vayan cocinando la comida".
+\sound JC.NC.IC-nuestro.origen-2013.wav 111.375 113.313
+
+\ref 026
+\ELANBegin 113.313
+\ELANEnd 118.492
+\ELANParticipant Juanita
+\trs Ewahon pitanwe.  Tamaki ewahon pike.
+\tx Ewahon pitanwe. Ewahon pitanwe. Ramaki ewahon pike.
+\ft " Vayan cocinando la comida". "Hemos comido maní cocido".
+\sound JC.NC.IC-nuestro.origen-2013.wav 113.313 118.492
+
+\ref 027
+\ELANBegin 118.492
+\ELANEnd 121.875
+\ELANParticipant Juanita
+\trs [ininteligible] Rama nokon heniriki iki.
+\tx (Ininteligible) Rama nokon heni riki iki.
+\ft [ininteligible] (El paucar) "Ahora son mi linaje".
+\sound JC.NC.IC-nuestro.origen-2013.wav 118.492 121.875
+
+\ref 028
+\ELANBegin 124.113
+\ELANEnd 125.738
+\ELANParticipant Juanita
+\trs Tamaki kena.
+\tx Tamaki kena.
+\ft Nos llamó como al maní.
+\sound JC.NC.IC-nuestro.origen-2013.wav 124.113 125.738
+
+\ref 029
+\ELANBegin 126.788
+\ELANEnd 129.338
+\ELANParticipant Juanita
+\trs Nokon heniriki nokon heniriki.
+\tx Nokon heniriki nokon heniriki.
+\ft "Mi linaje, mi linaje".
+\sound JC.NC.IC-nuestro.origen-2013.wav 126.788 129.338
+
+\ref 030
+\ELANBegin 129.376
+\ELANEnd 130.926
+\ELANParticipant Nelita
+\trs Ainka ma no isko onanti.
+\tx Ainkama hon isko onanti.
+\ft De ahí ya conocíamos al isko(nahua).
+\sound JC.NC.IC-nuestro.origen-2013.wav 129.376 130.926
+
+\ref 031
+\ELANBegin 130.964
+\ELANEnd 132.664
+\ELANParticipant Juanita
+\trs Aha. Ainkama non isko onanti iki.
+\tx Aha. Ainkama non isko onanti iki.
+\ft Ajá. Ahí ya conocimos al isko(nahua).
+\sound JC.NC.IC-nuestro.origen-2013.wav 130.964 132.664
+
+\ref 032
+\ELANBegin 132.752
+\ELANEnd 135.102
+\ELANParticipant Nelita
+\trs Ma iskonaish. Akikena.
+\tx Ma iskonaish. Akikena.
+\ft Ya isconahuas auténtico. Así nos hemos llamado.
+\sound JC.NC.IC-nuestro.origen-2013.wav 132.752 135.102
+
+\ref 033
+\ELANBegin 133.465
+\ELANEnd 134.290
+\ELANParticipant Juanita
+\trs Aha.
+\tx Aha.
+\ft Ajá.
+\sound JC.NC.IC-nuestro.origen-2013.wav 133.465 134.290
+
+\ref 034
+\ELANBegin 135.165
+\ELANEnd 135.965
+\ELANParticipant Juanita
+\trs Akikena.
+\tx Akikena.
+\ft Así nos hemos llamado.
+\sound JC.NC.IC-nuestro.origen-2013.wav 135.165 135.965
+
+\ref 035
+\ELANBegin 136.703
+\ELANEnd 137.828
+\ELANParticipant Juanita
+\trs Ma akikena aka.
+\tx Ma akikena aka.
+\ft Ya así nos hemos llamado.
+\sound JC.NC.IC-nuestro.origen-2013.wav 136.703 137.828
+
+\ref 036
+\ELANBegin 138.753
+\ELANEnd 140.686
+\ELANParticipant Juanita
+\trs Matsokikan matsoki.
+\tx Matsokikan matsoki.
+\ft Barriendo otra vez, barriendo.
+\sound JC.NC.IC-nuestro.origen-2013.wav 138.753 140.686
+
+\ref 037
+\ELANBegin 140.913
+\ELANEnd 142.528
+\ELANParticipant Juanita
+\trs Kena akikin non matsoai.
+\tx Kenai akikin non matsoai.
+\ft mientras barríamos, nos llamaron (iskonawa).
+\sound JC.NC.IC-nuestro.origen-2013.wav 140.913 142.528
+
+\ref 038
+\ELANBegin 143.979
+\ELANEnd 145.746
+\ELANParticipant Juanita
+\trs Aki kenáki, aki kenáki
+\tx Aki kenáki, aki kenáki
+\ft Así nos hemos llamado, así nos hemos llamado
+\sound JC.NC.IC-nuestro.origen-2013.wav 143.979 145.746
+
+\ref 039
+\ELANBegin 145.746
+\ELANEnd 147.188
+\ELANParticipant Juanita
+\trs Tamaroroki matsoki.
+\tx Tamaroroko matsoki.
+\ft Barriendo maní.
+\sound JC.NC.IC-nuestro.origen-2013.wav 145.746 147.188
+
+\ref 040
+\ELANBegin 147.213
+\ELANEnd 147.638
+\ELANParticipant Nelita
+\trs Aha.
+\tx Aha.
+\ft Ajá.
+\sound JC.NC.IC-nuestro.origen-2013.wav 147.213 147.638
+
+\ref 041
+\ELANBegin 147.663
+\ELANEnd 148.213
+\ELANParticipant Juanita
+\trs Aha.
+\tx Aha.
+\ft Ajá.
+\sound JC.NC.IC-nuestro.origen-2013.wav 147.663 148.213
+
+\ref 042
+\ELANBegin 151.076
+\ELANEnd 152.059
+\ELANParticipant Juanita
+\trs Matsoi.
+\tx Matsoi.
+\ft Barríamos.
+\sound JC.NC.IC-nuestro.origen-2013.wav 151.076 152.059
+
+\ref 043
+\ELANBegin 152.059
+\ELANEnd 152.865
+\ELANParticipant Juanita
+\trs Pepé iki.
+\tx Pepé iki.
+\ft Estaba limpio.
+\sound JC.NC.IC-nuestro.origen-2013.wav 152.059 152.865
+
+\ref 044
+\ELANBegin 152.865
+\ELANEnd 154.332
+\ELANParticipant Juanita
+\trs Matsoa benénka.
+\tx Matsoa benénka.
+\ft Barrimos muy limpio.
+\sound JC.NC.IC-nuestro.origen-2013.wav 152.865 154.332
+
+\ref 045
+\ELANBegin 154.251
+\ELANEnd 155.201
+\ELANParticipant Nelita
+\trs Pepé iki.
+\tx Pepé iki.
+\ft Estaba limpio.
+\sound JC.NC.IC-nuestro.origen-2013.wav 154.251 155.201
+
+\ref 046
+\ELANBegin 154.889
+\ELANEnd 155.964
+\ELANParticipant Juanita
+\trs Pepé iki.
+\tx Pepé iki.
+\ft Estaba limpio.
+\sound JC.NC.IC-nuestro.origen-2013.wav 154.889 155.964
+
+\ref 047
+\ELANBegin 156.239
+\ELANEnd 156.964
+\ELANParticipant Isabel
+\trs Pepé iki.
+\tx Pepé iki.
+\ft Estaba limpio.
+\sound JC.NC.IC-nuestro.origen-2013.wav 156.239 156.964
+
+\ref 048
+\ELANBegin 156.964
+\ELANEnd 157.639
+\ELANParticipant Juanita
+\trs Pepé iki.
+\tx Pepé iki.
+\ft Estaba limpio.
+\sound JC.NC.IC-nuestro.origen-2013.wav 156.964 157.639
+
+\ref 049
+\ELANBegin 158.739
+\ELANEnd 159.539
+\ELANParticipant Juanita
+\trs Matsoa.
+\tx Matsoa.
+\ft Barrimos.
+\sound JC.NC.IC-nuestro.origen-2013.wav 158.739 159.539
+
+\ref 050
+\ELANBegin 159.077
+\ELANEnd 160.327
+\ELANParticipant Nelita
+\trs Matsoa pepé iki.
+\tx Matsoa pepé iki.
+\ft Barrimos, (y) estaba limpio.
+\sound JC.NC.IC-nuestro.origen-2013.wav 159.077 160.327
+
+\ref 051
+\ELANBegin 159.890
+\ELANEnd 161.315
+\ELANParticipant Juanita
+\trs Matsoa ki pepé iki.
+\tx Matsoa ki pepé iki.
+\ft Barrimos; estaba limpio.
+\sound JC.NC.IC-nuestro.origen-2013.wav 159.890 161.315
+
+\ref 052
+\ELANBegin 162.240
+\ELANEnd 163.065
+\ELANParticipant Juanita
+\trs Kenáki.
+\tx Kenáki.
+\ft Llamándonos.
+\sound JC.NC.IC-nuestro.origen-2013.wav 162.240 163.065
+
+\ref 053
+\ELANBegin 163.115
+\ELANEnd 165.165
+\ELANParticipant Juanita
+\trs Akinkenanohonki matsoai.
+\tx Akinkenanohonki matsoai.
+\ft Barríamos y haciendo nos llamaba.
+\sound JC.NC.IC-nuestro.origen-2013.wav 163.115 165.165
+
+\ref 054
+\ELANBegin 165.203
+\ELANEnd 165.803
+\ELANParticipant Nelita
+\trs Matsoai.
+\tx Matsoai.
+\ft Barríamos.
+\sound JC.NC.IC-nuestro.origen-2013.wav 165.203 165.803
+
+\ref 055
+\ELANBegin 165.529
+\ELANEnd 166.229
+\ELANParticipant Isabel
+\trs Matsoai.
+\tx Matsoai.
+\ft Barríamos.
+\sound JC.NC.IC-nuestro.origen-2013.wav 165.529 166.229
+
+\ref 056
+\ELANBegin 165.741
+\ELANEnd 166.341
+\ELANParticipant Juanita
+\trs Matsoai.
+\tx Matsoai.
+\ft Barríamos.
+\sound JC.NC.IC-nuestro.origen-2013.wav 165.741 166.341
+
+\ref 057
+\ELANBegin 166.792
+\ELANEnd 167.542
+\ELANParticipant Juanita
+\trs Hmh.
+\tx Hmh.
+\ft Mhm..
+\sound JC.NC.IC-nuestro.origen-2013.wav 166.792 167.542
+
+\ref 058
+\ELANBegin 166.792
+\ELANEnd 167.542
+\ELANParticipant Nelita
+\trs Hmh.
+\tx Hmh.
+\ft Mhm.
+\sound JC.NC.IC-nuestro.origen-2013.wav 166.792 167.542
+
+\ref 059
+\ELANBegin 166.792
+\ELANEnd 167.542
+\ELANParticipant Isabel
+\trs Hmh.
+\tx Hmh.
+\ft Mhm.
+\sound JC.NC.IC-nuestro.origen-2013.wav 166.792 167.542
+
+\ref 060
+\ELANBegin 167.805
+\ELANEnd 169.380
+\ELANParticipant Nelita
+\trs Anon kaika tama matsoni.
+\tx Anon kaika tama matsoni.
+\ft Nosotros fuimos barriendo el maní.
+\sound JC.NC.IC-nuestro.origen-2013.wav 167.805 169.380
+
+\ref 061
+\ELANBegin 169.450
+\ELANEnd 171.098
+\ELANParticipant Juanita
+\trs Hhm [ininteligible].
+\tx Mhm. (Ininteligible).
+\ft Mhm [ininteligible].
+\sound JC.NC.IC-nuestro.origen-2013.wav 169.450 171.098
+
+\ref 062
+\ELANBegin 169.858
+\ELANEnd 172.097
+\ELANParticipant Nelita
+\trs Ani kai non anibo [ininteligible].
+\tx A non ainbo (Ininteligible).
+\ft Esos son nuestros antepasados [ininteligible].
+\sound JC.NC.IC-nuestro.origen-2013.wav 169.858 172.097
+
+\ref 063
+\ELANBegin 171.139
+\ELANEnd 174.041
+\ELANParticipant Juanita
+\trs [ininteligible] Ainoah non kenai betin.
+\tx (Ininteligible) Ainoah non kenai betin.
+\ft [ininteligible] De ahí es que nosotros nos llamamos (así).
+\sound JC.NC.IC-nuestro.origen-2013.wav 171.139 174.041
+
+\ref 064
+\ELANBegin 174.681
+\ELANEnd 175.388
+\ELANParticipant Nelita
+\trs Atian.
+\tx Atian.
+\ft También...
+\sound JC.NC.IC-nuestro.origen-2013.wav 174.681 175.388
+
+\ref 065
+\ELANBegin 175.553
+\ELANEnd 178.818
+\ELANParticipant Nelita
+\trs Iskon kai yuinike mia non kayabo aki.
+\tx Iskon kai yuinike mia non kayabo aki.
+\ft Decía el paucar: "Ustedes son (de) nuestra familia".
+\sound JC.NC.IC-nuestro.origen-2013.wav 175.553 178.818
+
+\ref 066
+\ELANBegin 178.082
+\ELANEnd 179.339
+\ELANParticipant Juanita
+\trs Aha. Iskon.
+\tx Aha. Iskon.
+\ft Ajá. El paucar.
+\sound JC.NC.IC-nuestro.origen-2013.wav 178.082 179.339
+
+\ref 067
+\ELANBegin 179.229
+\ELANEnd 179.821
+\ELANParticipant Nelita
+\trs Iskon.
+\tx Iskon.
+\ft El paucar.
+\sound JC.NC.IC-nuestro.origen-2013.wav 179.229 179.821
+
+\ref 068
+\ELANBegin 179.926
+\ELANEnd 180.644
+\ELANParticipant Juanita
+\trs Iskon yoyai.
+\tx Iskon yoyai.
+\ft Decía el paucar.
+\sound JC.NC.IC-nuestro.origen-2013.wav 179.926 180.644
+
+\ref 069
+\ELANBegin 182.517
+\ELANEnd 183.955
+\ELANParticipant Nelita
+\trs Aweti anibira isko.
+\tx Aweti anibira isko.
+\ft ¿De qué tamaño era el paucar?
+\sound JC.NC.IC-nuestro.origen-2013.wav 182.517 183.955
+
+\ref 070
+\ELANBegin 184.058
+\ELANEnd 184.503
+\ELANParticipant Nelita
+\trs Mihira.
+\tx Mihira.
+\ft ¿Grande?
+\sound JC.NC.IC-nuestro.origen-2013.wav 184.058 184.503
+
+\ref 071
+\ELANBegin 184.531
+\ELANEnd 185.686
+\ELANParticipant Juanita
+\trs Anirokoki.
+\tx Anirokoki.
+\ft ¿Grande?.
+\sound JC.NC.IC-nuestro.origen-2013.wav 184.531 185.686
+
+\ref 072
+\ELANBegin 185.914
+\ELANEnd 187.291
+\ELANParticipant Juanita
+\trs Natoti anirokoki.
+\tx Natoti anirokoki.
+\ft De este tamaño de grande.
+\sound JC.NC.IC-nuestro.origen-2013.wav 185.914 187.291
+
+\ref 073
+\ELANBegin 187.413
+\ELANEnd 188.002
+\ELANParticipant Nelita
+\trs Isko.
+\tx Isko.
+\ft El paucar.
+\sound JC.NC.IC-nuestro.origen-2013.wav 187.413 188.002
+
+\ref 074
+\ELANBegin 188.255
+\ELANEnd 190.312
+\ELANParticipant Juanita
+\trs Isko. Aki mari pibetin.
+\tx Isko. Aki mari pibetin.
+\ft El paucar. Comía añujes así.
+\sound JC.NC.IC-nuestro.origen-2013.wav 188.255 190.312
+
+\ref 075
+\ELANBegin 190.459
+\ELANEnd 192.296
+\ELANParticipant Isabel
+\trs Iskonka mari pi
+\tx Iskonka mari pi.
+\ft El paucar come añuje
+\sound JC.NC.IC-nuestro.origen-2013.wav 190.459 192.296
+
+\ref 076
+\ELANBegin 191.140
+\ELANEnd 191.662
+\ELANParticipant Nelita
+\trs (Ininteligible)
+\tx (Ininteligible)
+\ft (Ininteligible)
+\sound JC.NC.IC-nuestro.origen-2013.wav 191.140 191.662
+
+\ref 077
+\ELANBegin 192.309
+\ELANEnd 196.686
+\ELANParticipant Juanita
+\trs Iskonka mari pi. Ainka  tsitseke chahokawantima.
+\tx Iskonka mari pi. Ainka iti tsitseketire ain chahokawantima.
+\ft El paucar comía añujes. Ahí con su cola le flechaba al venado.
+\sound JC.NC.IC-nuestro.origen-2013.wav 192.309 196.686
+
+\ref 078
+\ELANBegin 196.686
+\ELANEnd 197.555
+\ELANParticipant Juanita
+\trs Awá kawantima.
+\tx Awá kawantima.
+\ft La sachavaca pasaba.
+\sound JC.NC.IC-nuestro.origen-2013.wav 196.686 197.555
+
+\ref 079
+\ELANBegin 197.407
+\ELANEnd 198.337
+\ELANParticipant Isabel
+\trs Awá reteai.
+\tx Awá rete ai.
+\ft Mataba a la sachavaca.
+\sound JC.NC.IC-nuestro.origen-2013.wav 197.407 198.337
+
+\ref 080
+\ELANBegin 198.329
+\ELANEnd 199.189
+\ELANParticipant Juanita
+\trs Awá reteai.
+\tx Awá reteai.
+\ft Mataba a la sachavaca.
+\sound JC.NC.IC-nuestro.origen-2013.wav 198.329 199.189
+
+\ref 081
+\ELANBegin 200.892
+\ELANEnd 201.836
+\ELANParticipant Nelita
+\trs Yoiribi.
+\tx Yoiribi.
+\ft También hablaba.
+\sound JC.NC.IC-nuestro.origen-2013.wav 200.892 201.836
+
+\ref 082
+\ELANBegin 201.990
+\ELANEnd 204.314
+\ELANParticipant Juanita
+\trs Awá ki reteibetin. Isko.
+\tx Awá ki reteibetin. Isko.
+\ft Mataba a la sachavaca. El paucar.
+\sound JC.NC.IC-nuestro.origen-2013.wav 201.990 204.314
+
+\ref 083
+\ELANBegin 205.623
+\ELANEnd 206.877
+\ELANParticipant Nelita
+\trs Akin non tama pike.
+\tx Akin non tama pike.
+\ft Nosotros comíamos maní al prepararlo .
+\sound JC.NC.IC-nuestro.origen-2013.wav 205.623 206.877
+
+\ref 084
+\ELANBegin 206.919
+\ELANEnd 207.761
+\ELANParticipant Juanita
+\trs Tama pike.
+\tx Tama pik.
+\ft Comíamos maní.
+\sound JC.NC.IC-nuestro.origen-2013.wav 206.919 207.761
+
+\ref 085
+\ELANBegin 207.890
+\ELANEnd 209.468
+\ELANParticipant Juanita
+\trs Tama bohonki banahon pike.
+\tx Tama bohonki tama bohon banahon pike.
+\ft Llevando maní, sembrando, comímos.
+\sound JC.NC.IC-nuestro.origen-2013.wav 207.890 209.468
+
+\ref 086
+\ELANBegin 211.974
+\ELANEnd 213.214
+\ELANParticipant Nelita
+\trs Ainoah moa iskonawa iki.
+\tx Ainoah moa iskonawa iki.
+\ft De ahí ya somos los isconahuas.
+\sound JC.NC.IC-nuestro.origen-2013.wav 211.974 213.214
+
+\ref 087
+\ELANBegin 213.234
+\ELANEnd 214.955
+\ELANParticipant Juanita
+\trs Ainoah moa iskonawa iki.
+\tx Ainoah moa iskonawa iki.
+\ft Y desde entonces ya somos los isconahuas.
+\sound JC.NC.IC-nuestro.origen-2013.wav 213.234 214.955
+
+\ref 088
+\ELANBegin 214.955
+\ELANEnd 215.818
+\ELANParticipant Juanita
+\trs Iskobakebo.
+\tx Iskobakebo.
+\ft Los hijos del paucar.
+\sound JC.NC.IC-nuestro.origen-2013.wav 214.955 215.818
+
+\ref 089
+\ELANBegin 215.955
+\ELANEnd 216.519
+\ELANParticipant Nelita
+\trs Iskobakebo.
+\tx Iskobakebo.
+\ft Los hijos del paucar.
+\sound JC.NC.IC-nuestro.origen-2013.wav 215.955 216.519
+
+\ref 090
+\ELANBegin 216.610
+\ELANEnd 217.694
+\ELANParticipant Juanita
+\trs Nawa iskobakebo.
+\tx Nawa iskobakebo.
+\ft El pueblo hijo del paucar.
+\sound JC.NC.IC-nuestro.origen-2013.wav 216.610 217.694
+
+\ref 091
+\ELANBegin 218.145
+\ELANEnd 219.539
+\ELANParticipant Nelita
+\trs Nawa iskobakebo.
+\tx Nawa iskobakebo.
+\ft El pueblo hijo del paucar.
+\sound JC.NC.IC-nuestro.origen-2013.wav 218.145 219.539
+
+\ref 092
+\ELANBegin 219.595
+\ELANEnd 220.454
+\ELANParticipant Juanita
+\trs Nawa iskobakebo.
+\tx Nawa iskobakebo.
+\ft La gente hija del paucar.
+\sound JC.NC.IC-nuestro.origen-2013.wav 219.595 220.454
+
+\ref 093
+\ELANBegin 224.281
+\ELANEnd 226.506
+\ELANParticipant Juanita
+\trs Yoimiske en papan yoipaonike.
+\tx Yoimiske en papan yoipaoniki.
+\ft Mi papá decía, contaba.
+\sound JC.NC.IC-nuestro.origen-2013.wav 224.281 226.506
+
+\ref 094
+\ELANBegin 228.062
+\ELANEnd 230.808
+\ELANParticipant Juanita
+\trs (Ininteligible) Iresamaka matsoi.
+\tx (Ininteligible) Iresamaka matsoi.
+\ft (Ininteligible) Barría, no es broma. (¿?)
+\sound JC.NC.IC-nuestro.origen-2013.wav 228.062 230.808
+
+\ref 095
+\ELANBegin 233.047
+\ELANEnd 233.512
+\ELANParticipant Nelita
+\trs Matsoi.
+\tx Matsoi.
+\ft Barría.
+\sound JC.NC.IC-nuestro.origen-2013.wav 233.047 233.512
+
+\ref 096
+\ELANBegin 233.525
+\ELANEnd 234.384
+\ELANParticipant Juanita
+\trs Matsoi.
+\tx Matsoi.
+\ft Barría.
+\sound JC.NC.IC-nuestro.origen-2013.wav 233.525 234.384
+
+\ref 097
+\ELANBegin 238.580
+\ELANEnd 246.164
+\ELANParticipant Juanita
+\trs Ah. Wetsaonihhikio aiba ibano a yoihonti. Yaeki kenanhon a 
+yoihonti. Yaeki kenanhon yae matsoi.
+\tx Ah. Wetsaonihhikio aiba ibano a yoihonti. Yaeki kenanhon a 
+yoihonti. Yaeki kenanhon yae matsoi.
+\ft Decía de otra personita. (¿?) Barría llamando al guayo. (¿?)
+\sound JC.NC.IC-nuestro.origen-2013.wav 238.580 246.164
+
+\ref 098
+\ELANBegin 246.164
+\ELANEnd 249.835
+\ELANParticipant Juanita
+\trs Yae me hmh matsoi. Natora non aka iki tamanon.
+\tx Yae me hmh matsoi. Natora non aka iki tamanon.
+\ft Barría el guayo. Nos dijo eso del maní. (¿?)
+\sound JC.NC.IC-nuestro.origen-2013.wav 246.164 249.835
+
+\ref 099
+\ELANBegin 250.058
+\ELANEnd 250.894
+\ELANParticipant Nelita
+\trs Tama kikiai
+\tx Tama ike.
+\ft Es maní.
+\sound JC.NC.IC-nuestro.origen-2013.wav 250.058 250.894
+
+\ref 100
+\ELANBegin 250.961
+\ELANEnd 251.693
+\ELANParticipant Juanita
+\trs Tamakesa.
+\tx Tamakesa.
+\ft Como maní.
+\sound JC.NC.IC-nuestro.origen-2013.wav 250.961 251.693
+
+\ref 101
+\ELANBegin 256.985
+\ELANEnd 258.582
+\ELANParticipant Juanita
+\trs Aweiki bira kena pakei.
+\tx Aweiki bira kena pakei.
+\ft "No sé por qué será que nos han llamado (así)".
+\sound JC.NC.IC-nuestro.origen-2013.wav 256.985 258.582
+
+\ref 102
+\ELANBegin 260.268
+\ELANEnd 262.209
+\ELANParticipant Juanita
+\trs Ewen papa yoi kati.
+\tx Ewen papa yoi kati.
+\ft Decía mi papá.
+\sound JC.NC.IC-nuestro.origen-2013.wav 260.268 262.209
+
+\ref 103
+\ELANBegin 262.380
+\ELANEnd 263.037
+\ELANParticipant Nelita
+\trs Mhm.
+\tx Mhm.
+\ft Mhm.
+\sound JC.NC.IC-nuestro.origen-2013.wav 262.380 263.037
+
+\ref 104
+\ELANBegin 264.880
+\ELANEnd 266.074
+\ELANParticipant Nelita
+\trs Tamaki kena iki.
+\tx Tamki kena iki.
+\ft Se llamó "maní".
+\sound JC.NC.IC-nuestro.origen-2013.wav 264.880 266.074
+
+\ref 105
+\ELANBegin 266.171
+\ELANEnd 266.918
+\ELANParticipant Juanita
+\trs Tamaki kena.
+\tx Tamaki kena.
+\ft Se llamó "maní".
+\sound JC.NC.IC-nuestro.origen-2013.wav 266.171 266.918
+
+\ref 106
+\ELANBegin 268.761
+\ELANEnd 269.328
+\ELANParticipant Juanita
+\trs Rome.
+\tx Rome.
+\ft Tabaco.
+\sound JC.NC.IC-nuestro.origen-2013.wav 268.761 269.328
+
+\ref 107
+\ELANBegin 269.649
+\ELANEnd 271.365
+\ELANParticipant Juanita
+\trs Rome. Romebikiki non kenake.
+\tx Rome. Romebikiki non kenake.
+\ft Nosotros llamamos "tabaco".
+\sound JC.NC.IC-nuestro.origen-2013.wav 269.649 271.365
+
+\ref 108
+\ELANBegin 271.530
+\ELANEnd 272.156
+\ELANParticipant Nelita
+\trs Hmh.
+\tx Hmh.
+\ft Mhm.
+\sound JC.NC.IC-nuestro.origen-2013.wav 271.530 272.156
+
+\ref 109
+\ELANBegin 274.612
+\ELANEnd 275.567
+\ELANParticipant Juanita
+\trs Aresrikima.
+\tx Aresrikima.
+\ft Eso es, nomás, ya.
+\sound JC.NC.IC-nuestro.origen-2013.wav 274.612 275.567
+
+\ref 110
+\ELANBegin 275.828
+\ELANEnd 276.425
+\ELANParticipant Nelita
+\trs Areskai.
+\tx Areskai.
+\ft Eso, nomás.
+\sound JC.NC.IC-nuestro.origen-2013.wav 275.828 276.425
+
+\ref 111
+\ELANBegin 277.283
+\ELANEnd 278.432
+\ELANParticipant Nelita
+\trs Eso es todo, dice.
+\tx Eso es todo, dice.
+\ft Eso es todo, dice.
+\sound JC.NC.IC-nuestro.origen-2013.wav 277.283 278.432
+
+
+\ELANMediaURL file:///C:/Users/Fernando Franco/Desktop/basededatos-iskonawa procesada/data/JC.NC.IC-nuestro.origen-2013.mpg
+\ELANMediaMIME video/mpeg
+\ELANMediaURL file:///C:/Users/Fernando Franco/Desktop/basededatos-iskonawa procesada/data/JC.NC.IC-nuestro.origen-2013.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaExtracted file:///C:/Users/Fernando Franco/Desktop/basededatos-iskonawa procesada/data/JC.NC.IC-nuestro.origen-2013.mpg

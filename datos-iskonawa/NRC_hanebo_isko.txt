@@ -1,0 +1,1439 @@
+\_sh v3.0  742  text
+
+\ref 001
+\ELANBegin 3.307
+\ELANEnd 5.352
+\ELANParticipant Nelita
+\trs en akiribi yoiribiai
+\tx en        akiribi  yoiribiai
+\mb en        akiribi  yoi     =ribi     -ai
+\gn 1SG:A(SK) otra.vez contar  =también -IMPF(SK)
+\ps pron      adv.     v.tran. =clit.    -suf.
+
+\ft voy a contar de nuevo
+\nt
+\sound NRC_hanebo_isko.wav 3.307 5.352
+
+\ref 002
+\ELANBegin 5.855
+\ELANEnd 8.392
+\ELANParticipant Nelita
+\trs hanebon  isko merani
+\tx hanebon        isko   merani
+\mb hanebo  =n     isko   mera      -ni
+\gn chamán =ERG   paucar encontrar -PAS.REM
+\ps n.      =clit. n.     v.tran    -suf
+
+\ft Hanebo encontro al paucar
+\nt
+\sound NRC_hanebo_isko.wav 5.855 8.392
+
+\ref 003
+\ELANBegin 9.695
+\ELANEnd 11.387
+\ELANParticipant Nelita
+\trs hanebonki oina iki rome ayahon
+\tx hanebonki             oina        iki           rome   ayahon
+\mb hanebo  =n     =ki    oin  -a     ik      -i    rome   aya    -hon
+\gn chamán =ERG   =REP   ver  -NOMLZ copula  -IMPF tabaco tomar  -SUJ>A:SIM
+\ps n.      =clit. =clit. v.tr -suf.  v.intr. -suf. n.     v.tran -suf.
+
+\ft después de tomar tabaco, vio al paucar (en su visión)
+\nt
+\sound NRC_hanebo_isko.wav 9.695 11.387
+
+\ref 004
+\ELANBegin 12.438
+\ELANEnd 13.067
+\ELANParticipant Nelita
+\trs oinke hain
+\tx oinke          hain
+\mb oin  -ke       hain
+\gn ver  -PERF(SK) ahí(SK)
+\ps v.tr -suf.     adv.
+
+\ft ahí lo vio
+\nt
+\sound NRC_hanebo_isko.wav 12.438 13.067
+
+\ref 005
+\ELANBegin 13.787
+\ELANEnd 15.432
+\ELANParticipant Nelita
+\trs iketian awen bakebon boke
+\tx iketian                  awen    bakebon
+\mb ik      -ketian          awen    bake  =bo   =n
+\gn copula  -SUJ.DIF:SIM(SK) 3SG:GEN niño =PLU  =ERG
+\ps v.intr. -suf             pron    n.    =clit =clit.
+
+\tx boke
+\mb bo     -ke
+\gn llevar -PERF(SK)
+\ps v.ambi -suf.
+
+\ft entonces sus hijos lo llevaron
+\nt
+\sound NRC_hanebo_isko.wav 13.787 15.432
+
+\ref 006
+\ELANBegin 17.272
+\ELANEnd 21.615
+\ELANParticipant Nelita
+\trs awen bakebo ioke "oinmai kawe" ahon kake
+\tx awen    bakebo     ioke
+\mb awen    bake =bo   io             -ke
+\gn 3SG:GEN hijo =PLU  llevar.alguien -PERF(SK)
+\ps pron    n.   =clit v.tr           -suf.
+
+\tx "oinmai          kawe"
+\mb oin  -ma   -i    ka     -we
+\gn ver  -CAUS -IMPF ir     -IMP(SK)
+\ps v.tr -suf. -suf. v.intr -suf.
+
+\tx ahon               kake
+\mb ak      -hon       ka     -ke
+\gn hacer   -SUJ>A:SIM ir     -PERF(SK)
+\ps v.tran. -suf.      v.intr -suf.
+
+\ft sus hijos lo llevaron diciendo "vamos a que nos hagas ver" fueron
+\nt A sin ergativo
+\sound NRC_hanebo_isko.wav 17.272 21.615
+
+\ref 007
+\ELANBegin 22.038
+\ELANEnd 23.524
+\ELANParticipant Nelita
+\trs yoitimaki kishikainribike
+\tx yoitimaki       kishikainribike
+\mb yoitima  =ki    kishi    -kain     =ribi     -ke
+\gn travieso =REP   insistir -AND:INTR =también -PERF(SK)
+\ps n.       =clit. v.int    -suf.     =clit.    -suf.
+
+\ft un malcriado dice también insistió (porque quería ir)
+\nt
+\sound NRC_hanebo_isko.wav 22.038 23.527
+
+\ref 008
+\ELANBegin 25.307
+\ELANEnd 26.335
+\ELANParticipant Nelita
+\trs kishikainika ka
+\tx kishikainika                         ka
+\mb kishi    -kain     -i         =ka    ka
+\gn insistir -AND:INTR -SUJ>S:SIM =NAR   ir
+\ps v.int    -suf.     -suf.      =clit. v.intr
+
+\ft insistiendo se fue
+\nt ka introduce un evento inesperado
+\sound NRC_hanebo_isko.wav 25.307 26.335
+
+\ref 009
+\ELANBegin 26.952
+\ELANEnd 30.724
+\ELANParticipant Nelita
+\trs yosi ikaxki ishtonyama iki chini hoke
+\tx yosi        ikaxki                ishtonyama
+\mb yosi        ik      -ax    =ki    ishton  -yama
+\gn anciano(SK) copula  -S/A>S =REP   rápido -NEG(SK)
+\ps n.          v.intr. -suf.  =clit. adv.    -suf.
+
+\tx iki                chini      hoke
+\mb ik      -i         chini      ho        -ke
+\gn copula  -SUJ>S:SIM atrás(SK) venir(SK) -PERF(SK)
+\ps v.intr. -suf.      adv.       v.        -suf.
+
+\ft siendo viejo (Hanebo) no iba rápido, venía atrás
+\nt
+\sound NRC_hanebo_isko.wav 26.952 30.724
+
+\ref 010
+\ELANBegin 31.524
+\ELANEnd 35.204
+\ELANParticipant Nelita
+\trs bakeranoboki reken rekenkaina
+\tx bakeranoboki           reken
+\mb bakerano  =bo   =ki    reken
+\gn joven(SK) =PLU  =REP   adelante
+\ps n.        =clit =clit. n.
+
+\tx rekenkaina
+\mb reken -kain     -a
+\gn punta -AND:INTR -PERF
+\ps n.    -suf.     -suf.
+
+\ft los jóvenes iban adelante iban adelante
+\nt
+\sound NRC_hanebo_isko.wav 31.524 35.204
+
+\ref 011
+\ELANBegin 36.678
+\ELANEnd 38.175
+\ELANParticipant Nelita
+\trs epa mananon awe aronki
+\tx epa   mananon       awe              aronki
+\mb epa   mana    -non  ak      -we      ak          =ronki
+\gn padre esperar -PROP hacer   -IMP(SK) decir(TRAN) =REP(SK)
+\ps n.    v.      -suf. v.tran. -suf.    v.tran.     =clit.
+
+\ft (los hijos de Hanebo) dice que dijeron hay que esperar a papá.
+\nt
+\sound NRC_hanebo_isko.wav 36.678 38.175
+
+\ref 012
+\ELANBegin 38.644
+\ELANEnd 41.295
+\ELANParticipant Nelita
+\trs epa manatiki moakaira nokometiki
+\tx epa   manatiki              moakaira
+\mb epa   mana    -ti    =ki    moa    =kaira
+\gn padre esperar -NOMLZ =INT   ya(SK) =INTEN
+\ps n.    v.      -suf.  =clit. adv    =clit
+
+\tx nokometiki
+\mb noko   -met  -ti    =ki
+\gn llegar -REFL -NOMLZ =INT
+\ps v.     -suf. -suf.  =clit.
+
+\ft ¿para qué vamos a esperar? Ya vamos a llegar.
+\nt
+\sound NRC_hanebo_isko.wav 38.644 41.295
+
+\ref 013
+\ELANBegin 42.632
+\ELANEnd 43.512
+\ELANParticipant Nelita
+\trs manati riki a
+\tx manati         riki    a
+\mb mana    -ti    riki    a
+\gn esperar -NOMLZ COP(SK) ese
+\ps v.      -suf.  part.   dem
+
+\ft hay que esperar
+\nt
+\sound NRC_hanebo_isko.wav 42.632 43.512
+
+\ref 014
+\ELANBegin 44.084
+\ELANEnd 45.752
+\ELANParticipant Nelita
+\trs abika yoitima kaini kareske
+\tx abika             yoitima  kaini
+\mb a   =bi    =ka    yoitima  kain  -i
+\gn ese =ENF   =NAR   travieso salir -SUJ>S:SIM
+\ps dem =clit. =clit. n.       v.    -suf.
+
+\tx kareske
+\mb ka     -res       -ke
+\gn ir     -solamente -PERF(SK)
+\ps v.intr -suf.      -suf.
+
+\ft pero el malcriado se fue no mas
+\nt ka introduce un evento inesperado
+\sound NRC_hanebo_isko.wav 44.084 45.752
+
+\ref 015
+\ELANBegin 47.672
+\ELANEnd 48.461
+\ELANParticipant Nelita
+\trs kareske ka
+\tx kareske                     ka
+\mb ka     -res       -ke       ka     -a
+\gn ir     -solamente -PERF(SK) ir     -FACT(SK)
+\ps v.intr -suf.      -suf.     v.intr -suf.
+
+\ft se fue
+\nt
+\sound NRC_hanebo_isko.wav 47.672 48.461
+
+\ref 016
+\ELANBegin 49.055
+\ELANEnd 51.535
+\ELANParticipant Nelita
+\trs aka nokoribike ha yosi
+\tx aka        nokoribike                 ha
+\mb a   =ka    noko   =ribi     -ke       ha
+\gn ese =NAR   llegar =también -PERF(SK) ese(SK)
+\ps dem =clit. v.     =clit.    -suf.     dem
+
+\tx yosi
+\mb yosi
+\gn anciano(SK)
+\ps n.
+
+\ft entonces el viejo también llegó
+\nt
+\sound NRC_hanebo_isko.wav 49.055 51.535
+
+\ref 017
+\ELANBegin 52.655
+\ELANEnd 54.598
+\ELANParticipant Nelita
+\trs aka betsa bakerano apari moa ka
+\tx aka               wetsa    bakerano  apari        moa    ka
+\mb ak          -a    wetsa    bakerano  a   =pari    moa    ka     -a
+\gn decir(TRAN) -PERF otro(SK) joven(SK) ese =primero ya(SK) ir     -PERF
+\ps v.tran.     -suf. adj.     n.        dem =clit.   adv    v.intr -suf.
+
+\ft y le pregunta a otro joven que le dice "el (malcriado) ya se fue 
+primero.
+\nt
+\sound NRC_hanebo_isko.wav 52.655 54.598
+
+\ref 018
+\ELANBegin 55.032
+\ELANEnd 56.358
+\ELANParticipant Nelita
+\trs haskayamawe
+\tx haskayamawe
+\mb haska    -yama    -we
+\gn así(SK) -NEG(SK) -IMP(SK)
+\ps adv.     -suf.    -suf.
+
+\ft no es así!
+\nt
+\sound NRC_hanebo_isko.wav 55.032 56.358
+
+\ref 019
+\ELANBegin 56.918
+\ELANEnd 58.530
+\ELANParticipant Nelita
+\trs ramara iskon reteai
+\tx ramara                     iskon
+\mb rama            =ra        isko   =n
+\gn actualmente(SK) =EVID1(SK) paucar =ERG
+\ps adv.            =clit.     n.     =clit.
+
+\tx reteai
+\mb rete      -ai
+\gn matar(SK) -IMPF(SK)
+\ps v.        -suf.
+
+\ft ahora el paucar lo va a matar
+\nt
+\sound NRC_hanebo_isko.wav 56.918 58.530
+
+\ref 020
+\ELANBegin 61.055
+\ELANEnd 64.038
+\ELANParticipant Nelita
+\trs mara tokora ikai hain itibi isko tokora
+\tx mara           tokora     ikai
+\mb ma  =ra        tokora     ik         -ai
+\gn ya  =EVID1(SK) canto.isko decir:INTR -IMPF(SK)
+\ps adv =clit.     ono        v.intr.    -suf.
+
+\tx hain     itibi                 isko   tokora
+\mb hain     ik      -ti    =bi    isko   tokora
+\gn ahí(SK) copula  -NOMLZ =ENF   paucar canto.isko
+\ps adv.     v.intr. -suf.  =clit. n.     ono
+
+\ft el isko ya estaba cantando tokora
+\nt
+\sound NRC_hanebo_isko.wav 61.055 64.038
+
+\ref 021
+\ELANBegin 65.055
+\ELANEnd 68.118
+\ELANParticipant Nelita
+\trs tokora tokora ikai noa onani riki
+\tx tokora     tokora     ikai              noa
+\mb tokora     tokora     ik      -ai       noa
+\gn canto.isko canto.isko copula  -IMPF(SK) 1PL.P
+\ps ono        ono        v.intr. -suf.     pron.
+
+\tx onani             riki
+\mb onan   -i         riki
+\gn saber  -SUJ>S:SIM COP(SK)
+\ps v.tran -suf.      part.
+
+\ft el isko esta cantando tokora porque ya nos ha descubierto
+\nt
+\sound NRC_hanebo_isko.wav 65.055 68.118
+
+\ref 022
+\ELANBegin 69.764
+\ELANEnd 71.844
+\ELANParticipant Nelita
+\trs aka rome ayaribike rome ayabainke
+\tx aka        rome   ayaribike                  rome
+\mb a   =ka    rome   aya    =ribi     -ke       rome
+\gn ese =NAR   tabaco tomar  =también -PERF(SK) tabaco
+\ps dem =clit. n.     v.tran =clit.    -suf.     n.
+
+\tx ayabainke
+\mb aya    -bain       -ke
+\gn tomar  -yendo:TRAN -PERF(SK)
+\ps v.tran -suf.       -suf.
+
+\ft (hanebo) tomo tabaco otra vez, yendo (para ver al isko)
+\nt
+\sound NRC_hanebo_isko.wav 69.764 71.844
+
+\ref 023
+\ELANBegin 72.175
+\ELANEnd 73.410
+\ELANParticipant Nelita
+\trs toshbabain toshbabainke
+\tx toshbabain                 toshbabainke
+\mb toshba         -bain       toshba         -bain       -ke
+\gn soplar.chamán -yendo:TRAN soplar.chamán -yendo:TRAN -PERF(SK)
+\ps v.tr           -suf.       v.tr           -suf.       -suf.
+
+\ft Hanebo iba soplando (su tabaco)
+\nt
+\sound NRC_hanebo_isko.wav 72.175 73.410
+
+\ref 024
+\ELANBegin 73.798
+\ELANEnd 75.204
+\ELANParticipant Nelita
+\trs sinayamawe ihon toshba ake
+\tx sinayamawe                       ihon
+\mb siná          -yama    -we      ik         -hon
+\gn molestarse(SK) -NEG(SK) -IMP(SK) decir:INTR -SUJ>A:SIM
+\ps v.             -suf.    -suf.    v.intr.    -suf.
+
+\tx toshba             ake
+\mb toshba             ak      -ke
+\gn soplar.chamán(SK) hacer   -PERF(SK)
+\ps v.tr               v.tran. -suf.
+
+\ft diciendo no te molestes soplaba
+\nt
+\sound NRC_hanebo_isko.wav 73.798 75.204
+
+\ref 025
+\ELANBegin 76.004
+\ELANEnd 76.575
+\ELANParticipant Nelita
+\trs kake
+\tx kake
+\mb ka     -ke
+\gn ir     -PERF(SK)
+\ps v.intr -suf.
+
+\ft y se fue
+\nt
+\sound NRC_hanebo_isko.wav 76.004 77.070
+
+\ref 026
+\ELANBegin 77.192
+\ELANEnd 81.512
+\ELANParticipant Nelita
+\trs hainoaxka iki ma bakeranoki hapari rekenkaini
+\tx hainoaxka                  iki           ma
+\mb hainoax             =ka    ik      -i    ma
+\gn después.de.eso(SK) =NAR   copula  -IMPF ya
+\ps conec.              =clit. v.intr. -suf. adv
+
+\tx bakeranoki       hapari
+\mb bakerano  =ki    ha      =pari
+\gn joven(SK) =REP   ese(SK) =primero
+\ps n.        =clit. dem     =clit.
+
+\tx rekenkaini
+\mb reken    -kain     -i
+\gn adelante -AND:INTR -IMPF
+\ps n.       -suf.     -suf.
+
+\ft sin embargo, siendo así los jóvenes se fueron primero
+\nt ka introduce un evento inesperado
+\sound NRC_hanebo_isko.wav 77.192 81.512
+
+\ref 027
+\ELANBegin 82.701
+\ELANEnd 84.998
+\ELANParticipant Nelita
+\trs rekenyamawe akabi kake
+\tx rekenyamawe                akabi
+\mb reken    -yama    -we      ak          -a     =bi
+\gn adelante -NEG(SK) -IMP(SK) decir(TRAN) -NOMLZ =ENF
+\ps n.       -suf.    -suf.    v.tran.     -suf.  =clit.
+
+\tx kake
+\mb ka     -ke
+\gn ir     -PERF(SK)
+\ps v.intr -suf.
+
+\ft no vayas adelante dijo (Hanebo)
+\nt
+\sound NRC_hanebo_isko.wav 82.701 84.998
+
+\ref 028
+\ELANBegin 86.815
+\ELANEnd 88.564
+\ELANParticipant Nelita
+\trs ha kake riki nato
+\tx ha      kake              riki    nato
+\mb ha      ka     -ke        riki    nato
+\gn ese(SK) ir     -NOMLZ(SK) COP(SK) este(SK)
+\ps dem     v.intr -suf.      part.   dem.
+
+\ft eso dijo este (viejo)
+\nt
+\sound NRC_hanebo_isko.wav 86.815 88.564
+
+\ref 029
+\ELANBegin 89.570
+\ELANEnd 92.061
+\ELANParticipant Nelita
+\trs kakebi isko tokora ma ochoma
+\tx kakebi                   isko   tokora     ma
+\mb ka     -ke        =bi    isko   tokora     ma
+\gn ir     -NOMLZ(SK) =ENF   paucar canto.isko ya
+\ps v.intr -suf.      =clit. n.     ono        adv
+
+\tx ochoma
+\mb ochoma
+\gn cerca(SK)
+\ps adv.
+
+\ft y ya estaba cantando el isko tokora, estaba cerca
+\nt
+\sound NRC_hanebo_isko.wav 89.570 92.061
+
+\ref 030
+\ELANBegin 93.695
+\ELANEnd 96.038
+\ELANParticipant Nelita
+\trs kikin ochomatian awen papa potayamake
+\tx kikin              ochomatian          awen
+\mb kikin              ochoma    =tian     awen
+\gn verdaderamente(SK) cerca(SK) =TEMP(SK) 3SG:GEN
+\ps adv                adv.      =clit.    pron
+
+\tx papa      potayamake
+\mb papa      pota  -yama    -ke
+\gn papá(SK) botar -NEG(SK) -PERF(SK)
+\ps n.        v.    -suf.    -suf.
+
+\ft como estaba bien cerca (el isko) no se alejaron de su papa
+\nt
+\sound NRC_hanebo_isko.wav 93.695 96.038
+
+\ref 031
+\ELANBegin 96.438
+\ELANEnd 97.078
+\ELANParticipant Nelita
+\trs a pekaobi
+\tx a   pekaobi
+\mb a   pekao       =bi
+\gn ese detrás(SK) =ENF
+\ps dem post.       =clit.
+
+\ft atrás de él
+\nt
+\sound NRC_hanebo_isko.wav 96.438 97.078
+
+\ref 032
+\ELANBegin 97.341
+\ELANEnd 98.712
+\ELANParticipant Nelita
+\trs bakerano ka iki ma ka
+\tx bakerano  ka            iki           ma
+\mb bakerano  ka     -a     ik      -i    ma
+\gn joven(SK) ir     -NOMLZ copula  -IMPF ya
+\ps n.        v.intr -suf.  v.intr. -suf. adv
+
+\tx ka
+\mb ka     -a
+\gn ir     -PERF
+\ps v.intr -suf.
+
+\ft pero el joven se fue
+\nt ka introduce un evento inesperado
+\sound NRC_hanebo_isko.wav 97.341 98.712
+
+\ref 033
+\ELANBegin 100.667
+\ELANEnd 102.358
+\ELANParticipant Nelita
+\trs tokora iribaronki
+\tx tokora     iribaronki
+\mb tokora     ik         =riba     =ronki
+\gn canto.isko decir:INTR =otra.vez =REP(SK)
+\ps ono        v.intr.    =clit.    =clit.
+
+\ft y el isko canto tokora otra vez
+\nt
+\sound NRC_hanebo_isko.wav 100.667 102.358
+
+\ref 034
+\ELANBegin 103.318
+\ELANEnd 105.855
+\ELANParticipant Nelita
+\trs aki kaironki ikai moa a iskoka
+\tx aki        kaironki
+\mb a   =ki    ka     -i         =ronki
+\gn ese =ALA   ir     -SUJ>S:SIM =REP(SK)
+\ps dem =clit. v.intr -suf.      =clit.
+
+\tx ikai              moa    a   iskoka
+\mb ik      -ai       moa    a   isko   =ka
+\gn copula  -IMPF(SK) ya(SK) ese paucar =NAR
+\ps v.intr. -suf.     adv    dem n.     =clit.
+
+\ft el paucar ya estaba listo
+\nt
+\sound NRC_hanebo_isko.wav 103.318 105.855
+
+\ref 035
+\ELANBegin 106.850
+\ELANEnd 107.752
+\ELANParticipant Nelita
+\trs isko kaironki ikai
+\tx isko   kaironki              ikai
+\mb isko   kai          =ronki   ik      -ai
+\gn paucar aumentar(SK) =REP(SK) copula  -IMPF(SK)
+\ps n.     v.           =clit.   v.intr. -suf.
+
+\ft ya estaba listo el paucar
+\nt
+\sound NRC_hanebo_isko.wav 106.850 107.752
+
+\ref 036
+\ELANBegin 108.358
+\ELANEnd 109.604
+\ELANParticipant Nelita
+\trs tsiteketere
+\tx tsiteketere
+\mb tsiteketere
+\gn canto.paucar
+\ps ono
+
+\ft tsitseketere
+\nt
+\sound NRC_hanebo_isko.wav 108.358 109.604
+
+\ref 037
+\ELANBegin 110.072
+\ELANEnd 113.901
+\ELANParticipant Nelita
+\trs ninkawe tsitseketere moara bakerano retei riki ironki
+\tx ninkawe           tsitseketere
+\mb ninkat   -we      tsitseketere
+\gn escuchar -IMP(SK) disparar.plumas.cola
+\ps v.       -suf.    ono
+
+\tx moara             bakerano  retei
+\mb moa    =ra        bakerano  rete      -i
+\gn ya(SK) =EVID1(SK) joven(SK) matar(SK) -IMPF
+\ps adv    =clit.     n.        v.        -suf.
+
+\tx riki    ironki
+\mb riki    ik         =ronki
+\gn COP(SK) decir:INTR =REP(SK)
+\ps part.   v.intr.    =clit.
+
+\ft escucha tsitsekere ya ha muerto el joven, dijo Hanebo
+\nt
+\sound NRC_hanebo_isko.wav 110.072 113.901
+
+\ref 038
+\ELANBegin 116.164
+\ELANEnd 118.050
+\ELANParticipant Nelita
+\trs akiribi  tsitseketere
+\tx akiribi  tsitseketere
+\mb akiribi  tsitseketere
+\gn otra.vez disparar.plumas.cola
+\ps adv.     ono
+
+\ft otra vez (se escuchó) tsitsekere
+\nt
+\sound NRC_hanebo_isko.wav 116.164 118.050
+
+\ref 039
+\ELANBegin 119.124
+\ELANEnd 121.341
+\ELANParticipant Nelita
+\trs a bakerano ma retei riki ma oinon kawe aronki
+\tx a   bakerano  ma  retei           riki    ma
+\mb a   bakerano  ma  rete      -i    riki    ma
+\gn ese joven(SK) ya  matar(SK) -IMPF COP(SK) ya
+\ps dem n.        adv v.        -suf. part.   adv
+
+\tx oinon      kawe            aronki
+\mb oin  -non  ka     -we      ak      =ronki
+\gn ver  -PROP ir     -IMP(SK) hacer   =REP(SK)
+\ps v.tr -suf. v.intr -suf.    v.tran. =clit.
+
+\ft ya ha muerto el joven, vamos a ver, dijo Hanebo
+\nt
+\sound NRC_hanebo_isko.wav 119.124 121.341
+
+\ref 040
+\ELANBegin 121.775
+\ELANEnd 125.295
+\ELANParticipant Nelita
+\trs aki yosi Hanebo
+\tx aki               yosi        Hanebo
+\mb ak          -i    yosi        hanebo
+\gn decir(TRAN) -IMPF anciano(SK) chamán
+\ps v.tran.     -suf. n.          n.
+
+\ft así dijo el viejo Hanebo
+\nt
+\sound NRC_hanebo_isko.wav 121.775 125.295
+
+\ref 041
+\ELANBegin 126.575
+\ELANEnd 129.341
+\ELANParticipant Nelita
+\trs Hanebora ka kakaini
+\tx Hanebora           ka     kakaini
+\mb hanebo  =ra        ka     ka     -kain     -i
+\gn chamán =EVID1(SK) ir     ir     -AND:INTR -IMPF
+\ps n.      =clit.     v.intr v.intr -suf.     -suf.
+
+\ft y se fue caminando
+\nt
+\sound NRC_hanebo_isko.wav 126.575 129.341
+
+\ref 042
+\ELANBegin 130.632
+\ELANEnd 134.358
+\ELANParticipant Nelita
+\trs ma Hanebo kikin ochoma itianka iki tsitseketere
+\tx ma  Hanebo  kikin              ochoma
+\mb ma  hanebo  kikin              ochoma
+\gn ya  chamán verdaderamente(SK) cerca(SK)
+\ps adv n.      adv                adv.
+
+\tx itianka                  iki
+\mb ik      =tian     =ka    ik         -i
+\gn copula  =TEMP(SK) =NAR   decir:INTR -IMPF
+\ps v.intr. =clit.    =clit. v.intr.    -suf.
+
+\tx tsitseketere
+\mb tsitseketere
+\gn disparar.plumas.cola
+\ps ono
+
+\ft cuando Hanebo ya estaba bien cerca, el paucar cantó tsitseketere
+\nt
+\sound NRC_hanebo_isko.wav 130.632 134.358
+
+\ref 043
+\ELANBegin 134.690
+\ELANEnd 135.947
+\ELANParticipant Nelita
+\trs haskayamawe
+\tx haskayamawe
+\mb haska    -yama    -we
+\gn así(SK) -NEG(SK) -IMP(SK)
+\ps adv.     -suf.    -suf.
+
+\ft No hagas así (le dijo Hanebo al paucar)
+\nt
+\sound NRC_hanebo_isko.wav 134.690 135.947
+
+\ref 044
+\ELANBegin 136.472
+\ELANEnd 138.107
+\ELANParticipant Nelita
+\trs mia yoa yokatira ea hoke
+\tx mia         yoa            yokatira                    ea          hoke
+\mb mia         yoa            yoka      -ti    =ra        ea          ho        -ke
+\gn 2SG.ABS(SK) comida.vegetal preguntar -NOMLZ =EVID1(SK) 1SG.ABS(SK) venir(SK) -PERF(SK)
+\ps pron        n.             v.        -suf.  =clit.     pron.       v.        -suf.
+
+\ft yo he venido para pedirte tu cultivo
+\nt
+\sound NRC_hanebo_isko.wav 136.472 138.107
+
+\ref 045
+\ELANBegin 138.495
+\ELANEnd 141.684
+\ELANParticipant Nelita
+\trs sinayamawe yoa yokanon ea
+\tx sinayamawe                       yoa
+\mb siná          -yama    -we      yoa
+\gn molestarse(SK) -NEG(SK) -IMP(SK) comida.vegetal
+\ps v.             -suf.    -suf.    n.
+
+\tx yokanon         ea
+\mb yoka      -non  ea
+\gn preguntar -PROP 1SG.ABS(SK)
+\ps v.        -suf. pron.
+
+\ft no te molestes, yo (he venido) para pedirte tu cultivo
+\nt
+\sound NRC_hanebo_isko.wav 138.495 141.684
+
+\ref 046
+\ELANBegin 142.244
+\ELANEnd 143.958
+\ELANParticipant Nelita
+\trs mia mewesira hoke
+\tx mia         mewesira                   hoke
+\mb mia         mewes - i       =ra        ho        -ke
+\gn 2SG.ABS(SK) pedir - lamento =EVID1(SK) venir(SK) -PERF(SK)
+\ps pron        v.tr  - inter,  =clit.     v.        -suf.
+
+\ft yo he venido para pedirte (eso)
+\nt
+\sound NRC_hanebo_isko.wav 142.244 143.958
+
+\ref 047
+\ELANBegin 145.627
+\ELANEnd 147.272
+\ELANParticipant Nelita
+\trs atianka kake kahon
+\tx atianka         kake             kahon
+\mb atian    =ka    ka     -ke       ka     -hon
+\gn entonces =NAR   ir     -PERF(SK) ir     -SUJ>A:SIM
+\ps conec.   =clit. v.intr -suf.     v.intr -suf.
+
+\ft después de llegar regresar
+\nt
+\sound NRC_hanebo_isko.wav 145.627 147.272
+
+\ref 048
+\ELANBegin 148.347
+\ELANEnd 152.210
+\ELANParticipant Nelita
+\trs kaiki bai patashoko bai pata bai pata bai kahon
+oinaka iki a
+\tx kaiki                    bai   patashoko       bai pata bai pata bai    kahon
+\mb ka     -i         =ki    bai   pata   =shoko   bai pata bai pata bai    ka     -hon
+\gn ir     -SUJ>S:SIM =REP   trochatrocha =DIM(SK) trocha   trocha   camino ir     -SUJ>A:SIM
+\ps v.intr -suf.      =clit. n     n.     =clit.   n        n        n.     v.intr -suf.
+
+\tx oinaka             iki                a
+\mb oin  -a     =ka    ik      -i         a
+\gn ver  -NOMLZ =NAR   copula  -SUJ>S:SIM ese
+\ps v.tr -suf.  =clit. v.intr. -suf.      dem
+
+\ft se fueron haciendo trochas pequeñas por el monte y de repente 
+vieron algo
+\nt
+\sound NRC_hanebo_isko.wav 148.347 152.210
+
+\ref 049
+\ELANBegin 153.307
+\ELANEnd 155.318
+\ELANParticipant Nelita
+\trs tsitseketere
+\tx tsitseketere
+\mb tsitseketere
+\gn disparar.plumas.cola
+\ps ono
+
+\ft tsitseketere
+\nt
+\sound NRC_hanebo_isko.wav 153.307 155.318
+
+\ref 050
+\ELANBegin 156.770
+\ELANEnd 157.970
+\ELANParticipant Nelita
+\trs tokora
+\tx tokora
+\mb tokora
+\gn canto.isko
+\ps ono
+
+\ft tokora
+\nt
+\sound NRC_hanebo_isko.wav 156.770 157.970
+
+\ref 051
+\ELANBegin 159.524
+\ELANEnd 162.884
+\ELANParticipant Nelita
+\trs ainka ainka kake
+\tx ainka                ainka                kake
+\mb ain           =ka    ain           =ka    ka     -ke
+\gn entonces(MIX) =NAR   entonces(MIX) =NAR   ir     -PERF(SK)
+\ps adv.          =clit. adv.          =clit. v.intr -suf.
+
+\ft y entonces dijo
+\nt
+\sound NRC_hanebo_isko.wav 159.524 162.884
+
+\ref 052
+\ELANBegin 163.661
+\ELANEnd 164.872
+\ELANParticipant Nelita
+\trs okin kikin ochomashoko
+\tx okin             kikin              ochomashoko
+\mb o     -kin       kikin              ochoma    =shoko
+\gn venir -SUJ>A:SIM verdaderamente(SK) cerca(SK) =DIM(SK)
+\ps v.    -suf.      adv                adv.      =clit.
+
+\ft estamos llegando, estamos muy cerca
+\nt
+\sound NRC_hanebo_isko.wav 163.661 164.872
+
+\ref 053
+\ELANBegin 166.004
+\ELANEnd 169.307
+\ELANParticipant Nelita
+\trs atianka iki tsitseketere ma aki ka
+\tx atianka         iki           tsitseketere         ma  aki               ka
+\mb atian    =ka    ik      -i    tsitseketere         ma  ak          -i    ka
+\gn entonces =NAR   copula  -IMPF disparar.plumas.cola ya  decir(TRAN) -IMPF ir
+\ps conec.   =clit. v.intr. -suf. ono                  adv v.tran.     -suf. v.intr
+
+\ft entonces el paucar cantó  tsitseketere (soltando sus plumas)
+\nt
+\sound NRC_hanebo_isko.wav 166.004 169.307
+
+\ref 054
+\ELANBegin 170.930
+\ELANEnd 173.021
+\ELANParticipant Nelita
+\trs ara moara reteai panon
+\tx ara            moara             reteai              panon
+\mb a   =ra        moa    =ra        rete      -ai       panon
+\gn ese =EVID1(SK) ya(SK) =EVID1(SK) matar(SK) -IMPF(SK) ahora
+\ps dem =clit.     adv    =clit.     v.        -suf.     adv.
+
+\ft ese ya está muerto, pobrecito
+\nt
+\sound NRC_hanebo_isko.wav 170.930 173.021
+
+\ref 055
+\ELANBegin 173.364
+\ELANEnd 178.221
+\ELANParticipant Nelita
+\trs akaribi oinaki imi hoho iki rakata moa aka
+\tx akaribi                     oinaki            imi    hoho   iki              rakata
+\mb ak          -a    =ribi     oin  -a    =ki    imi    hoho   ik         -i    rakat       -a
+\gn decir(TRAN) -PERF =también ver  -PERF =REP   sangre llorar decir:INTR -IMPF echarse(SK) -EST
+\ps v.tran.     -suf. =clit.    v.tr -suf. =clit. n.     v.     v.intr.    -suf. v.          -suf
+
+\tx moa    aka
+\mb moa    ak          -a
+\gn ya(SK) decir(TRAN) -PERF
+\ps adv    v.tran.     -suf.
+
+\ft después de decir, vieron que estaba bañado en sangre y recostado
+\nt
+\sound NRC_hanebo_isko.wav 173.364 178.221
+
+\ref 056
+\ELANBegin 179.752
+\ELANEnd 180.564
+\ELANParticipant Nelita
+\trs ma mapeha
+\tx ma  mapeha
+\mb ma  mapeh          -a
+\gn ya  golpear.cabeza -PERF
+\ps adv v.             -suf.
+
+\ft ya lo habia golpeado en la cabeza
+\nt
+\sound NRC_hanebo_isko.wav 179.752 180.564
+
+\ref 057
+\ELANBegin 181.501
+\ELANEnd 188.495
+\ELANParticipant Nelita
+\trs mapehaki isko iskon raniki mapon iskon inaka iki mapon chania
+\tx mapehaki                    isko   iskon         raniki       mapon             iskon
+\mb mapeh          -a    =ki    isko   isko   =n     rani  =ki    mapo       =n     isko   =n
+\gn golpear.cabeza -PERF =REP   paucar paucar =GEN   pluma =REP   cabeza(SK) =LOC   paucar =GEN
+\ps v.             -suf. =clit. n.     n.     =clit. n.    =clit. n.         =clit. n.     =clit.
+
+\tx inaka       iki           mapon             chania
+\mb ina  =ka    ik      -i    mapo       =n     chani  -a
+\gn cola =NAR   copula  -IMPF cabeza(SK) =LOC   clavar -PERF
+\ps n.   =clit. v.intr. -suf. n.         =clit. v.     -suf.
+
+\ft tenía una pluma de la cola del paucar clavada en la cabeza
+\nt
+\sound NRC_hanebo_isko.wav 181.501 188.495
+
+\ref 058
+\ELANBegin 189.192
+\ELANEnd 194.221
+\ELANParticipant Nelita
+\trs machanimeta rakata ma mawata ka
+\tx machanimeta                rakata           ma  mawata         ka
+\mb ma-     chani  -met  -a    rakat       -a   ma  mawat     -a   =ka
+\gn cabeza- clavar -REFL -PERF echarse(SK) -EST ya  morir(SK) -EST =NAR
+\ps pref.-  v.     -suf. -suf. v.          -suf adv v.        -suf =clit.
+
+\ft con la pluma clavada en la cabeza, estaba echado, ya estaba muerto
+\nt
+\sound NRC_hanebo_isko.wav 189.192 194.221
+
+\ref 059
+\ELANBegin 195.832
+\ELANEnd 200.095
+\ELANParticipant Nelita
+\trs akaskaki yoyabiki ami yoitima itian  mia ake oinwe aronki
+\tx akaskaki                    yoyabiki             a   mi    yoitima  itian             mia
+\mb ak      -kas  =ka    =ki    yoya   =bi    =ki    a   mi    yoitima  ik      =tian     mia
+\gn hacer   -DES  =NAR   =INT   decir  =ENF   =REP   ese 2SG:S travieso copula  =TEMP(SK) 2SG.ABS(SK)
+\ps v.tran. -suf. =clit. =clit. v.tran =clit. =clit. dem pron. n.       v.intr. =clit.    pron
+
+\tx ake               oinwe         aronki
+\mb ak      -ke       oin  -we      ak          =ronki
+\gn hacer   -PERF(SK) ver  -IMP(SK) decir(TRAN) =REP(SK)
+\ps v.tran. -suf.     v.tr -suf.    v.tran.     =clit.
+
+\ft tú querias hacer así aunque yo te avisé pero como eres malcriado, 
+ahora te ha matado, mira
+\nt
+\sound NRC_hanebo_isko.wav 195.832 200.095
+
+\ref 060
+\ELANBegin 201.341
+\ELANEnd 205.044
+\ELANParticipant Nelita
+\trs rabé rabé abiki ma mawata
+\tx rabé   rabé   abiki                 ma  mawata
+\mb rabé   rabé   ak      =bi    =ki    ma  mawat     -a
+\gn dos(SK) dos(SK) hacer   =ENF   =REP   ya  morir(SK) -EST
+\ps num.    num.    v.tran. =clit. =clit. adv v.        -suf
+
+\ft aunque le daba la vuelta, el joven ya había muerto
+\nt el final no se entiende
+\sound NRC_hanebo_isko.wav 201.341 205.044
+
+\ref 061
+\ELANBegin 205.330
+\ELANEnd 207.112
+\ELANParticipant Nelita
+\trs a Hanebotonki toshbo toshbo ake
+\tx a   Hanebotonki           toshbo          toshbo          ake
+\mb a   hanebo  =n     =ki    toshbo          toshbo          ak      -ke
+\gn ese chamán =ERG   =REP   soplido.chamán soplido.chamán hacer   -PERF(SK)
+\ps dem n.      =clit. =clit. ono             ono             v.tran. -suf.
+
+\ft entonces Hanebo empezó a soplar
+\nt
+\sound NRC_hanebo_isko.wav 205.330 207.112
+
+\ref 062
+\ELANBegin 208.221
+\ELANEnd 209.067
+\ELANParticipant Nelita
+\trs toshbo toshbo ake
+\tx toshbo          toshbo          ake
+\mb toshbo          toshbo          ak      -ke
+\gn soplido.chamán soplido.chamán hacer   -PERF(SK)
+\ps ono             ono             v.tran. -suf.
+
+\ft soplaba
+\nt
+\sound NRC_hanebo_isko.wav 208.221 209.067
+
+\ref 063
+\ELANBegin 210.015
+\ELANEnd 210.781
+\ELANParticipant Nelita
+\trs akaka iki
+\tx akaka                    iki
+\mb ak          -a    =ka    ik      -i
+\gn decir(TRAN) -PERF =NAR   copula  -IMPF
+\ps v.tran.     -suf. =clit. v.intr. -suf.
+
+\ft y entonces le dijo
+\nt
+\sound NRC_hanebo_isko.wav 210.015 210.781
+
+\ref 064
+\ELANBegin 211.101
+\ELANEnd 215.615
+\ELANParticipant Nelita
+\trs ea ea ramiayamawe aronkia Hanebonin
+\tx ea          ea          ramiayamawe                          aronkia
+\mb ea          ea          rami     -a        -yama    -we      ak      =ronki   -a
+\gn 1SG.ABS(SK) 1SG.ABS(SK) maltrato -FACT(SK) -NEG(SK) -IMP(SK) hacer   =REP(SK) -PERF
+\ps pron.       pron.       n.       -suf.     -suf.    -suf.    v.tran. =clit.   -suf.
+
+\tx Hanebonin
+\mb hanebo  =n
+\gn chamán =ERG
+\ps n.      =clit.
+
+\ft no me hagas daño, le dijo Hanebo al Paucar.
+\nt
+\sound NRC_hanebo_isko.wav 211.101 215.615
+
+\ref 065
+\ELANBegin 216.301
+\ELANEnd 219.878
+\ELANParticipant Nelita
+\trs mi yoa mewesi oa mia mewesi oa riki
+\tx mi    yoa            mewesi           oa          mia         mewesi
+\mb mi    yoa            mewes -i         o     -a    mia         mewes -i
+\gn 2SG:P comida.vegetal pedir -SUJ>S:SIM venir -PERF 2SG.ABS(SK) pedir -SUJ>S:SIM
+\ps pron. n.             v.tr  -suf.      v.    -suf. pron        v.tr  -suf.
+
+\tx oa          riki
+\mb o     -a    riki
+\gn venir -PERF COP(SK)
+\ps v.    -suf. part.
+
+\ft yo quiero pedirte tus cultivos
+\nt
+\sound NRC_hanebo_isko.wav 216.301 219.878
+
+\ref 066
+\ELANBegin 221.318
+\ELANEnd 225.398
+\ELANParticipant Nelita
+\trs atianki iskoki ma a toshba ake toshba ake toshba ake
+\tx atianki         iskoki        ma  a   toshba             ake               toshba
+\mb atian    =ki    isko   =ki    ma  a   toshba             ak      -ke       toshba
+\gn entonces =REP   paucar =REP   ya  ese soplar.chamán(SK) hacer   -PERF(SK) soplar.chamán(SK)
+\ps conec.   =clit. n.     =clit. adv dem v.tr               v.tran. -suf.     v.tr
+
+\tx ake               toshba             ake
+\mb ak      -ke       toshba             ak      -ke
+\gn hacer   -PERF(SK) soplar.chamán(SK) hacer   -PERF(SK)
+\ps v.tran. -suf.     v.tr               v.tran. -suf.
+
+\ft entonces, (Hanebo) sopló y sopló al Paucar
+\nt
+\sound NRC_hanebo_isko.wav 221.318 225.398
+
+\ref 067
+\ELANBegin 225.901
+\ELANEnd 227.684
+\ELANParticipant Nelita
+\trs akaka iki oa soro soroi paia
+\tx akaka                    iki           oa          soro      soroi                paia
+\mb ak      -a        =ka    ik      -i    o     -a    soro      soro      -i         pai              -a
+\gn hacer   -FACT(SK) =NAR   copula  -IMPF venir -PERF tranquilo tranquilo -SUJ>S:SIM pisar.con.el.pie -PERF
+\ps v.tran. -suf.     =clit. v.intr. -suf. v.    -suf. ono.      ono.      -suf.      v.               -suf.
+
+\ft entonces, cuando le hicieron así, el Paucar se calmó parado en una rama.
+\nt
+\sound NRC_hanebo_isko.wav 225.901 227.684
+
+\ref 068
+\ELANBegin 228.244
+\ELANEnd 231.398
+\ELANParticipant Nelita
+\trs soro soroi paia ma tsitsoketere moa iwana
+\tx soro      soroi                paia                   ma  tsitsoketere
+\mb soro      soro      -i         pai              -a    ma  tsitsoketere
+\gn tranquilo tranquilo -SUJ>S:SIM pisar.con.el.pie -PERF ya  canto.paucar
+\ps ono.      ono.      -suf.      v.               -suf. adv ono
+
+\tx moa    iwana
+\mb moa    iwan     -a
+\gn ya(SK) calmarse -PERF
+\ps adv    v.int    -suf.
+
+\ft se calmó y dejó de atacar con sus plumas.
+\nt
+\sound NRC_hanebo_isko.wav 228.244 231.398
+
+\ref 069
+\ELANBegin 232.712
+\ELANEnd 233.478
+\ELANParticipant Nelita
+\trs moaka retea
+\tx moaka         retea
+\mb moa    =ka    rete      -a
+\gn ya(SK) =NAR   matar(SK) -PERF
+\ps adv    =clit. v.        -suf.
+
+\ft ya lo había matado (al joven)
+\nt
+\sound NRC_hanebo_isko.wav 232.712 233.478
+
+\ref 070
+\ELANBegin 235.032
+\ELANEnd 236.061
+\ELANParticipant Nelita
+\trs atianki tama menike
+\tx atianki         tama  menike
+\mb atian    =ki    tama  meni    -ke
+\gn entonces =REP   maní dar(SK) -PERF(SK)
+\ps conec.   =clit. n.    v.      -suf.
+
+\ft entonces le dio el maní
+\nt
+\sound NRC_hanebo_isko.wav 235.032 236.061
+
+\ref 071
+\ELANBegin 238.632
+\ELANEnd 239.272
+\ELANParticipant Nelita
+\trs tama menike
+\tx tama  menike
+\mb tama  meni    -ke
+\gn maní dar(SK) -PERF(SK)
+\ps n.    v.      -suf.
+
+\ft le dio el maní
+\nt
+\sound NRC_hanebo_isko.wav 238.632 239.272
+
+\ref 072
+\ELANBegin 240.918
+\ELANEnd 243.627
+\ELANParticipant Nelita
+\trs areska ma menike moa tama
+\tx areska                ma  menike            moa    tama
+\mb a   -res       =ka    ma  meni    -ke       moa    tama
+\gn ese -solamente =NAR   ya  dar(SK) -PERF(SK) ya(SK) maní
+\ps dem -suf.      =clit. adv v.      -suf.     adv    n.
+
+\ft eso no más le dio, el maní
+\nt
+\sound NRC_hanebo_isko.wav 240.918 243.627
+
+\ref 073
+\ELANBegin 245.478
+\ELANEnd 247.067
+\ELANParticipant Nelita
+\trs bakerano yoitima ma mawata
+\tx bakerano  yoitima  ma  mawata
+\mb bakerano  yoitima  ma  mawat     -a
+\gn joven(SK) travieso ya  morir(SK) -PERF
+\ps n.        n.       adv v.        -suf.
+
+\ft ese joven desobediente ya estaba muerto
+\nt
+\sound NRC_hanebo_isko.wav 245.478 247.067
+
+\ref 074
+\ELANBegin 250.084
+\ELANEnd 252.530
+\ELANParticipant Nelita
+\trs akaironki  iresi tokora okebicho
+\tx akaironki                  iresi                    tokora     okebicho
+\mb ak      -ai       =ronki   ik      -res       -i    tokora     oke               =bicho
+\gn hacer   -IMPF(SK) =REP(SK) copula  -solamente -IMPF canto.isko por.otro.lado(SK) =solamente
+\ps v.tran. -suf.     =clit.   v.intr. -suf.      -suf. ono        adv.              =suf.
+
+\ft entonces dice que solo decía tokora (el paucar) y se quedo al otro 
+lado tranquilo
+\nt
+\sound NRC_hanebo_isko.wav 250.084 252.530
+
+\ref 075
+\ELANBegin 252.895
+\ELANEnd 254.198
+\ELANParticipant Nelita
+\trs tokora iresi ma
+\tx tokora     iresi                       ma
+\mb tokora     ik         -res       -i    ma
+\gn canto.isko decir:INTR -solamente -IMPF ya
+\ps ono        v.intr.    -suf.      -suf. adv
+
+\ft ya solo decía tokora
+\nt
+\sound NRC_hanebo_isko.wav 252.895 254.198
+
+\ref 076
+\ELANBegin 254.644
+\ELANEnd 255.821
+\ELANParticipant Nelita
+\trs tsitseketere iyamai
+\tx tsitseketere         iyamai
+\mb tsitseketere         ik         -yama    -i
+\gn disparar.plumas.cola decir:INTR -NEG(SK) -IMPF
+\ps ono                  v.intr.    -suf.    -suf.
+
+\ft ya no decía tsitseketere
+\nt
+\sound NRC_hanebo_isko.wav 254.644 255.821
+
+\ref 077
+\ELANBegin 256.141
+\ELANEnd 258.815
+\ELANParticipant Nelita
+\trs tsitsekeahbeti moa aka
+\tx tsitsekeahbeti      moa    aka
+\mb *tsitsekeahbe -ti    moa   ak      -a
+\gn ***           -NOMLZ ya(SK)hacer   -PERF
+\ps ***           -suf.  adv   v.tran. -suf.
+
+\ft ya no soltaba sus plumas
+\nt
+\sound NRC_hanebo_isko.wav 256.141 258.815
+
+\ref 078
+\ELANBegin 261.387
+\ELANEnd 262.587
+\ELANParticipant Nelita
+\trs askara roko inike
+\tx askararoko            inike
+\mb aska =ra        -roko ik      -ni      -ke
+\gn así =EVID1(SK) -INTF copula  -PAS.REM -PERF(SK)
+\ps adv. =clit.     -suf. v.intr. -suf     -suf.
+
+\ft así fue (esta historia)
+\nt
+\sound NRC_hanebo_isko.wav 261.387 262.587
+
+\ref 079
+\ELANBegin 263.170
+\ELANEnd 266.004
+\ELANParticipant Nelita
+\trs iskon retenike nato bakerano
+\tx iskon         retenike                     nato     bakerano
+\mb isko   =n     rete      -ni      -ke       nato     bakerano
+\gn paucar =ERG   matar(SK) -PAS.REM -PERF(SK) este(SK) joven(SK)
+\ps n.     =clit. v.        -suf     -suf.     dem.     n.
+
+\ft el isko había matado al muchacho
+\nt
+\sound NRC_hanebo_isko.wav 263.170 266.004
+
+\ref 080
+\ELANBegin 267.410
+\ELANEnd 269.421
+\ELANParticipant Nelita
+\trs bakerano yoitima iskon reteni
+\tx bakerano  yoitima  iskon         reteni
+\mb bakerano  yoitima  isko   =n     rete      -ni
+\gn joven(SK) travieso paucar =ERG   matar(SK) -PAS.REM
+\ps n.        n.       n.     =clit. v.        -suf
+
+\ft el isko había matado al muchacho malcriado
+\nt
+\sound NRC_hanebo_isko.wav 267.410 269.421
+
+\ref 081
+\ELANBegin 272.175
+\ELANEnd 272.701
+\ELANParticipant Nelita
+\trs reteke ma
+\tx reteke              ma
+\mb rete      -ke       ma
+\gn matar(SK) -PERF(SK) ya
+\ps v.        -suf.     adv
+\ft estaba muerto
+\nt
+\sound NRC_hanebo_isko.wav 272.175 272.701
+
+\ref 082
+\ELANBegin 274.072
+\ELANEnd 276.518
+\ELANParticipant Nelita
+\trs haskarareski ma baneke ma
+\tx haskarareski                          ma  baneke             ma
+\mb haska    =ra        -res       =ki    ma  bane     -ke       ma
+\gn así(SK) =EVID1(SK) -solamente =REP   ya  quedarse -PERF(SK) ya
+\ps adv.     =clit.     -suf.      =clit. adv v.       -suf.     adv
+
+\ft así no más se quedó
+\nt
+\sound NRC_hanebo_isko.wav 274.072 276.518
+
+\ref 083
+\ELANBegin 276.850
+\ELANEnd 278.724
+\ELANParticipant Nelita
+\trs tama biberankin ma oribake
+\tx tama  biberankin                   ma  oribake
+\mb tama  bi      -beran    -kin       ma  o     =riba     -ke
+\gn maní agarrar -VEN:TRAN -SUJ>A:SIM ya  venir =otra.vez -PERF(SK)
+\ps n.    v.      -suf.     -suf.      adv v.    =clit.    -suf.
+
+\ft cogiendo el maní se regresaron
+\nt aca se rompe la conc. transitiva
+\sound NRC_hanebo_isko.wav 276.850 278.724
+
+\ref 084
+\ELANBegin 279.307
+\ELANEnd 281.387
+\ELANParticipant Nelita
+\trs kahe meran banekeranke ma
+\tx kahe meran      banekeranke                  ma
+\mb kahe meran      bane     -keran    -ke       ma
+\gn casa dentro(SK) quedarse -VEN:INTR -PERF(SK) ya
+\ps n.   post.      v.       -suf.     -suf.     adv
+
+\ft se quedaron en la casa
+\nt
+\sound NRC_hanebo_isko.wav 279.307 281.387
+
+\ref 085
+\ELANBegin 283.170
+\ELANEnd 287.570
+\ELANParticipant Nelita
+\trs moa aska ma westiora mawakebetin hain itiki
+\tx moa    aska ma  westiora mawakebetin                    hain     itiki
+\mb moa    aska ma  westiora mawa       -ke        -betin   hain     ik      -ti    =ki
+\gn ya(SK) así ya  uno(SK)  muerto(SK) -NOMLZ(SK) -por.que ahí(SK) copula  -NOMLZ =INT
+\ps adv    adv. adv num.     adj.       -suf.      -suf.    adv.     v.intr. -suf.  =clit.
+
+\ft ya ha muerto uno, para qué vamos a estar ahí
+\nt
+\sound NRC_hanebo_isko.wav 283.170 287.570
+
+\ref 086
+\ELANBegin 289.318
+\ELANEnd 289.764
+\ELANParticipant Nelita
+\trs ainka hoke
+\tx ainka                hoke
+\mb ain           =ka    ho        -ke
+\gn entonces(MIX) =NAR   venir(SK) -PERF(SK)
+\ps adv.          =clit. v.        -suf.
+
+\ft se regresaron
+\nt
+\sound NRC_hanebo_isko.wav 289.318 289.764
+
+\ref 087
+\ELANBegin 290.701
+\ELANEnd 291.192
+\ELANParticipant Nelita
+\trs mahka ma
+\tx mahka  ma
+\mb mahka  ma
+\gn muerto ya
+\ps adj.   adv
+
+\ft
+\nt
+\sound NRC_hanebo_isko.wav 290.701 291.192
+
+\ref 088
+\ELANBegin 291.821
+\ELANEnd 293.558
+\ELANParticipant Nelita
+\trs tama bero biberan ma bekana
+\tx tama  bero biberan           ma  bekana
+\mb tama  bero bi      -beran    ma  be    -kan  -a
+\gn maní ojo  agarrar -VEN:TRAN ya  traer -PLU  -PERF
+\ps n.    n.   v.      -suf.     adv v     -suj. -suf.
+
+\ft cogiendo las semillas de maní, se las trajeron
+\nt
+\sound NRC_hanebo_isko.wav 291.821 293.558
+
+\ref 089
+\ELANBegin 295.867
+\ELANEnd 296.358
+\ELANParticipant Nelita
+\trs hainres mari
+\tx hainres             mari
+\mb hain     -res       ma  i
+\gn ahí(SK) -solamente ya  uje
+\ps adv.     -suf.      adv
+
+\ft ahi no más
+\nt
+\sound NRC_hanebo_isko.wav 295.867 296.358
+
+\ref 090
+\ELANBegin 298.358
+\ELANEnd 299.570
+\ELANParticipant Nelita
+\trs aranares ma seneanke
+\tx aranares    ma  seneanke
+\mb aranares    ma  senean   -ke
+\gn ahi.no.más ya  terminar -PERF(SK)
+\ps adv.        adv v.int    -suf.
+
+\ft ahi termina
+\nt
+\sound NRC_hanebo_isko.wav 298.358 299.570
+
+
+\ELANMediaURL file:///Users/robertozariquiey/Desktop/escritorio desordenado/audio_libro_isko/\sound NRC_hanebo_isko.wav
+\ELANMediaMIME audio/x-wav

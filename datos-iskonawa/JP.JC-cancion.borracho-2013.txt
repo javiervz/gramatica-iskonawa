@@ -1,0 +1,244 @@
+\_sh v3.0  400  text
+
+\ref 001
+\trs ewen tachati
+\tx ewen    tachati
+\mb ewen    tachati
+\gn 1SG:GEN piernas
+\ps pron.   n.
+
+\ft mis talones
+\ELANBegin 1.030
+\ELANEnd 1.960
+\ELANParticipant José
+\sound JP.JC-cancion.borracho-2013.wav 1.030 1.960
+
+\ref 002
+\trs tamon iki no
+\tx tamon       iki non
+\mb tamon ik -i     non
+\gn caerse   -IMPF  1PL:S
+\ps v.       -suf.  pron
+
+\ft nos caemos
+\ELANBegin 2.450
+\ELANEnd 3.530
+\ELANParticipant José
+\sound JP.JC-cancion.borracho-2013.wav 2.450 3.530
+
+\ref 003
+\trs ima yonokin
+\tx ima                              yonokin
+\mb ik      -ma   -a    yono   -kin
+\gn copula  -CAUS -PERF servir -IMP
+\ps v.intr. -suf. -suf. v.     -suf.
+
+\ft aún no estoy borracho
+\ELANBegin 3.890
+\ELANEnd 4.880
+\ELANParticipant José
+\sound JP.JC-cancion.borracho-2013.wav 3.890 4.880
+
+\ref 004
+\trs ima yonoki
+\tx ima               yonokin
+\mb ik      -ma   -a   yono   -kin
+\gn copula  -CAUS -EST servir -IMP
+\ps v.intr. -suf. -suf v.     -suf.
+
+\ft aún no estoy borracho
+\ELANBegin 5.310
+\ELANEnd 6.360
+\ELANParticipant José
+\sound JP.JC-cancion.borracho-2013.wav 5.310 6.360
+
+\ref 005
+\trs ima yonokin
+\tx ima      yonokin
+\mb ik      -ma   -a   yono   -kin
+\gn copula  -CAUS -EST servir -IMP
+\ps v.intr. -suf. -suf v.     -suf.
+
+\ft aún no estoy borracho
+\ELANBegin 6.920
+\ELANEnd 7.960
+\ELANParticipant José
+\sound JP.JC-cancion.borracho-2013.wav 6.920 7.960
+
+\ref 006
+\trs aeh, eh, eh
+\tx aeh, eh, eh
+\ft
+\ELANBegin 8.385
+\ELANEnd 9.405
+\ELANParticipant José
+\sound JP.JC-cancion.borracho-2013.wav 8.385 9.405
+
+\ref 007
+\trs aeh, eh, eh
+\tx aeh, eh, eh
+\ft
+\ELANBegin 9.890
+\ELANEnd 10.800
+\ELANParticipant José
+\sound JP.JC-cancion.borracho-2013.wav 9.890 10.800
+
+\ref 008
+\trs aeh, eh, eh
+\tx aeh, eh, eh
+\ft
+\ELANBegin 11.340
+\ELANEnd 12.260
+\ELANParticipant José
+\sound JP.JC-cancion.borracho-2013.wav 11.340 12.260
+
+\ref 009
+\trs aeh, eh, eh
+\tx aeh, eh, eh
+\ft
+\ELANBegin 12.755
+\ELANEnd 13.345
+\ELANParticipant José
+\sound JP.JC-cancion.borracho-2013.wav 12.755 13.345
+
+\ref 010
+\trs ewen tachati
+\tx ewen    tachati
+\mb ewen    tachati
+\gn 1SG:GEN piernas
+\ps pron.   n.
+
+\ft mis talones
+\ELANBegin 14.440
+\ELANEnd 15.320
+\ELANParticipant José
+\sound JP.JC-cancion.borracho-2013.wav 14.440 15.320
+
+\ref 011
+\trs ewen tamon iki mo
+\tx ewen    tamon iki      mo
+\mb ewen    tamon ik -i    mo
+\gn 1SG:GEN caerse   -IMPF EXCL
+\ps pron.   v.       -suf. intj.
+
+\ft mi mejilla, de pie
+\ELANBegin 15.715
+\ELANEnd 17.105
+\ELANParticipant José
+\sound JP.JC-cancion.borracho-2013.wav 15.715 17.105
+
+\ref 012
+\trs eah imaki
+\tx eah   imaki
+\mb eah   ik      -ma   -a    =ki
+\gn 1SG:S copula  -CAUS -PERF =CON
+\ps pron. v.intr. -suf. -suf. =clit.
+
+\ft aunque yo estoy borracho
+\ELANBegin 17.545
+\ELANEnd 18.795
+\ELANParticipant José
+\sound JP.JC-cancion.borracho-2013.wav 17.545 18.795
+
+\ref 013
+\trs eah imaki
+\tx eah   imaki
+\mb eah   ik      -ma   -a    =ki
+\gn 1SG:S copula  -CAUS -PERF =CON
+\ps pron. v.intr. -suf. -suf. =clit.
+
+\ft aunque yo estoy borracho
+\ELANBegin 19.045
+\ELANEnd 20.335
+\ELANParticipant José
+\sound JP.JC-cancion.borracho-2013.wav 19.045 20.335
+
+\ref 014
+\trs aeh, eh, eh
+\tx aeh, eh, eh
+\ft
+\ELANBegin 20.635
+\ELANEnd 21.595
+\ELANParticipant José
+\sound JP.JC-cancion.borracho-2013.wav 20.635 21.595
+
+\ref 015
+\trs aeh, eh, eh
+\tx aeh, eh, eh
+\ft
+\ELANBegin 22.120
+\ELANEnd 23.010
+\ELANParticipant José
+\sound JP.JC-cancion.borracho-2013.wav 22.120 23.010
+
+\ref 016
+\trs iki shinanki
+\tx iki           shinanki
+\mb ik      -i    shinan =ki
+\gn copula  -IMPF pensar =CON
+\ps v.intr. -suf. v.     =clit.
+
+\ft puedo pensar
+\ELANBegin 23.540
+\ELANEnd 24.910
+\ELANParticipant José
+\sound JP.JC-cancion.borracho-2013.wav 23.540 24.910
+
+\ref 017
+\trs iki shinanki
+\tx iki           shinanki
+\mb ik      -i    shinan =ki
+\gn copula  -IMPF pensar =CON
+\ps v.intr. -suf. v.     =clit.
+
+\ft puedo pensar
+\ELANBegin 25.110
+\ELANEnd 26.270
+\ELANParticipant José
+\sound JP.JC-cancion.borracho-2013.wav 25.110 26.270
+
+\ref 018
+\trs iki shinanki
+\tx iki   shinanki
+\mb ik -i shinan =ki
+\gn       pensar =CON
+\ps       v.     =clit.
+
+\ft puedo pensar
+\ELANBegin 26.665
+\ELANEnd 27.725
+\ELANParticipant José
+\sound JP.JC-cancion.borracho-2013.wav 26.665 27.725
+
+\ref 019
+\trs iki shinanki
+\tx iki           shinanki
+\mb ik      -i    shinan =ki
+\gn copula  -IMPF pensar =CON
+\ps v.intr. -suf. v.     =clit.
+
+\ft puedo pensar
+\ELANBegin 28.230
+\ELANEnd 29.220
+\ELANParticipant José
+\sound JP.JC-cancion.borracho-2013.wav 28.230 29.220
+
+\ref 020
+\trs haskati bewa mi
+\tx haskati         bewa   mi
+\mb haska    -ti    bewá  mi
+\gn así(SK) -NOMLZ cantar 2SG:S
+\ps adv.     -suf.  n.     pron.
+
+\ft así suelo cantar yo
+\ELANBegin 29.730
+\ELANEnd 30.860
+\ELANParticipant José
+\sound JP.JC-cancion.borracho-2013.wav 29.730 30.860
+
+
+\ELANMediaURL file:///D:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JP.JC-cancion.borracho-2013.mpg
+\ELANMediaMIME video/mpeg
+\ELANMediaURL file:///D:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JP.JC-cancion.borracho-2013.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaExtracted file:///D:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JP.JC-cancion.borracho-2013.mpg

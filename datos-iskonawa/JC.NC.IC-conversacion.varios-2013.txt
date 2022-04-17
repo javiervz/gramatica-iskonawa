@@ -1,0 +1,4731 @@
+\_sh v3.0  400  text
+
+\ref 001
+\ELANBegin 2.340
+\ELANEnd 5.650
+\ELANParticipant Juanita
+\trs toke hawerano shitai hawerano oke shitaika
+\tx toke          hawerano shitai           hawerano oke               shitaika
+\mb toke          hawerano shita      -i    hawerano oke               shita      -i    =ka
+\gn del.otro.lado dónde   cruzar(SK) -IMPF dónde   del.otro.lado(SK) cruzar(SK) -IMPF =NAR
+\ps adv.          pal.int. v.         -suf. pal.int. adv.              v.         -suf. =clit.
+
+\ft Ahora por dónde vamos a cruzar al otro lado.
+\sound JC.NC.IC-conversacion.varios-2013.wav 2.340 5.650
+
+\ref 002
+\ELANBegin 6.240
+\ELANEnd 6.970
+\ELANParticipant Juanita
+\trs oke shitaika
+\tx oke               shitaika
+\mb oke               shita      -i    =ka
+\gn del.otro.lado(SK) cruzar(SK) -IMPF =NAR
+\ps adv.              v.         -suf. =clit.
+
+\ft Por dónde.
+\sound JC.NC.IC-conversacion.varios-2013.wav 6.240 6.970
+
+\ref 003
+\ELANBegin 6.835
+\ELANEnd 7.845
+\ELANParticipant Nelita
+\trs oke pokebaini iki
+\tx oke               pokebaini
+\mb oke               poke   -bain       -i
+\gn del.otro.lado(SK) cruzar -yendo:TRAN -SUJ>S:SIM
+\ps adv.              v.     -suf.       -suf.
+
+\tx iki
+\mb ik      -i
+\gn copula  -IMPF
+\ps v.intr. -suf.
+
+\ft Iba hacia el otro lado.
+\sound JC.NC.IC-conversacion.varios-2013.wav 6.835 7.845
+
+\ref 004
+\ELANBegin 7.235
+\ELANEnd 8.955
+\ELANParticipant Juanita
+\trs oke pokebaini iki
+\tx oke               pokebaini                iki
+\mb oke               poke   -bain       -i    ik      -i
+\gn del.otro.lado(SK) cruzar -yendo:TRAN -IMPF copula  -IMPF
+\ps adv.              v.     -suf.       -suf. v.intr. -suf.
+
+\ft Iba hacia el otro lado.
+\sound JC.NC.IC-conversacion.varios-2013.wav 7.235 8.955
+
+\ref 005
+\ELANBegin 7.755
+\ELANEnd 8.925
+\ELANParticipant Isabel
+\trs oke pokebaini shitaima
+\tx oke               pokebaini
+\mb oke               poke   -bain       -i
+\gn del.otro.lado(SK) cruzar -yendo:TRAN -IMPF
+\ps adv.              v.     -suf.       -suf.
+
+\tx shitaima
+\mb shita      -i    =ma
+\gn cruzar(SK) -IMPF =NEG
+\ps v.         -suf. =clit.
+
+\ft se dice poke, no shita
+\sound JC.NC.IC-conversacion.varios-2013.wav 7.755 8.925
+
+\ref 006
+\ELANBegin 9.360
+\ELANEnd 10.380
+\ELANParticipant Juanita
+\trs pokebaini iki
+\tx pokebaini                iki
+\mb poke   -bain       -i    ik      -i
+\gn cruzar -yendo:TRAN -IMPF copula  -IMPF
+\ps v.     -suf.       -suf. v.intr. -suf.
+
+\ft Iba hacia el otro lado.
+\sound JC.NC.IC-conversacion.varios-2013.wav 9.360 10.380
+
+\ref 007
+\ELANBegin 11.100
+\ELANEnd 11.880
+\ELANParticipant Juanita
+\trs oke bonon bokanwe
+\tx oke               bonon        bokanwe
+\mb oke               bo     -non  bo     -kan  -we
+\gn del.otro.lado(SK) ir:PL  -PROP ir:PL  -PLU  -IMP(SK)
+\ps adv.              v.ambi -suf. v.ambi -suj. -suf.
+
+\ft Vamos por el otro lado.
+\sound JC.NC.IC-conversacion.varios-2013.wav 11.100 11.880
+
+\ref 008
+\ELANBegin 11.855
+\ELANEnd 12.775
+\ELANParticipant Nelita
+\trs paeni bokani
+\tx paeni                    bokani
+\mb paen          -i         bo     -kan  -i
+\gn emborracharse -SUJ>S:SIM ir:PL  -PLU  -IMPF
+\ps v.            -suf.      v.ambi -suj. -suf.
+
+\ft Varios se emborrachaban.
+\sound JC.NC.IC-conversacion.varios-2013.wav 11.855 12.775
+
+\ref 009
+\ELANBegin 14.990
+\ELANEnd 15.990
+\ELANParticipant Juanita
+\trs oke paeni bokani
+\tx oke               paeni
+\mb oke               paen          -i
+\gn del.otro.lado(SK) emborracharse -SUJ>S:SIM
+\ps adv.              v.            -suf.
+
+\tx bokani
+\mb bo     -kan  -i
+\gn ir:PL  -PLU  -IMPF
+\ps v.ambi -suj. -suf.
+
+\ft Al otro lado varios se emborrachaban.
+\sound JC.NC.IC-conversacion.varios-2013.wav 14.990 15.990
+
+\ref 010
+\ELANBegin 16.655
+\ELANEnd 19.145
+\ELANParticipant Juanita
+\trs ao maei ao maei maeresi
+\tx ao        maei          ao        maei
+\mb ao        mae     -i    ao        mae     -i
+\gn otro.lado mudarse -IMPF otro.lado mudarse -IMPF
+\ps adv.      v.      -suf. adv.      v.      -suf.
+
+\tx maeresi
+\mb mae     -res       -i
+\gn mudarse -solamente -SUJ>S:SIM
+\ps v.      -suf.      -suf.
+
+\ft Se mudaban del lugar donde vivían a otro lugar.
+\sound JC.NC.IC-conversacion.varios-2013.wav 16.655 19.145
+
+\ref 011
+\ELANBegin 20.130
+\ELANEnd 20.460
+\ELANParticipant Juanita
+\trs ao kai
+\tx ao        kai
+\mb ao        ka     -i
+\gn otro.lado ir     -IMPF
+\ps adv.      v.intr -suf.
+
+\ft A otro lugar fueron.
+\sound JC.NC.IC-conversacion.varios-2013.wav 20.130 20.460
+
+\ref 012
+\ELANBegin 20.930
+\ELANEnd 21.200
+\ELANParticipant Juanita
+\trs kai
+\tx kai
+\mb ka     -i
+\gn ir     -IMPF
+\ps v.intr -suf.
+
+\ft Fueron.
+\sound JC.NC.IC-conversacion.varios-2013.wav 20.930 21.200
+
+\ref 013
+\ELANBegin 21.820
+\ELANEnd 23.200
+\ELANParticipant Juanita
+\trs waka ea
+\tx waka ea
+\mb waka e      -a
+\gn río crecer -PERF
+\ps n.   v.     -suf.
+
+\ft El río Agua Grande creció.
+\sound JC.NC.IC-conversacion.varios-2013.wav 21.820 23.200
+
+\ref 014
+\ELANBegin 24.505
+\ELANEnd 25.955
+\ELANParticipant Juanita
+\trs oi sisi iki waka ea
+\tx oi     sisi iki                waka ea
+\mb oi     sisi ik           -i    waka ea
+\gn lluvia caer.mucha.lluvia -IMPF río 1SG.ABS(SK)
+\ps n.     v.                -suf. n.   pron.
+
+\ft Llovía torrencialmente y el río creció.
+\sound JC.NC.IC-conversacion.varios-2013.wav 24.505 25.955
+
+\ref 015
+\ELANBegin 28.660
+\ELANEnd 30.160
+\ELANParticipant Juanita
+\trs palo iwiki hateke
+\tx palo iwiki         hateke
+\mb palo iwi    =ki    hate   -ke
+\gn palo árbol =REP   cortar -PERF(SK)
+\ps n.   n.     =clit. v.     -suf.
+
+\ft Trozando con el palo.
+\sound JC.NC.IC-conversacion.varios-2013.wav 28.660 30.160
+
+\ref 016
+\ELANBegin 30.905
+\ELANEnd 33.035
+\ELANParticipant Juanita
+\trs rerake iwi hatea wean shitai
+\tx rerake           iwi    hatea        wean     shitai
+\mb rera   -ke       iwi    hate   -a    wean     shita      -i
+\gn tumbar -PERF(SK) árbol cortar -PERF quebrada cruzar(SK) -IMPF
+\ps v.     -suf.     n.     v.     -suf. n.       v.         -suf.
+
+\ft Tumbando y trozando con el palo, cruzaban las quebradas
+\sound JC.NC.IC-conversacion.varios-2013.wav 30.905 33.035
+
+\ref 017
+\ELANBegin 34.660
+\ELANEnd 35.670
+\ELANParticipant Juanita
+\trs waka pokebaini kai
+\tx waka pokebaini                     kai
+\mb waka poke   -bain       -i         ka     -i
+\gn río cruzar -yendo:TRAN -SUJ>S:SIM ir     -IMPF
+\ps n.   v.     -suf.       -suf.      v.intr -suf.
+
+\ft El río lo cruzaron.
+\sound JC.NC.IC-conversacion.varios-2013.wav 34.660 35.670
+
+\ref 018
+\ELANBegin 38.290
+\ELANEnd 40.290
+\ELANParticipant Juanita
+\trs tapoake noaka tapoaka
+\tx tapoake                    noaka        tapoaka
+\mb tapo   -a        -ke       noa   =ka    tapo   -a        =ka
+\gn puente -FACT(SK) -PERF(SK) 1PL.P =NAR   puente -FACT(SK) =NAR
+\ps n.     -suf.     -suf.     pron. =clit. n.     -suf.     =clit.
+
+\ft Hicimos un puente.
+\sound JC.NC.IC-conversacion.varios-2013.wav 38.290 40.290
+
+\ref 019
+\ELANBegin 40.990
+\ELANEnd 41.650
+\ELANParticipant Juanita
+\trs tapoaka
+\tx tapoaka
+\mb tapo   -a        =ka
+\gn puente -FACT(SK) =NAR
+\ps n.     -suf.     =clit.
+
+\ft Un puente.
+\sound JC.NC.IC-conversacion.varios-2013.wav 40.990 41.650
+
+\ref 021
+\ELANBegin 49.990
+\ELANEnd 50.580
+\ELANParticipant Nelita
+\trs narabe boa
+\tx narabe boa
+\mb narabe bo     -a
+\gn dos    ir:PL  -PERF
+\ps num.   v.ambi -suf.
+
+\ft Dos fueron.
+\sound JC.NC.IC-conversacion.varios-2013.wav 49.990 50.580
+
+\ref 022
+\ELANBegin 50.650
+\ELANEnd 52.360
+\ELANParticipant Juanita
+\trs ma icha boa, icha boa
+\tx ma  icha      boa,         icha
+\mb ma  icha      bo     -a    icha
+\gn ya  mucho(SK) ir:PL  -PERF mucho(SK)
+\ps adv cuant.    v.ambi -suf. cuant.
+
+\tx boa
+\mb bo     -a
+\gn ir:PL  -PERF
+\ps v.ambi -suf.
+
+\ft Primero ya fueron, muchos fueron.
+\sound JC.NC.IC-conversacion.varios-2013.wav 50.650 52.360
+
+\ref 023
+\ELANBegin 50.960
+\ELANEnd 51.850
+\ELANParticipant Nelita
+\trs ma narana boa
+\tx ma  narana boa
+\mb ma  narana bo     -a
+\gn ya  cinco  ir:PL  -PERF
+\ps adv num.   v.ambi -suf.
+
+\ft cinco (o tres) fueron.
+\sound JC.NC.IC-conversacion.varios-2013.wav 50.960 51.850
+
+\ref 024
+\ELANBegin 53.060
+\ELANEnd 53.930
+\ELANParticipant Juanita
+\trs narana boa kai
+\tx narana boa          kai
+\mb narana bo     -a    ka     -i
+\gn cinco  ir:PL  -PERF ir     -SUJ>S:SIM
+\ps num.   v.ambi -suf. v.intr -suf.
+
+\ft Tres fueron.
+\sound JC.NC.IC-conversacion.varios-2013.wav 53.060 53.930
+
+\ref 025
+\ELANBegin 54.630
+\ELANEnd 55.730
+\ELANParticipant Juanita
+\trs moaka yoshanshoko
+\tx moaka         yoshanshoko
+\mb moa    =ka    yoshan    =shoko
+\gn ya(SK) =NAR   vieja(SK) =DIM(SK)
+\ps adv    =clit. adj.      =clit.
+
+\ft Primero los viejitos.
+\sound JC.NC.IC-conversacion.varios-2013.wav 54.630 55.730
+
+\ref 026
+\ELANBegin 56.745
+\ELANEnd 58.055
+\ELANParticipant Juanita
+\trs iwahako
+\tx iwahako
+\mb iwa   -hoko
+\gn viejo -DIM
+\ps adj.  -suf
+
+\ft Los viejitos.
+\sound JC.NC.IC-conversacion.varios-2013.wav 56.745 58.055
+
+\ref 027
+\ELANBegin 59.180
+\ELANEnd 60.100
+\ELANParticipant Juanita
+\trs mekotinan iki
+\tx mekotinan      iki
+\mb mekoti  =n     ik      -i
+\gn bastón =INST  copula  -IMPF
+\ps n.      =clit. v.intr. -suf.
+
+\ft Con su bastón.
+\sound JC.NC.IC-conversacion.varios-2013.wav 59.180 60.100
+
+\ref 028
+\ELANBegin 60.725
+\ELANEnd 61.315
+\ELANParticipant Juanita
+\trs mekotinan
+\tx mekotinan
+\mb mekoti  =n
+\gn bastón =INST
+\ps n.      =clit.
+
+\ft Con su bastón.
+\sound JC.NC.IC-conversacion.varios-2013.wav 60.725 61.315
+
+\ref 029
+\ELANBegin 64.700
+\ELANEnd 65.260
+\ELANParticipant Isabel
+\trs iwahako
+\tx iwahako
+\mb iwa   -hoko
+\gn viejo -DIM
+\ps adj.  -suf
+
+\ft Viejitos.
+\sound JC.NC.IC-conversacion.varios-2013.wav 64.700 65.260
+
+\ref 030
+\ELANBegin 65.560
+\ELANEnd 67.090
+\ELANParticipant Juanita
+\trs iwahako
+\tx iwahako
+\mb iwa   -hoko
+\gn viejo -DIM
+\ps adj.  -suf
+
+\ft Viejitas.
+\sound JC.NC.IC-conversacion.varios-2013.wav 65.560 67.090
+
+\ref 031
+\ELANBegin 66.150
+\ELANEnd 68.400
+\ELANParticipant Nelita
+\trs iwahako mebebaipainbira
+\tx iwahako     mebebaipainbira
+\mb iwa   -hoko me-    beba   -i         =pain    =bira
+\gn viejo -DIM  mano-  servir -SUJ>S:SIM =primero =nomás
+\ps adj.  -suf  pref.- v.     -suf.      =clit.   =clit.
+
+\ft Las viejitas se servían con las manos.
+\sound JC.NC.IC-conversacion.varios-2013.wav 66.150 68.400
+
+\ref 032
+\ELANBegin 67.650
+\ELANEnd 71.030
+\ELANParticipant Juanita
+\trs mewehekotiki mewehekoti kai
+\tx mewehekotiki                         mewehekotikai
+\mb mewe             -hoko -ti    =ki    mewe             -hoko -ti    =kai
+\gn agarrar.con.mano -DIM  -NOMLZ =REP   agarrar.con.mano -DIM  -NOMLZ =RESO
+\ps v.tran           -suf  -suf.  =clit. v.tran           -suf  -suf.  =clit.
+
+\ft Agarrándose, agarrándose de la mano.
+\sound JC.NC.IC-conversacion.varios-2013.wav 67.650 71.030
+
+\ref 033
+\ELANBegin 71.645
+\ELANEnd 72.655
+\ELANParticipant Nelita
+\trs noitapahakoi
+\tx noitapahakoi
+\mb noitapa -hoko -i
+\gn sufrir  -DIM  -IMPF
+\ps v.      -suf  -suf.
+
+\ft sufrían mucho
+\sound JC.NC.IC-conversacion.varios-2013.wav 71.645 72.655
+
+\ref 034
+\ELANBegin 74.735
+\ELANEnd 83.000
+\ELANParticipant Juanita
+\trs katebi hatebaina res pakaronon ewan pakaronon ewan yosha mawahakoa
+\tx katebi              hatebaina                 res
+\mb kate         =bi    hate   -bain       -a     res
+\gn espalda.baja =ENF   cortar -yendo:TRAN -PERF  cortar
+\ps n.           =clit. v.     -suf.       -suf.  onom.
+
+\tx pakaronon                ewan         pakaronon
+\mb pakarono          =n     ewa   =n     pakarono          =n
+\gn serpiente.mítica =GEN   madre =ERG   serpiente.mítica =GEN
+\ps n.                =clit. n.    =clit. n.                =clit.
+
+\tx ewa=n        yoshan    mawahakoa
+\mb ewa   =n     yoshan    mawa       -hoko -a
+\gn madre =ERG   vieja(SK) muerto(SK) -DIM  -PERF
+\ps n.    =clit. adj.      adj.       -suf  -suf.
+
+\ft La boa mítica mató a la viejita, trozándola a la viejita en dos por la parte de abajo de la espalda.
+\sound JC.NC.IC-conversacion.varios-2013.wav 74.735 83.000
+
+\ref 035
+\ELANBegin 80.075
+\ELANEnd 81.145
+\ELANParticipant Nelita
+\trs res pakaronon ewa
+\tx res    pakaronon                ewa
+\mb res    pakarono          =n     ewa
+\gn cortar serpiente.mítica =GEN   madre
+\ps onom.  n.                =clit. n.
+
+\ft La madre de Pakaronon.
+\sound JC.NC.IC-conversacion.varios-2013.wav 80.075 81.145
+
+\ref 036
+\ELANBegin 83.595
+\ELANEnd 83.965
+\ELANParticipant Nelita
+\trs maa
+\tx maa
+\mb maa
+\gn ruido
+\ps onom.
+
+\ft onomatopeya.
+\sound JC.NC.IC-conversacion.varios-2013.wav 83.595 83.965
+
+\ref 037
+\ELANBegin 85.360
+\ELANEnd 85.940
+\ELANParticipant Isabel
+\trs mahka
+\tx mahka
+\mb mahka
+\gn muerto
+\ps adj.
+
+\ft Murió.
+\sound JC.NC.IC-conversacion.varios-2013.wav 85.360 85.940
+
+\ref 038
+\ELANBegin 86.045
+\ELANEnd 86.825
+\ELANParticipant Juanita
+\trs mahka
+\tx mahka
+\mb mahka
+\gn muerto
+\ps adj.
+
+\ft Murió.
+\sound JC.NC.IC-conversacion.varios-2013.wav 86.045 86.825
+
+\ref 039
+\ELANBegin 86.045
+\ELANEnd 86.825
+\ELANParticipant Nelita
+\trs mahka
+\tx mahka
+\mb mahka
+\gn muerto
+\ps adj.
+
+\ft Murió.
+\sound JC.NC.IC-conversacion.varios-2013.wav 86.045 86.825
+
+\ref 040
+\ELANBegin 86.930
+\ELANEnd 88.090
+\ELANParticipant Juanita
+\trs ma heara ika
+\tx ma  heara        ika
+\mb ma  hea    -anan ik      =ka
+\gn ya  tragar -MAL  copula  =NAR
+\ps adv v.     -suf  v.intr. =clit.
+
+\ft Fue tragada por el animal.
+\sound JC.NC.IC-conversacion.varios-2013.wav 86.930 88.090
+
+\ref 041
+\ELANBegin 88.610
+\ELANEnd 90.570
+\ELANParticipant Nelita
+\trs pakaroninma hea
+\tx pakaroninma              hea
+\mb pakaronin         =n     hea    -a
+\gn serpiente.mítica =ERG   tragar -PERF
+\ps n.                =clit. v.     -suf.
+
+\ft Fue tragado.
+\sound JC.NC.IC-conversacion.varios-2013.wav 88.610 90.570
+
+\ref 042
+\ELANBegin 90.665
+\ELANEnd 91.375
+\ELANParticipant Juanita
+\trs pakaroninma hea
+\tx pakaroninma              hea
+\mb pakaronin         =n     hea    -a
+\gn serpiente.mítica =ERG   tragar -PERF
+\ps n.                =clit. v.     -suf.
+
+\ft Fue tragado
+\sound JC.NC.IC-conversacion.varios-2013.wav 90.665 91.375
+
+\ref 043
+\ELANBegin 93.470
+\ELANEnd 94.690
+\ELANParticipant José
+\trs pakaroninma pishtea
+\tx pakaroninma              pishtea
+\mb pakaronin         =n     pishte   -a
+\gn serpiente.mítica =ERG   pedacear -PERF
+\ps n.                =clit. v.       -suf.
+
+\ft Lo despellejaron.
+\sound JC.NC.IC-conversacion.varios-2013.wav 93.470 94.690
+
+\ref 044
+\ELANBegin 94.445
+\ELANEnd 95.165
+\ELANParticipant Nelita
+\trs pishtea
+\tx pishtea
+\mb pishte   -a
+\gn pedacear -PERF
+\ps v.       -suf.
+
+\ft Lo despellejaron.
+\sound JC.NC.IC-conversacion.varios-2013.wav 94.445 95.165
+
+\ref 045
+\ELANBegin 95.710
+\ELANEnd 96.350
+\ELANParticipant Juanita
+\trs pishtea
+\tx pishtea
+\mb pishte   -a
+\gn pedacear -PERF
+\ps v.       -suf.
+
+\ft Lo despellejaron.
+\sound JC.NC.IC-conversacion.varios-2013.wav 95.710 96.350
+
+\ref 046
+\ELANBegin 97.025
+\ELANEnd 98.205
+\ELANParticipant José
+\trs moa pishtea
+\tx moa    pishtea
+\mb moa    pishte   -a
+\gn ya(SK) pedacear -PERF
+\ps adv    v.       -suf.
+
+\ft Despellejado.
+\sound JC.NC.IC-conversacion.varios-2013.wav 97.025 98.205
+
+\ref 047
+\ELANBegin 98.460
+\ELANEnd 100.290
+\ELANParticipant Juanita
+\trs oa motosierra oa
+\tx oa   motosierra oa
+\mb oa   motosierra oa
+\gn ese  motosierra ese
+\ps dem. n.         dem.
+
+\ft Esa motosierra esa.
+\sound JC.NC.IC-conversacion.varios-2013.wav 98.460 100.290
+
+\ref 048
+\ELANBegin 100.950
+\ELANEnd 102.380
+\ELANParticipant Juanita
+\trs iwi konxan hatea kesaki manti
+\tx iwi    konxan    hateakesaki                 manti
+\mb iwi    konxan    hate   -a     =kesa  =ki    man            -ti
+\gn árbol cedro(SK) cortar -NOMLZ =COMP  =REP   hacer.barbacoa -NOMLZ
+\ps n.     n.        v.     -suf.  =clit. =clit. v.             -suf.
+
+\ft Trozaron al árbol para hacer barbacoa
+\sound JC.NC.IC-conversacion.varios-2013.wav 100.950 102.380
+
+\ref 049
+\ELANBegin 102.800
+\ELANEnd 103.610
+\ELANParticipant Isabel
+\trs serruchokesa
+\tx serruchokesa
+\mb serrucho =kesa
+\gn serrucho =COMP
+\ps n        =clit.
+
+\ft Con el serrucho.
+\sound JC.NC.IC-conversacion.varios-2013.wav 102.800 103.610
+
+\ref 050
+\ELANBegin 103.730
+\ELANEnd 104.670
+\ELANParticipant Nelita
+\trs serruchokesa
+\tx serruchokesa
+\mb serrucho =kesa
+\gn serrucho =COMP
+\ps n        =clit.
+
+\ft Con el serrucho.
+\sound JC.NC.IC-conversacion.varios-2013.wav 103.730 104.670
+
+\ref 051
+\ELANBegin 104.865
+\ELANEnd 105.435
+\ELANParticipant Nelita
+\trs pakaronin
+\tx pakaronin
+\mb pakaronin
+\gn serpiente.mítica
+\ps n.
+
+\ft Pakaroni.
+\sound JC.NC.IC-conversacion.varios-2013.wav 104.865 105.435
+
+\ref 052
+\ELANBegin 105.515
+\ELANEnd 106.315
+\ELANParticipant Juanita
+\trs pakaronon ewa
+\tx pakaronon                ewa
+\mb pakarono          =n     ewa
+\gn serpiente.mítica =GEN   madre
+\ps n.                =clit. n.
+
+\ft La madre de Pakaronon
+\sound JC.NC.IC-conversacion.varios-2013.wav 105.515 106.315
+
+\ref 053
+\ELANBegin 107.390
+\ELANEnd 108.420
+\ELANParticipant Juanita
+\trs nikimati
+\tx nikimati
+\mb niki   -ma   -ti
+\gn parado -CAUS -NOMLZ
+\ps adj.   -suf. -suf.
+
+\ft Grande [?¿]
+\sound JC.NC.IC-conversacion.varios-2013.wav 107.390 108.420
+
+\ref 054
+\ELANBegin 109.620
+\ELANEnd 112.330
+\ELANParticipant Juanita
+\trs wetsanko reraribi orires ranokawe nino mistokanwe
+\tx wetsanko          reraribi
+\mb wetsa    =nko     rera   =ribi
+\gn otro(SK) =LOC(SK) tumbar =también
+\ps adj.     =clit.   v.     =clit.
+
+\tx orires               ranokanwe           nino
+\mb ori       -res       rano -kan  -we      nino
+\gn lejos(SK) -solamente ***  -PLU  -IMP(SK) acá
+\ps adv.      -suf.      ***  -suj. -suf.    adv.
+
+\tx mistokanwe
+\mb misto    -kan  -we
+\gn quedarse -PLU  -IMP(SK)
+\ps v.       -suj. -suf.
+
+\ft Hacia otro lado vamos para tumbar, acá no más quedan.
+\sound JC.NC.IC-conversacion.varios-2013.wav 109.620 112.330
+
+\ref 055
+\ELANBegin 113.280
+\ELANEnd 114.460
+\ELANParticipant Juanita
+\trs nino mistokanwe
+\tx nino mistokanwe
+\mb nino misto    -kan  -we
+\gn acá quedarse -PLU  -IMP(SK)
+\ps adv. v.       -suj. -suf.
+
+\ft Acá se quedan.
+\sound JC.NC.IC-conversacion.varios-2013.wav 113.280 114.460
+
+\ref 056
+\ELANBegin 114.685
+\ELANEnd 115.545
+\ELANParticipant Nelita
+\trs nino mistokanwe
+\tx nino mistokanwe
+\mb nino misto    -kan  -we
+\gn acá quedarse -PLU  -IMP(SK)
+\ps adv. v.       -suj. -suf.
+
+\ft Acá se quedan.
+\sound JC.NC.IC-conversacion.varios-2013.wav 114.685 115.545
+
+\ref 057
+\ELANBegin 117.120
+\ELANEnd 118.960
+\ELANParticipant Juanita
+\trs ainbira ma yoshian ibirai
+\tx ainbira           ma  yoshian
+\mb ain       =bira   ma  yoshin    -a
+\gn ahí(MIX) =nomás ya  espíritu -NOMLZ
+\ps adv.      =clit.  adv n.        -suf.
+
+\tx ibirai
+\mb ik      =bira   -i
+\gn copula  =nomás -IMPF
+\ps v.intr. =clit.  -suf.
+
+\ft ahí no más se había convertido en espíritu
+\sound JC.NC.IC-conversacion.varios-2013.wav 117.120 118.960
+
+\ref 058
+\ELANBegin 120.500
+\ELANEnd 122.470
+\ELANParticipant Juanita
+\trs tetekeres tetekeres res
+\tx tetekeres       tetekeres       res
+\mb tetekeres       tetekeres       res
+\gn ruido.espíritu ruido.espíritu cortar
+\ps onom.           onom.           onom.
+
+\ft (onomatopeya)
+\sound JC.NC.IC-conversacion.varios-2013.wav 120.500 122.470
+
+\ref 059
+\ELANBegin 122.610
+\ELANEnd 123.060
+\ELANParticipant Nelita
+\trs res
+\tx res
+\mb res
+\gn cortar
+\ps onom.
+
+\ft (onomatopeya)
+\sound JC.NC.IC-conversacion.varios-2013.wav 122.610 123.060
+
+\ref 060
+\ELANBegin 124.650
+\ELANEnd 126.210
+\ELANParticipant Juanita
+\trs ori chipunki katima riki
+\tx ori       chipunki         katima               riki
+\mb ori       chipunki         ka     -ti    =ma    riki
+\gn lejos(SK) por.abajo.de(SK) ir     -NOMLZ =NEG   COP(SK)
+\ps adv.      post.            v.intr -suf.  =clit. part.
+
+\ft No vamos a ir por abajo
+\sound JC.NC.IC-conversacion.varios-2013.wav 124.650 126.210
+
+\ref 061
+\ELANBegin 126.765
+\ELANEnd 128.555
+\ELANParticipant Nelita
+\trs waka mapoki
+\tx waka mapoki
+\mb waka mapoki
+\gn río parte.baja.de
+\ps n.   post.
+
+\ft Vamos a bajar por el río.
+\sound JC.NC.IC-conversacion.varios-2013.wav 126.765 128.555
+
+\ref 062
+\ELANBegin 127.415
+\ELANEnd 128.545
+\ELANParticipant Juanita
+\trs waka mapoki
+\tx waka mapoki
+\mb waka mapoki
+\gn río parte.baja.de
+\ps n.   post.
+
+\ft Vamos a bajar por el río.
+\sound JC.NC.IC-conversacion.varios-2013.wav 127.415 128.545
+
+\ref 063
+\ELANBegin 130.560
+\ELANEnd 131.600
+\ELANParticipant Juanita
+\trs mapoki ka iti
+\tx mapoki        ka            iti
+\mb mapoki        ka     -a     ik      -ti
+\gn parte.baja.de ir     -NOMLZ copula  -NOMLZ
+\ps post.         v.intr -suf.  v.intr. -suf.
+
+\ft Seguían yendo por abajo.
+\sound JC.NC.IC-conversacion.varios-2013.wav 130.560 131.600
+
+\ref 064
+\ELANBegin 132.490
+\ELANEnd 133.250
+\ELANParticipant Nelita
+\trs reraribike
+\tx reraribike
+\mb rera   =ribi     -ke
+\gn tumbar =también -PERF(SK)
+\ps v.     =clit.    -suf.
+
+\ft Cortando, cortando.
+\sound JC.NC.IC-conversacion.varios-2013.wav 132.490 133.250
+
+\ref 065
+\ELANBegin 133.780
+\ELANEnd 134.970
+\ELANParticipant Juanita
+\trs hape
+\tx hape
+\mb hape
+\gn sonido.árbol
+\ps onom.
+
+\ft (Sonido de los árboles).
+\sound JC.NC.IC-conversacion.varios-2013.wav 133.780 134.970
+
+\ref 066
+\ELANBegin 135.390
+\ELANEnd 135.900
+\ELANParticipant Juanita
+\trs res
+\tx res
+\mb res
+\gn cortar
+\ps onom.
+
+\ft (Sonido cuando caen los árboles).
+\sound JC.NC.IC-conversacion.varios-2013.wav 135.390 135.900
+
+\ref 067
+\ELANBegin 136.140
+\ELANEnd 137.010
+\ELANParticipant Nelita
+\trs res
+\tx res
+\mb res
+\gn cortar
+\ps onom.
+
+\ft (Onomatopeya)
+\sound JC.NC.IC-conversacion.varios-2013.wav 136.140 137.010
+
+\ref 068
+\ELANBegin 136.730
+\ELANEnd 138.540
+\ELANParticipant Juanita
+\trs awekeska kanohme
+\tx awekeska kanohme
+\mb awekeska ka     -nohme
+\gn cómo    ir     -HAB.NEG
+\ps pal.int. v.intr -suf.
+
+\ft ni cómo podemos ir
+\sound JC.NC.IC-conversacion.varios-2013.wav 136.730 138.540
+
+\ref 069
+\ELANBegin 138.640
+\ELANEnd 141.335
+\ELANParticipant Nelita
+\trs ma kati atipayamai
+\tx ma kati          atipayamai
+\mb ma ka     -ti    atipa -yama    -i
+\gn ya ir     -NOMLZ poder -NEG(SK) -SUJ>S:SIM
+\ps advv.intr -suf.  v.    -suf.    -suf.
+
+\ft Ya no podemos ir.
+\sound JC.NC.IC-conversacion.varios-2013.wav 138.640 141.335
+
+\ref 070
+\ELANBegin 141.360
+\ELANEnd 142.120
+\ELANParticipant Juanita
+\trs kati atipayamai
+\tx kati          atipayamai
+\mb ka     -ti    atipa -yama    -i
+\gn ir     -NOMLZ poder -NEG(SK) -IMPF
+\ps v.intr -suf.  v.    -suf.    -suf.
+
+\ft No podemos ir.
+\sound JC.NC.IC-conversacion.varios-2013.wav 141.360 142.120
+
+\ref 071
+\ELANBegin 142.245
+\ELANEnd 142.995
+\ELANParticipant Nelita
+\trs kati atipayamai
+\tx kati          atipayamai
+\mb ka     -ti    atipa -yama    -i
+\gn ir     -NOMLZ poder -NEG(SK) -IMPF
+\ps v.intr -suf.  v.    -suf.    -suf.
+
+\ft No podemos ir.
+\sound JC.NC.IC-conversacion.varios-2013.wav 142.245 142.995
+
+\ref 072
+\ELANBegin 143.000
+\ELANEnd 146.110
+\ELANParticipant Nelita
+\trs tapo akabi pishteranke
+\tx tapo   akabi
+\mb tapo   ak      -a     =bi
+\gn puente hacer   -NOMLZ =ENF
+\ps n.     v.tran. -suf.  =clit.
+
+\tx pishteranke
+\mb pishte   -ran  -ke
+\gn pedacear -ITER -PERF(SK)
+\ps v.       -suf. -suf.
+
+\ft el puente que habían hecho lo pedaceo (paka ronin)
+\sound JC.NC.IC-conversacion.varios-2013.wav 143.000 146.110
+
+\ref 073
+\ELANBegin 146.130
+\ELANEnd 146.810
+\ELANParticipant José
+\trs pishterainbi
+\tx pishterainbi
+\mb pishte   -ran  -i    =bi
+\gn pedacear -ITER -IMPF =ENF
+\ps v.       -suf. -suf. =clit.
+
+\ft Lo cortaba.
+\sound JC.NC.IC-conversacion.varios-2013.wav 146.130 146.810
+
+\ref 074
+\ELANBegin 146.955
+\ELANEnd 147.565
+\ELANParticipant Nelita
+\trs pishterainbi
+\tx pishterainbi
+\mb pishte   -ran  -i    =bi
+\gn pedacear -ITER -IMPF =ENF
+\ps v.       -suf. -suf. =clit.
+
+\ft Cortado.
+\sound JC.NC.IC-conversacion.varios-2013.wav 146.955 147.565
+
+\ref 075
+\ELANBegin 147.545
+\ELANEnd 149.825
+\ELANParticipant Juanita
+\trs pishterain herikoinmati
+\tx pishterain           herikoinmati
+\mb pishte   -ran  -i    heri   - koin -ma   -ti
+\gn pedacear -ITER -IMPF filudo - humo -CAUS -NOMLZ
+\ps v.       -suf. -suf. adj.   - n.   -suf. -suf.
+
+\ft Cortado filudamente.
+\sound JC.NC.IC-conversacion.varios-2013.wav 147.545 149.825
+
+\ref 076
+\ELANBegin 150.150
+\ELANEnd 150.510
+\ELANParticipant José
+\trs tsas
+\tx tsas
+\mb tsas
+\gn cortar
+\ps onom.
+
+\ft (onomatopeya)
+\sound JC.NC.IC-conversacion.varios-2013.wav 150.150 150.510
+
+\ref 077
+\ELANBegin 151.760
+\ELANEnd 154.340
+\ELANParticipant Nelita
+\trs ainoahka iki baneke iskonawa banea
+\tx ainoahka                           iki           baneke             iskonawa banea
+\mb ain       -no   -a   =h     =ka    ik      -i    bane     -ke       iskonawa bane     -a
+\gn ahí(MIX) -LOC  -ABL =S     =NAR   copula  -IMPF quedarse -PERF(SK) iskonawa quedarse -PERF
+\ps adv.      -suf. -suf =clit. =clit. v.intr. -suf. v.       -suf.     n.       v.       -suf.
+
+\ft De ahí nos quedamos, los iskonawas nos quedamos.
+\sound JC.NC.IC-conversacion.varios-2013.wav 151.760 154.340
+
+\ref 078
+\ELANBegin 154.290
+\ELANEnd 156.450
+\ELANParticipant Juanita
+\trs iskonawa kaibo banea
+\tx iskonawa kaibo    banea
+\mb iskonawa kaibo    bane     -a
+\gn iskonawa pariente quedarse -PERF
+\ps n.       n.       v.       -suf.
+
+\ft Nuestros parientes iskonawas se han quedado.
+\sound JC.NC.IC-conversacion.varios-2013.wav 154.290 156.450
+
+\ref 079
+\ELANBegin 156.400
+\ELANEnd 158.540
+\ELANParticipant Nelita
+\trs kaibo baneke kaibo oke boke
+\tx kaibo    baneke             kaibo    oke
+\mb kaibo    bane     -ke       kaibo    oke
+\gn pariente quedarse -PERF(SK) pariente del.otro.lado(SK)
+\ps n.       v.       -suf.     n.       adv.
+
+\tx boke
+\mb bo     -ke
+\gn ir:PL  -PERF(SK)
+\ps v.ambi -suf.
+
+\ft Algunos parientes se quedaron, otros parientes se fueron hacia el otro lado.
+\sound JC.NC.IC-conversacion.varios-2013.wav 156.400 158.540
+
+\ref 080
+\ELANBegin 158.485
+\ELANEnd 159.325
+\ELANParticipant Juanita
+\trs kaibo ma kake
+\tx kaibo    ma  kake
+\mb kaibo    ma  ka     -ke
+\gn pariente ya  ir     -PERF(SK)
+\ps n.       adv v.intr -suf.
+
+\ft Nuestros parientes se fueron.
+\sound JC.NC.IC-conversacion.varios-2013.wav 158.485 159.325
+
+\ref 081
+\ELANBegin 163.120
+\ELANEnd 164.050
+\ELANParticipant Juanita
+\trs ma eah kayamai
+\tx ma  eah   kayamai
+\mb ma  eah   ka     -yama    -i
+\gn ya  1SG:S ir     -NEG(SK) -IMPF
+\ps adv pron. v.intr -suf.    -suf.
+
+\ft yo ya no voy.
+\sound JC.NC.IC-conversacion.varios-2013.wav 163.120 164.050
+
+\ref 082
+\ELANBegin 165.995
+\ELANEnd 167.715
+\ELANParticipant Juanita
+\trs ao ohai kai ao ao
+\tx ao        ohai              kai          ao
+\mb ao        oha    -i         ka     -i    ao
+\gn otro.lado dormir -SUJ>S:SIM ir     -IMPF otro.lado
+\ps adv.      v.     -suf.      v.intr -suf. adv.
+
+\tx ao
+\mb ao
+\gn otro.lado
+\ps adv.
+
+\ft Se fueron a dormir a otros lados.
+\sound JC.NC.IC-conversacion.varios-2013.wav 165.995 167.715
+
+\ref 083
+\ELANBegin 168.420
+\ELANEnd 169.420
+\ELANParticipant Juanita
+\trs ao mia iwe
+\tx ao        mia         iwe
+\mb ao        mia         ik      -we
+\gn otro.lado 2SG.ABS(SK) copula  -IMP(SK)
+\ps adv.      pron        v.intr. -suf.
+
+\ft Tú quedate allá.
+\sound JC.NC.IC-conversacion.varios-2013.wav 168.420 169.420
+
+\ref 084
+\ELANBegin 169.565
+\ELANEnd 169.795
+\ELANParticipant Nelita
+\trs ajá
+\tx ajá
+\mb ajá
+\gn ajá
+\ps inter.
+
+\ft (onomatopeya)
+\sound JC.NC.IC-conversacion.varios-2013.wav 169.565 169.795
+
+\ref 085
+\ELANBegin 170.155
+\ELANEnd 171.055
+\ELANParticipant Juanita
+\trs ao mia iwe
+\tx ao        mia         iwe
+\mb ao        mia         ik      -we
+\gn otro.lado 2SG.ABS(SK) copula  -IMP(SK)
+\ps adv.      pron        v.intr. -suf.
+
+\ft Allá tú estarás.
+\sound JC.NC.IC-conversacion.varios-2013.wav 170.155 171.055
+
+\ref 086
+\ELANBegin 171.100
+\ELANEnd 171.940
+\ELANParticipant Nelita
+\trs ao mia iwe
+\tx ao        mia         iwe
+\mb ao        mia         ik      -we
+\gn otro.lado 2SG.ABS(SK) copula  -IMP(SK)
+\ps adv.      pron        v.intr. -suf.
+
+\ft Allá tú estarás.
+\sound JC.NC.IC-conversacion.varios-2013.wav 171.100 171.940
+
+\ref 087
+\ELANBegin 171.925
+\ELANEnd 173.975
+\ELANParticipant Juanita
+\trs nekeribi eah i kai
+\tx nekeribi                eah   i                  kai
+\mb neke          =ribi     eah   ik      -i         ka     -i
+\gn este.lado(SK) =también 1SG:S copula  -SUJ>S:SIM ir     -IMPF
+\ps adv.          =clit.    pron. v.intr. -suf.      v.intr -suf.
+
+\ft Acá también yo voy a estar.
+\sound JC.NC.IC-conversacion.varios-2013.wav 171.925 173.975
+
+\ref 088
+\ELANBegin 175.140
+\ELANEnd 175.520
+\ELANParticipant Juanita
+\trs mi
+\tx mi
+\mb mi
+\gn 2SG:ABS
+\ps pron
+
+\ft Tú.
+\sound JC.NC.IC-conversacion.varios-2013.wav 175.140 175.520
+
+\ref 089
+\ELANBegin 175.875
+\ELANEnd 177.155
+\ELANParticipant Juanita
+\trs min ewen bohka to atiki
+\tx min            ewen    bohka
+\mb mi      =n     ewen    bohka
+\gn 2SG:ABS =ERG   1SG:GEN cabeza
+\ps pron    =clit. pron.   n.
+
+\tx to atiki
+\mb to ak   -ti    =ki
+\gn flechar -NOMLZ =REP
+\ps v.      -suf.  =clit.
+
+\ft Tú vas a cortar mi cabeza.
+\sound JC.NC.IC-conversacion.varios-2013.wav 175.875 177.155
+
+\ref 090
+\ELANBegin 177.830
+\ELANEnd 181.230
+\ELANParticipant Juanita
+\trs kopíki mi bohka toahnon ao iwe moa rete shinanai
+\tx kopíki        mi      bohka
+\mb kopí   =ki    mi      bohka
+\gn por.eso =CON   2SG:ABS cabeza
+\ps post.   =clit. pron    n.
+
+\tx to ahnon                 ao        iwe
+\mb to ak   -ah        -non  ao        ik      -we
+\gn flechar -SUJ>S:SIM -PROP otro.lado copula  -IMP(SK)
+\ps v.      -suf.      -suf. adv.      v.intr. -suf.
+
+\tx moa    rete      shinanai
+\mb moa    rete      shinan -ai
+\gn ya(SK) matar(SK) pensar -IMPF(SK)
+\ps adv    v.        v.     -suf.
+
+\ft Tú piensas matarme allá cortando mi cabeza.
+\nt serialización
+\sound JC.NC.IC-conversacion.varios-2013.wav 177.830 181.230
+
+\ref 091
+\ELANBegin 180.855
+\ELANEnd 182.145
+\ELANParticipant Nelita
+\trs ma rete shinanresi
+\tx ma  rete      shinanresi
+\mb ma  rete      shinan -res       -i
+\gn ya  matar(SK) pensar -solamente -IMPF
+\ps adv v.        v.     -suf.      -suf.
+
+\ft ya estás pensando en matar
+\sound JC.NC.IC-conversacion.varios-2013.wav 180.855 182.145
+
+\ref 092
+\ELANBegin 182.865
+\ELANEnd 183.665
+\ELANParticipant Nelita
+\trs en mi bohka to ati iki
+\tx en        mi      bohka  to ati
+\mb en        mi      bohka  to ak   -ti
+\gn 1SG:A(SK) 2SG:ABS cabeza flechar -NOMLZ
+\ps pron      pron    n.     v.      -suf.
+
+\tx iki
+\mb ik      -i
+\gn copula  -IMPF
+\ps v.intr. -suf.
+
+\ft Tú quieres cortar micabeza.
+\sound JC.NC.IC-conversacion.varios-2013.wav 182.865 183.665
+
+\ref 093
+\ELANBegin 183.980
+\ELANEnd 187.320
+\ELANParticipant Juanita
+\trs kopíki en mi bohka toati iki kopiki botika toai ibi ajá
+\tx kopíki        en        mi      bohka
+\mb kopí   =ki    en        mi      bohka
+\gn por.eso =CON   1SG:A(SK) 2SG:ABS cabeza
+\ps post.   =clit. pron      pron    n.
+
+\tx to ati         iki              kopíki
+\mb to ak   -ti    ik         -i    kopí   =ki
+\gn flechar -NOMLZ decir:INTR -IMPF por.eso =REP
+\ps v.      -suf.  v.intr.    -suf. post.   =clit.
+
+\tx botika               to ainbi                ajá
+\mb bo     -ti    =ka    to ak   -ain     =bi    ajá
+\gn ir:PL  -NOMLZ =NAR   flechar -SUJ.DIF =ENF   ajá
+\ps v.ambi -suf.  =clit. v.      -suf.    =clit. inter.
+
+\ft Por eso cuando yo te flechee la cabeza, tú me vas a flechar mi cabeza.
+\sound JC.NC.IC-conversacion.varios-2013.wav 183.980 187.320
+
+\ref 094
+\ELANBegin 187.990
+\ELANEnd 189.000
+\ELANParticipant Juanita
+\trs iskai baneni
+\tx iskai           baneni
+\mb iska -i         bane     -ni
+\gn así -SUJ>S:SIM quedarse -PAS.REM
+\ps adv. -suf.      v.       -suf
+
+\ft Por eso, quedaron así.
+\sound JC.NC.IC-conversacion.varios-2013.wav 187.990 189.000
+
+\ref 095
+\ELANBegin 190.005
+\ELANEnd 192.595
+\ELANParticipant Juanita
+\trs hateni neke no baneni iki ewen papa
+\tx hateni          neke          no
+\mb hate   -ni      neke          no
+\gn cortar -PAS.REM este.lado(SK) 1PL
+\ps v.     -suf     adv.          pron
+
+\tx baneni            iki           ewen    papa
+\mb bane     -ni      ik      -i    ewen    papa
+\gn quedarse -PAS.REM copula  -IMPF 1SG:GEN papá(SK)
+\ps v.       -suf     v.intr. -suf. pron.   n.
+
+\ft Por eso, ahí mismo se quedó mi papá, cuando habían cortado el puente.
+\sound JC.NC.IC-conversacion.varios-2013.wav 190.005 192.595
+
+\ref 096
+\ELANBegin 196.295
+\ELANEnd 197.455
+\ELANParticipant Juanita
+\trs hatibi boaka
+\tx hatibi    boaka
+\mb hatibi    bo     -a    =ka
+\gn todos(SK) ir:PL  -PERF =NAR
+\ps adj.      v.ambi -suf. =clit.
+
+\ft Todos se fueron.
+\sound JC.NC.IC-conversacion.varios-2013.wav 196.295 197.455
+
+\ref 097
+\ELANBegin 198.260
+\ELANEnd 200.280
+\ELANParticipant Nelita
+\trs hatibi boaka hechomabira oke boa
+\tx hatibi    boaka               hechomabira
+\mb hatibi    bo     -a    =ka    hechoma   =bira
+\gn todos(SK) ir:PL  -PERF =NAR   bastantes =nomás
+\ps adj.      v.ambi -suf. =clit. adj.      =clit.
+
+\tx oke               boa
+\mb oke               bo     -a
+\gn del.otro.lado(SK) ir:PL  -PERF
+\ps adv.              v.ambi -suf.
+
+\ft Todos se fueron, muchos se fueron por allá.
+\sound JC.NC.IC-conversacion.varios-2013.wav 198.260 200.280
+
+\ref 098
+\ELANBegin 200.325
+\ELANEnd 201.505
+\ELANParticipant Juanita
+\trs ma hechomaribi boa
+\tx ma  hechomaribi         boa
+\mb ma  hechoma   =ribi     bo     -a
+\gn ya  bastantes =también ir:PL  -PERF
+\ps adv adj.      =clit.    v.ambi -suf.
+
+\ft Ya se fueron muchos.
+\sound JC.NC.IC-conversacion.varios-2013.wav 200.325 201.505
+
+\ref 099
+\ELANBegin 201.735
+\ELANEnd 204.785
+\ELANParticipant Nelita
+\trs hechoma hechoma  hechomaka oke boa
+\tx hechoma   hechoma   hechomaka
+\mb hechoma   hechoma   hechoma   =ka
+\gn bastantes bastantes bastantes =NAR
+\ps adj.      adj.      adj.      =clit.
+
+\tx oke               boa
+\mb oke               bo     -a
+\gn del.otro.lado(SK) ir:PL  -PERF
+\ps adv.              v.ambi -suf.
+
+\ft Muchos, muchos, muchos se fueron al otro lado.
+\sound JC.NC.IC-conversacion.varios-2013.wav 201.735 204.785
+
+\ref 100
+\ELANBegin 204.775
+\ELANEnd 206.695
+\ELANParticipant Juanita
+\trs más máski oke boa
+\tx más       máski            oke
+\mb más       más       =ki    oke
+\gn más(CAST) más(CAST) =REP   del.otro.lado(SK)
+\ps adv        adv        =clit. adv.
+
+\tx boa
+\mb bo     -a
+\gn ir:PL  -PERF
+\ps v.ambi -suf.
+
+\ft más, más se fueron ahí.
+\sound JC.NC.IC-conversacion.varios-2013.wav 204.775 206.695
+
+\ref 101
+\ELANBegin 208.110
+\ELANEnd 216.640
+\ELANParticipant José
+\trs hakonma shinankana rawí neke bea moa rawí oke oaribi moa hakonmaka ma rawí narana
+\tx hakonma          shinankana          rawí
+\mb hakon     =ma    shinan =ka    -anan rawí
+\gn bueno(SK) =NEG   pensar =NAR   -MAL  enemigo
+\ps adj.      =clit. v.     =clit. -suf  n.
+
+\tx neke          bea          moa    rawí
+\mb neke          be     -a    moa    rawí
+\gn este.lado(SK) traer  -PERF ya(SK) enemigo
+\ps adv.          v.tran -suf. adv    n.
+
+\tx oke               oaribi         moa
+\mb oke               oa   =ribi     moa
+\gn del.otro.lado(SK) ese  =también ya(SK)
+\ps adv.              dem. =clit.    adv
+
+\tx hakonmaka               ma  rawí   narana
+\mb hakon     =ma    =ka    ma  rawí   narana
+\gn bueno(SK) =NEG   =NAR   ya  enemigo cinco
+\ps adj.      =clit. =clit. adv n.      num.
+
+\ft Los enemigos han pensado mal, los que han traido por acá son enemigos, los de allá también son enemigos todos.
+\sound JC.NC.IC-conversacion.varios-2013.wav 208.110 216.640
+
+\ref 102
+\ELANBegin 215.935
+\ELANEnd 217.265
+\ELANParticipant Juanita
+\trs ma rete shinanan
+\tx ma  rete      shinanan
+\mb ma  rete      shinan -anan -a
+\gn ya  matar(SK) pensar -REC  -PERF
+\ps adv v.        v.     -suf. -suf.
+
+\ft Pensaban matarnos.
+\sound JC.NC.IC-conversacion.varios-2013.wav 215.935 217.265
+
+\ref 103
+\ELANBegin 218.455
+\ELANEnd 219.375
+\ELANParticipant José
+\trs ma reteanan
+\tx ma  reteanan
+\mb ma  rete      -anan -a
+\gn ya  matar(SK) -REC  -PERF
+\ps adv v.        -suf. -suf.
+
+\ft Nos pensamos matar mutuamente.
+\sound JC.NC.IC-conversacion.varios-2013.wav 218.455 219.375
+
+\ref 104
+\ELANBegin 219.480
+\ELANEnd 220.600
+\ELANParticipant Juanita
+\trs ma reteanan
+\tx ma  reteanan
+\mb ma  rete      -anan -a
+\gn ya  matar(SK) -REC  -PERF
+\ps adv v.        -suf. -suf.
+
+\ft Nos pensamos matar mutuamente.
+\sound JC.NC.IC-conversacion.varios-2013.wav 219.480 220.600
+
+\ref 105
+\ELANBegin 221.875
+\ELANEnd 222.935
+\ELANParticipant José
+\trs hakonma shinanya
+\tx hakonma          shinanya
+\mb hakon     =ma    shinan =ya
+\gn bueno(SK) =NEG   pensar =PROP
+\ps adj.      =clit. v.     =clit.
+
+\ft Piensan mal.
+\sound JC.NC.IC-conversacion.varios-2013.wav 221.875 222.935
+
+\ref 106
+\ELANBegin 225.945
+\ELANEnd 226.725
+\ELANParticipant Nelita
+\trs ma rawí aka
+\tx ma  rawí   aka
+\mb ma  rawí   ak      -a
+\gn ya  enemigo hacer   -PERF
+\ps adv n.      v.tran. -suf.
+
+\ft Ya se hicieron enemigos.
+\sound JC.NC.IC-conversacion.varios-2013.wav 225.945 226.725
+
+\ref 107
+\ELANBegin 226.830
+\ELANEnd 227.530
+\ELANParticipant Juanita
+\trs ma rawí aka
+\tx ma  rawí   aka
+\mb ma  rawí   ak      -a
+\gn ya  enemigo hacer   -PERF
+\ps adv n.      v.tran. -suf.
+
+\ft Ya se hicieron enemigos.
+\sound JC.NC.IC-conversacion.varios-2013.wav 226.830 227.530
+
+\ref 108
+\ELANBegin 229.900
+\ELANEnd 230.840
+\ELANParticipant Juanita
+\trs awekesa kanohme
+\tx awekesa       kanohme
+\mb awe    =kesa  ka     -nohme
+\gn hembra =COMP  ir     -HAB.NEG
+\ps adj.   =clit. v.intr -suf.
+
+\ft Ya no pueden ir.
+\sound JC.NC.IC-conversacion.varios-2013.wav 229.900 230.840
+
+\ref 109
+\ELANBegin 239.780
+\ELANEnd 241.090
+\ELANParticipant Nelita
+\trs ma neke banekanke
+\tx ma  neke          banekanke
+\mb ma  neke          bane     -kan  -ke
+\gn ya  este.lado(SK) quedarse -PLU  -PERF(SK)
+\ps adv adv.          v.       -suj. -suf.
+
+\ft Ya nos quedamos acá.
+\sound JC.NC.IC-conversacion.varios-2013.wav 239.780 241.090
+
+\ref 110
+\ELANBegin 241.100
+\ELANEnd 241.630
+\ELANParticipant Juanita
+\trs ma banekanke
+\tx ma  banekanke
+\mb ma  bane     -kan  -ke
+\gn ya  quedarse -PLU  -PERF(SK)
+\ps adv v.       -suj. -suf.
+
+\ft Ya nos quedamos.
+\sound JC.NC.IC-conversacion.varios-2013.wav 241.100 241.630
+
+\ref 111
+\ELANBegin 241.840
+\ELANEnd 242.530
+\ELANParticipant José
+\trs ma banekanke
+\tx ma  banekanke
+\mb ma  bane     -kan  -ke
+\gn ya  quedarse -PLU  -PERF(SK)
+\ps adv v.       -suj. -suf.
+
+\ft Ya nos quedamos.
+\sound JC.NC.IC-conversacion.varios-2013.wav 241.840 242.530
+
+\ref 112
+\ELANBegin 242.540
+\ELANEnd 243.230
+\ELANParticipant Juanita
+\trs ma banea
+\tx ma  banea
+\mb ma  bane     -a
+\gn ya  quedarse -PERF
+\ps adv v.       -suf.
+
+\ft Ya se han quedado.
+\sound JC.NC.IC-conversacion.varios-2013.wav 242.540 243.230
+
+\ref 113
+\ELANBegin 245.875
+\ELANEnd 247.455
+\ELANParticipant Germán
+\trs akopíki rabébi iskonawa iki
+\tx akopíki             rabé=bi       iskonawa iki
+\mb a   - kopí   =ki    rabé   =bi    iskonawa ik      -i
+\gn ese - por.eso =REP   dos(SK) =ENF   iskonawa copula  -IMPF
+\ps dem - post.   =clit. num.    =clit. n.       v.intr. -suf.
+
+\ft Por eso somos dos iskonawas.
+\sound JC.NC.IC-conversacion.varios-2013.wav 245.875 247.455
+
+\ref 114
+\ELANBegin 247.450
+\ELANEnd 248.850
+\ELANParticipant José
+\trs hechoma isko iki oke boa
+\tx hechoma   isko   iki           oke
+\mb hechoma   isko   ik      -i    oke
+\gn bastantes paucar copula  -IMPF del.otro.lado(SK)
+\ps adj.      n.     v.intr. -suf. adv.
+
+\tx boa
+\mb bo     -a
+\gn ir:PL  -PERF
+\ps v.ambi -suf.
+
+\ft Bastantes allá fueron.
+\sound JC.NC.IC-conversacion.varios-2013.wav 247.450 248.850
+
+\ref 115
+\ELANBegin 249.200
+\ELANEnd 249.670
+\ELANParticipant Nelita
+\trs akopíkai
+\tx akopíkai
+\mb a   - kopí   =kai
+\gn ese - por.eso =RESO
+\ps dem - post.   =clit.
+
+\ft Por eso
+\sound JC.NC.IC-conversacion.varios-2013.wav 249.200 249.670
+
+\ref 116
+\ELANBegin 249.770
+\ELANEnd 251.410
+\ELANParticipant Nelita
+\trs rabé iskonawa ikebetan ikon
+\tx rabé   iskonawa ikebetan
+\mb rabé   iskonawa ik      -ke        =betan
+\gn dos(SK) iskonawa copula  -NOMLZ(SK) =COM
+\ps num.    n.       v.intr. -suf.      =clit.
+
+\tx ikon
+\mb ikon
+\gn verdad
+\ps adv.
+
+\ft Dos iskonawas [?¿]
+\sound JC.NC.IC-conversacion.varios-2013.wav 249.770 251.410
+
+\ref 117
+\ELANBegin 251.485
+\ELANEnd 251.915
+\ELANParticipant Juanita
+\trs ajá
+\tx ajá
+\mb ajá
+\gn ajá
+\ps inter.
+
+\ft aha
+\sound JC.NC.IC-conversacion.varios-2013.wav 251.485 251.915
+
+\ref 118
+\ELANBegin 254.300
+\ELANEnd 255.930
+\ELANParticipant Nelita
+\trs atian iskonawaribi ka ika
+\tx atian    iskonawaribika            ika
+\mb atian    iskonawa =ribi     =ka    ik      -a
+\gn entonces iskonawa =también =NAR   copula  -PERF
+\ps conec.   n.       =clit.    =clit. v.intr. -suf.
+
+\ft Entonces, también éramos iskonawas.
+\sound JC.NC.IC-conversacion.varios-2013.wav 254.300 255.930
+
+\ref 119
+\ELANBegin 256.600
+\ELANEnd 257.900
+\ELANParticipant Nelita
+\trs oke boni
+\tx oke               boni
+\mb oke               bo     -ni
+\gn del.otro.lado(SK) ir:PL  -PAS.REM
+\ps adv.              v.ambi -suf
+
+\ft Allá fuimos.
+\sound JC.NC.IC-conversacion.varios-2013.wav 256.600 257.900
+
+\ref 120
+\ELANBegin 257.645
+\ELANEnd 257.905
+\ELANParticipant Juanita
+\trs ajá
+\tx ajá
+\mb ajá
+\gn ajá
+\ps inter.
+
+\ft ah
+\sound JC.NC.IC-conversacion.varios-2013.wav 257.645 257.905
+
+\ref 121
+\ELANBegin 257.910
+\ELANEnd 259.190
+\ELANParticipant Juanita
+\trs iskonawaribi oke boni
+\tx iskonawaribi       oke               boni
+\mb iskonawa =ribi     oke               bo     -ni
+\gn iskonawa =también del.otro.lado(SK) ir:PL  -PAS.REM
+\ps n.       =clit.    adv.              v.ambi -suf
+
+\ft Esos iskonawas por allá fueron.
+\sound JC.NC.IC-conversacion.varios-2013.wav 257.910 259.190
+
+\ref 122
+\ELANBegin 257.925
+\ELANEnd 259.315
+\ELANParticipant Nelita
+\trs a non kayaboribi
+\tx a   non         kayaboribi
+\mb a   no   =n     kayabo       =ribi
+\gn ese 1PL  =GEN   pariente(SK) =también
+\ps dem pron =clit. n.           =clit.
+
+\ft ese es también nuestro pariente
+\sound JC.NC.IC-conversacion.varios-2013.wav 257.925 259.315
+
+\ref 123
+\ELANBegin 259.315
+\ELANEnd 260.625
+\ELANParticipant Juanita
+\trs kayaboribi
+\tx kayaboribi
+\mb kayabo       =ribi
+\gn pariente(SK) =también
+\ps n.           =clit.
+
+\ft Parientes también.
+\sound JC.NC.IC-conversacion.varios-2013.wav 259.315 260.625
+
+\ref 124
+\ELANBegin 260.075
+\ELANEnd 261.495
+\ELANParticipant José
+\trs kayaboribi
+\tx kayaboribi
+\mb kayabo       =ribi
+\gn pariente(SK) =también
+\ps n.           =clit.
+
+\ft Parientes también.
+\sound JC.NC.IC-conversacion.varios-2013.wav 260.075 261.495
+
+\ref 125
+\ELANBegin 261.150
+\ELANEnd 262.260
+\ELANParticipant Juanita
+\trs kayabo neke boke
+\tx kayabo       neke          boke
+\mb kayabo       neke          bo     -ke
+\gn pariente(SK) este.lado(SK) ir:PL  -PERF(SK)
+\ps n.           adv.          v.ambi -suf.
+
+\ft Nuestros parientes acá vinieron.
+\sound JC.NC.IC-conversacion.varios-2013.wav 261.150 262.260
+
+\ref 126
+\ELANBegin 261.620
+\ELANEnd 263.810
+\ELANParticipant José
+\trs iskonawaribi neke boke
+\tx iskonawaribi       neke          boke
+\mb iskonawa =ribi     neke          bo     -ke
+\gn iskonawa =también este.lado(SK) ir:PL  -PERF(SK)
+\ps n.       =clit.    adv.          v.ambi -suf.
+
+\ft Los iskonawas acá vinieron.
+\sound JC.NC.IC-conversacion.varios-2013.wav 261.620 263.810
+
+\ref 127
+\ELANBegin 264.270
+\ELANEnd 266.490
+\ELANParticipant Nelita
+\trs iskonawaribi neke baneke
+\tx iskonawaribi       neke          baneke
+\mb iskonawa =ribi     neke          bane     -ke
+\gn iskonawa =también este.lado(SK) quedarse -NOMLZ(SK)
+\ps n.       =clit.    adv.          v.       -suf.
+
+\ft Los iskonawas se quedaron acá.
+\sound JC.NC.IC-conversacion.varios-2013.wav 264.270 266.490
+
+\ref 128
+\ELANBegin 266.535
+\ELANEnd 268.535
+\ELANParticipant Nelita
+\trs mmm
+\tx mmm
+\mb mmm
+\gn pensar
+\ps inter.
+\ft mmmmm.....
+\sound JC.NC.IC-conversacion.varios-2013.wav 266.535 268.535
+
+\ref 129
+\ELANBegin 270.490
+\ELANEnd 272.870
+\ELANParticipant Nelita
+\trs atian haribi ka noa neke baneke
+\tx atian    haribika                 noa   neke          baneke
+\mb atian    ha      =ribi     =ka    noa   neke          bane     -ke
+\gn entonces ese(SK) =también =NAR   1PL.P este.lado(SK) quedarse -PERF(SK)
+\ps conec.   dem     =clit.    =clit. pron. adv.          v.       -suf.
+
+\ft Entonces, nosotros acá también.
+\sound JC.NC.IC-conversacion.varios-2013.wav 270.490 272.870
+
+\ref 130
+\ELANBegin 272.910
+\ELANEnd 275.740
+\ELANParticipant Nelita
+\trs a neke teherini kairi noa
+\tx a   neke          tehenihikokairi                    noa
+\mb a   neke          tehe   -ni      -hoko =kai   =ri   noa
+\gn ese este.lado(SK) sobrar -PAS.REM -DIM  =RESO  =CON  1PL.P
+\ps dem adv.          v.     -suf     -suf  =clit. =clit pron.
+
+\ft ese acá nos estabamos sobrando.
+\sound JC.NC.IC-conversacion.varios-2013.wav 272.910 275.740
+
+\ref 131
+\ELANBegin 275.780
+\ELANEnd 277.100
+\ELANParticipant Juanita
+\trs tehenikairi no
+\tx tehenikairi                  no
+\mb tehe   -ni      =kai   =ri   no
+\gn sobrar -PAS.REM =RESO  =CON  1PL
+\ps v.     -suf     =clit. =clit pron
+
+\ft Nosotros nos quedamos.
+\sound JC.NC.IC-conversacion.varios-2013.wav 275.780 277.100
+
+\ref 132
+\ELANBegin 278.045
+\ELANEnd 279.475
+\ELANParticipant Nelita
+\trs a okekairi
+\tx a   okekairi
+\mb a   oke               =kai   =ri
+\gn ese del.otro.lado(SK) =RESO  =CON
+\ps dem adv.              =clit. =clit
+
+\ft Esos por alla fueron
+\sound JC.NC.IC-conversacion.varios-2013.wav 278.045 279.475
+
+\ref 133
+\ELANBegin 279.105
+\ELANEnd 281.835
+\ELANParticipant Juanita
+\trs uke kai ribi mas bua, uke hechuma bua
+\tx uke kai ribi mas bua, uke hechuma bua
+\ft Por ese mismo lugar se fueron, por allá se fueron.
+\sound JC.NC.IC-conversacion.varios-2013.wav 279.105 281.835
+
+\ref 134
+\ELANBegin 280.145
+\ELANEnd 280.905
+\ELANParticipant Nelita
+\trs hechuma bua
+\tx hechuma bua,
+\ft allá, más allá fueron
+\sound JC.NC.IC-conversacion.varios-2013.wav 280.145 280.905
+
+\ref 135
+\ELANBegin 282.330
+\ELANEnd 285.200
+\ELANParticipant Nelita
+\trs a bo kai reteanapauni
+\tx a bo kai reteana pauni
+\ft ellos se mataban entre ellos.
+\sound JC.NC.IC-conversacion.varios-2013.wav 282.330 285.200
+
+\ref 136
+\ELANBegin 284.190
+\ELANEnd 285.630
+\ELANParticipant Juanita
+\trs abo reteanapauni
+\tx abo reteanapauni
+\ft Ellos se mataban entre ellos.
+\sound JC.NC.IC-conversacion.varios-2013.wav 284.190 285.630
+
+\ref 137
+\ELANBegin 285.650
+\ELANEnd 285.655
+\ELANParticipant Juanita
+\trs [?¿]
+\tx [?¿]
+\ft
+\sound JC.NC.IC-conversacion.varios-2013.wav 285.650 285.655
+
+\ref 138
+\ELANBegin 285.655
+\ELANEnd 290.015
+\ELANParticipant Juanita
+\trs buxka toananahon kupiki ewen buhka toanon auh mia ibe [...]
+\tx buxka toananahon kupiki ewen buhka toanon auh mia ibe [...]
+\ft Se cortaban la cabeza, en venganza mi cabeza para que corten. Tú estabas allá [?¿].
+\sound JC.NC.IC-conversacion.varios-2013.wav 285.655 290.015
+
+\ref 139
+\ELANBegin 290.430
+\ELANEnd 291.760
+\ELANParticipant Nelita
+\trs keha nibu kua bira
+\tx keha nibu kua bira
+\ft Se paraban unos frente a otros en la orilla del río.
+\sound JC.NC.IC-conversacion.varios-2013.wav 290.430 291.760
+
+\ref 140
+\ELANBegin 291.920
+\ELANEnd 293.050
+\ELANParticipant Juanita
+\trs keha nibu kuan
+\tx keha nibu kuan
+\ft En la orilla del río se paraban.
+\sound JC.NC.IC-conversacion.varios-2013.wav 291.920 293.050
+
+\ref 141
+\ELANBegin 293.530
+\ELANEnd 295.900
+\ELANParticipant Nelita
+\trs ahhh neke keha nibo koan
+\tx ahhh neke keha nibu kuan
+\ft ahhh,  esta orilla parados por aqui por allá
+\sound JC.NC.IC-conversacion.varios-2013.wav 293.530 295.900
+
+\ref 142
+\ELANBegin 295.900
+\ELANEnd 298.340
+\ELANParticipant Juanita
+\trs oke kaimai nekemai
+\tx uke kaimai nekemai
+\ft Yo no voy a ir allá.
+\sound JC.NC.IC-conversacion.varios-2013.wav 295.900 298.340
+
+\ref 143
+\ELANBegin 298.375
+\ELANEnd 300.315
+\ELANParticipant Juanita
+\trs matoh bokatankanwe
+\tx matoh bukatankanwe
+\ft Ustedes vayan.
+\sound JC.NC.IC-conversacion.varios-2013.wav 298.375 300.315
+
+\ref 144
+\ELANBegin 301.740
+\ELANEnd 302.930
+\ELANParticipant Juanita
+\trs mia ao ibe
+\tx mia au iwe
+\ft Tú debes de estar allá.
+\sound JC.NC.IC-conversacion.varios-2013.wav 301.740 302.930
+
+\ref 145
+\ELANBegin 302.970
+\ELANEnd 305.650
+\ELANParticipant Juanita
+\trs en mia nokon bohka toanahanon mia aon ibe
+\tx en mia nokon bohka toanahanun mia aun iwe
+\ft Tú vas a cortar mi cabeza, tú que vives allá.
+\sound JC.NC.IC-conversacion.varios-2013.wav 302.970 305.650
+
+\ref 146
+\ELANBegin 305.780
+\ELANEnd 309.360
+\ELANParticipant Juanita
+\trs en ribi mi bohka toai eah ibanon aki iki
+\tx en ribi mi buhka toai eah ibanon  aki iki
+\ft Yo a ti también te voy a cortar la cabeza para estar acá dice.
+\sound JC.NC.IC-conversacion.varios-2013.wav 305.780 309.360
+
+\ref 147
+\ELANBegin 309.825
+\ELANEnd 311.045
+\ELANParticipant Nelita
+\trs (asiente)
+\tx (asiente)
+\ft (asiente)
+\sound JC.NC.IC-conversacion.varios-2013.wav 309.825 311.045
+
+\ref 148
+\ELANBegin 312.710
+\ELANEnd 314.410
+\ELANParticipant Germán
+\trs bohka toanon iki haweikai?
+\tx bohka toanon iki haweikai?
+\ft ¿Qué es "bohka toanon (cortar cabeza)"?
+\sound JC.NC.IC-conversacion.varios-2013.wav 312.710 314.410
+
+\ref 149
+\ELANBegin 313.870
+\ELANEnd 314.480
+\ELANParticipant Nelita
+\trs retekasi
+\tx retekasi
+\ft matar
+\sound JC.NC.IC-conversacion.varios-2013.wav 313.870 314.480
+
+\ref 150
+\ELANBegin 314.820
+\ELANEnd 315.770
+\ELANParticipant Germán
+\trs ah ya
+\tx ah ya
+\ft ah ya
+\sound JC.NC.IC-conversacion.varios-2013.wav 314.820 315.770
+
+\ref 151
+\ELANBegin 317.440
+\ELANEnd 318.420
+\ELANParticipant Nelita
+\trs ehra
+\tx ehra
+\ft yo...
+\sound JC.NC.IC-conversacion.varios-2013.wav 317.440 318.420
+
+\ref 152
+\ELANBegin 318.520
+\ELANEnd 319.280
+\ELANParticipant Nelita
+\trs ehra
+\tx ehra
+\ft yo...
+\sound JC.NC.IC-conversacion.varios-2013.wav 318.520 319.280
+
+\ref 153
+\ELANBegin 319.315
+\ELANEnd 320.265
+\ELANParticipant Nelita
+\trs ma mia nokon
+\tx ma mia nokon
+\ft a ti, ya, a ti
+\sound JC.NC.IC-conversacion.varios-2013.wav 319.315 320.265
+
+\ref 154
+\ELANBegin 320.305
+\ELANEnd 321.045
+\ELANParticipant Nelita
+\trs (se aclara la garganta)
+\tx (se aclara la garganta)
+\ft (se aclara la garganta)
+\sound JC.NC.IC-conversacion.varios-2013.wav 320.305 321.045
+
+\ref 155
+\ELANBegin 321.100
+\ELANEnd 322.350
+\ELANParticipant Nelita
+\trs ma mia nokon rawi iki
+\tx ma mia nokon rawi iki
+\ft ya, tú mi enemigo eres
+\sound JC.NC.IC-conversacion.varios-2013.wav 321.100 322.350
+
+\ref 156
+\ELANBegin 323.050
+\ELANEnd 325.680
+\ELANParticipant Nelita
+\trs mia aronkai nekea boton ka
+\tx mia aronkai nekea boton ka
+\ft tú por este lado
+\sound JC.NC.IC-conversacion.varios-2013.wav 323.050 325.680
+
+\ref 157
+\ELANBegin 325.830
+\ELANEnd 327.010
+\ELANParticipant Nelita
+\trs nekebanetabo
+\tx nekebanetabo
+\ft acá los que han quedado en mi lado
+\sound JC.NC.IC-conversacion.varios-2013.wav 325.830 327.010
+
+\ref 158
+\ELANBegin 327.040
+\ELANEnd 328.130
+\ELANParticipant Nelita
+\trs mia nokon rawi
+\tx mia nokon rawi
+\ft Tú eres mi enemigo
+\sound JC.NC.IC-conversacion.varios-2013.wav 327.040 328.130
+
+\ref 159
+\ELANBegin 329.460
+\ELANEnd 330.680
+\ELANParticipant Nelita
+\trs en mia buhka toai
+\tx en mia buhka toai
+\ft yo te voy a cortar la cabeza
+\sound JC.NC.IC-conversacion.varios-2013.wav 329.460 330.680
+
+\ref 160
+\ELANBegin 331.320
+\ELANEnd 334.060
+\ELANParticipant Nelita
+\trs atian okehon ribi mi buhka toai.Atian moa
+\tx atian okehon ribi mi buhka toai. Atian moa
+\ft atian okehon ribi mi buhka toai atian moa
+\sound JC.NC.IC-conversacion.varios-2013.wav 331.320 334.060
+
+\ref 161
+\ELANBegin 334.205
+\ELANEnd 335.605
+\ELANParticipant Nelita
+\trs ma kopianani reteanani
+\tx ma kopianani reteanani
+\ft peleaban, se mataban
+\sound JC.NC.IC-conversacion.varios-2013.wav 334.205 335.605
+
+\ref 162
+\ELANBegin 339.170
+\ELANEnd 340.150
+\ELANParticipant Germán
+\trs ainoah ka
+\tx ainoah ka
+\ft de ahi
+\sound JC.NC.IC-conversacion.varios-2013.wav 339.170 340.150
+
+\ref 163
+\ELANBegin 340.165
+\ELANEnd 342.385
+\ELANParticipant Nelita
+\trs ainoa moa ene reske
+\tx ainoa moa ene reske
+\ft De ahi no más ya pararon nomás.
+\sound JC.NC.IC-conversacion.varios-2013.wav 340.165 342.385
+
+\ref 164
+\ELANBegin 341.270
+\ELANEnd 342.470
+\ELANParticipant Juanita
+\trs ainoah eneresa
+\tx ainoah eneresa
+\ft De ahí pararon.
+\sound JC.NC.IC-conversacion.varios-2013.wav 341.270 342.470
+
+\ref 165
+\ELANBegin 342.435
+\ELANEnd 343.445
+\ELANParticipant José
+\trs ainma eneta
+\tx ainma eneta
+\ft Ahí mismo pararon.
+\sound JC.NC.IC-conversacion.varios-2013.wav 342.435 343.445
+
+\ref 166
+\ELANBegin 344.300
+\ELANEnd 347.750
+\ELANParticipant Germán
+\trs ainoa ka betsa habirabo maton onanana iki betsa honibo ka
+\tx ainoa ka betsa habirabo maton unanana iki betsa honibo ka
+\ft Ahí había otras cosas(...) ustedes otra gente?
+\sound JC.NC.IC-conversacion.varios-2013.wav 344.300 347.750
+
+\ref 167
+\ELANBegin 347.860
+\ELANEnd 353.050
+\ELANParticipant Nelita
+\trs betsa onibo ka , betsa, betsa uni, betsa, kena, abo una hima
+\tx betsa onibo ka , betsa, betsa uni, betsa, kena, abo una hima
+\ft Otra gente habia , otra , otra gente, otros grupos con otra lengua ¿esos no conoces?
+\sound JC.NC.IC-conversacion.varios-2013.wav 347.860 353.050
+
+\ref 168
+\ELANBegin 353.670
+\ELANEnd 357.390
+\ELANParticipant Germán
+\trs Ninkawe.tsobetan matonraena paonia hawerano ka
+\tx Ninkawe.tsobetan matonraena paonia hawerano ka
+\ft no, con quién? tú donde has civilizado, pacificado, invitado?
+\sound JC.NC.IC-conversacion.varios-2013.wav 353.670 357.390
+
+\ref 169
+\ELANBegin 357.935
+\ELANEnd 359.115
+\ELANParticipant Germán
+\trs iti butin mato yusiboka
+\tx iti butin mato yusiboka
+\ft Por si acaso tus ancestros?
+\sound JC.NC.IC-conversacion.varios-2013.wav 357.935 359.115
+
+\ref 170
+\ELANBegin 359.630
+\ELANEnd 361.280
+\ELANParticipant Germán
+\trs kukanki unayama
+\tx kukanki unayama
+\ft Mi tío no conoce
+\sound JC.NC.IC-conversacion.varios-2013.wav 359.630 361.280
+
+\ref 171
+\ELANBegin 361.340
+\ELANEnd 362.260
+\ELANParticipant Germán
+\trs algo iti iki
+\tx algo iti iki
+\ft algo ...
+\sound JC.NC.IC-conversacion.varios-2013.wav 361.340 362.260
+
+\ref 172
+\ELANBegin 362.775
+\ELANEnd 365.275
+\ELANParticipant Germán
+\trs betsaunibetan, betsa inabo betan ribi ka
+\tx betsaunibetan, betsa inabo betan ribi ka
+\ft con otros hombres, con otros indígenas también
+\sound JC.NC.IC-conversacion.varios-2013.wav 362.775 365.275
+
+\ref 173
+\ELANBegin 365.630
+\ELANEnd 366.810
+\ELANParticipant Germán
+\trs entre chopaoma betan
+\tx entre chopaoma betan
+\ft entre calatos
+\sound JC.NC.IC-conversacion.varios-2013.wav 365.630 366.810
+
+\ref 174
+\ELANBegin 367.825
+\ELANEnd 369.245
+\ELANParticipant Germán
+\trs askara yukati riki haka
+\tx askara yukati riki haka
+\ft eso quiero preguntar eso es.
+\sound JC.NC.IC-conversacion.varios-2013.wav 367.825 369.245
+
+\ref 175
+\ELANBegin 369.670
+\ELANEnd 373.010
+\ELANParticipant Nelita
+\trs paeahon ka non tsoabo kena paoni
+\tx paeahon ka non tsoabo kena paoni
+\ft haciendo bebida nosotros a quienes invitamos
+\sound JC.NC.IC-conversacion.varios-2013.wav 369.670 373.010
+
+\ref 176
+\ELANBegin 373.485
+\ELANEnd 374.755
+\ELANParticipant Nelita
+\trs kenahima
+\tx kenahima
+\ft no invitaba nunca
+\sound JC.NC.IC-conversacion.varios-2013.wav 373.485 374.755
+
+\ref 177
+\ELANBegin 374.320
+\ELANEnd 374.750
+\ELANParticipant Juanita
+\trs kenama
+\tx kenama
+\ft No invitaron.
+\sound JC.NC.IC-conversacion.varios-2013.wav 374.320 374.750
+
+\ref 178
+\ELANBegin 375.685
+\ELANEnd 377.485
+\ELANParticipant Juanita
+\trs noabichores moa hatein ikebi
+\tx noabichures moa hatein ikebi
+\ft No solamente cortaban.
+\sound JC.NC.IC-conversacion.varios-2013.wav 375.685 377.485
+
+\ref 179
+\ELANBegin 377.650
+\ELANEnd 378.430
+\ELANParticipant Nelita
+\trs ahhhh....
+\tx ahhhh....
+\ft ahhhh....
+\sound JC.NC.IC-conversacion.varios-2013.wav 377.650 378.430
+
+\ref 180
+\ELANBegin 378.455
+\ELANEnd 379.565
+\ELANParticipant Juanita
+\trs neke noakiribi ike betin
+\tx neke noa bichu ike betin
+\ft Nosotros estábamos acá solitos.
+\sound JC.NC.IC-conversacion.varios-2013.wav 378.455 379.565
+
+\ref 181
+\ELANBegin 379.995
+\ELANEnd 381.815
+\ELANParticipant Juanita
+\trs noa bires ika tiki
+\tx noa bires ika tiki
+\ft Nosotros mismos estábamos
+\sound JC.NC.IC-conversacion.varios-2013.wav 379.995 381.815
+
+\ref 182
+\ELANBegin 381.910
+\ELANEnd 382.420
+\ELANParticipant Juanita
+\trs ipaoniiki
+\tx ipaoniiki
+\ft éramos
+\sound JC.NC.IC-conversacion.varios-2013.wav 381.910 382.420
+
+\ref 183
+\ELANBegin 382.700
+\ELANEnd 383.500
+\ELANParticipant Nelita
+\trs hateanana
+\tx hateanana
+\ft Cortábamos mal
+\sound JC.NC.IC-conversacion.varios-2013.wav 382.700 383.500
+
+\ref 184
+\ELANBegin 383.485
+\ELANEnd 384.435
+\ELANParticipant Juanita
+\trs hateaana
+\tx hateaana
+\ft Cortábamos
+\sound JC.NC.IC-conversacion.varios-2013.wav 383.485 384.435
+
+\ref 185
+\ELANBegin 384.935
+\ELANEnd 386.255
+\ELANParticipant Germán
+\trs hate ikamatianra
+\tx hate ikama tian
+\ft No todavía.
+\sound JC.NC.IC-conversacion.varios-2013.wav 384.935 386.255
+
+\ref 186
+\ELANBegin 386.230
+\ELANEnd 388.640
+\ELANParticipant Nelita
+\trs ikama tian bira kenanana paoni
+\tx ikama tian bira kenanana paoni
+\ft No todavía aun se podia invitar
+\sound JC.NC.IC-conversacion.varios-2013.wav 386.230 388.640
+
+\ref 187
+\ELANBegin 387.910
+\ELANEnd 389.530
+\ELANParticipant Juanita
+\trs ipaoni ea baketimatian
+\tx ipaoni ea baketimatian
+\ft Cuando era eso, yo todavía no había nacido.
+\sound JC.NC.IC-conversacion.varios-2013.wav 387.910 389.530
+
+\ref 188
+\ELANBegin 389.750
+\ELANEnd 392.510
+\ELANParticipant Nelita
+\trs ikama noa baketima chini
+\tx ikama noa baketima chini
+\ft todavia no habia nacido.
+\sound JC.NC.IC-conversacion.varios-2013.wav 389.750 392.510
+
+\ref 189
+\ELANBegin 395.700
+\ELANEnd 397.580
+\ELANParticipant Juanita
+\trs sinanama paoni iki
+\tx sinanama paoni iki
+\ft Se molestaron entre ellos.
+\sound JC.NC.IC-conversacion.varios-2013.wav 395.700 397.580
+
+\ref 190
+\ELANBegin 398.025
+\ELANEnd 399.435
+\ELANParticipant Juanita
+\trs minahonki
+\tx minahonki
+\ft Prepararon chicha.
+\sound JC.NC.IC-conversacion.varios-2013.wav 398.025 399.435
+
+\ref 191
+\ELANBegin 399.405
+\ELANEnd 399.945
+\ELANParticipant Nelita
+\trs akupira
+\tx akupira
+\ft por eso
+\sound JC.NC.IC-conversacion.varios-2013.wav 399.405 399.945
+
+\ref 192
+\ELANBegin 399.845
+\ELANEnd 400.825
+\ELANParticipant Juanita
+\trs minahonki
+\tx minahonki
+\ft minahonki
+\sound JC.NC.IC-conversacion.varios-2013.wav 399.845 400.825
+
+\ref 193
+\ELANBegin 400.895
+\ELANEnd 402.625
+\ELANParticipant Nelita
+\trs minahonki sinana paoti
+\tx minahonki sinana paoti
+\ft Preparar chicha cuando se molestaban
+\sound JC.NC.IC-conversacion.varios-2013.wav 400.895 402.625
+
+\ref 194
+\ELANBegin 402.630
+\ELANEnd 403.770
+\ELANParticipant Juanita
+\trs awen, awen
+\tx awen, awen
+\ft su, su
+\sound JC.NC.IC-conversacion.varios-2013.wav 402.630 403.770
+
+\ref 195
+\ELANBegin 404.005
+\ELANEnd 406.735
+\ELANParticipant Juanita
+\trs awen epah awinbi awen papan awinbi
+\tx awen epah awinbi awen papan awinbi
+\ft su papá con mujeres, su papa con las mujeres
+\sound JC.NC.IC-conversacion.varios-2013.wav 404.005 406.735
+
+\ref 196
+\ELANBegin 408.440
+\ELANEnd 409.350
+\ELANParticipant Juanita
+\trs chutake
+\tx chutake
+\ft tuvo relación
+\sound JC.NC.IC-conversacion.varios-2013.wav 408.440 409.350
+
+\ref 197
+\ELANBegin 409.840
+\ELANEnd 410.790
+\ELANParticipant Juanita
+\trs chutaketia
+\tx chutaketian
+\ft cuando estaba haciendo relación
+\sound JC.NC.IC-conversacion.varios-2013.wav 409.840 410.790
+
+\ref 198
+\ELANBegin 410.910
+\ELANEnd 413.480
+\ELANParticipant Juanita
+\trs waikoatanwe wai meno tanwe micha baken
+\tx waikoatanwe wai meno tanwe. Micha baken
+\ft la chacra se quema, hijo
+\sound JC.NC.IC-conversacion.varios-2013.wav 410.910 413.480
+
+\ref 199
+\ELANBegin 413.770
+\ELANEnd 416.180
+\ELANParticipant Juanita
+\trs huntan ewan yahun menotanwe
+\tx huntan ewan yahun menotanwe
+\ft se quema con la madrastra
+\sound JC.NC.IC-conversacion.varios-2013.wav 413.770 416.180
+
+\ref 200
+\ELANBegin 417.520
+\ELANEnd 418.760
+\ELANParticipant Juanita
+\trs huntan menotanwe
+\tx huntan menotanwe
+\ft se quema
+\sound JC.NC.IC-conversacion.varios-2013.wav 417.520 418.760
+
+\ref 201
+\ELANBegin 421.010
+\ELANEnd 423.160
+\ELANParticipant Juanita
+\trs aiyai epahka iki menopai
+\tx aiyai epahka iki menopai
+\ft ya papá, se quemó
+\sound JC.NC.IC-conversacion.varios-2013.wav 421.010 423.160
+
+\ref 202
+\ELANBegin 425.970
+\ELANEnd 428.240
+\ELANParticipant Juanita
+\trs au menoki kuiyamasi
+\tx au menoki kuiyamasi
+\ft allá se quemó, no había humo
+\sound JC.NC.IC-conversacion.varios-2013.wav 425.970 428.240
+
+\ref 203
+\ELANBegin 431.150
+\ELANEnd 432.140
+\ELANParticipant Germán
+\trs apari
+\tx apari
+\ft todavía esta haciendo relación
+\sound JC.NC.IC-conversacion.varios-2013.wav 431.150 432.140
+
+\ref 204
+\ELANBegin 431.617
+\ELANEnd 431.950
+\ELANParticipant José
+\trs aparí
+\tx aparí
+\ft todavía esta haciendo relación
+\sound JC.NC.IC-conversacion.varios-2013.wav 431.617 431.950
+
+\ref 205
+\ELANBegin 432.000
+\ELANEnd 432.730
+\ELANParticipant Juanita
+\trs pasohon
+\tx pasohon
+\ft esquina
+\sound JC.NC.IC-conversacion.varios-2013.wav 432.000 432.730
+
+\ref 206
+\ELANBegin 432.720
+\ELANEnd 433.550
+\ELANParticipant Nelita
+\trs apari
+\tx apari
+\ft todavia esta haciendolo
+\sound JC.NC.IC-conversacion.varios-2013.wav 432.720 433.550
+
+\ref 207
+\ELANBegin 433.640
+\ELANEnd 434.200
+\ELANParticipant Juanita
+\trs apari
+\tx apari
+\ft todavía esta haciendo relación
+\sound JC.NC.IC-conversacion.varios-2013.wav 433.640 434.200
+
+\ref 208
+\ELANBegin 434.430
+\ELANEnd 434.810
+\ELANParticipant Juanita
+\trs apari
+\tx apari
+\ft todavía esta haciendo relación
+\sound JC.NC.IC-conversacion.varios-2013.wav 434.430 434.810
+
+\ref 209
+\ELANBegin 437.030
+\ELANEnd 437.990
+\ELANParticipant Nelita
+\trs meno pari pain
+\tx meno pari pain
+\ft "hubiera quemado primero"
+\sound JC.NC.IC-conversacion.varios-2013.wav 437.030 437.990
+
+\ref 210
+\ELANBegin 437.955
+\ELANEnd 439.685
+\ELANParticipant Juanita
+\trs meno ama pari
+\tx meno ama pari
+\ft no había quemado todavía
+\sound JC.NC.IC-conversacion.varios-2013.wav 437.955 439.685
+
+\ref 211
+\ELANBegin 440.105
+\ELANEnd 440.635
+\ELANParticipant Juanita
+\trs chutapari
+\tx chutapari
+\ft Está teniendo relación todavía.
+\sound JC.NC.IC-conversacion.varios-2013.wav 440.105 440.635
+
+\ref 212
+\ELANBegin 442.125
+\ELANEnd 444.305
+\ELANParticipant Nelita
+\trs ain oah kesaka unun kani iki
+\tx ain oah kesaka unun kani iki
+\ft de ahí, se ha escapado
+\sound JC.NC.IC-conversacion.varios-2013.wav 442.125 444.305
+
+\ref 213
+\ELANBegin 444.570
+\ELANEnd 445.890
+\ELANParticipant Juanita
+\trs [?¿]
+\tx [?¿]
+\ft [?¿]
+\sound JC.NC.IC-conversacion.varios-2013.wav 444.570 445.890
+
+\ref 214
+\ELANBegin 448.220
+\ELANEnd 448.730
+\ELANParticipant Juanita
+\trs ani ki
+\tx ani ki
+\ft Ahí está
+\sound JC.NC.IC-conversacion.varios-2013.wav 448.220 448.730
+
+\ref 215
+\ELANBegin 449.465
+\ELANEnd 451.835
+\ELANParticipant Juanita
+\trs oinki chaparantarua
+\tx oinki chaparantarua
+\ft Lo ve abierto de piernas.
+\sound JC.NC.IC-conversacion.varios-2013.wav 449.465 451.835
+
+\ref 216
+\ELANBegin 452.175
+\ELANEnd 453.645
+\ELANParticipant Nelita
+\trs awen matras
+\tx awen matras
+\ft su madrastra
+\sound JC.NC.IC-conversacion.varios-2013.wav 452.175 453.645
+
+\ref 217
+\ELANBegin 453.685
+\ELANEnd 454.695
+\ELANParticipant Juanita
+\trs awen matras
+\tx awen matras
+\ft Su madrastra.
+\sound JC.NC.IC-conversacion.varios-2013.wav 453.685 454.695
+
+\ref 218
+\ELANBegin 456.015
+\ELANEnd 458.315
+\ELANParticipant Nelita
+\trs awen huntan ewa aki
+\tx awen huntan ewa aki
+\ft su madrastra haciendo
+\sound JC.NC.IC-conversacion.varios-2013.wav 456.015 458.315
+
+\ref 219
+\ELANBegin 459.700
+\ELANEnd 461.010
+\ELANParticipant Juanita
+\trs merahekoki ishtoke
+\tx merahekuki ishtoke
+\ft Así está queriendo matar el que había corrido.
+\sound JC.NC.IC-conversacion.varios-2013.wav 459.700 461.010
+
+\ref 220
+\ELANBegin 461.740
+\ELANEnd 463.760
+\ELANParticipant Juanita
+\trs ainbo wishka wishka wishka
+\tx ainbo wishka wishka wishka
+\ft El sonido de las piernas de la mujer al hacer el amor.
+\sound JC.NC.IC-conversacion.varios-2013.wav 461.740 463.760
+
+\ref 221
+\ELANBegin 465.330
+\ELANEnd 469.180
+\ELANParticipant Juanita
+\trs shinai, eh marehekoi kai
+\tx shinai, eh marehekoi kai
+\ft Yo iría a matarlo.
+\sound JC.NC.IC-conversacion.varios-2013.wav 465.330 469.180
+
+\ref 222
+\ELANBegin 469.640
+\ELANEnd 473.610
+\ELANParticipant Juanita
+\trs miaribi iska haku nahain
+\tx miaribi iska haku nahain
+\ft [?¿]
+\sound JC.NC.IC-conversacion.varios-2013.wav 469.640 473.610
+
+\ref 223
+\ELANBegin 473.780
+\ELANEnd 474.850
+\ELANParticipant Juanita
+\trs pano heremena iki
+\tx pano heremena iki
+\ft Había una carachupa grande dentro del hueco.
+\sound JC.NC.IC-conversacion.varios-2013.wav 473.780 474.850
+
+\ref 224
+\ELANBegin 474.940
+\ELANEnd 476.600
+\ELANParticipant Nelita
+\trs pano heremena iki
+\tx pano here mena iki
+\ft Había una carachupa grande dentro del hueco.
+\sound JC.NC.IC-conversacion.varios-2013.wav 474.940 476.600
+
+\ref 225
+\ELANBegin 477.450
+\ELANEnd 478.530
+\ELANParticipant Juanita
+\trs inkiama ka
+\tx inkiama ka
+\ft Estaba adentro.
+\sound JC.NC.IC-conversacion.varios-2013.wav 477.450 478.530
+
+\ref 226
+\ELANBegin 478.835
+\ELANEnd 481.975
+\ELANParticipant Juanita
+\trs pano heremena natirewan yamakentin
+\tx pano heremena nati rewan yamakentin
+\ft Había entrado y había anchado.
+\sound JC.NC.IC-conversacion.varios-2013.wav 478.835 481.975
+
+\ref 227
+\ELANBegin 484.590
+\ELANEnd 485.646
+\ELANParticipant Juanita
+\trs ikikainkebi
+\tx iki kai
+\ft Estando adentro.
+\sound JC.NC.IC-conversacion.varios-2013.wav 484.590 485.646
+
+\ref 228
+\ELANBegin 487.345
+\ELANEnd 488.845
+\ELANParticipant Juanita
+\trs meshti niyainiki
+\tx meshti niyai
+\ft Metió el palo seco.
+\sound JC.NC.IC-conversacion.varios-2013.wav 487.345 488.845
+
+\ref 229
+\ELANBegin 490.040
+\ELANEnd 491.050
+\ELANParticipant Nelita
+\trs payanohon
+\tx payanohon
+\ft para ventilar el fuego
+\sound JC.NC.IC-conversacion.varios-2013.wav 490.040 491.050
+
+\ref 230
+\ELANBegin 491.000
+\ELANEnd 493.870
+\ELANParticipant Juanita
+\trs payanohon awen betsa ochima
+\tx payanohon awen betsa ochima
+\ft Para ventilar el fuego, su hermano menor.
+\sound JC.NC.IC-conversacion.varios-2013.wav 491.000 493.870
+
+\ref 231
+\ELANBegin 494.160
+\ELANEnd 496.680
+\ELANParticipant Juanita
+\trs ochi mareyamawe
+\tx ochima re yamawe
+\ft No mató.
+\sound JC.NC.IC-conversacion.varios-2013.wav 494.160 496.680
+
+\ref 232
+\ELANBegin 494.865
+\ELANEnd 495.747
+\ELANParticipant Nelita
+\trs ochi mareyamawe
+\tx ochi mareyamawe
+\ft A su hermano mayor no mató.
+\sound JC.NC.IC-conversacion.varios-2013.wav 494.865 495.747
+
+\ref 233
+\ELANBegin 497.075
+\ELANEnd 498.135
+\ELANParticipant Nelita
+\trs nato tio
+\tx nato tio
+\ft Este tamaño.
+\sound JC.NC.IC-conversacion.varios-2013.wav 497.075 498.135
+
+\ref 234
+\ELANBegin 498.100
+\ELANEnd 500.840
+\ELANParticipant Juanita
+\trs Miaribi iskahakonahain
+\tx [?¿]
+\ft Tú también [?¿]
+\sound JC.NC.IC-conversacion.varios-2013.wav 498.100 500.840
+
+\ref 235
+\ELANBegin 498.340
+\ELANEnd 500.828
+\ELANParticipant Nelita
+\trs Miaribi awitsahakonahain
+\tx Miaribi awitsahakonahain
+\ft Tú también [?¿]
+\sound JC.NC.IC-conversacion.varios-2013.wav 498.340 500.828
+
+\ref 236
+\ELANBegin 504.100
+\ELANEnd 505.730
+\ELANParticipant Juanita
+\trs hena bitanon
+\tx hena bitanon
+\ft Fuego voy a traer.
+\sound JC.NC.IC-conversacion.varios-2013.wav 504.100 505.730
+
+\ref 237
+\ELANBegin 505.810
+\ELANEnd 506.540
+\ELANParticipant Juanita
+\trs ochi ointiri
+\tx uchi uintiri
+\ft Mira hermano.
+\sound JC.NC.IC-conversacion.varios-2013.wav 505.810 506.540
+
+\ref 238
+\ELANBegin 506.500
+\ELANEnd 507.999
+\ELANParticipant Nelita
+\trs uchi ointiri hena bitanon
+\tx uchi ointiri hena bitanon
+\ft mira hermano mayor, voy a traer fuego
+\sound JC.NC.IC-conversacion.varios-2013.wav 506.500 507.999
+
+\ref 239
+\ELANBegin 508.023
+\ELANEnd 508.464
+\ELANParticipant Juanita
+\trs [?¿]
+\tx [?¿]
+\ft [?¿]
+\sound JC.NC.IC-conversacion.varios-2013.wav 508.023 508.464
+
+\ref 240
+\ELANBegin 508.740
+\ELANEnd 509.680
+\ELANParticipant Juanita
+\trs nibe mekeriohma
+\tx nibe mekeriohma
+\ft Contigo malcriado no obedeces.
+\sound JC.NC.IC-conversacion.varios-2013.wav 508.740 509.680
+
+\ref 241
+\ELANBegin 511.915
+\ELANEnd 512.755
+\ELANParticipant Juanita
+\trs inabekah
+\tx inabehkah
+\ft Te molestaban las mujeres.
+\sound JC.NC.IC-conversacion.varios-2013.wav 511.915 512.755
+
+\ref 242
+\ELANBegin 513.210
+\ELANEnd 518.850
+\ELANParticipant Juanita
+\trs epa kai iki piku kain be ochin " rah, rah, rah" piku kain
+\tx epa kai iki piku kain be ochin " rah, rah, rah" piku kain
+\ft El papá le dice al hermano "sal" (sonido de los palos secos al caer).
+\sound JC.NC.IC-conversacion.varios-2013.wav 513.210 518.850
+
+\ref 243
+\ELANBegin 517.975
+\ELANEnd 518.845
+\ELANParticipant Nelita
+\trs piku kain
+\tx piku kain
+\ft ¿Salieron?
+\sound JC.NC.IC-conversacion.varios-2013.wav 517.975 518.845
+
+\ref 244
+\ELANBegin 520.770
+\ELANEnd 521.460
+\ELANParticipant Juanita
+\trs piku kain
+\tx piku kain
+\ft ¿Salieron?
+\sound JC.NC.IC-conversacion.varios-2013.wav 520.770 521.460
+
+\ref 245
+\ELANBegin 521.510
+\ELANEnd 522.700
+\ELANParticipant Isabel
+\trs ana niaribike
+\tx ana nia ribi ke
+\ft Se metió otra vez.
+\sound JC.NC.IC-conversacion.varios-2013.wav 521.510 522.700
+
+\ref 246
+\ELANBegin 522.920
+\ELANEnd 525.040
+\ELANParticipant Juanita
+\trs ana niaribike
+\tx ana nia ribike
+\ft Se metió otra vez.
+\sound JC.NC.IC-conversacion.varios-2013.wav 522.920 525.040
+
+\ref 247
+\ELANBegin 522.920
+\ELANEnd 525.040
+\ELANParticipant Nelita
+\trs ana niaribike
+\tx ana nia ribike
+\ft otra vez se metió
+\sound JC.NC.IC-conversacion.varios-2013.wav 522.920 525.040
+
+\ref 248
+\ELANBegin 525.085
+\ELANEnd 525.955
+\ELANParticipant Juanita
+\trs ma ka
+\tx maka
+\ft Ya está.
+\sound JC.NC.IC-conversacion.varios-2013.wav 525.085 525.955
+
+\ref 249
+\ELANBegin 525.995
+\ELANEnd 527.185
+\ELANParticipant Juanita
+\trs chitoma ichua
+\tx chitoma ichua
+\ft Se escapó lejos.
+\sound JC.NC.IC-conversacion.varios-2013.wav 525.995 527.185
+
+\ref 250
+\ELANBegin 527.245
+\ELANEnd 530.375
+\ELANParticipant Juanita
+\trs awen witsahaku soko sokoiki niahakua
+\tx awen witsa haku soko soko iki nia hakua
+\ft Su hermanito empezó a moquear.
+\sound JC.NC.IC-conversacion.varios-2013.wav 527.245 530.375
+
+\ref 251
+\ELANBegin 530.460
+\ELANEnd 531.110
+\ELANParticipant Juanita
+\trs [?¿]
+\tx [?¿]
+\ft [?¿]
+\sound JC.NC.IC-conversacion.varios-2013.wav 530.460 531.110
+
+\ref 252
+\ELANBegin 531.190
+\ELANEnd 532.280
+\ELANParticipant Nelita
+\trs paribira ka
+\tx paribira ka
+\ft tienia miedo
+\sound JC.NC.IC-conversacion.varios-2013.wav 531.190 532.280
+
+\ref 253
+\ELANBegin 532.290
+\ELANEnd 533.350
+\ELANParticipant Nelita
+\trs yuma pikua
+\tx yuma pikua
+\ft pescado comia
+\sound JC.NC.IC-conversacion.varios-2013.wav 532.290 533.350
+
+\ref 254
+\ELANBegin 535.645
+\ELANEnd 539.535
+\ELANParticipant Juanita
+\trs [...] tashbahako hama penosh niaini iki
+\tx [...] tashba haku hama penosh niaini iki
+\ft [...] Abiertito. hoja seca metió.
+\sound JC.NC.IC-conversacion.varios-2013.wav 535.645 539.535
+
+\ref 255
+\ELANBegin 539.535
+\ELANEnd 541.155
+\ELANParticipant Nelita
+\trs penosh niainiki
+\tx penosh niainiki
+\ft en hoja seca
+\sound JC.NC.IC-conversacion.varios-2013.wav 539.535 541.155
+
+\ref 256
+\ELANBegin 545.700
+\ELANEnd 546.380
+\ELANParticipant Juanita
+\trs payai "peh, peh, peh"
+\tx payai"peh, peh, peh"
+\ft abanicando "peh, peh, peh"
+\sound JC.NC.IC-conversacion.varios-2013.wav 545.700 546.380
+
+\ref 257
+\ELANBegin 546.395
+\ELANEnd 548.675
+\ELANParticipant Nelita
+\trs iwi, iwi tapun ki "toh"
+\tx iwi, iwi tapun ki "toh"
+\ft la raiz del árbol hacía "toh"
+\sound JC.NC.IC-conversacion.varios-2013.wav 546.395 548.675
+
+\ref 258
+\ELANBegin 548.610
+\ELANEnd 550.740
+\ELANParticipant Juanita
+\trs iwi tapun ki "toh"
+\tx iwi tapun ki "toh"
+\ft La raíz del árbol hacía "toh"
+\sound JC.NC.IC-conversacion.varios-2013.wav 548.610 550.740
+
+\ref 259
+\ELANBegin 551.090
+\ELANEnd 553.670
+\ELANParticipant Juanita
+\trs "tohe" rama unawe
+\tx "tohe" rama unawe
+\ft "tohe" Ahora ya sabes.
+\sound JC.NC.IC-conversacion.varios-2013.wav 551.090 553.670
+
+\ref 260
+\ELANBegin 554.120
+\ELANEnd 554.510
+\ELANParticipant Juanita
+\trs ¡ain!
+\tx ¡ain!
+\ft
+\sound JC.NC.IC-conversacion.varios-2013.wav 554.120 554.510
+
+\ref 261
+\ELANBegin 554.680
+\ELANEnd 558.540
+\ELANParticipant Juanita
+\trs awen betsahako tsoko tsoko
+\tx awen betsa tsoko tsoko
+\ft Su hermanito está moqueando.
+\sound JC.NC.IC-conversacion.varios-2013.wav 554.680 558.540
+
+\ref 262
+\ELANBegin 561.550
+\ELANEnd 562.600
+\ELANParticipant Isabel
+\trs awen betsa kakebi
+\tx awen betsa kakebi
+\ft Aunque su hermanito se ha ido.
+\sound JC.NC.IC-conversacion.varios-2013.wav 561.550 562.600
+
+\ref 263
+\ELANBegin 562.525
+\ELANEnd 563.805
+\ELANParticipant Juanita
+\trs ma oni ichoa
+\tx ma oni ichua
+\ft Ya el hombre se escapó.
+\sound JC.NC.IC-conversacion.varios-2013.wav 562.525 563.805
+
+\ref 264
+\ELANBegin 563.265
+\ELANEnd 565.185
+\ELANParticipant Nelita
+\trs unehon uin uinki
+\tx unehon uin uinki
+\ft se escondia mirando mirando
+\sound JC.NC.IC-conversacion.varios-2013.wav 563.265 565.185
+
+\ref 265
+\ELANBegin 564.755
+\ELANEnd 565.275
+\ELANParticipant Juanita
+\trs ichoa
+\tx ichua
+\ft Escapó.
+\sound JC.NC.IC-conversacion.varios-2013.wav 564.755 565.275
+
+\ref 266
+\ELANBegin 566.015
+\ELANEnd 567.165
+\ELANParticipant Juanita
+\trs ichoa nehekoa
+\tx ichoa nehekoa
+\ft Se subió y se escapó.
+\sound JC.NC.IC-conversacion.varios-2013.wav 566.015 567.165
+
+\ref 267
+\ELANBegin 570.440
+\ELANEnd 573.730
+\ELANParticipant Juanita
+\trs menoke oinia kiki yama
+\tx menoke uin ia kiki yama
+\ft Cuando miró, ya no estaba.
+\sound JC.NC.IC-conversacion.varios-2013.wav 570.440 573.730
+
+\ref 268
+\ELANBegin 573.849
+\ELANEnd 574.588
+\ELANParticipant Nelita
+\trs yamasa.
+\tx yamasa.
+\ft No había.
+\sound JC.NC.IC-conversacion.varios-2013.wav 573.849 574.588
+
+\ref 269
+\ELANBegin 574.407
+\ELANEnd 575.328
+\ELANParticipant Juanita
+\trs penahaki oina yama
+\tx penahaki oina yama
+\ft No había curado.
+\sound JC.NC.IC-conversacion.varios-2013.wav 574.407 575.328
+
+\ref 270
+\ELANBegin 575.980
+\ELANEnd 577.460
+\ELANParticipant Nelita
+\trs penahapari
+\tx penahapari
+\ft cavaba y  todavia
+\sound JC.NC.IC-conversacion.varios-2013.wav 575.980 577.460
+
+\ref 271
+\ELANBegin 577.380
+\ELANEnd 578.380
+\ELANParticipant Juanita
+\trs penahapari
+\tx penahapari
+\ft Todavía estaba sin curar.
+\sound JC.NC.IC-conversacion.varios-2013.wav 577.380 578.380
+
+\ref 272
+\ELANBegin 578.960
+\ELANEnd 580.820
+\ELANParticipant Juanita
+\trs "mia oni, mia aha kui kai"
+\tx "micha oni, mia ha kui kai"
+\ft "A ti te voy a quemar".
+\sound JC.NC.IC-conversacion.varios-2013.wav 578.960 580.820
+
+\ref 273
+\ELANBegin 580.980
+\ELANEnd 582.160
+\ELANParticipant Juanita
+\trs "ha, ha , ha"
+\tx "ha, ha , ha"
+\ft "ha, ha , ha"
+\sound JC.NC.IC-conversacion.varios-2013.wav 580.980 582.160
+
+\ref 274
+\ELANBegin 583.370
+\ELANEnd 584.930
+\ELANParticipant Juanita
+\trs choron ishtohokoa
+\tx choron ishtohokoa
+\ft Y se fue corriendo rapidito.
+\sound JC.NC.IC-conversacion.varios-2013.wav 583.370 584.930
+
+\ref 275
+\ELANBegin 585.660
+\ELANEnd 587.830
+\ELANParticipant Juanita
+\trs choroin icho hokoa
+\tx choroin icho hokoa
+\ft Se fue corriendo, corriendo rapidito.
+\sound JC.NC.IC-conversacion.varios-2013.wav 585.660 587.830
+
+\ref 276
+\ELANBegin 587.995
+\ELANEnd 589.195
+\ELANParticipant Juanita
+\trs (se aclara la garganta)
+\tx (se aclara la garganta)
+\ft (se aclara la garganta)
+\sound JC.NC.IC-conversacion.varios-2013.wav 587.995 589.195
+
+\ref 277
+\ELANBegin 590.700
+\ELANEnd 592.680
+\ELANParticipant Juanita
+\trs ewe bitsa mena inake
+\tx ewe bitsa mena inake
+\ft Se fue a otro lugar para vivir.
+\sound JC.NC.IC-conversacion.varios-2013.wav 590.700 592.680
+
+\ref 278
+\ELANBegin 592.830
+\ELANEnd 593.910
+\ELANParticipant Juanita
+\trs ewe bitsa mena
+\tx ewebitsa mena
+\ft A otro sitio.
+\sound JC.NC.IC-conversacion.varios-2013.wav 592.830 593.910
+
+\ref 279
+\ELANBegin 594.690
+\ELANEnd 595.990
+\ELANParticipant Nelita
+\trs ewe bitsa mena inake
+\tx ewe bitsa mena inake
+\ft Llegó a otro sitio.
+\sound JC.NC.IC-conversacion.varios-2013.wav 594.690 595.990
+
+\ref 280
+\ELANBegin 596.010
+\ELANEnd 596.410
+\ELANParticipant Juanita
+\trs ewe bitsa mena inake
+\tx ewe bitsa mena inake
+\ft Llegó a otro sitio.
+\sound JC.NC.IC-conversacion.varios-2013.wav 596.010 596.410
+
+\ref 281
+\ELANBegin 597.100
+\ELANEnd 599.350
+\ELANParticipant Juanita
+\trs awen kayabo ewea mena
+\tx awen kaiabo ewea mena bitsa ka
+\ft Su pariente vivía ahí.
+\sound JC.NC.IC-conversacion.varios-2013.wav 597.100 599.350
+
+\ref 282
+\ELANBegin 600.055
+\ELANEnd 601.765
+\ELANParticipant Juanita
+\trs [...] non kayaboribi oa
+\tx [...] non kaiabo oa
+\ft [...] Nuestro pariente.
+\sound JC.NC.IC-conversacion.varios-2013.wav 600.055 601.765
+
+\ref 283
+\ELANBegin 602.080
+\ELANEnd 603.325
+\ELANParticipant Nelita
+\trs a bitsa ka
+\tx a bitsa a
+\ft ese otro
+\sound JC.NC.IC-conversacion.varios-2013.wav 602.080 603.325
+
+\ref 284
+\ELANBegin 603.325
+\ELANEnd 604.235
+\ELANParticipant Nelita
+\trs non kayaboribi
+\tx non kaiabo ribi
+\ft nuestro pariente también era
+\sound JC.NC.IC-conversacion.varios-2013.wav 603.325 604.235
+
+\ref 285
+\ELANBegin 604.280
+\ELANEnd 605.280
+\ELANParticipant Juanita
+\trs non kayaboribi
+\tx non kaiabo ribi
+\ft Nuestro pariente también era.
+\sound JC.NC.IC-conversacion.varios-2013.wav 604.280 605.280
+
+\ref 286
+\ELANBegin 606.460
+\ELANEnd 607.430
+\ELANParticipant Isabel
+\trs ain ka ikinin
+\tx ain ka ikinin
+\ft Ahí se quedó.
+\sound JC.NC.IC-conversacion.varios-2013.wav 606.460 607.430
+
+\ref 287
+\ELANBegin 607.735
+\ELANEnd 609.145
+\ELANParticipant Nelita
+\trs ain ka ikinin
+\tx ain ka ikinin
+\ft Ahí se quedó.
+\sound JC.NC.IC-conversacion.varios-2013.wav 607.735 609.145
+
+\ref 288
+\ELANBegin 609.220
+\ELANEnd 609.900
+\ELANParticipant Juanita
+\trs [?¿]
+\tx ????
+\ft [?¿]
+\sound JC.NC.IC-conversacion.varios-2013.wav 609.220 609.900
+
+\ref 289
+\ELANBegin 612.110
+\ELANEnd 613.110
+\ELANParticipant Nelita
+\trs atian umari bake
+\tx atian umari bake
+\ft Entonces prepararon trago
+\sound JC.NC.IC-conversacion.varios-2013.wav 612.110 613.110
+
+\ref 290
+\ELANBegin 613.470
+\ELANEnd 614.900
+\ELANParticipant Juanita
+\trs aha, omaribake
+\tx aha, umaribake
+\ft Y entonces prepararon trago.
+\sound JC.NC.IC-conversacion.varios-2013.wav 613.470 614.900
+
+\ref 291
+\ELANBegin 616.291
+\ELANEnd 617.543
+\ELANParticipant Juanita
+\trs oma honki
+\tx oma honki
+\ft Así es de chicha.
+\sound JC.NC.IC-conversacion.varios-2013.wav 616.291 617.543
+
+\ref 292
+\ELANBegin 620.340
+\ELANEnd 621.580
+\ELANParticipant Juanita
+\trs yoi patanke bitsa
+\tx yui patanke bitsa
+\ft Invitando a otro.
+\sound JC.NC.IC-conversacion.varios-2013.wav 620.340 621.580
+
+\ref 293
+\ELANBegin 622.210
+\ELANEnd 623.670
+\ELANParticipant Juanita
+\trs yoitanke
+\tx yuitake
+\ft Primero bebiendo uno e invitando
+\sound JC.NC.IC-conversacion.varios-2013.wav 622.210 623.670
+
+\ref 294
+\ELANBegin 623.660
+\ELANEnd 624.140
+\ELANParticipant Nelita
+\trs yoitanke
+\tx yuitake
+\ft primero bebiendo uno e invitando
+\sound JC.NC.IC-conversacion.varios-2013.wav 623.660 624.140
+
+\ref 295
+\ELANBegin 630.310
+\ELANEnd 631.940
+\ELANParticipant Juanita
+\trs kake poyanhaboke
+\tx kake puyanhaboke
+\ft Fue, su brazo estaba adornado.
+\sound JC.NC.IC-conversacion.varios-2013.wav 630.310 631.940
+
+\ref 296
+\ELANBegin 632.235
+\ELANEnd 633.055
+\ELANParticipant Nelita
+\trs puyanhaboke
+\tx puyanhaboke
+\ft Su brazo adornado
+\sound JC.NC.IC-conversacion.varios-2013.wav 632.235 633.055
+
+\ref 297
+\ELANBegin 633.055
+\ELANEnd 634.165
+\ELANParticipant Juanita
+\trs hekesabeke
+\tx hupusabeke
+\ft Habiendo hecho el adorno con nudos (soga).
+\sound JC.NC.IC-conversacion.varios-2013.wav 633.055 634.165
+
+\ref 298
+\ELANBegin 634.170
+\ELANEnd 634.950
+\ELANParticipant Nelita
+\trs hoposabeke
+\tx hupusabeke
+\ft tenia amarrado soga yanchama
+\sound JC.NC.IC-conversacion.varios-2013.wav 634.170 634.950
+
+\ref 299
+\ELANBegin 634.890
+\ELANEnd 636.160
+\ELANParticipant Juanita
+\trs iskoromebake
+\tx iskorumebake
+\ft
+\sound JC.NC.IC-conversacion.varios-2013.wav 634.890 636.160
+
+\ref 300
+\ELANBegin 636.095
+\ELANEnd 636.615
+\ELANParticipant Nelita
+\trs iskoromeake
+\tx iskorumebake
+\ft Tenia puesto plumas de Paucar
+\sound JC.NC.IC-conversacion.varios-2013.wav 636.095 636.615
+
+\ref 301
+\ELANBegin 636.620
+\ELANEnd 637.220
+\ELANParticipant Juanita
+\trs kewake
+\tx kewake
+\ft Teniendo puesto plumas en la boca.
+\sound JC.NC.IC-conversacion.varios-2013.wav 636.620 637.220
+
+\ref 302
+\ELANBegin 637.040
+\ELANEnd 637.850
+\ELANParticipant Nelita
+\trs kewake
+\tx kewake
+\ft Tenia la boca adornado con plumas
+\sound JC.NC.IC-conversacion.varios-2013.wav 637.040 637.850
+
+\ref 303
+\ELANBegin 637.882
+\ELANEnd 639.870
+\ELANParticipant Juanita
+\trs neno kewa iki neno akewaiki non kayabo
+\tx neno kewa iki neno akewaiki non kayabo, kewaya
+\ft Nuestros parientes tenían adornos en la boca.
+\sound JC.NC.IC-conversacion.varios-2013.wav 637.882 639.870
+
+\ref 304
+\ELANBegin 639.946
+\ELANEnd 640.580
+\ELANParticipant Nelita
+\trs kewaya
+\tx kewaya
+\ft adorno de boca
+\sound JC.NC.IC-conversacion.varios-2013.wav 639.946 640.580
+
+\ref 305
+\ELANBegin 640.600
+\ELANEnd 641.135
+\ELANParticipant Juanita
+\trs kewaya
+\tx kewaya
+\ft Adorno de boca.
+\sound JC.NC.IC-conversacion.varios-2013.wav 640.600 641.135
+
+\ref 306
+\ELANBegin 641.170
+\ELANEnd 641.180
+\ELANParticipant Juanita
+\trs pi chari chari
+\tx pichari chari
+\ft Comían masticando.
+\sound JC.NC.IC-conversacion.varios-2013.wav 641.170 641.180
+
+\ref 307
+\ELANBegin 641.180
+\ELANEnd 643.680
+\ELANParticipant Juanita
+\trs pi chari chari iki betin
+\tx pichari chari iki betin
+\ft Comían masticando .
+\sound JC.NC.IC-conversacion.varios-2013.wav 641.180 643.680
+
+\ref 308
+\ELANBegin 648.780
+\ELANEnd 650.730
+\ELANParticipant Juanita
+\trs merabaini kai
+\tx merabaini kai
+\ft [?¿]
+\sound JC.NC.IC-conversacion.varios-2013.wav 648.780 650.730
+
+\ref 309
+\ELANBegin 653.900
+\ELANEnd 657.240
+\ELANParticipant Juanita
+\trs a...ana mestahakumis ana hepemis ki
+\tx a...ana mestah akumis anahepemis ki
+\ft [?¿]
+\sound JC.NC.IC-conversacion.varios-2013.wav 653.900 657.240
+
+\ref 310
+\ELANBegin 657.340
+\ELANEnd 657.910
+\ELANParticipant Juanita
+\trs paubainke
+\tx paubainke
+\ft Fue yendo a abrazarlo.
+\sound JC.NC.IC-conversacion.varios-2013.wav 657.340 657.910
+
+\ref 311
+\ELANBegin 657.910
+\ELANEnd 658.690
+\ELANParticipant Nelita
+\trs paubainke
+\tx paubainke
+\ft Fue yendo a abrazarlo.
+\sound JC.NC.IC-conversacion.varios-2013.wav 657.910 658.690
+
+\ref 312
+\ELANBegin 659.530
+\ELANEnd 661.460
+\ELANParticipant Juanita
+\trs epahenteni ki epahahenteni ki
+\tx epahentenini epahahenteniki
+\ft El papá cerró.
+\sound JC.NC.IC-conversacion.varios-2013.wav 659.530 661.460
+
+\ref 313
+\ELANBegin 661.770
+\ELANEnd 665.080
+\ELANParticipant Juanita
+\trs epapayaniki, epapayaniki , epapayaniki
+\tx epapayaniki, epapayaniki , epapayaniki
+\ft El papá sopló.
+\sound JC.NC.IC-conversacion.varios-2013.wav 661.770 665.080
+
+\ref 314
+\ELANBegin 662.595
+\ELANEnd 663.455
+\ELANParticipant Nelita
+\trs epapayaniki
+\tx epapayaniki
+\ft El papá sopló.
+\sound JC.NC.IC-conversacion.varios-2013.wav 662.595 663.455
+
+\ref 315
+\ELANBegin 663.715
+\ELANEnd 664.525
+\ELANParticipant Nelita
+\trs epapayaniki
+\tx epapayaniki
+\ft El papá sopló.
+\sound JC.NC.IC-conversacion.varios-2013.wav 663.715 664.525
+
+\ref 316
+\ELANBegin 665.180
+\ELANEnd 666.130
+\ELANParticipant Juanita
+\trs epahenteni ki
+\tx epahenteniki
+\ft El papá cerró.
+\sound JC.NC.IC-conversacion.varios-2013.wav 665.180 666.130
+
+\ref 317
+\ELANBegin 666.145
+\ELANEnd 666.885
+\ELANParticipant Juanita
+\trs ewen hontan ewa
+\tx ewen huntan ewa
+\ft Mi madrastra
+\sound JC.NC.IC-conversacion.varios-2013.wav 666.145 666.885
+
+\ref 318
+\ELANBegin 667.055
+\ELANEnd 668.105
+\ELANParticipant Juanita
+\trs chotaikiki
+\tx chutaikiki
+\ft Tiene relación.
+\sound JC.NC.IC-conversacion.varios-2013.wav 667.055 668.105
+
+\ref 319
+\ELANBegin 668.230
+\ELANEnd 668.850
+\ELANParticipant Juanita
+\trs epahateni
+\tx epahateni
+\ft Con mi padre.
+\sound JC.NC.IC-conversacion.varios-2013.wav 668.230 668.850
+
+\ref 320
+\ELANBegin 669.120
+\ELANEnd 670.000
+\ELANParticipant Juanita
+\trs epahateni
+\tx epahateni
+\ft Con mi padre.
+\sound JC.NC.IC-conversacion.varios-2013.wav 669.120 670.000
+
+\ref 321
+\ELANBegin 670.180
+\ELANEnd 671.700
+\ELANParticipant Juanita
+\trs raberi kaihon
+\tx rabeti kaihon
+\ft Dar la vuelta.
+\sound JC.NC.IC-conversacion.varios-2013.wav 670.180 671.700
+
+\ref 322
+\ELANBegin 672.280
+\ELANEnd 673.650
+\ELANParticipant Juanita
+\trs "toh"
+\tx "toh"
+\ft "toh"
+\sound JC.NC.IC-conversacion.varios-2013.wav 672.280 673.650
+
+\ref 323
+\ELANBegin 674.035
+\ELANEnd 676.125
+\ELANParticipant Juanita
+\trs Awati epa iskati iska koinsi?
+\tx Awati epa iskati iska koinsi ?
+\ft ¿Por qué le haces así a mi papá?
+\sound JC.NC.IC-conversacion.varios-2013.wav 674.035 676.125
+
+\ref 324
+\ELANBegin 676.125
+\ELANEnd 678.715
+\ELANParticipant Juanita
+\trs [?¿]
+\tx [?¿]
+\ft [?¿]
+\sound JC.NC.IC-conversacion.varios-2013.wav 676.125 678.715
+
+\ref 325
+\ELANBegin 676.125
+\ELANEnd 678.715
+\ELANParticipant Nelita
+\trs (risas)
+\tx (risas)
+\ft (risas)
+\sound JC.NC.IC-conversacion.varios-2013.wav 676.125 678.715
+
+\ref 326
+\ELANBegin 676.125
+\ELANEnd 678.715
+\ELANParticipant Isabel
+\trs (risas)
+\tx (risas)
+\ft (risas)
+\sound JC.NC.IC-conversacion.varios-2013.wav 676.125 678.715
+
+\ref 327
+\ELANBegin 678.790
+\ELANEnd 681.950
+\ELANParticipant Nelita
+\trs anato rewin ikainkibi "toh"
+\tx anato rewin ikainkibi "toh"
+\ft [?¿]
+\sound JC.NC.IC-conversacion.varios-2013.wav 678.790 681.950
+
+\ref 328
+\ELANBegin 684.030
+\ELANEnd 686.180
+\ELANParticipant Juanita
+\trs yakata "toh, toh"
+\tx yakata "toh, toh"
+\ft "toh, toh"
+\sound JC.NC.IC-conversacion.varios-2013.wav 684.030 686.180
+
+\ref 329
+\ELANBegin 686.440
+\ELANEnd 687.660
+\ELANParticipant Juanita
+\trs hmmm
+\tx hmmm
+\ft hmmm
+\sound JC.NC.IC-conversacion.varios-2013.wav 686.440 687.660
+
+\ref 330
+\ELANBegin 687.915
+\ELANEnd 690.375
+\ELANParticipant Juanita
+\trs (risas)
+\tx (risas)
+\ft (risas)
+\sound JC.NC.IC-conversacion.varios-2013.wav 687.915 690.375
+
+\ref 331
+\ELANBegin 687.930
+\ELANEnd 690.420
+\ELANParticipant Nelita
+\trs (risas)
+\tx (risas)
+\ft (risas)
+\sound JC.NC.IC-conversacion.varios-2013.wav 687.930 690.420
+
+\ref 332
+\ELANBegin 690.390
+\ELANEnd 692.990
+\ELANParticipant Juanita
+\trs eah shinabeno nokin
+\tx eah shinabeno nokin
+\ft Yo ya me había olvidado.
+\sound JC.NC.IC-conversacion.varios-2013.wav 690.390 692.990
+
+\ref 333
+\ELANBegin 692.460
+\ELANEnd 694.040
+\ELANParticipant Nelita
+\trs eah shinabeno nokin
+\tx eah shinabeno nokin
+\ft yo ya me olvidado
+\sound JC.NC.IC-conversacion.varios-2013.wav 692.460 694.040
+
+\ref 334
+\ELANBegin 695.890
+\ELANEnd 697.060
+\ELANParticipant José
+\trs awen papa kuinbi retea
+\tx awen papa kuinbi retea
+\ft Su papá mism murió.
+\sound JC.NC.IC-conversacion.varios-2013.wav 695.890 697.060
+
+\ref 335
+\ELANBegin 696.510
+\ELANEnd 698.230
+\ELANParticipant Juanita
+\trs awen papa koinbi retea
+\tx awen papa kuinbi retea
+\ft Su papá mismo murió.
+\sound JC.NC.IC-conversacion.varios-2013.wav 696.510 698.230
+
+\ref 336
+\ELANBegin 697.775
+\ELANEnd 698.855
+\ELANParticipant Isabel
+\trs papa koinbi retea
+\tx papa kuinbi retea
+\ft Su papá mismo murió.
+\sound JC.NC.IC-conversacion.varios-2013.wav 697.775 698.855
+
+\ref 337
+\ELANBegin 699.005
+\ELANEnd 700.025
+\ELANParticipant Nelita
+\trs ainoa kaima
+\tx ainoa kaima
+\ft después de eso
+\sound JC.NC.IC-conversacion.varios-2013.wav 699.005 700.025
+
+\ref 338
+\ELANBegin 700.535
+\ELANEnd 702.025
+\ELANParticipant Nelita
+\trs tsoabi kena yama paoni
+\tx tsoabi kena yama paoni
+\ft a nadie ya no llamaba, a nadie
+\sound JC.NC.IC-conversacion.varios-2013.wav 700.535 702.025
+
+\ref 339
+\ELANBegin 701.960
+\ELANEnd 702.770
+\ELANParticipant Juanita
+\trs ai kama
+\tx ai kama
+\ft Ya no.
+\sound JC.NC.IC-conversacion.varios-2013.wav 701.960 702.770
+
+\ref 340
+\ELANBegin 702.835
+\ELANEnd 704.265
+\ELANParticipant Nelita
+\trs ma hateke
+\tx ma hateke
+\ft ya cortó.
+\sound JC.NC.IC-conversacion.varios-2013.wav 702.835 704.265
+
+\ref 341
+\ELANBegin 704.475
+\ELANEnd 705.255
+\ELANParticipant Juanita
+\trs ma hateke
+\tx ma hateke
+\ft Ya cortado.
+\sound JC.NC.IC-conversacion.varios-2013.wav 704.475 705.255
+
+\ref 342
+\ELANBegin 707.170
+\ELANEnd 708.980
+\ELANParticipant Nelita
+\trs epa, epa marehon
+\tx epa, epa marehon
+\ft matando a su papa
+\sound JC.NC.IC-conversacion.varios-2013.wav 707.170 708.980
+
+\ref 343
+\ELANBegin 708.995
+\ELANEnd 710.025
+\ELANParticipant Juanita
+\trs epa mareke
+\tx epa mareke
+\ft El papá muerto.
+\sound JC.NC.IC-conversacion.varios-2013.wav 708.995 710.025
+
+\ref 344
+\ELANBegin 712.830
+\ELANEnd 714.460
+\ELANParticipant Juanita
+\trs a aianakesa ka
+\tx a ainanakesa ka
+\ft El papá tomaba.
+\sound JC.NC.IC-conversacion.varios-2013.wav 712.830 714.460
+
+\ref 345
+\ELANBegin 714.520
+\ELANEnd 716.670
+\ELANParticipant Juanita
+\trs buhkai ikai ka , buhkai ikai ka
+\tx buhkai ikai ka , buhkai ikai ka
+\ft El papá se había cortado el pelo.
+\sound JC.NC.IC-conversacion.varios-2013.wav 714.520 716.670
+
+\ref 346
+\ELANBegin 716.680
+\ELANEnd 717.840
+\ELANParticipant Nelita
+\trs buhkai kai
+\tx buhkai kai
+\ft se habia cortado el pelo
+\sound JC.NC.IC-conversacion.varios-2013.wav 716.680 717.840
+
+\ref 347
+\ELANBegin 718.270
+\ELANEnd 720.020
+\ELANParticipant Nelita
+\trs etebimi penen raka
+\tx etebimi pehnerakan
+\ft se habia echado achiote para brillar
+\sound JC.NC.IC-conversacion.varios-2013.wav 718.270 720.020
+
+\ref 348
+\ELANBegin 719.935
+\ELANEnd 720.925
+\ELANParticipant Juanita
+\trs etebimi penen raka
+\tx etebimi pehne raka
+\ft Achiote brillante.
+\sound JC.NC.IC-conversacion.varios-2013.wav 719.935 720.925
+
+\ref 349
+\ELANBegin 721.570
+\ELANEnd 722.210
+\ELANParticipant Nelita
+\trs keo
+\tx keo
+\ft adorno en la boca
+\sound JC.NC.IC-conversacion.varios-2013.wav 721.570 722.210
+
+\ref 350
+\ELANBegin 722.195
+\ELANEnd 723.285
+\ELANParticipant Juanita
+\trs keo penen raka
+\tx keo pehne raka
+\ft Adorno brillante en la boca
+\sound JC.NC.IC-conversacion.varios-2013.wav 722.195 723.285
+
+\ref 351
+\ELANBegin 723.290
+\ELANEnd 723.780
+\ELANParticipant Nelita
+\trs keo
+\tx keo
+\ft Adorno en la boca.
+\sound JC.NC.IC-conversacion.varios-2013.wav 723.290 723.780
+
+\ref 352
+\ELANBegin 723.515
+\ELANEnd 724.495
+\ELANParticipant Juanita
+\trs keo chanaraka
+\tx keo chanaraka
+\ft Teniendo adorno en la boca.
+\sound JC.NC.IC-conversacion.varios-2013.wav 723.515 724.495
+
+\ref 353
+\ELANBegin 728.320
+\ELANEnd 729.430
+\ELANParticipant Nelita
+\trs ma hainoa kai ma
+\tx ma hainoa kai ma
+\ft ya de ahi ya
+\sound JC.NC.IC-conversacion.varios-2013.wav 728.320 729.430
+
+\ref 354
+\ELANBegin 730.305
+\ELANEnd 732.570
+\ELANParticipant Nelita
+\trs ma nuaribi chitoma ikati iki
+\tx ma nuaribi chitoma ikati iki
+\ft ya nosotros tambien de ahi viviamos lejos
+\sound JC.NC.IC-conversacion.varios-2013.wav 730.305 732.570
+
+\ref 355
+\ELANBegin 731.640
+\ELANEnd 732.710
+\ELANParticipant Juanita
+\trs ma noaribi chitoma
+\tx ma nuaribi chitoma
+\ft Ya nosotros lejos.
+\sound JC.NC.IC-conversacion.varios-2013.wav 731.640 732.710
+
+\ref 356
+\ELANBegin 732.570
+\ELANEnd 733.930
+\ELANParticipant Nelita
+\trs ma tsoabi kenayamai
+\tx ma tsoabi kenayamai
+\ft ya no habia nadie para llamar
+\sound JC.NC.IC-conversacion.varios-2013.wav 732.570 733.930
+
+\ref 357
+\ELANBegin 734.410
+\ELANEnd 736.170
+\ELANParticipant Juanita
+\trs ana bitsa yoinon ninkati
+\tx bitsa yuinun
+\ft Otra para contar.
+\sound JC.NC.IC-conversacion.varios-2013.wav 734.410 736.170
+
+\ref 358
+\ELANBegin 737.620
+\ELANEnd 739.770
+\ELANParticipant Juanita
+\trs ain kain kaini i ikiribi iki
+\tx ain kain kaini i ikiribi iki
+\ft [?¿]
+\sound JC.NC.IC-conversacion.varios-2013.wav 737.620 739.770
+
+\ref 359
+\ELANBegin 742.210
+\ELANEnd 743.110
+\ELANParticipant Juanita
+\trs iso ina aka
+\tx iso ina aka
+\ft Crió maquisapa.
+\sound JC.NC.IC-conversacion.varios-2013.wav 742.210 743.110
+
+\ref 360
+\ELANBegin 743.420
+\ELANEnd 745.890
+\ELANParticipant Juanita
+\trs iso ina naibakebo
+\tx iso ina naibakebo
+\ft Crió maquisapa, crió choro.
+\sound JC.NC.IC-conversacion.varios-2013.wav 743.420 745.890
+
+\ref 361
+\ELANBegin 746.725
+\ELANEnd 748.505
+\ELANParticipant Juanita
+\trs aribiki kenake
+\tx aribiki kenake
+\ft A ese también lo llamó.
+\sound JC.NC.IC-conversacion.varios-2013.wav 746.725 748.505
+
+\ref 362
+\ELANBegin 749.740
+\ELANEnd 750.980
+\ELANParticipant Juanita
+\trs aribi kenake ainshina ai
+\tx aribi kenake ainshina ai
+\ft A ese también lo llamó, ahí estaba.
+\sound JC.NC.IC-conversacion.varios-2013.wav 749.740 750.980
+
+\ref 363
+\ELANBegin 751.000
+\ELANEnd 752.340
+\ELANParticipant Juanita
+\trs kai imea pekawe
+\tx kai imea pekawe
+\ft [?¿]
+\sound JC.NC.IC-conversacion.varios-2013.wav 751.000 752.340
+
+\ref 364
+\ELANBegin 753.050
+\ELANEnd 755.200
+\ELANParticipant Juanita
+\trs hena bia bitsaribi ka
+\tx hena bia bitsa ribi ka
+\ft Cogiendo el fuego.
+\sound JC.NC.IC-conversacion.varios-2013.wav 753.050 755.200
+
+\ref 365
+\ELANBegin 757.610
+\ELANEnd 760.070
+\ELANParticipant Juanita
+\trs hokohokoki maiketian matohaimea
+\tx chorohokoki maiketian matohaimea
+\ft A la cría pequeña la cargaba en la cabeza.
+\sound JC.NC.IC-conversacion.varios-2013.wav 757.610 760.070
+
+\ref 366
+\ELANBegin 761.030
+\ELANEnd 762.310
+\ELANParticipant Isabel
+\trs nain bakebo
+\tx nain bakebo
+\ft Las crías del choro.
+\sound JC.NC.IC-conversacion.varios-2013.wav 761.030 762.310
+
+\ref 367
+\ELANBegin 762.290
+\ELANEnd 763.770
+\ELANParticipant Juanita
+\trs nain bakebo
+\tx nain bakebo
+\ft Las crías del choro.
+\sound JC.NC.IC-conversacion.varios-2013.wav 762.290 763.770
+
+\ref 368
+\ELANBegin 765.410
+\ELANEnd 766.940
+\ELANParticipant Juanita
+\trs aha kubi pakenon
+\tx aha kubi pakenon
+\ft Así fue y es verdad.
+\sound JC.NC.IC-conversacion.varios-2013.wav 765.410 766.940
+
+\ref 369
+\ELANBegin 767.245
+\ELANEnd 768.165
+\ELANParticipant Juanita
+\trs [?¿]
+\tx (...)
+\ft [?¿]
+\sound JC.NC.IC-conversacion.varios-2013.wav 767.245 768.165
+
+\ref 370
+\ELANBegin 770.080
+\ELANEnd 772.180
+\ELANParticipant Juanita
+\trs a xeanon yuitanon
+\tx a xeanon yuitanon
+\ft Lo invitó para tomar.
+\sound JC.NC.IC-conversacion.varios-2013.wav 770.080 772.180
+
+\ref 371
+\ELANBegin 772.210
+\ELANEnd 772.950
+\ELANParticipant Nelita
+\trs ayanon
+\tx ayanon
+\ft a tomar
+\sound JC.NC.IC-conversacion.varios-2013.wav 772.210 772.950
+
+\ref 372
+\ELANBegin 772.210
+\ELANEnd 772.950
+\ELANParticipant Isabel
+\trs ayanon
+\tx ayanon
+\ft Para tomar.
+\sound JC.NC.IC-conversacion.varios-2013.wav 772.210 772.950
+
+\ref 373
+\ELANBegin 772.950
+\ELANEnd 774.820
+\ELANParticipant Juanita
+\trs ayanon, ayanon yuitanwe
+\tx ayanon, ayanon yuitanwe
+\ft Para tomar, para tomar le avisó.
+\sound JC.NC.IC-conversacion.varios-2013.wav 772.950 774.820
+
+\ref 374
+\ELANBegin 775.035
+\ELANEnd 776.275
+\ELANParticipant Juanita
+\trs nokon betsa yoitanwe
+\tx nokon betsa yuitanwe
+\ft Le avisó a mi hermano.
+\sound JC.NC.IC-conversacion.varios-2013.wav 775.035 776.275
+
+\ref 375
+\ELANBegin 779.810
+\ELANEnd 781.400
+\ELANParticipant Juanita
+\trs [????]
+\tx [????]
+\ft [?¿]
+\sound JC.NC.IC-conversacion.varios-2013.wav 779.810 781.400
+
+\ref 376
+\ELANBegin 782.060
+\ELANEnd 784.000
+\ELANParticipant Juanita
+\trs xeaikatimari ayaikatimaki
+\tx xeaikatimari ayaikatimaki
+\ft Vamos a tomar, vamos a tomar.
+\sound JC.NC.IC-conversacion.varios-2013.wav 782.060 784.000
+
+\ref 377
+\ELANBegin 786.050
+\ELANEnd 787.260
+\ELANParticipant Nelita
+\trs ayaikatimaki
+\tx ayaikatimaki
+\ft vamos a tomar
+\sound JC.NC.IC-conversacion.varios-2013.wav 786.050 787.260
+
+\ref 378
+\ELANBegin 791.620
+\ELANEnd 794.330
+\ELANParticipant Juanita
+\trs ain ki iso bebererewan benewan iki
+\tx ain ki iso bebererewan benewan ewa iki
+\ft De ahí machazo era el choro.
+\sound JC.NC.IC-conversacion.varios-2013.wav 791.620 794.330
+
+\ref 379
+\ELANBegin 798.480
+\ELANEnd 800.650
+\ELANParticipant Juanita
+\trs ison bene onahakua
+\tx ison bene una hakua
+\ft Maquisapa macho conoció.
+\sound JC.NC.IC-conversacion.varios-2013.wav 798.480 800.650
+
+\ref 380
+\ELANBegin 801.300
+\ELANEnd 803.560
+\ELANParticipant Juanita
+\trs choro , choro, choro, choro
+\tx choro , choro, choro, choro
+\ft choro , choro, choro, choro
+\sound JC.NC.IC-conversacion.varios-2013.wav 801.300 803.560
+
+\ref 381
+\ELANBegin 803.700
+\ELANEnd 805.070
+\ELANParticipant Nelita
+\trs ma kiupai kai
+\tx ma kiupai kai
+\ft ya estaba queriendo morder
+\sound JC.NC.IC-conversacion.varios-2013.wav 803.700 805.070
+
+\ref 382
+\ELANBegin 804.605
+\ELANEnd 805.115
+\ELANParticipant Juanita
+\trs ma kiopai
+\tx ma kiupai
+\ft Ya mordía, mordía.
+\sound JC.NC.IC-conversacion.varios-2013.wav 804.605 805.115
+
+\ref 383
+\ELANBegin 805.320
+\ELANEnd 807.500
+\ELANParticipant Juanita
+\trs meai, meai, meai, meai
+\tx meai, meai, meai, meai
+\ft ven, ven, ven, ven.
+\sound JC.NC.IC-conversacion.varios-2013.wav 805.320 807.500
+
+\ref 384
+\ELANBegin 807.835
+\ELANEnd 809.535
+\ELANParticipant Juanita
+\trs ikin kainibi neke
+\tx ikin kaini bi neke
+\ft Ya entraba.
+\sound JC.NC.IC-conversacion.varios-2013.wav 807.835 809.535
+
+\ref 385
+\ELANBegin 809.795
+\ELANEnd 810.855
+\ELANParticipant Juanita
+\trs "¡res!" ison
+\tx "¡res!" ison
+\ft El mono le muerde la pantorrilla y grita "¡res!"
+\sound JC.NC.IC-conversacion.varios-2013.wav 809.795 810.855
+
+\ref 386
+\ELANBegin 810.975
+\ELANEnd 812.955
+\ELANParticipant Juanita
+\trs ain biki "pen", "pen"
+\tx ain biki "pen", "pen"
+\ft De ahí cayó y sonó "pen", "pen"
+\sound JC.NC.IC-conversacion.varios-2013.wav 810.975 812.955
+
+\ref 387
+\ELANBegin 813.255
+\ELANEnd 814.355
+\ELANParticipant Juanita
+\trs ison tansea
+\tx ison tansea
+\ft El choro [?¿]
+\sound JC.NC.IC-conversacion.varios-2013.wav 813.255 814.355
+
+\ref 388
+\ELANBegin 814.365
+\ELANEnd 816.125
+\ELANParticipant Nelita
+\trs ison tansea
+\tx ison tansea
+\ft El choro [?¿]
+\sound JC.NC.IC-conversacion.varios-2013.wav 814.365 816.125
+
+\ref 389
+\ELANBegin 816.120
+\ELANEnd 819.075
+\ELANParticipant Juanita
+\trs awe katon awen wetsapa
+\tx awekaton awetsapa
+\ft Él fue con su hermano.
+\sound JC.NC.IC-conversacion.varios-2013.wav 816.120 819.075
+
+\ref 390
+\ELANBegin 820.040
+\ELANEnd 825.380
+\ELANParticipant Juanita
+\trs ea, ea marerai materi enbi nuimanon en materi, enbi nuimanon en materi
+\tx ea, ea marerai materi enbi nuimanon en materi, enbi nuimanon en materi
+\ft A mí no me vas a matar, yo mismo te voy a matar.
+\sound JC.NC.IC-conversacion.varios-2013.wav 820.040 825.380
+
+\ref 391
+\ELANBegin 825.480
+\ELANEnd 828.800
+\ELANParticipant Juanita
+\trs ibo en ema
+\tx ibo
+\ft [?¿]
+\sound JC.NC.IC-conversacion.varios-2013.wav 825.480 828.800
+
+\ref 392
+\ELANBegin 833.530
+\ELANEnd 835.880
+\ELANParticipant Juanita
+\trs maresho pani pani
+\tx maresho pani pani
+\ft Ya el mono se caía.
+\sound JC.NC.IC-conversacion.varios-2013.wav 833.530 835.880
+
+\ref 393
+\ELANBegin 836.880
+\ELANEnd 838.630
+\ELANParticipant Juanita
+\trs ayayukin
+\tx ayayukin
+\ft Ven a tomar.
+\sound JC.NC.IC-conversacion.varios-2013.wav 836.880 838.630
+
+\ref 394
+\ELANBegin 838.935
+\ELANEnd 840.435
+\ELANParticipant Juanita
+\trs ayayukin
+\tx ayayukin
+\ft Ven a tomar.
+\sound JC.NC.IC-conversacion.varios-2013.wav 838.935 840.435
+
+\ref 395
+\ELANBegin 841.320
+\ELANEnd 845.230
+\ELANParticipant Juanita
+\trs choro, choro, choro a uni ki keo pehneraka
+\tx choro, choro, choro a uni ki keo pehneraka
+\ft choro, choro, choro. Ese hombre con los adornos que brillaban en la boca.
+\sound JC.NC.IC-conversacion.varios-2013.wav 841.320 845.230
+
+\ref 396
+\ELANBegin 845.405
+\ELANEnd 846.375
+\ELANParticipant Nelita
+\trs keo penenraka
+\tx keo pehneraka
+\ft un adorno que brilla
+\sound JC.NC.IC-conversacion.varios-2013.wav 845.405 846.375
+
+\ref 397
+\ELANBegin 848.090
+\ELANEnd 849.540
+\ELANParticipant Juanita
+\trs iso tó
+\tx iso tó
+\ft Lo mató al mono choro.
+\sound JC.NC.IC-conversacion.varios-2013.wav 848.090 849.540
+
+\ref 398
+\ELANBegin 852.010
+\ELANEnd 854.170
+\ELANParticipant Juanita
+\trs ea koahoin kakin
+\tx ea koahoin kakin
+\ft Lo quemó para mí.
+\sound JC.NC.IC-conversacion.varios-2013.wav 852.010 854.170
+
+\ref 399
+\ELANBegin 854.200
+\ELANEnd 855.690
+\ELANParticipant Nelita
+\trs ea koahoin
+\tx ea koahoin
+\ft Lo quemó para mí bien.
+\sound JC.NC.IC-conversacion.varios-2013.wav 854.200 855.690
+
+\ref 400
+\ELANBegin 855.140
+\ELANEnd 855.830
+\ELANParticipant Juanita
+\trs ea koahoin
+\tx ea koahoin
+\ft Lo quemó para mí.
+\sound JC.NC.IC-conversacion.varios-2013.wav 855.140 855.830
+
+\ref 401
+\ELANBegin 855.855
+\ELANEnd 857.545
+\ELANParticipant Juanita
+\trs awen kayaboton kuahon
+\tx awen kaiaboton kuahon
+\ft Con los parientes lo quemó.
+\sound JC.NC.IC-conversacion.varios-2013.wav 855.855 857.545
+
+\ref 402
+\ELANBegin 857.175
+\ELANEnd 858.130
+\ELANParticipant Nelita
+\trs iso koro (nain bakebo)
+\tx nainbakebo
+\ft [?¿]
+\sound JC.NC.IC-conversacion.varios-2013.wav 857.175 858.130
+
+\ref 403
+\ELANBegin 858.125
+\ELANEnd 858.535
+\ELANParticipant Juanita
+\trs iso koro (nain bakebo)
+\tx ah, nainbakebo
+\ft [?¿]
+\sound JC.NC.IC-conversacion.varios-2013.wav 858.125 858.535
+
+\ref 404
+\ELANBegin 858.810
+\ELANEnd 860.310
+\ELANParticipant Nelita
+\trs pipaini koa pakeho
+\tx pipaini kua  pakeho
+\ft en vez de comerle (...)
+\sound JC.NC.IC-conversacion.varios-2013.wav 858.810 860.310
+
+\ref 405
+\ELANBegin 860.590
+\ELANEnd 862.830
+\ELANParticipant Juanita
+\trs yoina inahon non koapaoni
+\tx yuina ina hon non kua paoni
+\ft Criando animales, los quemábamos (es decir, nos los comíamos)
+\sound JC.NC.IC-conversacion.varios-2013.wav 860.590 862.830
+
+\ref 406
+\ELANBegin 863.560
+\ELANEnd 868.080
+\ELANParticipant Juanita
+\trs mebeah iki yoina peh, yoina peh
+\tx me beah iki yuina peh, yuina peh
+\ft Agarraba la mano decía (canción como llorando)
+\sound JC.NC.IC-conversacion.varios-2013.wav 863.560 868.080
+
+\ref 407
+\ELANBegin 868.200
+\ELANEnd 870.900
+\ELANParticipant Juanita
+\trs ewen yuinaa, ewen yuinaa iki betin
+\tx ewen yuinaa, ewen yuinaa iki betin
+\ft (canción llorando: mi animal, mi animal, mi animal)
+\sound JC.NC.IC-conversacion.varios-2013.wav 868.200 870.900
+
+\ref 408
+\ELANBegin 871.410
+\ELANEnd 873.680
+\ELANParticipant Juanita
+\trs uni kesa mi ania askakati
+\tx uni kesa mi ania aska kati
+\ft Eso hacían las personas.
+\sound JC.NC.IC-conversacion.varios-2013.wav 871.410 873.680
+
+\ref 409
+\ELANBegin 874.240
+\ELANEnd 876.020
+\ELANParticipant Juanita
+\trs yoina iná aka wini ka
+\tx yuina iná aka winika
+\ft El animal criado lloraba.
+\sound JC.NC.IC-conversacion.varios-2013.wav 874.240 876.020
+
+\ref 410
+\ELANBegin 876.120
+\ELANEnd 876.800
+\ELANParticipant Isabel
+\trs wini
+\tx wini
+\ft Lloraba.
+\sound JC.NC.IC-conversacion.varios-2013.wav 876.120 876.800
+
+\ref 411
+\ELANBegin 876.780
+\ELANEnd 877.420
+\ELANParticipant Juanita
+\trs ¡wini!
+\tx ¡wini!
+\ft ¡Lloraba!
+\sound JC.NC.IC-conversacion.varios-2013.wav 876.780 877.420
+
+\ref 412
+\ELANBegin 878.670
+\ELANEnd 879.600
+\ELANParticipant Isabel
+\trs huhuiki
+\tx huhuiki
+\ft Lloraba.
+\sound JC.NC.IC-conversacion.varios-2013.wav 878.670 879.600
+
+\ref 413
+\ELANBegin 879.585
+\ELANEnd 880.025
+\ELANParticipant Juanita
+\trs huhui
+\tx huhui
+\ft Lloraba.
+\sound JC.NC.IC-conversacion.varios-2013.wav 879.585 880.025
+
+\ref 414
+\ELANBegin 882.790
+\ELANEnd 884.300
+\ELANParticipant Juanita
+\trs bake mahkaa kesa
+\tx bake mahkaa kesa
+\ft Mi hijo murió (la cría).
+\sound JC.NC.IC-conversacion.varios-2013.wav 882.790 884.300
+
+\ref 415
+\ELANBegin 884.775
+\ELANEnd 885.275
+\ELANParticipant Isabel
+\trs wini
+\tx wini
+\ft Lloraba.
+\sound JC.NC.IC-conversacion.varios-2013.wav 884.775 885.275
+
+\ref 416
+\ELANBegin 885.315
+\ELANEnd 885.865
+\ELANParticipant Juanita
+\trs wini
+\tx wini
+\ft Lloraba.
+\sound JC.NC.IC-conversacion.varios-2013.wav 885.315 885.865
+
+\ref 417
+\ELANBegin 885.950
+\ELANEnd 886.410
+\ELANParticipant Isabel
+\trs winí
+\tx wini
+\ft Lloraba.
+\sound JC.NC.IC-conversacion.varios-2013.wav 885.950 886.410
+
+\ref 418
+\ELANBegin 888.280
+\ELANEnd 888.880
+\ELANParticipant Nelita
+\trs a
+\tx a
+\ft ese
+\sound JC.NC.IC-conversacion.varios-2013.wav 888.280 888.880
+
+\ref 419
+\ELANBegin 888.990
+\ELANEnd 892.580
+\ELANParticipant Nelita
+\trs ma iska patan ko ai kai iska patan kaina kaima
+\tx ma iska patan ko ai kai iska patan kaina kaima
+\ft ya asi varias veces asi era asi varias veces yendo y viniendo
+\sound JC.NC.IC-conversacion.varios-2013.wav 888.990 892.580
+
+\ref 420
+\ELANBegin 893.360
+\ELANEnd 894.970
+\ELANParticipant Nelita
+\trs manua chitoma ewea ikon
+\tx manua chitoma ewea ikon
+\ft (cuando) perdidos lejos vivían, verdad
+\sound JC.NC.IC-conversacion.varios-2013.wav 893.360 894.970
+
+\ref 421
+\ELANBegin 896.405
+\ELANEnd 897.635
+\ELANParticipant Juanita
+\trs manoi kiwa
+\tx manoikiwa
+\ft Todos han acabado de comer.
+\sound JC.NC.IC-conversacion.varios-2013.wav 896.405 897.635
+
+\ref 422
+\ELANBegin 897.660
+\ELANEnd 898.890
+\ELANParticipant Nelita
+\trs manoi kiwa
+\tx ma manoi kiwa
+\ft Todos han acabado de comer.
+\sound JC.NC.IC-conversacion.varios-2013.wav 897.660 898.890
+
+\ref 423
+\ELANBegin 898.535
+\ELANEnd 901.255
+\ELANParticipant Juanita
+\trs manoi kiwa nawan kiwa micha nawaboton
+\tx manoi kiwa nawankiwa michanawaboton
+\ft Han acabado de comer, el mestizo ha acabado con la gente
+\sound JC.NC.IC-conversacion.varios-2013.wav 898.535 901.255
+
+\ref 424
+\ELANBegin 901.735
+\ELANEnd 903.655
+\ELANParticipant Juanita
+\trs micha nawaboton kiwa
+\tx michanawaboton kiwa
+\ft Esta fea gente se acabó.
+\sound JC.NC.IC-conversacion.varios-2013.wav 901.735 903.655
+
+\ref 425
+\ELANBegin 903.865
+\ELANEnd 906.515
+\ELANParticipant Juanita
+\trs kiwiiti kai okeah oniki
+\tx kiwiiti kai ukeah uniki
+\ft De allá no vendrán más.
+\sound JC.NC.IC-conversacion.varios-2013.wav 903.865 906.515
+
+\ref 426
+\ELANBegin 906.595
+\ELANEnd 910.475
+\ELANParticipant Nelita
+\trs ukeah ka ma uke ah birika heke oni
+\tx ukeah ka ma uke ah birika heke oni
+\ft Allá, ya allá , ya aca mismo vivimos
+\sound JC.NC.IC-conversacion.varios-2013.wav 906.595 910.475
+
+\ref 427
+\ELANBegin 906.695
+\ELANEnd 908.275
+\ELANParticipant Juanita
+\trs nokon papa
+\tx nokon papa
+\ft Mi papá.
+\sound JC.NC.IC-conversacion.varios-2013.wav 906.695 908.275
+
+\ref 428
+\ELANBegin 912.070
+\ELANEnd 913.710
+\ELANParticipant Nelita
+\trs moa retenanai
+\tx moa retenanai
+\ft ya mataron
+\sound JC.NC.IC-conversacion.varios-2013.wav 912.070 913.710
+
+\ref 429
+\ELANBegin 913.100
+\ELANEnd 913.890
+\ELANParticipant Juanita
+\trs retenanai
+\tx retenanai
+\ft Ya está muerto.
+\sound JC.NC.IC-conversacion.varios-2013.wav 913.100 913.890
+
+\ref 430
+\ELANBegin 914.585
+\ELANEnd 915.275
+\ELANParticipant Nelita
+\trs micha nawa
+\tx michanawa
+\ft esa gente fea
+\sound JC.NC.IC-conversacion.varios-2013.wav 914.585 915.275
+
+\ref 431
+\ELANBegin 915.880
+\ELANEnd 916.960
+\ELANParticipant Juanita
+\trs micha nawan retea
+\tx michanawa retea
+\ft La fea gente lo mató.
+\sound JC.NC.IC-conversacion.varios-2013.wav 915.880 916.960
+
+\ref 432
+\ELANBegin 919.430
+\ELANEnd 922.090
+\ELANParticipant Juanita
+\trs micha nawa retea neke oni
+\tx micha nawa retea neke oni
+\ft La fea gente lo mató, aquí vinieron.
+\sound JC.NC.IC-conversacion.varios-2013.wav 919.430 922.090
+
+\ref 433
+\ELANBegin 922.475
+\ELANEnd 924.585
+\ELANParticipant Nelita
+\trs michanawa retea neke oni
+\tx michanawa retea neke oni
+\ft La gente fea aca mató gente.
+\sound JC.NC.IC-conversacion.varios-2013.wav 922.475 924.585
+
+\ref 434
+\ELANBegin 925.150
+\ELANEnd 927.260
+\ELANParticipant Nelita
+\trs a, a iska pau a
+\tx a, a iska pau a
+\ft Asi fue.
+\sound JC.NC.IC-conversacion.varios-2013.wav 925.150 927.260
+
+\ref 435
+\ELANBegin 927.585
+\ELANEnd 930.205
+\ELANParticipant Nelita
+\trs michanawan reteaya maketian aka noa
+\tx michanawan reteaya maketian aka noa
+\ft La gente fea nos ha matado a nosotros
+\sound JC.NC.IC-conversacion.varios-2013.wav 927.585 930.205
+
+\ref 436
+\ELANBegin 931.045
+\ELANEnd 932.665
+\ELANParticipant Nelita
+\trs ha noa aranabi ewekuani
+\tx ha noa aranabi ewekuani
+\ft Todos nosotros ibamos a vivir pero solo quedamos poquitos
+\sound JC.NC.IC-conversacion.varios-2013.wav 931.045 932.665
+
+\ref 437
+\ELANBegin 932.680
+\ELANEnd 933.990
+\ELANParticipant Juanita
+\trs aranabi ewe koani
+\tx aranabi ewe kuani
+\ft Todos iban a vivir, pero solo vivimos poquitos.
+\sound JC.NC.IC-conversacion.varios-2013.wav 932.680 933.990
+
+\ref 438
+\ELANBegin 934.020
+\ELANEnd 936.210
+\ELANParticipant Nelita
+\trs pari kai ki noa neke oni
+\tx pari kai ki noa neke oni
+\ft nosotros vivimos aca asustados
+\sound JC.NC.IC-conversacion.varios-2013.wav 934.020 936.210
+
+\ref 439
+\ELANBegin 935.850
+\ELANEnd 937.780
+\ELANParticipant Juanita
+\trs pari kaiki noa neke ichua kaiki
+\tx pari kaiki noa neke ichua kaiki
+\ft Nosotros acá vivimos asustados.
+\sound JC.NC.IC-conversacion.varios-2013.wav 935.850 937.780
+
+\ref 440
+\ELANBegin 937.955
+\ELANEnd 938.985
+\ELANParticipant Nelita
+\trs noa tsakaribinaketian
+\tx tsakaribinaketian
+\ft Nosotros [?¿]  (...)
+\sound JC.NC.IC-conversacion.varios-2013.wav 937.955 938.985
+
+\ref 441
+\ELANBegin 938.830
+\ELANEnd 939.670
+\ELANParticipant Juanita
+\trs tsakaribinaketian
+\tx tsakaribinaketian
+\ft [?¿]
+\sound JC.NC.IC-conversacion.varios-2013.wav 938.830 939.670
+
+\ref 442
+\ELANBegin 944.270
+\ELANEnd 946.650
+\ELANParticipant Juanita
+\trs (bosteza) neke ikai neke uaiki
+\tx (bosteza) neke ikai neke uaiki
+\ft (bosteza) Acá vivimos, acá vinimos.
+\sound JC.NC.IC-conversacion.varios-2013.wav 944.270 946.650
+
+\ref 443
+\ELANBegin 946.900
+\ELANEnd 947.530
+\ELANParticipant Nelita
+\trs pari
+\tx pari
+\ft asustados
+\sound JC.NC.IC-conversacion.varios-2013.wav 946.900 947.530
+
+\ref 444
+\ELANBegin 947.655
+\ELANEnd 948.225
+\ELANParticipant Juanita
+\trs hm, pari
+\tx hm, pari
+\ft hm,asustados.
+\sound JC.NC.IC-conversacion.varios-2013.wav 947.655 948.225
+
+\ref 445
+\ELANBegin 952.150
+\ELANEnd 953.190
+\ELANParticipant Nelita
+\trs ma ika si
+\tx ma ika si
+\ft ya ahi nomas
+\sound JC.NC.IC-conversacion.varios-2013.wav 952.150 953.190
+
+\ref 446
+\ELANBegin 953.380
+\ELANEnd 953.840
+\ELANParticipant Juanita
+\trs aha
+\tx aha
+\ft aha
+\sound JC.NC.IC-conversacion.varios-2013.wav 953.380 953.840
+
+\ref 447
+\ELANBegin 954.035
+\ELANEnd 954.635
+\ELANParticipant Nelita
+\trs ma ika si
+\tx ma ika si
+\ft ya ahi nomas
+\sound JC.NC.IC-conversacion.varios-2013.wav 954.035 954.635
+
+\ref 448
+\ELANBegin 955.225
+\ELANEnd 956.085
+\ELANParticipant Nelita
+\trs makiwa
+\tx makiwa
+\ft ya está
+\sound JC.NC.IC-conversacion.varios-2013.wav 955.225 956.085
+
+\ref 449
+\ELANBegin 955.945
+\ELANEnd 956.495
+\ELANParticipant Juanita
+\trs makiwa
+\tx makiwa
+\ft ya está.
+\sound JC.NC.IC-conversacion.varios-2013.wav 955.945 956.495
+
+\ref 450
+\ELANBegin 958.230
+\ELANEnd 958.890
+\ELANParticipant Juanita
+\trs makiwa
+\tx makiwa
+\ft Ya está.
+\sound JC.NC.IC-conversacion.varios-2013.wav 958.230 958.890
+
+\ref 451
+\ELANBegin 959.125
+\ELANEnd 959.555
+\ELANParticipant Nelita
+\trs ya está
+\tx ya está
+\ft ya está|
+\sound JC.NC.IC-conversacion.varios-2013.wav 959.125 959.555
+
+
+\ELANMediaURL file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC.NC.IC-conversacion.varios-2013.mpg
+\ELANMediaMIME video/mpeg
+\ELANMediaURL file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC.NC.IC-conversacion.varios-2013.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaExtracted file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC.NC.IC-conversacion.varios-2013.mpg
+
+\ref #020
+\ELANBegin 44.970
+\ELANEnd 48.070
+\ELANParticipant Juanita
+\trs miriaka matahma bori bori a ma kimisha bobo aka
+\tx miriaka matahma bori bori a ma kimisha bobo aka
+\ft En la cabeza iban tres.
+\sound JC.NC.IC-conversacion.varios-2013.wav 44.970 48.070

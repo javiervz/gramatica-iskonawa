@@ -1,0 +1,283 @@
+\_sh v3.0  400  text
+
+\ref 001
+\ELANBegin 1.210
+\ELANEnd 2.320
+\ELANParticipant Isabel
+\trs pae ahon
+\tx pae        ahon
+\mb pae        ak      -hon
+\gn fermentado hacer   -SUJ>A:SIM
+\ps adj.       v.tran. -suf.
+
+\ft fermentando
+\sound IC-narracion.fiestas-2013.wav 1.210 2.320
+
+\ref 002
+\ELANBegin 1.930
+\ELANEnd 3.340
+\ELANParticipant Roberto
+\trs no primero yo te voy a
+\tx no   primero yo te voy a
+
+\ft no primero yo te voy a
+\sound IC-narracion.fiestas-2013.wav 1.930 3.340
+
+\ref 003
+\ELANBegin 4.200
+\ELANEnd 6.370
+\ELANParticipant Roberto
+\trs este entonces estamos con isabel
+\tx este entonces estamos con isabel
+\ft este entonces estamos con isabel
+\sound IC-narracion.fiestas-2013.wav 4.200 6.370
+
+\ref 004
+\ELANBegin 6.720
+\ELANEnd 8.190
+\ELANParticipant Roberto
+\trs y ella nos va a contar
+\tx y ella nos va a contar
+\ft y ella nos va a contar
+\sound IC-narracion.fiestas-2013.wav 6.720 8.190
+
+\ref 005
+\ELANBegin 8.550
+\ELANEnd 13.560
+\ELANParticipant Roberto
+\trs sobre las fiestas de los antiguos iskonawas cómo hacían sus fiestas cómo celebraban
+\tx sobre las fiestas de los antiguos iskonawas cómo hacían sus fiestas cómo celebraban
+\ft sobre las fiestas de los antiguos iskonawas cómo hacían sus fiestas cómo celebraban
+\sound IC-narracion.fiestas-2013.wav 8.550 13.560
+
+\ref 006
+\ELANBegin 14.880
+\ELANEnd 14.890
+\ELANParticipant Isabel
+\trs ya
+\tx ya
+\ft ya
+\sound IC-narracion.fiestas-2013.wav 14.880 14.890
+
+\ref 007
+\ELANBegin 20.590
+\ELANEnd 21.800
+\ELANParticipant Roberto
+\trs ya puedes empezar ya
+\tx ya puedes empezar ya
+\ft ya puedes empezar ya
+\sound IC-narracion.fiestas-2013.wav 20.590 21.800
+
+\ref 008
+\ELANBegin 22.920
+\ELANEnd 25.240
+\ELANParticipant Isabel
+\trs heki pae ahonka xeapaoni
+\tx heki  pae        ahonka
+\mb heki  pae        ak      -hon       =ka
+\gn maíz fermentado hacer   -SUJ>A:SIM =NAR
+\ps n.    adj.       v.tran. -suf.      =clit.
+
+\tx xeapaoni
+\mb xea       -paoni
+\gn tomar(SK) -PAS.REM:IMPF
+\ps v.        -suf.
+
+\ft haciendo bebida fermentada de maiz tomábamos
+\sound IC-narracion.fiestas-2013.wav 22.920 25.240
+
+\ref 009
+\ELANBegin 25.990
+\ELANEnd 30.560
+\ELANParticipant Isabel
+\trs [ewen pa] ewen papaboton epaboton heki paeahon xeapaoni
+\tx [ewen   pa]       ewen    papaboton
+\mb ewen              ewen    papa      =bo   =n
+\gn 1SG:GEN           1SG:GEN papá(SK) =PLU  =ERG
+\ps pron.             pron.   n.        =clit =clit.
+
+\tx epaboton           heki  pae
+\mb epa   =bo   =n     heki  pae
+\gn padre =PLU  =ERG   maíz fermentado
+\ps n.    =clit =clit. n.    adj.
+
+\tx ahon               xeapaoni
+\mb ak      -hon       xea       -paoni
+\gn hacer   -SUJ>A:SIM tomar(SK) -PAS.REM:IMPF
+\ps v.tran. -suf.      v.        -suf.
+
+\ft mi papá mis papás papás tomaban bebida fermentada de maíz
+\sound IC-narracion.fiestas-2013.wav 25.990 30.560
+
+\ref 010
+\ELANBegin 32.240
+\ELANEnd 36.790
+\ELANParticipant Isabel
+\trs ayahon paeahon heki onko paeahon xeapaoni
+\tx ayahon            pae        ahon               heki
+\mb aya    -hon       pae        ak      -hon       heki
+\gn tomar  -SUJ>A:SIM fermentado hacer   -SUJ>A:SIM maíz
+\ps v.tran -suf.      adj.       v.tran. -suf.      n.
+
+\tx onko    pae        ahon
+\mb onko    pae        ak      -hon
+\gn crecido fermentado hacer   -SUJ>A:SIM
+\ps adj.    adj.       v.tran. -suf.
+
+\tx xeapaoni
+\mb xea       -paoni
+\gn tomar(SK) -PAS.REM:IMPF
+\ps v.        -suf.
+
+\ft preparando, fermentando el maiz crecido, fermentando (lo) tomaban
+\sound IC-narracion.fiestas-2013.wav 32.240 36.790
+
+\ref 011
+\ELANBegin 39.930
+\ELANEnd 43.140
+\ELANParticipant Isabel
+\trs ewen papabo areskai akati ewen papabo
+\tx ewen    papabo          areska
+\mb ewen    papa      =bo   a   -res       =ka
+\gn 1SG:GEN papá(SK) =PLU  ese -solamente =NAR
+\ps pron.   n.        =clit dem -suf.      =clit.
+
+\tx akati                papabo
+\mb ak      -kati        papa      =bo
+\gn hacer   -PAS.REM:HAB papá(SK) =PLU
+\ps v.tran. -suf.        n.        =clit
+
+\ft mis papás eso nomás tomaban mis papás
+\sound IC-narracion.fiestas-2013.wav 39.930 43.140
+
+\ref 012
+\ELANBegin 43.590
+\ELANEnd 46.680
+\ELANParticipant Isabel
+\trs atsa aya akamaka heki paeres
+\tx atsa aya akamaka                     heki
+\mb atsa aya ak      -a    =ma    =ka    heki
+\gn yuca     hacer   -PERF =NEG   =NAR   maíz
+\ps n.       v.tran. -suf. =clit. =clit. n.
+
+\tx paeres
+\mb pae        -res
+\gn fermentado -solamente
+\ps adj.       -suf.
+
+\ft no hacían masato, solo hacían bebida de maíz
+\sound IC-narracion.fiestas-2013.wav 43.590 46.680
+
+\ref 013
+\ELANBegin 48.110
+\ELANEnd 51.420
+\ELANParticipant Isabel
+\trs rewinki paeni paeni rewinki
+\tx rewinki                  paeni               paeni               rewinki
+\mb rewin ik      -i         pae        -ni      pae        -ni      rewin ik      -i
+\gn canto copula  -SUJ>S:SIM fermentado -PAS.REM fermentado -PAS.REM canto copula  -SUJ>S:SIM
+\ps n.    v.intr. -suf.      adj.       -suf     adj.       -suf     n.    v.intr. -suf.
+
+\ft emborrachándose cantaban y cantaban emborrachándose
+\sound IC-narracion.fiestas-2013.wav 48.110 51.420
+
+\ref 014
+\ELANBegin 54.322
+\ELANEnd 55.672
+\ELANParticipant Isabel
+\trs rewin ikati
+\tx rewin ikati
+\mb rewin ik      -kati
+\gn canto ser     -PAS.REM:HAB
+\ps n.    v.intr. -suf.
+
+\ft solian cantar
+\sound IC-narracion.fiestas-2013.wav 54.322 55.672
+
+\ref 015
+\ELANBegin 58.290
+\ELANEnd 59.360
+\ELANParticipant Isabel
+\trs esa es nomás ya
+\tx esa es nomás ya
+\ft esa es nomás ya
+\sound IC-narracion.fiestas-2013.wav 58.290 59.360
+
+\ref 016
+\ELANBegin 61.630
+\ELANEnd 64.270
+\ELANParticipant Roberto
+\trs ¿Y podrías decir en español qué cosa has contado?
+\tx ¿Y podrías decir en español qué cosa has contado?
+\ft ¿Y podrías decir en español qué cosa has contado?
+\sound IC-narracion.fiestas-2013.wav 61.630 64.270
+
+\ref 017
+\ELANBegin 64.150
+\ELANEnd 65.450
+\ELANParticipant Isabel
+\trs yo he contado
+\tx yo he contado
+\ft yo he contado
+\sound IC-narracion.fiestas-2013.wav 64.150 65.450
+
+\ref 018
+\ELANBegin 65.760
+\ELANEnd 72.410
+\ELANParticipant Isabel
+\trs mi papá tomado maíz crecido tomaba
+\tx mi papá tomado maíz crecido tomaba
+\ft mi papá tomado maíz crecido tomaba
+\sound IC-narracion.fiestas-2013.wav 65.760 72.410
+
+\ref 019
+\ELANBegin 72.770
+\ELANEnd 75.930
+\ELANParticipant Isabel
+\trs así hacía hacía fiesta
+\tx así hacía hacía fiesta
+\ft así hacía hacía fiesta
+\sound IC-narracion.fiestas-2013.wav 72.770 75.930
+
+\ref 020
+\ELANBegin 76.650
+\ELANEnd 79.770
+\ELANParticipant Isabel
+\trs maiz puro maiz con puro maiz nomás
+\tx maiz puro maiz con puro maiz nomás
+\ft maiz puro maiz con puro maiz nomás
+\sound IC-narracion.fiestas-2013.wav 76.650 79.770
+
+\ref 021
+\ELANBegin 79.980
+\ELANEnd 81.450
+\ELANParticipant Isabel
+\trs hacía mi papá
+\tx hacía mi papá
+\ft hacía mi papá
+\sound IC-narracion.fiestas-2013.wav 79.980 81.450
+
+\ref 022
+\ELANBegin 81.790
+\ELANEnd 83.170
+\ELANParticipant Isabel
+\trs emborrachaba
+\tx emborrachaba
+\ft emborrachaba
+\sound IC-narracion.fiestas-2013.wav 81.790 83.170
+
+\ref 023
+\ELANBegin 85.130
+\ELANEnd 86.430
+\ELANParticipant Isabel
+\trs y cantaba pues
+\tx y cantaba pues
+\ft y cantaba pues
+\sound IC-narracion.fiestas-2013.wav 85.130 86.430
+
+
+\ELANMediaURL file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/IC-narracion.fiestas-2013.mpg
+\ELANMediaMIME video/mpeg
+\ELANMediaExtracted file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/IC-narracion.fiestas-2013.mpg
+\ELANMediaURL file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/IC-narracion.fiestas-2013.wav
+\ELANMediaMIME audio/x-wav

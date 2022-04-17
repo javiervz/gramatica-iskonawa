@@ -1,0 +1,190 @@
+\_sh v3.0  400  text
+
+\ref 001
+\trs yama imibo
+\tx yama imibo
+\mb yama imi    =bo
+\gn NEG  sangre =PLU
+\ps adv  n.     =clit
+
+\ft ya no tengo sangre
+\ELANBegin 0.010
+\ELANEnd 1.150
+\ELANParticipant juanita
+\sound JC-cancion.hijo.muerto-2013.wav 0.010 1.150
+
+\ref 002
+\trs ewen bakeka ia pe
+\tx ewen    bakeka      ia             pe
+\mb ewen    bake =ka    ik      -a     pe
+\gn 1SG:GEN hijo =NAR   copula  -NOMLZ EXCL
+\ps pron.   n.   =clit. v.intr. -suf.  intj.
+
+\ft era mi hijo
+\ELANBegin 1.170
+\ELANEnd 2.170
+\ELANParticipant juanita
+\sound JC-cancion.hijo.muerto-2013.wav 1.170 2.170
+
+\ref 003
+\trs bake meraton
+\tx bake meraton
+\mb bake mera      =n
+\gn hijo encontrar =VOC
+\ps n.   v.tran    =clit.
+
+\ft ellos encontraron a mi hijo
+\ELANBegin 2.180
+\ELANEnd 3.470
+\ELANParticipant juanita
+\sound JC-cancion.hijo.muerto-2013.wav 2.180 3.470
+
+\ref 004
+\trs nokon ora haobo
+\tx nokon       ora   haobo
+\mb nokon       ora   haobo
+\gn 1SG.GEN(SK) semen varón
+\ps pron        n.    n.
+
+\ft mi semen
+\ELANBegin 3.500
+\ELANEnd 4.670
+\ELANParticipant juanita
+\sound JC-cancion.hijo.muerto-2013.wav 3.500 4.670
+
+\ref 005
+\trs yora oni ma iki
+\tx yora   oni     ma  iki
+\mb yora   oni     ma  ik      -i
+\gn cuerpo persona ya  copula  -IMPF
+\ps n.     n.      adv v.intr. -suf.
+
+\ft ya es el cuerpo de un hombre
+\ELANBegin 4.670
+\ELANEnd 5.770
+\ELANParticipant juanita
+\sound JC-cancion.hijo.muerto-2013.wav 4.670 5.770
+
+\ref 006
+\trs hehe
+\tx hehe
+\mb hehe
+\gn hehe
+\ps intj.
+
+\ft eee
+\ELANBegin 5.770
+\ELANEnd 6.180
+\ELANParticipant juanita
+\sound JC-cancion.hijo.muerto-2013.wav 5.770 6.180
+
+\ref 007
+\trs hehe
+\tx hehe
+\mb hehe
+\gn hehe
+\ps intj.
+
+\ft eee
+\ELANBegin 6.190
+\ELANEnd 6.850
+\ELANParticipant juanita
+\sound JC-cancion.hijo.muerto-2013.wav 6.190 6.850
+
+\ref 008
+\trs ewen noibokiri
+\tx ewen    noibokiri
+\mb ewen    noi  =bo   =ki    =ri
+\gn 1SG:GEN amar =PLU  =CON   =CON
+\ps pron.   v.   =clit =clit. =clit
+
+\ft es mi querido
+\ELANBegin 6.885
+\ELANEnd 8.175
+\ELANParticipant juanita
+\sound JC-cancion.hijo.muerto-2013.wav 6.885 8.175
+
+\ref 009
+\trs noa bakewai
+\tx noa   bakewai
+\mb noa   bake -wa   -i
+\gn 1PL:A hijo -FACT -SUJ>S:SIM
+\ps pron. n.   -suf  -suf.
+
+\ft nosotros lo hemos hecho crecer
+\ELANBegin 8.185
+\ELANEnd 9.115
+\ELANParticipant juanita
+\sound JC-cancion.hijo.muerto-2013.wav 8.185 9.115
+
+\ref 010
+\trs yora nokoa iki
+\tx yora   nokoa         iki
+\mb yora   noko   -a     ik      -i
+\gn cuerpo llegar -NOMLZ copula  -IMPF
+\ps n.     v.     -suf.  v.intr. -suf.
+
+\ft ese cuerpo es el nuestro
+\ELANBegin 9.135
+\ELANEnd 10.285
+\ELANParticipant juanita
+\sound JC-cancion.hijo.muerto-2013.wav 9.135 10.285
+
+\ref 011
+\trs bake toaomabo
+\tx bake toaomabo
+\mb bake toa   =oma      =bo
+\gn hijo parir =PROP.NEG =PLU
+\ps n.   v.    =clit.    =clit
+
+\ft no tengo hijos
+\ELANBegin 10.285
+\ELANEnd 11.495
+\ELANParticipant juanita
+\sound JC-cancion.hijo.muerto-2013.wav 10.285 11.495
+
+\ref 012
+\trs ea mina watsi hehe
+\tx ea    mina  watsi            hehe
+\mb ea    mina  watsi -i         hehe
+\gn 1SG:P 1SG:A dejar -SUJ>S:SIM hehe
+\ps pron. pron. v.    -suf.      intj.
+
+\ft tu me has dejado
+\ELANBegin 11.495
+\ELANEnd 12.890
+\ELANParticipant juanita
+\sound JC-cancion.hijo.muerto-2013.wav 11.495 12.890
+
+\ref 013
+\trs hehe
+\tx hehe
+\mb hehe
+\gn hehe
+\ps intj.
+
+\ft eee
+\ELANBegin 12.900
+\ELANEnd 13.660
+\ELANParticipant juanita
+\sound JC-cancion.hijo.muerto-2013.wav 12.900 13.660
+
+\ref 014
+\trs haskara
+\tx haskara
+\mb haska    =ra
+\gn así(SK) =EVID1(SK)
+\ps adv.     =clit.
+
+\ft de esta forma
+\ELANBegin 14.965
+\ELANEnd 15.885
+\ELANParticipant nelita
+\sound JC-cancion.hijo.muerto-2013.wav 14.965 15.885
+
+
+\ELANMediaURL file:///D:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC-cancion.hijo.muerto-2013.mpg
+\ELANMediaMIME video/mpeg
+\ELANMediaURL file:///D:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC-cancion.hijo.muerto-2013.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaExtracted file:///D:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC-cancion.hijo.muerto-2013.mpg

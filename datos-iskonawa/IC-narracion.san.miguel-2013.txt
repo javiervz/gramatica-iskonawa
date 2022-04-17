@@ -1,0 +1,386 @@
+\_sh v3.0  400  text
+
+\ref 001
+\ELANBegin 1.780
+\ELANEnd 4.520
+\ELANParticipant Roberto
+\trs ya entonces vamos a escuchar cómo es San Miguel
+\tx ya entonces vamos a escuchar cómo es San Miguel
+\ft ya entonces vamos a escuchar cómo es San Miguel
+\sound IC-narracion.san.miguel-2013.wav 1.780 4.520
+
+\ref 002
+\ELANBegin 5.610
+\ELANEnd 7.860
+\ELANParticipant Isabel
+\trs San Mikirika eah ewea
+\tx San            Mikirika                              eah   ewea
+\mb San Mikiri =ka                                       eah   ewe    -a
+\gn San Miguel =NAR                                      1SG:S vivir  -PERF
+\ps n.         =clit.                                    pron. v.intr -suf.
+
+\ft yo vivo en San Miguel
+\sound IC-narracion.san.miguel-2013.wav 5.610 7.860
+
+\ref 003
+\ELANBegin 8.050
+\ELANEnd 12.380
+\ELANParticipant Isabel
+\trs ain ea ewea yoaoma wai ayamai mai yoashikanai
+\tx ain       ea          ewea
+\mb ain       ea          ewe    -a
+\gn ahí(MIX) 1SG.ABS(SK) vivir  -PERF
+\ps adv.      pron.       v.intr -suf.
+
+\tx yoaoma                       wai
+\mb yoa                =oma      wai
+\gn comida.vegetal(SK) =PROP.NEG chacra
+\ps n.                 =clit.    n.
+
+\tx ayamai                      mai
+\mb ak      -yama    -i         mai
+\gn hacer   -NEG(SK) -SUJ>S:SIM tierra
+\ps v.tran. -suf.    -suf.      n.
+
+\tx yoashikanai
+\mb yoashi    -kan  -ai
+\gn mezquinar -PLU  -IMPF(SK)
+\ps v.        -suj. -suf.
+
+\ft ahí yo vivo sin comida sin hacer chacra pues me mezquinan la tierra
+\sound IC-narracion.san.miguel-2013.wav 8.050 12.380
+
+\ref 004
+\ELANBegin 12.890
+\ELANEnd 17.020
+\ELANParticipant Isabel
+\trs nawabo mai yoashitian wai ayamai nokon beneribi wai ayamai
+\tx nawabo             mai    yoashitian              wai    ayamai                 nokon       beneribi         wai    ayamai
+\mb nawa         =bo   mai    yoashi        -tian     wai    ak      -yama    -i    nokon       bene   =ribi     wai    ak      -yama    -i
+\gn no.indígena =PLU  tierra mezquinar(SK) -TEMP(SK) chacra hacer   -NEG(SK) -IMPF 1SG.GEN(SK) esposo =también chacra hacer   -NEG(SK) -IMPF
+\ps n.           =clit n.     v.            -suf.     n.     v.tran. -suf.    -suf. pron        n.     =clit.    n.     v.tran. -suf.    -suf.
+
+\ft como los mestizos mezquinan la tierra, no tengo chacra mi marido tampoco hace chacra
+\sound IC-narracion.san.miguel-2013.wav 12.890 17.020
+
+\ref 005
+\ELANBegin 17.520
+\ELANEnd 19.190
+\ELANParticipant Isabel
+\trs mai yoashikanaitian
+\tx mai    yoashikanaitian
+\mb mai    yoashi        -kan  -ai        -tian
+\gn tierra mezquinar(SK) -PLU  -NOMLZ(SK) -TEMP(SK)
+\ps n.     v.            -suj. -suf.      -suf.
+
+\ft cuando mezquinan la tierra
+\sound IC-narracion.san.miguel-2013.wav 17.520 19.190
+
+\ref 006
+\ELANBegin 20.400
+\ELANEnd 22.490
+\ELANParticipant Isabel
+\trs San Miguel yoashibo
+\tx San Miguel yoashibo
+\mb San Miguel yoashi       =bo
+\gn San Miguel mezquino(SK) =PLU
+\ps n.         n.           =clit
+
+\ft (son) mezquinos (en) San Miguel
+\sound IC-narracion.san.miguel-2013.wav 20.400 22.490
+
+\ref 007
+\ELANBegin 22.730
+\ELANEnd 23.760
+\ELANParticipant Isabel
+\trs yoishibo
+\tx yoishibo
+\mb yoishi   =bo
+\gn mezquino =PLU
+\ps n.       =clit
+
+\ft mezquinos
+\sound IC-narracion.san.miguel-2013.wav 22.730 23.760
+
+\ref 008
+\ELANBegin 24.770
+\ELANEnd 26.100
+\ELANParticipant Isabel
+\trs mai yoishibo
+\tx mai    yoishibo
+\mb mai    yoishi   =bo
+\gn tierra mezquino =PLU
+\ps n.     n.       =clit
+
+\ft mezquinos de tierra
+\sound IC-narracion.san.miguel-2013.wav 24.770 26.100
+
+\ref 009
+\ELANBegin 26.630
+\ELANEnd 29.580
+\ELANParticipant Isabel
+\trs abo abetan wai ayamai
+\tx abo       abetan     wai    ayamai
+\mb a   =bo   a   =betan wai    ak      -yama    -i
+\gn ese =PLU  ese =COM   chacra hacer   -NEG(SK) -IMPF
+\ps dem =clit dem =clit. n.     v.tran. -suf.    -suf.
+
+\ft con ellos no voy a hacer chacra
+\sound IC-narracion.san.miguel-2013.wav 26.630 29.580
+
+\ref 010
+\ELANBegin 30.200
+\ELANEnd 33.720
+\ELANParticipant Isabel
+\trs heki banayamai paranti banayamai
+\tx heki  banayamai              paranti
+\mb heki  bana    -yama    -i    paranti
+\gn maíz sembrar -NEG(SK) -IMPF plátano
+\ps n.    v.tran  -suf.    -suf. n.
+
+\tx banayamai
+\mb bana    -yama    -i
+\gn sembrar -NEG(SK) -IMPF
+\ps v.tran  -suf.    -suf.
+
+\ft no siembro maiz, no siembro plátano
+\sound IC-narracion.san.miguel-2013.wav 30.200 33.720
+
+\ref 011
+\ELANBegin 33.960
+\ELANEnd 35.460
+\ELANParticipant Isabel
+\trs atsa banayamai
+\tx atsa banayamai
+\mb atsa bana    -yama    -i
+\gn yuca sembrar -NEG(SK) -IMPF
+\ps n.   v.tran  -suf.    -suf.
+
+\ft no siembro yuca
+\sound IC-narracion.san.miguel-2013.wav 33.960 35.460
+
+\ref 012
+\ELANBegin 36.880
+\ELANEnd 40.470
+\ELANParticipant Isabel
+\trs hawi banayamai hakopi ewen bene wai ayamai
+\tx hawi             banayamai              hakopi
+\mb hawi             bana    -yama    -i    hakopi
+\gn caña.de.azúcar sembrar -NEG(SK) -IMPF por.eso(SK)
+\ps n.               v.tran  -suf.    -suf. conec.
+
+\tx ewen    bene   wai    ayamai
+\mb ewen    bene   wai    ak      -yama    -i
+\gn 1SG:GEN esposo chacra hacer   -NEG(SK) -IMPF
+\ps pron.   n.     n.     v.tran. -suf.    -suf.
+
+\ft no siembro caña de azúcar, por eso mi marido no hace chacra
+\sound IC-narracion.san.miguel-2013.wav 36.880 40.470
+
+\ref 013
+\ELANBegin 40.800
+\ELANEnd 42.090
+\ELANParticipant Isabel
+\trs mai yoashi atian
+\tx mai    yoashi       atian
+\mb mai    yoashi       atian
+\gn tierra mezquino(SK) entonces
+\ps n.     n.           conec.
+
+\ft cuando mezquinan tierra
+\sound IC-narracion.san.miguel-2013.wav 40.800 42.090
+
+\ref 014
+\ELANBegin 43.320
+\ELANEnd 44.560
+\ELANParticipant Isabel
+\trs mai yoishi
+\tx mai    yoishi
+\mb mai    yoishi
+\gn tierra mezquino
+\ps n.     n.
+
+\ft mezquino de tierra
+\sound IC-narracion.san.miguel-2013.wav 43.320 44.560
+
+\ref 015
+\ELANBegin 46.120
+\ELANEnd 48.020
+\ELANParticipant Isabel
+\trs nawabo mai yoishi
+\tx nawabo             mai    yoishi
+\mb nawa         =bo   mai    yoishi
+\gn no.indígena =PLU  tierra mezquino
+\ps n.           =clit n.     n.
+
+\ft los mestizos mezquinan la tierra
+\sound IC-narracion.san.miguel-2013.wav 46.120 48.020
+
+\ref 016
+\ELANBegin 49.620
+\ELANEnd 50.220
+\ELANParticipant Isabel
+\trs ya
+\tx ya
+\ft ya
+\sound IC-narracion.san.miguel-2013.wav 49.620 50.220
+
+\ref 017
+\ELANBegin 50.545
+\ELANEnd 51.485
+\ELANParticipant Isabel
+\trs eso nomás
+\tx eso nomás
+\ft eso nomás
+\sound IC-narracion.san.miguel-2013.wav 50.545 51.485
+
+\ref 018
+\ELANBegin 51.570
+\ELANEnd 53.620
+\ELANParticipant Roberto
+\trs ¿y en español cómo ha sido lo que has contado?
+\tx ¿y en español cómo ha sido lo que has contado?
+\ft ¿y en español cómo ha sido lo que has contado?
+\sound IC-narracion.san.miguel-2013.wav 51.570 53.620
+
+\ref 019
+\ELANBegin 53.430
+\ELANEnd 56.900
+\ELANParticipant Isabel
+\trs yo estoy contando que mezquina San Miguel gente no vale
+\tx yo estoy contando que mezquina San Miguel gente no vale
+\ft yo estoy contando que mezquina San Miguel gente no vale
+\sound IC-narracion.san.miguel-2013.wav 53.430 56.900
+
+\ref 020
+\ELANBegin 57.200
+\ELANEnd 58.750
+\ELANParticipant Isabel
+\trs mezquina terreno ahí
+\tx mezquina terreno ahí
+\ft mezquina terreno ahí
+\sound IC-narracion.san.miguel-2013.wav 57.200 58.750
+
+\ref 021
+\ELANBegin 59.270
+\ELANEnd 62.260
+\ELANParticipant Isabel
+\trs por eso no ha hecho chacra mi marido estoy diciendo
+\tx por eso no ha hecho chacra mi marido estoy diciendo
+\ft por eso no ha hecho chacra mi marido estoy diciendo
+\sound IC-narracion.san.miguel-2013.wav 59.270 62.260
+
+\ref 022
+\ELANBegin 62.800
+\ELANEnd 66.530
+\ELANParticipant Isabel
+\trs no he sembrado plátano, yuca. No tenemos nada, ya no
+\tx no he sembrado plátano, yuca. No tenemos nada, ya no
+\ft no he sembrado plátano, yuca. No tenemos nada, ya no
+\sound IC-narracion.san.miguel-2013.wav 62.800 66.530
+
+\ref 023
+\ELANBegin 66.990
+\ELANEnd 68.150
+\ELANParticipant Isabel
+\trs para hacer chacra
+\tx para hacer chacra
+\ft para hacer chacra
+\sound IC-narracion.san.miguel-2013.wav 66.990 68.150
+
+\ref 024
+\ELANBegin 68.890
+\ELANEnd 70.580
+\ELANParticipant Roberto
+\trs ¿y dónde tienen entonces?
+\tx ¿y dónde tienen entonces?
+\ft ¿y dónde tienen entonces?
+\sound IC-narracion.san.miguel-2013.wav 68.890 70.580
+
+\ref 025
+\ELANBegin 69.770
+\ELANEnd 70.520
+\ELANParticipant Isabel
+\trs ¿uhm?
+\tx ¿uhm?
+\ft ¿uhm?
+\sound IC-narracion.san.miguel-2013.wav 69.770 70.520
+
+\ref 026
+\ELANBegin 70.800
+\ELANEnd 72.480
+\ELANParticipant Roberto
+\trs ¿y dónde tienen su chacra?
+\tx ¿y dónde tienen su chacra?
+\ft ¿y dónde tienen su chacra?
+\sound IC-narracion.san.miguel-2013.wav 70.800 72.480
+
+\ref 027
+\ELANBegin 71.790
+\ELANEnd 73.920
+\ELANParticipant Isabel
+\trs no tengo chacra yo
+\tx no tengo chacra yo
+\ft no tengo chacra yo
+\sound IC-narracion.san.miguel-2013.wav 71.790 73.920
+
+\ref 028
+\ELANBegin 74.700
+\ELANEnd 76.630
+\ELANParticipant Isabel
+\trs mi vecino me da yuca
+\tx mi vecino me da yuca
+\ft mi vecino me da yuca
+\sound IC-narracion.san.miguel-2013.wav 74.700 76.630
+
+\ref 029
+\ELANBegin 76.920
+\ELANEnd 83.840
+\ELANParticipant Isabel
+\trs hay un Ernesto se llama un señor bien bueno él él me da yuca un pedazo ahí estoy comiendo yo
+\tx hay un Ernesto se llama un señor bien bueno él él me da yuca un pedazo ahí estoy comiendo yo
+\ft hay un Ernesto se llama un señor bien bueno él él me da yuca un pedazo ahí estoy comiendo yo
+\sound IC-narracion.san.miguel-2013.wav 76.920 83.840
+
+\ref 030
+\ELANBegin 85.210
+\ELANEnd 87.820
+\ELANParticipant Isabel
+\trs mi comadra misma mezquina mi terreno
+\tx mi comadra misma mezquina mi terreno
+\ft mi comadra misma mezquina mi terreno
+\sound IC-narracion.san.miguel-2013.wav 85.210 87.820
+
+\ref 031
+\ELANBegin 88.920
+\ELANEnd 90.510
+\ELANParticipant Isabel
+\trs no quiero estar allá yo
+\tx no quiero estar allá yo
+\ft no quiero estar allá yo
+\sound IC-narracion.san.miguel-2013.wav 88.920 90.510
+
+\ref 032
+\ELANBegin 92.710
+\ELANEnd 94.460
+\ELANParticipant Isabel
+\trs ese estoy contando eso
+\tx ese estoy contando eso
+\ft ese estoy contando eso
+\sound IC-narracion.san.miguel-2013.wav 92.710 94.460
+
+\ref 033
+\ELANBegin 96.110
+\ELANEnd 97.690
+\ELANParticipant Isabel
+\trs gente malo son borrachos
+\tx gente malo son borrachos
+\ft gente malo son borrachos
+\sound IC-narracion.san.miguel-2013.wav 96.110 97.690
+
+
+\ELANMediaURL file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/IC-narracion.san.miguel-2013.mpg
+\ELANMediaMIME video/mpeg
+\ELANMediaExtracted file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/IC-narracion.san.miguel-2013.mpg
+\ELANMediaURL file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/IC-narracion.san.miguel-2013.wav
+\ELANMediaMIME audio/x-wav

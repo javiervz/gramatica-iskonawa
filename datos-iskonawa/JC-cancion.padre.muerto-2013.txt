@@ -1,0 +1,281 @@
+\_sh v3.0  400  text
+
+\ref 001
+\trs noa aniomabo
+\tx noa   aniomabo
+\mb noa   ani        =oma      =bo
+\gn 1PL:S grande(SK) =PROP.NEG =PLU
+\ps pron. adj.       =clit.    =clit
+
+\ft no tenemos padre
+\ELANBegin 0.490
+\ELANEnd 1.910
+\ELANParticipant juanita
+\sound JC-cancion.padre.muerto-2013.wav 0.490 1.910
+
+\ref 002
+\trs ea mina watsi eee
+\tx ea    mina  watsi       hehe
+\mb ea    mina  watsi -i    hehe
+\gn 1SG:P 1SG:A dejar -IMPF hehe
+\ps pron. pron. v.    -suf. intj.
+
+\ft tu me has dejado
+\ELANBegin 1.930
+\ELANEnd 3.370
+\ELANParticipant juanita
+\sound JC-cancion.padre.muerto-2013.wav 1.930 3.370
+
+\ref 003
+\trs bake mera kayari
+\tx bake mera kayari
+\mb bake mera kaya      =ri
+\gn padre     espíritu =CON
+\ps n.        n.        =clit
+
+\ft el espíritu del padre
+\ELANBegin 3.390
+\ELANEnd 4.510
+\ELANParticipant juanita
+\sound JC-cancion.padre.muerto-2013.wav 3.390 4.510
+
+\ref 004
+\trs ewen roa noita
+\tx ewen    roa  noita
+\mb ewen    roa  noitapa -a
+\gn 1SG:GEN hijo sufrir  -EST
+\ps pron.   n.   v.      -suf
+
+\ft mi hijo está sufriendo
+\ELANBegin 4.520
+\ELANEnd 5.920
+\ELANParticipant juanita
+\sound JC-cancion.padre.muerto-2013.wav 4.520 5.920
+
+\ref 005
+\trs ea a yoiki hehe
+\tx ea    a   yoiki                hehe
+\mb ea    a   yoi     -i    =ki    hehe
+\gn 1SG:A ese contar  -IMPF =CON   hehe
+\ps pron. dem v.tran. -suf. =clit. intj.
+
+\ft yo te estoy contando eso eee
+\ELANBegin 5.940
+\ELANEnd 7.300
+\ELANParticipant juanita
+\sound JC-cancion.padre.muerto-2013.wav 5.940 7.300
+
+\ref 006
+\trs hehe
+\tx hehe
+\mb hehe
+\gn hehe
+\ps intj.
+
+\ft eee
+\ELANBegin 7.315
+\ELANEnd 7.915
+\ELANParticipant juanita
+\sound JC-cancion.padre.muerto-2013.wav 7.315 7.915
+
+\ref 007
+\trs epa
+\tx epa
+\mb epa
+\gn padre
+\ps n.
+
+\ft papá
+\ELANBegin 7.920
+\ELANEnd 8.560
+\ELANParticipant juanita
+\sound JC-cancion.padre.muerto-2013.wav 7.920 8.560
+
+\ref 008
+\trs pe
+\tx pe
+\mb pe
+\gn EXCL
+\ps intj.
+
+\ft pee
+\ELANBegin 8.560
+\ELANEnd 9.160
+\ELANParticipant juanita
+\sound JC-cancion.padre.muerto-2013.wav 8.560 9.160
+
+\ref 009
+\trs epa
+\tx epa
+\mb epa
+\gn padre
+\ps n.
+
+\ft papá
+\ELANBegin 9.185
+\ELANEnd 9.880
+\ELANParticipant juanita
+\sound JC-cancion.padre.muerto-2013.wav 9.185 9.880
+
+\ref 010
+\trs pe
+\tx pe
+\mb pe
+\gn EXCL
+\ps intj.
+
+\ft pee
+\ELANBegin 9.880
+\ELANEnd 10.510
+\ELANParticipant juanita
+\sound JC-cancion.padre.muerto-2013.wav 9.880 10.510
+
+\ref 011
+\trs hehe
+\tx hehe
+\mb hehe
+\gn hehe
+\ps intj.
+
+\ft eee
+\ELANBegin 10.530
+\ELANEnd 11.190
+\ELANParticipant juanita
+\sound JC-cancion.padre.muerto-2013.wav 10.530 11.190
+
+\ref 012
+\trs hehe
+\tx hehe
+\mb hehe
+\gn hehe
+\ps intj.
+
+\ft eee
+\ELANBegin 11.205
+\ELANEnd 12.015
+\ELANParticipant juanita
+\sound JC-cancion.padre.muerto-2013.wav 11.205 12.015
+
+\ref 013
+\trs noa bakewai
+\tx noa   bakewai
+\mb noa   bake -wa   -i
+\gn 1PL.P hijo -FACT -SUJ>S:SIM
+\ps pron. n.   -suf  -suf.
+
+\ft nosotros (tus) hijos vamos a crecer
+\ELANBegin 12.045
+\ELANEnd 13.235
+\ELANParticipant juanita
+\sound JC-cancion.padre.muerto-2013.wav 12.045 13.235
+
+\ref 014
+\trs mia ewen kayaki
+\tx mia         ewen    kayaki
+\mb mia         ewen    kaya      =ki
+\gn 2SG.ABS(SK) 1SG:GEN espíritu =CON
+\ps pron        pron.   n.        =clit.
+
+\ft tu eres mi antepasado muerto
+\ELANBegin 13.285
+\ELANEnd 14.885
+\ELANParticipant juanita
+\sound JC-cancion.padre.muerto-2013.wav 13.285 14.885
+
+\ref 015
+\trs mia yora nokoa
+\tx mia         yora   nokoa
+\mb mia         yora   noko   -a
+\gn 2SG.ABS(SK) cuerpo llegar -NOMLZ
+\ps pron        n.     v.     -suf.
+
+\ft tu eres el cuerpo que llega
+\ELANBegin 14.890
+\ELANEnd 16.070
+\ELANParticipant juanita
+\sound JC-cancion.padre.muerto-2013.wav 14.890 16.070
+
+\ref 016
+\trs yora nokon atonbi
+\tx yora   nokon       atonbi
+\mb yora   nokon       atonbi
+\gn cuerpo 1SG.GEN(SK) ?
+\ps n.     pron        ?
+
+\ft yo estoy solo
+\ELANBegin 16.125
+\ELANEnd 17.125
+\ELANParticipant juanita
+\sound JC-cancion.padre.muerto-2013.wav 16.125 17.125
+
+\ref 017
+\trs noa aniomabo
+\tx noa   aniomabo
+\mb noa   ani        =oma      =bo
+\gn 1PL:S grande(SK) =PROP.NEG =PLU
+\ps pron. adj.       =clit.    =clit
+
+\ft nosotros no tenemos ancestros
+\ELANBegin 17.180
+\ELANEnd 18.380
+\ELANParticipant juanita
+\sound JC-cancion.padre.muerto-2013.wav 17.180 18.380
+
+\ref 018
+\trs ea mina watsi hehe
+\tx ea        mina  watsi       hehe
+\mb ea        mina  watsi -i    hehe
+\gn 1SG:S(SK) 1SG:A dejar -IMPF hehe
+\ps pron.     pron. v.    -suf. intj.
+
+\ft tu me dejaste
+\ELANBegin 18.415
+\ELANEnd 19.275
+\ELANParticipant juanita
+\sound JC-cancion.padre.muerto-2013.wav 18.415 19.275
+
+\ref 019
+\trs epa pe
+\tx epa   pe
+\mb epa   pe
+\gn padre EXCL
+\ps n.    intj.
+
+\ft papá pee
+\ELANBegin 19.300
+\ELANEnd 20.510
+\ELANParticipant juanita
+\sound JC-cancion.padre.muerto-2013.wav 19.300 20.510
+
+\ref 020
+\trs hehe
+\tx hehe
+\mb hehe
+\gn hehe
+\ps intj.
+
+\ft eee
+\ELANBegin 20.530
+\ELANEnd 21.180
+\ELANParticipant juanita
+\sound JC-cancion.padre.muerto-2013.wav 20.530 21.180
+
+\ref 021
+\trs hehe
+\tx hehe
+\mb hehe
+\gn hehe
+\ps intj.
+
+\ft eee
+\ELANBegin 21.210
+\ELANEnd 21.740
+\ELANParticipant juanita
+\sound JC-cancion.padre.muerto-2013.wav 21.210 21.740
+
+
+\ELANMediaURL file:///D:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC-cancion.padre.muerto-2013.mpg
+\ELANMediaMIME video/mpeg
+\ELANMediaURL file:///D:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC-cancion.padre.muerto-2013.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaExtracted file:///D:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC-cancion.padre.muerto-2013.mpg

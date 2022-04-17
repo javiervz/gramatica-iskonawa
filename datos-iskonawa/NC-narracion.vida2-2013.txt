@@ -1,0 +1,974 @@
+\_sh v3.0  400  text
+
+\ref 001
+\ELANBegin 0.240
+\ELANEnd 1.470
+\ELANParticipant Nelita
+\trs [¿?]
+\tx [¿?]
+\ft [¿?]
+\sound NC-narracion.vida2-2013.wav 0.240 1.470
+
+\ref 002
+\ELANBegin 2.690
+\ELANEnd 4.410
+\ELANParticipant Jaime
+\trs entonces estamos acá con Nelita
+\tx entonces estamos acá con Nelita
+\ft entonces estamos acá con Nelita
+\sound NC-narracion.vida2-2013.wav 2.690 4.410
+
+\ref 003
+\ELANBegin 5.800
+\ELANEnd 8.950
+\ELANParticipant Jaime
+\trs el sábado en la tarde y ella nos va a contar
+\tx el sábado en la tarde y ella nos va a contar
+\ft el sábado en la tarde y ella nos va a contar
+\sound NC-narracion.vida2-2013.wav 5.800 8.950
+
+\ref 004
+\ELANBegin 9.710
+\ELANEnd 13.430
+\ELANParticipant Jaime
+\trs sobre callería, con quién vive, cómo es su casa
+\tx sobre callería, con quién vive, cómo es su casa
+\ft sobre callería, con quién vive, cómo es su casa
+\sound NC-narracion.vida2-2013.wav 9.710 13.430
+
+\ref 005
+\ELANBegin 13.860
+\ELANEnd 15.430
+\ELANParticipant Jaime
+\trs sobre su hijita
+\tx sobre su hijita
+\ft sobre su hijita
+\sound NC-narracion.vida2-2013.wav 13.860 15.430
+
+\ref 006
+\ELANBegin 16.490
+\ELANEnd 17.890
+\ELANParticipant Jaime
+\trs en iskonawa todo
+\tx en iskonawa todo
+\ft en iskonawa todo
+\sound NC-narracion.vida2-2013.wav 16.490 17.890
+
+\ref 007
+\ELANBegin 18.670
+\ELANEnd 19.390
+\ELANParticipant Nelita
+\trs ya
+\tx ya
+\ft ya
+\sound NC-narracion.vida2-2013.wav 18.670 19.390
+
+\ref 008
+\ELANBegin 19.710
+\ELANEnd 21.130
+\ELANParticipant Nelita
+\trs iro baripakei
+\tx iro   baripakei
+\mb iro   bari pake     -i
+\gn bueno sol  caer(se) -SUJ>S:SIM
+\ps adj.  n.   v.ambi.  -suf.
+
+\ft buenas tardes
+\sound NC-narracion.vida2-2013.wav 19.710 21.130
+
+\ref 009
+\ELANBegin 21.900
+\ELANEnd 22.400
+\ELANParticipant Nelita
+\trs eah
+\tx eah
+\mb eah
+\gn 1SG:S
+\ps pron.
+
+\ft yo
+\sound NC-narracion.vida2-2013.wav 21.900 22.400
+
+\ref 010
+\ELANBegin 22.800
+\ELANEnd 24.710
+\ELANParticipant Nelita
+\trs neno yoia oa
+\tx neno      yoia           oa
+\mb neno      yoi     -a     o     -a
+\gn aquí(SK) contar  -NOMLZ venir -PERF
+\ps adv.      v.tran. -suf.  v.    -suf.
+
+\ft he venido acá
+\sound NC-narracion.vida2-2013.wav 22.800 24.710
+
+\ref 011
+\ELANBegin 25.685
+\ELANEnd 27.240
+\ELANParticipant Nelita
+\trs ea ani ewea
+\tx ea ani ewea
+\ft yo vivo ahí
+\sound NC-narracion.vida2-2013.wav 25.685 27.240
+
+\ref 012
+\ELANBegin 27.705
+\ELANEnd 29.430
+\ELANParticipant Nelita
+\trs yoin ea oa
+\tx yoin ea oa
+\ft yo decía eso
+\sound NC-narracion.vida2-2013.wav 27.705 29.430
+
+\ref 013
+\ELANBegin 29.545
+\ELANEnd 31.235
+\ELANParticipant Nelita
+\trs ea ani ewea
+\tx ea ani ewea
+\ft yo vivo ahí
+\sound NC-narracion.vida2-2013.wav 29.545 31.235
+
+\ref 014
+\ELANBegin 31.340
+\ELANEnd 32.820
+\ELANParticipant Nelita
+\trs ea eariki
+\tx ea eariki
+\ft yo
+\sound NC-narracion.vida2-2013.wav 31.340 32.820
+
+\ref 015
+\ELANBegin 32.925
+\ELANEnd 34.380
+\ELANParticipant Nelita
+\trs ea eweariki
+\tx ea eweariki
+\ft yo vivo
+\sound NC-narracion.vida2-2013.wav 32.925 34.380
+
+\ref 016
+\ELANBegin 35.030
+\ELANEnd 37.400
+\ELANParticipant Nelita
+\trs calleria kayarianko
+\tx calleria kayarianko
+\ft Callería en Callería
+\sound NC-narracion.vida2-2013.wav 35.030 37.400
+
+\ref 017
+\ELANBegin 38.750
+\ELANEnd 41.460
+\ELANParticipant Nelita
+\trs ainriki ewen kahe
+\tx ainriki ewen kahe
+\ft ahí está mi casa
+\sound NC-narracion.vida2-2013.wav 38.750 41.460
+
+\ref 018
+\ELANBegin 41.960
+\ELANEnd 44.810
+\ELANParticipant Nelita
+\trs ewen baken kahe
+\tx ewen baken kahe
+\ft la casa de mi hija
+\sound NC-narracion.vida2-2013.wav 41.960 44.810
+
+\ref 019
+\ELANBegin 45.870
+\ELANEnd 47.450
+\ELANParticipant Nelita
+\trs a ewen bakeriki
+\tx a ewen bakeriki
+\ft mi hija es
+\sound NC-narracion.vida2-2013.wav 45.870 47.450
+
+\ref 020
+\ELANBegin 48.170
+\ELANEnd 49.690
+\ELANParticipant Nelita
+\trs Betsi Campos
+\tx Betsi Campos
+\ft Betsi Campos
+\sound NC-narracion.vida2-2013.wav 48.170 49.690
+
+\ref 021
+\ELANBegin 50.440
+\ELANEnd 52.210
+\ELANParticipant Nelita
+\trs awen kaheriki ewea
+\tx awen kaheriki ewea
+\ft yo vivo en su casa
+\sound NC-narracion.vida2-2013.wav 50.440 52.210
+
+\ref 022
+\ELANBegin 52.610
+\ELANEnd 53.150
+\ELANParticipant Nelita
+\trs [¿?]
+\tx [¿?]
+\ft [¿?]
+\sound NC-narracion.vida2-2013.wav 52.610 53.150
+
+\ref 023
+\ELANBegin 53.320
+\ELANEnd 56.520
+\ELANParticipant Nelita
+\trs awen bene riki Arnaldo Barbaran Soria
+\tx awen bene riki Arnaldo Barbaran Soria
+\ft su esposo es Arnaldo Barbaran Soria
+\sound NC-narracion.vida2-2013.wav 53.320 56.520
+
+\ref 024
+\ELANBegin 59.480
+\ELANEnd 62.500
+\ELANParticipant Nelita
+\trs narabe narabe riki ewen baba
+\tx narabe narabe riki ewen baba
+\ft mis nietos son dos
+\sound NC-narracion.vida2-2013.wav 59.480 62.500
+
+\ref 025
+\ELANBegin 62.990
+\ELANEnd 64.530
+\ELANParticipant Nelita
+\trs awen ane riki
+\tx awen ane riki
+\ft sus nombres son
+\sound NC-narracion.vida2-2013.wav 62.990 64.530
+
+\ref 026
+\ELANBegin 65.020
+\ELANEnd 65.780
+\ELANParticipant Nelita
+\trs nato
+\tx nato
+\ft este
+\sound NC-narracion.vida2-2013.wav 65.020 65.780
+
+\ref 027
+\ELANBegin 66.505
+\ELANEnd 67.670
+\ELANParticipant Nelita
+\trs Andrea
+\tx Andrea
+\ft Andrea
+\sound NC-narracion.vida2-2013.wav 66.505 67.670
+
+\ref 028
+\ELANBegin 68.310
+\ELANEnd 70.470
+\ELANParticipant Nelita
+\trs wetsa iki Noeli
+\tx wetsa iki Noeli
+\ft la otra es Noelí
+\sound NC-narracion.vida2-2013.wav 68.310 70.470
+
+\ref 029
+\ELANBegin 71.310
+\ELANEnd 74.030
+\ELANParticipant Nelita
+\trs wetsa iki Jack
+\tx wetsa iki Jack
+\ft el otro es Jack
+\sound NC-narracion.vida2-2013.wav 71.310 74.030
+
+\ref 030
+\ELANBegin 75.480
+\ELANEnd 76.490
+\ELANParticipant Nelita
+\trs Jack
+\tx Jack
+\ft Jack
+\sound NC-narracion.vida2-2013.wav 75.480 76.490
+
+\ref 031
+\ELANBegin 77.540
+\ELANEnd 78.710
+\ELANParticipant Nelita
+\trs aranares
+\tx aranares
+\ft eso es todo
+\sound NC-narracion.vida2-2013.wav 77.540 78.710
+
+\ref 032
+\ELANBegin 79.100
+\ELANEnd 80.180
+\ELANParticipant Nelita
+\trs ewen bake
+\tx ewen bake
+\ft mi hija
+\sound NC-narracion.vida2-2013.wav 79.100 80.180
+
+\ref 033
+\ELANBegin 80.760
+\ELANEnd 82.330
+\ELANParticipant Nelita
+\trs hain ea eweke
+\tx hain ea eweke
+\ft ahí yo vivo
+\sound NC-narracion.vida2-2013.wav 80.760 82.330
+
+\ref 034
+\ELANBegin 82.550
+\ELANEnd 84.020
+\ELANParticipant Nelita
+\trs ea riki kaheoma
+\tx ea riki kaheoma
+\ft yo no tengo casa
+\sound NC-narracion.vida2-2013.wav 82.550 84.020
+
+\ref 035
+\ELANBegin 85.830
+\ELANEnd 87.730
+\ELANParticipant Nelita
+\trs kaheoma ikahkai ya
+\tx kaheoma ikahkai ya
+\ft no tengo casa, por eso
+\sound NC-narracion.vida2-2013.wav 85.830 87.730
+
+\ref 036
+\ELANBegin 88.440
+\ELANEnd 90.020
+\ELANParticipant Nelita
+\trs ewen bakeiba eah
+\tx ewen bakeiba eah
+\ft yo vivo con mi hija
+\sound NC-narracion.vida2-2013.wav 88.440 90.020
+
+\ref 037
+\ELANBegin 90.490
+\ELANEnd 91.850
+\ELANParticipant Nelita
+\trs ea mirán ika
+\tx ea mirán ika
+\ft en (lugar) ajeno
+\sound NC-narracion.vida2-2013.wav 90.490 91.850
+
+\ref 038
+\ELANBegin 93.060
+\ELANEnd 94.800
+\ELANParticipant Nelita
+\trs ea mián ika ain
+\tx ea mián ika ain
+\ft en (lugar) ajeno vivo
+\sound NC-narracion.vida2-2013.wav 93.060 94.800
+
+\ref 039
+\ELANBegin 97.420
+\ELANEnd 98.660
+\ELANParticipant Nelita
+\trs atian aranares
+\tx atian aranares
+\ft eso es todo
+\sound NC-narracion.vida2-2013.wav 97.420 98.660
+
+\ref 040
+\ELANBegin 99.290
+\ELANEnd 100.430
+\ELANParticipant Nelita
+\trs eso es todo
+\tx eso es todo
+\ft eso es todo
+\sound NC-narracion.vida2-2013.wav 99.290 100.430
+
+\ref 041
+\ELANBegin 106.230
+\ELANEnd 112.190
+\ELANParticipant Jaime
+\trs y nelita me puedes explicar un poquito lo mismo todo lo que has 
+dicho un poquito en castellano
+\tx y nelita me puedes explicar un poquito lo mismo todo lo que has 
+dicho un poquito en castellano
+\ft y nelita me puedes explicar un poquito lo mismo todo lo que has 
+dicho un poquito en castellano
+\sound NC-narracion.vida2-2013.wav 106.230 112.190
+
+\ref 042
+\ELANBegin 112.850
+\ELANEnd 113.440
+\ELANParticipant Nelita
+\trs ya
+\tx ya
+\ft ya
+\sound NC-narracion.vida2-2013.wav 112.850 113.440
+
+\ref 043
+\ELANBegin 113.570
+\ELANEnd 115.670
+\ELANParticipant Jaime
+\trs para grabarlo porque no lo hemos grabado
+\tx para grabarlo porque no lo hemos grabado
+\ft para grabarlo porque no lo hemos grabado
+\sound NC-narracion.vida2-2013.wav 113.570 115.670
+
+\ref 044
+\ELANBegin 116.200
+\ELANEnd 116.940
+\ELANParticipant Nelita
+\trs ya
+\tx ya
+\ft ya
+\sound NC-narracion.vida2-2013.wav 116.200 116.940
+
+\ref 045
+\ELANBegin 119.600
+\ELANEnd 122.390
+\ELANParticipant Nelita
+\trs yo vivo con mi hija
+\tx yo vivo con mi hija
+\ft yo vivo con mi hija
+\sound NC-narracion.vida2-2013.wav 119.600 122.390
+
+\ref 046
+\ELANBegin 123.610
+\ELANEnd 125.240
+\ELANParticipant Nelita
+\trs mi hija tiene marido
+\tx mi hija tiene marido
+\ft mi hija tiene marido
+\sound NC-narracion.vida2-2013.wav 123.610 125.240
+
+\ref 047
+\ELANBegin 126.590
+\ELANEnd 128.110
+\ELANParticipant Nelita
+\trs y ahí vivo yo
+\tx y ahí vivo yo
+\ft y ahí vivo yo
+\sound NC-narracion.vida2-2013.wav 126.590 128.110
+
+\ref 048
+\ELANBegin 128.670
+\ELANEnd 130.670
+\ELANParticipant Nelita
+\trs con mi yo no tengo casa
+\tx con mi yo no tengo casa
+\ft con mi yo no tengo casa
+\sound NC-narracion.vida2-2013.wav 128.670 130.670
+
+\ref 049
+\ELANBegin 130.980
+\ELANEnd 133.290
+\ELANParticipant Nelita
+\trs quiero hacer mi casa, no puedo
+\tx quiero hacer mi casa, no puedo
+\ft quiero hacer mi casa, no puedo
+\sound NC-narracion.vida2-2013.wav 130.980 133.290
+
+\ref 050
+\ELANBegin 133.920
+\ELANEnd 136.310
+\ELANParticipant Nelita
+\trs mi marido está viejo
+\tx mi marido está viejo
+\ft mi marido está viejo
+\sound NC-narracion.vida2-2013.wav 133.920 136.310
+
+\ref 051
+\ELANBegin 136.440
+\ELANEnd 140.400
+\ELANParticipant Nelita
+\trs no puede y no tengo movilidad para irnos
+\tx no puede y no tengo movilidad para irnos
+\ft no puede y no tengo movilidad para irnos
+\sound NC-narracion.vida2-2013.wav 136.440 140.400
+
+\ref 052
+\ELANBegin 140.800
+\ELANEnd 142.440
+\ELANParticipant Nelita
+\trs pa traer mi hoja
+\tx pa traer mi hoja
+\ft pa traer mi hoja
+\sound NC-narracion.vida2-2013.wav 140.800 142.440
+
+\ref 053
+\ELANBegin 142.730
+\ELANEnd 148.110
+\ELANParticipant Nelita
+\trs por eso de esa manera no tengo este no tengo casa
+\tx por eso de esa manera no tengo este no tengo casa
+\ft por eso de esa manera no tengo este no tengo casa
+\sound NC-narracion.vida2-2013.wav 142.730 148.110
+
+\ref 054
+\ELANBegin 148.950
+\ELANEnd 151.450
+\ELANParticipant Nelita
+\trs pero yo vivo tranquilo con mi hija
+\tx pero yo vivo tranquilo con mi hija
+\ft pero yo vivo tranquilo con mi hija
+\sound NC-narracion.vida2-2013.wav 148.950 151.450
+
+\ref 055
+\ELANBegin 151.690
+\ELANEnd 152.910
+\ELANParticipant Nelita
+\trs con mis nietos
+\tx con mis nietos
+\ft con mis nietos
+\sound NC-narracion.vida2-2013.wav 151.690 152.910
+
+\ref 056
+\ELANBegin 153.590
+\ELANEnd 155.580
+\ELANParticipant Nelita
+\trs yo tengo dos hijos nomás
+\tx yo tengo dos hijos nomás
+\ft yo tengo dos hijos nomás
+\sound NC-narracion.vida2-2013.wav 153.590 155.580
+
+\ref 057
+\ELANBegin 155.790
+\ELANEnd 156.970
+\ELANParticipant Nelita
+\trs acá está uno
+\tx acá está uno
+\ft acá está uno
+\sound NC-narracion.vida2-2013.wav 155.790 156.970
+
+\ref 058
+\ELANBegin 157.270
+\ELANEnd 158.500
+\ELANParticipant Nelita
+\trs Germán Campos
+\tx Germán Campos
+\ft Germán Campos
+\sound NC-narracion.vida2-2013.wav 157.270 158.500
+
+\ref 059
+\ELANBegin 158.910
+\ELANEnd 161.460
+\ELANParticipant Nelita
+\trs y otro se llama Felipe Campos
+\tx y otro se llama Felipe Campos
+\ft y otro se llama Felipe Campos
+\sound NC-narracion.vida2-2013.wav 158.910 161.460
+
+\ref 060
+\ELANBegin 161.800
+\ELANEnd 163.620
+\ELANParticipant Nelita
+\trs eso nomás mi hijo
+\tx eso nomás mi hijo
+\ft eso nomás mi hijo
+\sound NC-narracion.vida2-2013.wav 161.800 163.620
+
+\ref 061
+\ELANBegin 163.920
+\ELANEnd 165.950
+\ELANParticipant Nelita
+\trs los dos muerto mi hijo
+\tx los dos muerto mi hijo
+\ft los dos muerto mi hijo
+\sound NC-narracion.vida2-2013.wav 163.920 165.950
+
+\ref 062
+\ELANBegin 167.570
+\ELANEnd 172.430
+\ELANParticipant Nelita
+\trs una mujer y un varon muerto mi hijo. Cuatro tenía yo
+\tx una mujer y un varon muerto mi hijo. Cuatro tenía yo
+\ft una mujer y un varon muerto mi hijo. Cuatro tenía yo
+\sound NC-narracion.vida2-2013.wav 167.570 172.430
+
+\ref 063
+\ELANBegin 173.560
+\ELANEnd 180.300
+\ELANParticipant Nelita
+\trs por eso yo no tengo más hijos. Yo solo estoy acá. Y otra mi hija 
+está trabajando
+\tx por eso yo no tengo más hijos. Yo solo estoy acá. Y otra mi hija 
+está trabajando
+\ft por eso yo no tengo más hijos. Yo solo estoy acá. Y otra mi hija 
+está trabajando
+\sound NC-narracion.vida2-2013.wav 173.560 180.300
+
+\ref 064
+\ELANBegin 180.760
+\ELANEnd 182.180
+\ELANParticipant Nelita
+\trs allá en Pucallpa
+\tx allá en Pucallpa
+\ft allá en Pucallpa
+\sound NC-narracion.vida2-2013.wav 180.760 182.180
+
+\ref 065
+\ELANBegin 183.630
+\ELANEnd 185.500
+\ELANParticipant Nelita
+\trs ella quiere estudiar
+\tx ella quiere estudiar
+\ft ella quiere estudiar
+\sound NC-narracion.vida2-2013.wav 183.630 185.500
+
+\ref 066
+\ELANBegin 185.980
+\ELANEnd 188.470
+\ELANParticipant Nelita
+\trs ella no quiere tener marido
+\tx ella no quiere tener marido
+\ft ella no quiere tener marido
+\sound NC-narracion.vida2-2013.wav 185.980 188.470
+
+\ref 067
+\ELANBegin 189.770
+\ELANEnd 192.660
+\ELANParticipant Nelita
+\trs hermana la mayor nomás tenía marido
+\tx hermana la mayor nomás tenía marido
+\ft hermana la mayor nomás tenía marido
+\sound NC-narracion.vida2-2013.wav 189.770 192.660
+
+\ref 068
+\ELANBegin 194.230
+\ELANEnd 196.560
+\ELANParticipant Nelita
+\trs pero felizmente ha tenido marido
+\tx pero felizmente ha tenido marido
+\ft pero felizmente ha tenido marido
+\sound NC-narracion.vida2-2013.wav 194.230 196.560
+
+\ref 069
+\ELANBegin 198.140
+\ELANEnd 200.550
+\ELANParticipant Nelita
+\trs si no dónde yo vivía
+\tx si no dónde yo vivía
+\ft si no dónde yo vivía
+\sound NC-narracion.vida2-2013.wav 198.140 200.550
+
+\ref 070
+\ELANBegin 201.820
+\ELANEnd 205.340
+\ELANParticipant Nelita
+\trs de esta manera tengo mi preocupación
+\tx de esta manera tengo mi preocupación
+\ft de esta manera tengo mi preocupación
+\sound NC-narracion.vida2-2013.wav 201.820 205.340
+
+\ref 071
+\ELANBegin 206.010
+\ELANEnd 207.410
+\ELANParticipant Nelita
+\trs no tengo casa
+\tx no tengo casa
+\ft no tengo casa
+\sound NC-narracion.vida2-2013.wav 206.010 207.410
+
+\ref 072
+\ELANBegin 208.430
+\ELANEnd 210.440
+\ELANParticipant Nelita
+\trs felizmente él también es bueno
+\tx felizmente él también es bueno
+\ft felizmente él también es bueno
+\sound NC-narracion.vida2-2013.wav 208.430 210.440
+
+\ref 073
+\ELANBegin 211.490
+\ELANEnd 217.940
+\ELANParticipant Nelita
+\trs vamos a vivir juntos juntos vamos a vivir con tu mamá dice mi 
+suegro
+\tx vamos a vivir juntos juntos vamos a vivir con tu mamá dice mi 
+suegro
+\ft vamos a vivir juntos juntos vamos a vivir con tu mamá dice mi 
+suegro
+\sound NC-narracion.vida2-2013.wav 211.490 217.940
+
+\ref 074
+\ELANBegin 218.600
+\ELANEnd 219.670
+\ELANParticipant Nelita
+\trs mi yerno
+\tx mi yerno
+\ft mi yerno
+\sound NC-narracion.vida2-2013.wav 218.600 219.670
+
+\ref 075
+\ELANBegin 220.340
+\ELANEnd 222.130
+\ELANParticipant Nelita
+\trs felizmente tranquilo
+\tx felizmente tranquilo
+\ft felizmente tranquilo
+\sound NC-narracion.vida2-2013.wav 220.340 222.130
+
+\ref 076
+\ELANBegin 222.560
+\ELANEnd 224.670
+\ELANParticipant Nelita
+\trs yo vivo tranquilo comiendo
+\tx yo vivo tranquilo comiendo
+\ft yo vivo tranquilo comiendo
+\sound NC-narracion.vida2-2013.wav 222.560 224.670
+
+\ref 077
+\ELANBegin 225.310
+\ELANEnd 226.670
+\ELANParticipant Nelita
+\trs trayendo mi plátano
+\tx trayendo mi plátano
+\ft trayendo mi plátano
+\sound NC-narracion.vida2-2013.wav 225.310 226.670
+
+\ref 078
+\ELANBegin 227.565
+\ELANEnd 229.205
+\ELANParticipant Nelita
+\trs trayendo mi pescado
+\tx trayendo mi pescado
+\ft trayendo mi pescado
+\sound NC-narracion.vida2-2013.wav 227.565 229.205
+
+\ref 079
+\ELANBegin 230.250
+\ELANEnd 235.080
+\ELANParticipant Nelita
+\trs mi pescado es mi desyuno mi almuerzo mi cena tranquilo
+\tx mi pescado es mi desyuno mi almuerzo mi cena tranquilo
+\ft mi pescado es mi desyuno mi almuerzo mi cena tranquilo
+\sound NC-narracion.vida2-2013.wav 230.250 235.080
+
+\ref 080
+\ELANBegin 235.430
+\ELANEnd 240.420
+\ELANParticipant Nelita
+\trs tranquilo vivo allá juntamente con shipibo, hermano shipibo
+\tx tranquilo vivo allá juntamente con shipibo, hermano shipibo
+\ft tranquilo vivo allá juntamente con shipibo, hermano shipibo
+\sound NC-narracion.vida2-2013.wav 235.430 240.420
+
+\ref 081
+\ELANBegin 242.560
+\ELANEnd 246.410
+\ELANParticipant Nelita
+\trs esa manera yo estoy diciendo a todos
+\tx esa manera yo estoy diciendo a todos
+\ft esa manera yo estoy diciendo a todos
+\sound NC-narracion.vida2-2013.wav 242.560 246.410
+
+\ref 082
+\ELANBegin 246.930
+\ELANEnd 248.880
+\ELANParticipant Nelita
+\trs mi preocupación
+\tx mi preocupación
+\ft mi preocupación
+\sound NC-narracion.vida2-2013.wav 246.930 248.880
+
+\ref 083
+\ELANBegin 249.730
+\ELANEnd 253.860
+\ELANParticipant Nelita
+\trs quién va a apoyarme a mí, nadie
+\tx quién va a apoyarme a mí, nadie
+\ft quién va a apoyarme a mí, nadie
+\sound NC-narracion.vida2-2013.wav 249.730 253.860
+
+\ref 084
+\ELANBegin 254.180
+\ELANEnd 258.380
+\ELANParticipant Nelita
+\trs yo no tengo más hijos mi hijo también no tiene trabajo
+\tx yo no tengo más hijos mi hijo también no tiene trabajo
+\ft yo no tengo más hijos mi hijo también no tiene trabajo
+\sound NC-narracion.vida2-2013.wav 254.180 258.380
+
+\ref 085
+\ELANBegin 259.230
+\ELANEnd 260.590
+\ELANParticipant Nelita
+\trs para que me mantiene
+\tx para que me mantiene
+\ft para que me mantiene
+\sound NC-narracion.vida2-2013.wav 259.230 260.590
+
+\ref 086
+\ELANBegin 261.270
+\ELANEnd 262.810
+\ELANParticipant Nelita
+\trs felizmente me ayuda
+\tx felizmente me ayuda
+\ft felizmente me ayuda
+\sound NC-narracion.vida2-2013.wav 261.270 262.810
+
+\ref 087
+\ELANBegin 263.250
+\ELANEnd 266.210
+\ELANParticipant Nelita
+\trs el hijo mi hijo mayor Germán
+\tx el hijo mi hijo mayor Germán
+\ft el hijo mi hijo mayor Germán
+\sound NC-narracion.vida2-2013.wav 263.250 266.210
+
+\ref 088
+\ELANBegin 266.460
+\ELANEnd 267.830
+\ELANParticipant Nelita
+\trs siempre me ayuda
+\tx siempre me ayuda
+\ft siempre me ayuda
+\sound NC-narracion.vida2-2013.wav 266.460 267.830
+
+\ref 089
+\ELANBegin 268.790
+\ELANEnd 272.440
+\ELANParticipant Nelita
+\trs él todo trae. Yo tengo chacra allá en Callería
+\tx él todo trae. Yo tengo chacra allá en Callería
+\ft él todo trae. Yo tengo chacra allá en Callería
+\sound NC-narracion.vida2-2013.wav 268.790 272.440
+
+\ref 090
+\ELANBegin 274.120
+\ELANEnd 275.680
+\ELANParticipant Nelita
+\trs ahí tengo mi chacra
+\tx ahí tengo mi chacra
+\ft ahí tengo mi chacra
+\sound NC-narracion.vida2-2013.wav 274.120 275.680
+
+\ref 091
+\ELANBegin 276.645
+\ELANEnd 278.060
+\ELANParticipant Nelita
+\trs mi mi plátano
+\tx mi mi plátano
+\ft mi mi plátano
+\sound NC-narracion.vida2-2013.wav 276.645 278.060
+
+\ref 092
+\ELANBegin 278.640
+\ELANEnd 280.930
+\ELANParticipant Nelita
+\trs a veces que el agua no se puedo
+\tx a veces que el agua no se puedo
+\ft a veces que el agua no se puedo
+\sound NC-narracion.vida2-2013.wav 278.640 280.930
+
+\ref 093
+\ELANBegin 281.490
+\ELANEnd 284.930
+\ELANParticipant Nelita
+\trs el agua muerto nomás cuando siembra plátano
+\tx el agua muerto nomás cuando siembra plátano
+\ft el agua muerto nomás cuando siembra plátano
+\sound NC-narracion.vida2-2013.wav 281.490 284.930
+
+\ref 094
+\ELANBegin 285.160
+\ELANEnd 286.320
+\ELANParticipant Nelita
+\trs siembra nomás
+\tx siembra nomás
+\ft siembra nomás
+\sound NC-narracion.vida2-2013.wav 285.160 286.320
+
+\ref 095
+\ELANBegin 286.500
+\ELANEnd 289.390
+\ELANParticipant Nelita
+\trs mi hijo mi viejo también no puede hacer chacra
+\tx mi hijo mi viejo también no puede hacer chacra
+\ft mi hijo mi viejo también no puede hacer chacra
+\sound NC-narracion.vida2-2013.wav 286.500 289.390
+
+\ref 096
+\ELANBegin 289.960
+\ELANEnd 291.420
+\ELANParticipant Nelita
+\trs no puede trabajar
+\tx no puede trabajar
+\ft no puede trabajar
+\sound NC-narracion.vida2-2013.wav 289.960 291.420
+
+\ref 097
+\ELANBegin 292.240
+\ELANEnd 295.280
+\ELANParticipant Nelita
+\trs por eso no tengo nada
+\tx por eso no tengo nada
+\ft por eso no tengo nada
+\sound NC-narracion.vida2-2013.wav 292.240 295.280
+
+\ref 098
+\ELANBegin 296.080
+\ELANEnd 298.970
+\ELANParticipant Nelita
+\trs ni gallina yo no puedo engañarme
+\tx ni gallina yo no puedo engañarme
+\ft ni gallina yo no puedo engañarme
+\sound NC-narracion.vida2-2013.wav 296.080 298.970
+
+\ref 099
+\ELANBegin 299.770
+\ELANEnd 301.560
+\ELANParticipant Nelita
+\trs pero puedo criar
+\tx pero puedo criar
+\ft pero puedo criar
+\sound NC-narracion.vida2-2013.wav 299.770 301.560
+
+\ref 100
+\ELANBegin 302.740
+\ELANEnd 303.460
+\ELANParticipant Nelita
+\trs pero
+\tx pero
+\ft pero
+\sound NC-narracion.vida2-2013.wav 302.740 303.460
+
+\ref 101
+\ELANBegin 303.995
+\ELANEnd 305.545
+\ELANParticipant Nelita
+\trs ahí también roba
+\tx ahí también roba
+\ft ahí también roba
+\sound NC-narracion.vida2-2013.wav 303.995 305.545
+
+\ref 102
+\ELANBegin 305.780
+\ELANEnd 307.430
+\ELANParticipant Nelita
+\trs no se puede criar
+\tx no se puede criar
+\ft no se puede criar
+\sound NC-narracion.vida2-2013.wav 305.780 307.430
+
+\ref 103
+\ELANBegin 307.970
+\ELANEnd 309.340
+\ELANParticipant Nelita
+\trs criar gallina
+\tx criar gallina
+\ft criar gallina
+\sound NC-narracion.vida2-2013.wav 307.970 309.340
+
+\ref 104
+\ELANBegin 309.765
+\ELANEnd 311.345
+\ELANParticipant Nelita
+\trs eso es todo
+\tx eso es todo
+\ft eso es todo
+\sound NC-narracion.vida2-2013.wav 309.765 311.345
+
+\ref 105
+\ELANBegin 312.580
+\ELANEnd 313.770
+\ELANParticipant Jaime
+\trs gracias Nelita
+\tx gracias Nelita
+\ft gracias Nelita
+\sound NC-narracion.vida2-2013.wav 312.580 313.770
+
+
+\ELANMediaURL file:///E:/documentos/iskonawa/basededatos-iskonawa procesada/data/NC-narracion.vida2-2013.mpg
+\ELANMediaMIME video/mpeg
+\ELANMediaURL file:///E:/documentos/iskonawa/basededatos-iskonawa procesada/data/NC-narracion.vida2-2013.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaExtracted file:///E:/documentos/iskonawa/basededatos-iskonawa procesada/data/NC-narracion.vida2-2013.mpg

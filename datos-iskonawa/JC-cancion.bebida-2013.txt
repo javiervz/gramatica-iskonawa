@@ -1,0 +1,891 @@
+\_sh v3.0  400  text
+
+\ref 001
+\trs Ya.
+\tx Ya.
+\ft Ya.
+\ELANBegin 2.530
+\ELANEnd 2.830
+\ELANParticipant Roberto
+\sound JC-cancion.bebida-2013.wav 2.530 2.830
+
+\ref 002
+\trs Ahora sí.
+\tx Ahora sí.
+\ft Ahora sí.
+\ELANBegin 3.620
+\ELANEnd 4.220
+\ELANParticipant Roberto
+\sound JC-cancion.bebida-2013.wav 3.620 4.220
+
+\ref 003
+\trs Paeki aweri oa
+\tx Paeki              aweri           oa
+\mb pae         =ki    awe    =ri      oa
+\gn emborrachar =INT   hembra =COP.INT ese
+\ps v.          =clit. adj.   =clit    dem.
+
+\ft para la bebiba, ¿cómo era ese?
+\ELANBegin 4.240
+\ELANEnd 8.030
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 4.240 8.030
+
+\ref 004
+\trs Oa oa xeahka.
+\tx Oa   oa   xeahka.
+\mb oa   oa   xea       -ah        =ka
+\gn ese  ese  tomar(SK) -SUJ>S:SIM =NAR
+\ps dem. dem. v.        -suf.      =clit.
+
+\ft Cualquier tomando
+\ELANBegin 9.330
+\ELANEnd 11.720
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 9.330 11.720
+
+\ref 005
+\trs Ayabaini ikika.
+\tx Ayabaini                      ikika.
+\mb aya    -bain       -i         ik      -i    =ka
+\gn tomar  -yendo:TRAN -SUJ>S:SIM copula  -IMPF =NAR
+\ps v.tran -suf.       -suf.      v.intr. -suf. =clit.
+
+\ft va  tomando.
+\ELANBegin 12.300
+\ELANEnd 13.970
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 12.300 13.970
+
+\ref 006
+\trs Iska wahonwe, iska wahonwe, ea wahonwe, iska
+wahonkin
+\tx Iska wahonwe,             iska
+\mb iska -wa   -hon  -we      iska
+\gn así -FACT -BEN  -IMP(SK) así
+\ps adv. -suf  -suf. -suf.    adv.
+
+\tx wahonwe,             ea    wahonwe,
+\mb -wa   -hon  -we      ea    -wa   -hon  -we
+\gn -FACT -BEN  -IMP(SK) 1SG:P -FACT -BEN  -IMP(SK)
+\ps -suf  -suf. -suf.    pron. -suf  -suf. -suf.
+
+\tx iska wahonkin
+\mb iska -wa   -hon  -kin
+\gn así -FACT -BEN  -SUJ>A:SIM
+\ps adv. -suf  -suf. -suf.
+
+\ft hazme así, hazme así, hazme así, hazme así
+\ELANBegin 14.120
+\ELANEnd 18.630
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 14.120 18.630
+
+\ref 007
+\trs wahontimaraka, wahontimaraka, wahontimaraka.
+\tx wahontimaraka,
+\mb -wa   -hon  -ti    =ma    =ra        =ka
+\gn -FACT -BEN  -NOMLZ =NEG   =EVID1(SK) =NAR
+\ps -suf  -suf. -suf.  =clit. =clit.     =clit.
+
+\tx wahontimaraka,
+\mb -wa   -hon  -ti    =ma    =ra        =ka
+\gn -FACT -BEN  -NOMLZ =NEG   =EVID1(SK) =NAR
+\ps -suf  -suf. -suf.  =clit. =clit.     =clit.
+
+\tx wahontimaraka.
+\mb -wa   -hon  -ti    =ma    =ra        =ka
+\gn -FACT -BEN  -NOMLZ =NEG   =EVID1(SK) =NAR
+\ps -suf  -suf. -suf.  =clit. =clit.     =clit.
+
+\ft No te voy a hacer, no te voy a hacer, no te voy a hacer
+\ELANBegin 18.820
+\ELANEnd 22.170
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 18.820 22.170
+
+\ref 008
+\trs Yora metsaka.
+\tx Yora   metsaka.
+\mb yora   metsa               =ka
+\gn cuerpo tocar.algo.caliente =NAR
+\ps n.     v.                  =clit.
+
+\ft mi cuerpo está bien
+\ELANBegin 22.170
+\ELANEnd 23.420
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 22.170 23.420
+
+\ref 009
+\trs wawa tewanbain / ea iska wa / wahontiri / ea toa a /
+toa awinin.
+\tx wawa        tewanbain            / ea
+\mb -wa   -wa   tewan    -bain       / ea
+\gn -FACT -FACT sostener -yendo:TRAN / 1SG:S(SK)
+\ps -suf  -suf  v.       -suf.       / pron.
+
+\tx iska wa    / wahontiri                  /
+\mb iska   /     -wa  -hon  -ti    =ri   /
+\gn así  /   -FACT -BEN   -NOMLZ =CON  /
+\ps adv.  -suf   -suf.   -suf.  =clit /
+
+\tx ea        toa   a / toa   awinin.
+\mb ea        toa       toa   awin   =n
+\gn 1SG:S(SK) parir     parir esposa =ERG
+\ps pron.     v.        v.    n.     =clit.
+
+\ft la bebiba fresca que viene sosteniéndose / hazme así / una mujer me ha parido
+\ELANBegin 23.420
+\ELANEnd 29.030
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 23.420 29.030
+
+\ref 010
+\trs Aton ene kaya.
+\tx Aton         ene      kaya.
+\mb ato   =n     ene      kaya
+\gn 3PL   =ERG   líquido mezclar
+\ps pron. =clit. n.       v.
+
+\ft Este líquido está preparado.
+\ELANBegin 29.320
+\ELANEnd 30.400
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 29.320 30.400
+
+\ref 011
+\trs Ene kayai rabetahon.
+\tx Ene      kayai              rabetahon.
+\mb ene      kaya    -i         rabé   -a        -hon
+\gn líquido mezclar -SUJ>S:SIM dos(SK) -FACT(SK) -SUJ>A:SIM
+\ps n.       v.      -suf.      num.    -suf.     -suf.
+
+\ft este liquído preparado de dos ingredientes
+\ELANBegin 30.400
+\ELANEnd 32.780
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 30.400 32.780
+
+\ref 012
+\trs wawa honrohko.
+\tx wawa          honrohko.
+\mb wawa          honrohko
+\gn bebida.fresca listo
+\ps n.            adj.
+
+\ft la bebida fresca está lista
+\ELANBegin 32.780
+\ELANEnd 33.730
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 32.780 33.730
+
+\ref 013
+\trs Nokon naeh mena.
+\tx Nokon       naeh    mena.
+\mb nokon       naeh    mená
+\gn 1SG.GEN(SK) barriga LOC
+\ps pron        n.      pos.
+
+\ft Adentro de mi barriga.
+\ELANBegin 33.730
+\ELANEnd 35.030
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 33.730 35.030
+
+\ref 014
+\trs Nokon naeh mena.
+\tx Nokon       naeh    mena.
+\mb nokon       naeh    mená
+\gn 1SG.GEN(SK) barriga LOC
+\ps pron        n.      pos.
+
+\ft Adentro de mi barriga.
+\ELANBegin 35.430
+\ELANEnd 36.500
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 35.430 36.500
+
+\ref 015
+\trs wawa itiki.
+\tx wawa          itiki.
+\mb wawa          ik      -ti    =ki
+\gn bebida.fresca copula  -NOMLZ =CON
+\ps n.            v.intr. -suf.  =clit.
+
+\ft ya está listo
+\ELANBegin 36.500
+\ELANEnd 37.630
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 36.500 37.630
+
+\ref 016
+\trs Nokon taetsi.
+\tx Nokon       taetsi.
+\mb nokon       tae    -tsi
+\gn 1SG.GEN(SK) pierna -AFEC
+\ps pron        n.     -suf.
+
+\ft mi pierna completita
+\ELANBegin 37.630
+\ELANEnd 38.920
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 37.630 38.920
+
+\ref 017
+\trs A xea ika / tomando / A xeai ka nokon naeh mena
+ayairi / nokon naeh.
+\tx A   xea-a            ik-a          /
+\mb a   xea       -a     ik      -a    /
+\gn ese tomar(SK) -NOMLZ copula  -PERF /
+\ps dem v.        -suf.  v.intr. -suf. /
+
+\tx tomando       / A   xeai                 ka
+\mb tomando       / a   xea       -i         =ka
+\gn tomando(CAST) / ese tomar(SK) -SUJ>S:SIM =NAR
+\ps v.            / dem v.        -suf.      =clit.
+
+\tx nokon       naeh    mena  ayairi             /
+\mb nokon       naeh    mená aya    -i    =ri   /
+\gn 1SG.GEN(SK) barriga LOC   tomar  -IMPF =CON  /
+\ps pron        n.      pos.  v.tran -suf. =clit /
+
+\tx nokon       naeh.
+\mb nokon       naeh
+\gn 1SG.GEN(SK) barriga
+\ps pron        n.
+
+\ft Tomaban eso hasta quedarse totalmente llenos
+\ELANBegin 39.350
+\ELANEnd 45.121
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 39.350 45.121
+
+\ref 018
+\trs wawa hehe / wawa hehe / wawa hehe
+\tx wawa          hehe  / wawa          hehe  /
+\mb wawa          hehe  / wawa          hehe  /
+\gn bebida.fresca hehe  / bebida.fresca hehe  /
+\ps n.            intj. / n.            intj. /
+
+\tx wawa          hehe
+\mb wawa          hehe
+\gn bebida.fresca hehe
+\ps n.            intj.
+
+\ft wawa hehe wawa hehe wawa hehe
+\ELANBegin 45.121
+\ELANEnd 49.493
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 45.121 49.493
+
+\ref 019
+\trs Iska wahontima.
+\tx Iska wahontima.
+\mb iska -wa   -hon  -ti    =ma
+\gn así -FACT -BEN  -NOMLZ =NEG
+\ps adv. -suf  -suf. -suf.  =clit.
+
+\ft no te voy a hacer
+\ELANBegin 49.517
+\ELANEnd 50.580
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 49.517 50.580
+
+\ref 020
+\trs wahontimaraka.
+\tx wahontimaraka.
+\mb -wa   -hon  -ti    =ma    =ra        =ka
+\gn -FACT -BEN  -NOMLZ =NEG   =EVID1(SK) =NAR
+\ps -suf  -suf. -suf.  =clit. =clit.     =clit.
+
+\ft no te voy a hacer
+\ELANBegin 50.580
+\ELANEnd 51.730
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 50.580 51.730
+
+\ref 021
+\trs Ewen yoraki
+\tx Ewen    yoraki
+\mb ewen    yora   =ki
+\gn 1SG:GEN cuerpo =CON
+\ps pron.   n.     =clit.
+
+\ft es mi cuerpo
+\ELANBegin 51.730
+\ELANEnd 52.740
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 51.730 52.740
+
+\ref 022
+\trs Yora metsa ka
+\tx Yora   metsa               ka
+\mb yora   metsa               =ka
+\gn cuerpo tocar.algo.caliente =NAR
+\ps n.     v.                  =clit.
+
+\ft Es un buen cuerpo.
+\ELANBegin 52.740
+\ELANEnd 53.860
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 52.740 53.860
+
+\ref 023
+\trs wawa tewanbain.
+\tx wawa          tewanbain.
+\mb wawa          tewan    -bain
+\gn bebida.fresca sostener -yendo:TRAN
+\ps n.            v.       -suf.
+
+\ft la bebiba fresca que viene sosteniéndose
+\ELANBegin 53.860
+\ELANEnd 55.050
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 53.860 55.050
+
+\ref 024
+\trs Iska wahonkin
+\tx Iska wahonkin
+\mb iska -wa   -hon  -kin
+\gn así -FACT -BEN  -SUJ>A:SIM
+\ps adv. -suf  -suf. -suf.
+
+\ft hazme así.
+\ELANBegin 55.050
+\ELANEnd 56.150
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 55.050 56.150
+
+\ref 025
+\trs Ea wahonkin
+\tx Ea    wahonkin
+\mb ea    -wa   -hon  -kin
+\gn 1SG:P -FACT -BEN  -SUJ>A:SIM
+\ps pron. -suf  -suf. -suf.
+
+\ft hazme así
+\ELANBegin 56.150
+\ELANEnd 56.960
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 56.150 56.960
+
+\ref 026
+\trs wahontiri.
+\tx wahontiri.
+\mb wa  -hon  -ti    =ri
+\gn *** -BEN  -NOMLZ =CON
+\ps *** -suf. -suf.  =clit
+
+\ft ¿me vas a hacer?
+\ELANBegin 56.960
+\ELANEnd 58.200
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 56.960 58.200
+
+\ref 027
+\trs wahontiri.
+\tx wahontiri.
+\mb wa  -hon  -ti    =ri
+\gn *** -BEN  -NOMLZ =CON
+\ps *** -suf. -suf.  =clit
+
+\ft ¿me vas a hacer?
+\ELANBegin 58.200
+\ELANEnd 59.350
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 58.200 59.350
+
+\ref 028
+\trs Ea wakewe.
+\tx Ea    wakewe.
+\mb ea    wake     -we
+\gn 1SG:P levantar -IMP(SK)
+\ps pron. v.tran.  -suf.
+
+\ft levántame
+\ELANBegin 59.350
+\ELANEnd 60.190
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 59.350 60.190
+
+\ref 029
+\trs bake meraton.
+\tx bake meraton.
+\mb bake mera      =n
+\gn hijo encontrar =VOC
+\ps n.   v.tran    =clit.
+
+\ft yo soy el hijo de mi padre
+\ELANBegin 60.190
+\ELANEnd 61.658
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 60.190 61.658
+
+\ref 030
+\trs Rowashinankin.
+\tx Rowashinankin.
+\mb rowa  shinan -kin
+\gn criar pensar -SUJ>A:SIM
+\ps v.    v.     -suf.
+
+\ft pensando en mi cuerpo
+\ELANBegin 62.018
+\ELANEnd 64.270
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 62.018 64.270
+
+\ref 031
+\trs Yora nokoa.
+\tx Yora   nokoa.
+\mb yora   noko   -a
+\gn cuerpo llegar -PERF
+\ps n.     v.     -suf.
+
+\ft mi cuerpo ha llegado
+\ELANBegin 64.270
+\ELANEnd 65.410
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 64.270 65.410
+
+\ref 032
+\trs Iska wawaki.
+\tx Iska wawaki.
+\mb iska wawa          =ki
+\gn así bebida.fresca =CON
+\ps adv. n.            =clit.
+
+\ft así está listo
+\ELANBegin 65.410
+\ELANEnd 66.590
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 65.410 66.590
+
+\ref 033
+\trs wawa nonki.
+\tx wawa          nonki.
+\mb wawa          non   =ki
+\gn bebida.fresca 1PL:A =CON
+\ps n.            pron  =clit.
+
+\ft nosotros (vamos a tomar) la bebida
+\ELANBegin 66.590
+\ELANEnd 67.700
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 66.590 67.700
+
+\ref 034
+\trs wawa nonki.
+\tx wawa          nonki.
+\mb wawa          non   =ki
+\gn bebida.fresca 1PL:A =CON
+\ps n.            pron  =clit.
+
+\ft no traducible
+\ELANBegin 67.700
+\ELANEnd 68.950
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 67.700 68.950
+
+\ref 035
+\trs wawa nonki.
+\tx wawa          nonki.
+\mb wawa          non   =ki
+\gn bebida.fresca 1PL:A =CON
+\ps n.            pron  =clit.
+
+\ft no traducible
+\ELANBegin 68.950
+\ELANEnd 70.060
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 68.950 70.060
+
+\ref 036
+\trs Ewen yoraki.
+\tx Ewen    yoraki.
+\mb ewen    yora   =ki
+\gn 1SG:GEN cuerpo =CON
+\ps pron.   n.     =clit.
+
+\ft Mi cuerpo.
+\ELANBegin 70.060
+\ELANEnd 71.130
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 70.060 71.130
+
+\ref 037
+\trs Raketima banai
+\tx Raketima                banai
+\mb rake      -ti    =ma    bana   -i
+\gn asustarse -NOMLZ =NEG   hablar -IMPF
+\ps v.        -suf.  =clit. v.intr -suf.
+
+\ft No tengo miedo, hablo
+\ELANBegin 71.130
+\ELANEnd 72.210
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 71.130 72.210
+
+\ref 038
+\trs Bana banakin
+\tx Bana   banakin
+\mb bana   bana   -kin
+\gn hablar hablar -SUJ>A:SIM
+\ps v.intr v.intr -suf.
+
+\ft Estamos conversando.
+\ELANBegin 72.210
+\ELANEnd 73.240
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 72.210 73.240
+
+\ref 039
+\trs Iska wahonki.
+\tx Iska wahonki.
+\mb iska -wa   -hon  =ki
+\gn así -FACT -BEN  =CON
+\ps adv. -suf  -suf. =clit.
+
+\ft hazme así
+\ELANBegin 73.256
+\ELANEnd 74.170
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 73.256 74.170
+
+\ref 040
+\trs wahontiri.
+\tx wahontiri.
+\mb -wa   -hon  -ti    =ri
+\gn -FACT -BEN  -NOMLZ =CON
+\ps -suf  -suf. -suf.  =clit
+
+\ft ¿me vas a hacer?
+\ELANBegin 74.170
+\ELANEnd 75.060
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 74.170 75.060
+
+\ref 041
+\trs Yora metsaka.
+\tx Yora     metsaka.
+\mb yora   metsá =ka
+\gn cuerpo bonito =NAR
+\ps n.     adj.   =clit.
+
+\ft Es un buen cuerpo.
+\ELANBegin 75.060
+\ELANEnd 76.020
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 75.060 76.020
+
+\ref 042
+\trs wawa tewanbain.
+\tx wawa          tewanbain.
+\mb wawa          tewan    -bain
+\gn bebida.fresca sostener -yendo:TRAN
+\ps n.            v.       -suf.
+
+\ft la bebiba viene meciéndose
+\ELANBegin 76.020
+\ELANEnd 77.203
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 76.020 77.203
+
+\ref 043
+\trs Ea iska wa /
+\tx Ea    iska wa    /
+\mb ea    iska -wa   /
+\gn 1SG:P así -FACT /
+\ps pron. adv. -suf  /
+
+\ft me vas...
+\ELANBegin 77.235
+\ELANEnd 78.160
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 77.235 78.160
+
+\ref 044
+\trs Iska wahontiri.
+\tx Iska wahontiri.
+\mb iska -wa   -hon  -ti    =ri
+\gn así -FACT -BEN  -NOMLZ =CON
+\ps adv. -suf  -suf. -suf.  =clit
+
+\ft me vas a hacer así
+\ELANBegin 78.160
+\ELANEnd 79.195
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 78.160 79.195
+
+\ref 045
+\trs Ea toa awin.
+\tx Ea    toa   awin.
+\mb ea    toa   awin
+\gn 1SG:P parir esposa
+\ps pron. v.    n.
+
+\ft yo he nacido de mujer
+\ELANBegin 79.240
+\ELANEnd 80.220
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 79.240 80.220
+
+\ref 046
+\trs Toa awinin.
+\tx Toa   awinin.
+\mb toa   awin   =n
+\gn parir esposa =ERG
+\ps v.    n.     =clit.
+
+\ft una mujer me ha parido
+\ELANBegin 80.220
+\ELANEnd 81.140
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 80.220 81.140
+
+\ref 047
+\trs Aton ene kaya / rabetanhon a
+\tx Aton         ene      kaya    / rabetanhon                a
+\mb ato   =n     ene      kaya    / rabé   =n     -hon       ak
+\gn 3PL   =ERG   líquido mezclar / dos(SK) =INST  -SUJ>A:SIM hacer
+\ps pron. =clit. n.       v.      / num.    =clit. -suf.      v.tran.
+
+\ft este liquído preparado de dos ingredientes
+\ELANBegin 81.140
+\ELANEnd 83.090
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 81.140 83.090
+
+\ref 048
+\trs Ewen naeh mena / wawa honrohko / ewen naeh
+mena / wawa kiroko.
+\tx Ewen    naeh    mena  / wawa          honrohko /
+\mb ewen    naeh    mená / wawa          honrohko /
+\gn 1SG:GEN barriga LOC   / bebida.fresca listo    /
+\ps pron.   n.      pos.  / n.            adj.     /
+
+\tx ewen    naeh    mena  / wawa          kiroko.
+\mb ewen    naeh    mená / wawa          kiroko
+\gn 1SG:GEN barriga LOC   / bebida.fresca empezar
+\ps pron.   n.      pos.  / n.            v.
+
+\ft en mi barriga / la bebida ya está lista / en mi barriga / empezamos a tomar
+\ELANBegin 83.097
+\ELANEnd 86.110
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 83.097 86.110
+
+\ref 049
+\trs Rowa shinankin.
+\tx Rowa  shinankin.
+\mb rowa  shinan -kin
+\gn criar pensar -SUJ>A:SIM
+\ps v.    v.     -suf.
+
+\ft pensando en mí nacimiento
+\ELANBegin 86.110
+\ELANEnd 88.316
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 86.110 88.316
+
+\ref 050
+\trs Yora nokoa.
+\tx Yora   nokoa.
+\mb yora   noko   -a
+\gn cuerpo llegar -PERF
+\ps n.     v.     -suf.
+
+\ft mi cuerpo llegó
+\ELANBegin 88.316
+\ELANEnd 89.387
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 88.316 89.387
+
+\ref 051
+\trs wawa aiki.
+\tx wawa          aiki.
+\mb wawa          ak      -i    =ki
+\gn bebida.fresca hacer   -IMPF =CON
+\ps n.            v.tran. -suf. =clit.
+
+\ft somos muchachos
+\ELANBegin 89.387
+\ELANEnd 90.346
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 89.387 90.346
+
+\ref 052
+\trs Ewen rowa shinan.
+\tx Ewen    rowa  shinan.
+\mb ewen    rowa  shinan
+\gn 1SG:GEN criar pensar
+\ps pron.   v.    v.
+
+\ft pensando en mi namiento
+\ELANBegin 90.346
+\ELANEnd 91.306
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 90.346 91.306
+
+\ref 053
+\trs Yora nokohon.
+\tx Yora   nokohon.
+\mb yora   noko   -hon
+\gn cuerpo llegar -SUJ>A:SIM
+\ps n.     v.     -suf.
+
+\ft llegando mi cuerpo
+\ELANBegin 91.306
+\ELANEnd 92.204
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 91.306 92.204
+
+\ref 054
+\trs Ena manan wa
+\tx Ena     manan  wa
+\mb ena     manan  -wa
+\gn 1SG:ERG arriba -FACT
+\ps pron.   post.  -suf
+
+\ft yo tomo hasta arriba
+\ELANBegin 92.204
+\ELANEnd 93.153
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 92.204 93.153
+
+\ref 055
+\trs Manan wawakin
+\tx Manan  wawakin
+\mb manan  wawa          -kin
+\gn arriba bebida.fresca -SUJ>A:SIM
+\ps post.  n.            -suf.
+
+\ft yo tomo hasta arriba
+\ELANBegin 93.153
+\ELANEnd 94.060
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 93.153 94.060
+
+\ref 056
+\trs wawa wa inon
+\tx wawa          wa  inon
+\mb wawa          -wa ik      -non
+\gn bebida.fresca -FACcopula  -PROP
+\ps n.            -sufv.intr. -suf.
+
+\ft para tomar
+\ELANBegin 94.060
+\ELANEnd 95.360
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 94.060 95.360
+
+\ref 057
+\trs Ewen rowa yoa.
+\tx Ewen    rowa  yoa.
+\mb ewen    rowa  yoa
+\gn 1SG:GEN criar comida.vegetal
+\ps pron.   v.    n.
+
+\ft yo he preparado mi comida
+\ELANBegin 95.360
+\ELANEnd 97.890
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 95.360 97.890
+
+\ref 058
+\trs Wawati iki.
+\tx Wawati               iki.
+\mb wawa          -ti    ik      -i
+\gn bebida.fresca -NOMLZ copula  -SUJ>S:SIM
+\ps n.            -suf.  v.intr. -suf.
+
+\ft para tomar
+\ELANBegin 97.890
+\ELANEnd 98.823
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 97.890 98.823
+
+\ref 059
+\trs Ewen rowa shinan.
+\tx Ewen    rowa  shinan.
+\mb ewen    rowa  shinan
+\gn 1SG:GEN criar pensar
+\ps pron.   v.    v.
+
+\ft pensando en mi nacimiento
+\ELANBegin 98.881
+\ELANEnd 99.710
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 98.881 99.710
+
+\ref 060
+\trs Rowa shinankin.
+\tx Rowa  shinankin.
+\mb rowa  shinan -kin
+\gn criar pensar -SUJ>A:SIM
+\ps v.    v.     -suf.
+
+\ft pensando en mi nacimiento
+\ELANBegin 99.710
+\ELANEnd 100.724
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 99.710 100.724
+
+\ref 061
+\trs Yora nokoi.
+\tx Yora   nokoi.
+\mb yora   noko   -i
+\gn cuerpo llegar -IMPF
+\ps n.     v.     -suf.
+
+\ft está llegando mi cuerpo
+\ELANBegin 100.724
+\ELANEnd 101.816
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 100.724 101.816
+
+\ref 062
+\trs A akin
+\tx A   akin
+\mb a   ak      -kin
+\gn ese hacer   -SUJ>A:SIM
+\ps dem v.tran. -suf.
+
+\ft tomando
+\ELANBegin 101.816
+\ELANEnd 102.908
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 101.816 102.908
+
+\ref 063
+\trs wawa akin
+\tx wawa          akin
+\mb wawa          ak      -kin
+\gn bebida.fresca hacer   -SUJ>A:SIM
+\ps n.            v.tran. -suf.
+
+\ft tomando la bebida
+\ELANBegin 102.908
+\ELANEnd 103.780
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 102.908 103.780
+
+\ref 064
+\trs A akin.
+\tx A   akin.
+\mb a   ak      -kin
+\gn ese hacer   -SUJ>A:SIM
+\ps dem v.tran. -suf.
+
+\ft tomando
+\ELANBegin 103.780
+\ELANEnd 104.822
+\ELANParticipant Juanita
+\sound JC-cancion.bebida-2013.wav 103.780 104.822
+
+
+\ELANMediaURL file:///D:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC-cancion.bebida-2013.mpg
+\ELANMediaMIME video/mpeg
+\ELANMediaExtracted file:///D:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC-cancion.bebida-2013.wav
+\ELANMediaURL file:///D:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC-cancion.bebida-2013.wav
+\ELANMediaMIME audio/x-wav

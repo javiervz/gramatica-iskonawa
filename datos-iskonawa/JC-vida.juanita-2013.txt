@@ -1,0 +1,3076 @@
+\_sh v3.0  400  text
+
+\ref 001
+\trs Si le vas preguntar su nombre, le pregunta mia hawé hanerin
+\tx Si le vas preguntar su nombre, le pregunta mia jawé janerin
+\mb
+
+\ft Si le vas preguntar su nombre, le pregunta: "mia hawé hanerin" ¿cómo te llamas?
+\ELANBegin 0.170
+\ELANEnd 3.300
+\ELANParticipant Willian
+\sound JC-vida.Juanita-2013.wav 0.170 3.300
+
+\ref 002
+\trs mia
+\tx mia
+\ft tú
+\ELANBegin 3.840
+\ELANEnd 4.340
+\ELANParticipant Roberto
+\sound JC-vida.Juanita-2013.wav 3.840 4.340
+
+\ref 003
+\trs hawé haneri
+\tx hawe      haneri
+\mb hawe      hane       =ri
+\gn cuál(SK) nombre(SK) =COP.INT
+\ps pal.int.  n.         =clit
+
+\ft ¿cómo te llamas?
+\ELANBegin 4.510
+\ELANEnd 5.350
+\ELANParticipant Willian
+\sound JC-vida.Juanita-2013.wav 4.510 5.350
+
+\ref 004
+\trs mia
+\tx mia
+\mb mia
+\gn 2SG.ABS(SK)
+\ps pron
+
+\ft tú
+\ELANBegin 5.610
+\ELANEnd 6.150
+\ELANParticipant Roberto
+\sound JC-vida.Juanita-2013.wav 5.610 6.150
+
+\ref 005
+\trs hawe
+\tx hawe
+\mb hawe
+\gn cuál(SK)
+\ps pal.int.
+
+\ft cómo
+\ELANBegin 7.020
+\ELANEnd 7.670
+\ELANParticipant Roberto
+\sound JC-vida.Juanita-2013.wav 7.020 7.670
+
+\ref 006
+\trs haneri
+\tx haneri
+\mb hane       =ri
+\gn nombre(SK) =COP.INT
+\ps n.         =clit
+
+\ft te llamas
+\ELANBegin 7.815
+\ELANEnd 8.200
+\ELANParticipant Roberto
+\sound JC-vida.Juanita-2013.wav 7.815 8.200
+
+\ref 007
+\trs Pibi awin
+\tx Pibi awin
+\mb Pibi awin
+\gn nombre.propio
+\ps n.
+
+\ft Pibi awin
+\ELANBegin 8.075
+\ELANEnd 8.890
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 8.075 8.890
+
+\ref 008
+\trs Piabia awin
+\tx Piabia awin
+\mb Piabia awin
+\gn nombre.propio
+\ps n.
+
+\ft Pia biaawin
+\ELANBegin 9.495
+\ELANEnd 10.330
+\ELANParticipant Roberto
+\sound JC-vida.Juanita-2013.wav 9.495 10.330
+
+\ref 009
+\trs Piabia awin
+\tx Piabia awin
+\mb Piabia awin
+\gn nombre.propio
+\ps n.
+
+\ft Pia biaawin
+\ELANBegin 9.810
+\ELANEnd 10.580
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 9.810 10.580
+
+\ref 010
+\trs Pibi
+\tx Pibi
+\mb pibi awin
+\gn nombre.propio
+\ps n.
+
+\ft Pibi
+\ELANBegin 11.080
+\ELANEnd 11.570
+\ELANParticipant Roberto
+\sound JC-vida.Juanita-2013.wav 11.080 11.570
+
+\ref 011
+\trs Ahá Piabia awin
+\tx Ahá  Piabia awin
+\mb ahá  Piabia awin
+\gn ajá  nombre.propio
+\ps intj. n.
+
+\ft Ajá, Pia biaaawin
+\ELANBegin 11.745
+\ELANEnd 13.230
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 11.745 13.230
+
+\ref 012
+\trs y
+\tx y
+\ft y
+\ELANBegin 14.570
+\ELANEnd 15.510
+\ELANParticipant Roberto
+\sound JC-vida.Juanita-2013.wav 14.570 15.510
+
+\ref 013
+\trs nos podrías contar
+\tx nos podrías contar
+\ft nos podrías contar
+\ELANBegin 15.935
+\ELANEnd 17.120
+\ELANParticipant Roberto
+\sound JC-vida.Juanita-2013.wav 15.935 17.120
+
+\ref 014
+\trs algo de tu vida
+\tx algo de tu vida
+\ft algo de tu vida
+\ELANBegin 17.825
+\ELANEnd 19.520
+\ELANParticipant Roberto
+\sound JC-vida.Juanita-2013.wav 17.825 19.520
+
+\ref 015
+\trs en tu idioma isconahua
+\tx en tu idioma isconahua
+\ft en tu idioma isconahua
+\ELANBegin 21.520
+\ELANEnd 23.150
+\ELANParticipant Roberto
+\sound JC-vida.Juanita-2013.wav 21.520 23.150
+
+\ref 016
+\trs min iskonawaishi
+\tx min   iskonawaishi
+\mb min   iskonawa =ishi
+\gn 2SG:A iskonawa =solamente(KK)
+\ps pron. n.       =clit.
+
+\ft solo isconahua
+\ELANBegin 23.710
+\ELANEnd 25.760
+\ELANParticipant Roberto
+\sound JC-vida.Juanita-2013.wav 23.710 25.760
+
+\ref 017
+\trs iskonawa [ininteligible]
+\tx iskonawa
+\mb iskonawa
+\gn iskonawa
+\ps n.
+
+\ft isconahua [ininteligible]
+\ELANBegin 26.490
+\ELANEnd 27.530
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 26.490 27.530
+
+\ref 018
+\trs ehe
+\tx ehe
+\mb ehe
+\gn sí
+\ps intj.
+
+\ft ehe
+\ELANBegin 28.550
+\ELANEnd 29.150
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 28.550 29.150
+
+\ref 019
+\trs [ininteligible]
+\tx
+\ft [ininteligible]
+\ELANBegin 29.230
+\ELANEnd 29.840
+\ELANParticipant Willian
+\sound JC-vida.Juanita-2013.wav 29.230 29.840
+
+\ref 020
+\trs hatibi mia ikatia moatian axebo
+\tx hatibi    mia         ikatia                      moatian          axebo
+\mb hatibi    mia         ik      -kati        -a     moa    =tian     axe       =bo
+\gn todos(SK) 2SG.ABS(SK) copula  -PAS.REM:HAB -NOMLZ ya(SK) =TEMP(SK) costumbre =PLU
+\ps adj.      pron        v.intr. -suf.        -suf.  adv    =clit.    n.        =clit
+
+\ft ahora vas a hablar sobre tus tradiciones antiguas
+\ELANBegin 30.620
+\ELANEnd 33.380
+\ELANParticipant Willian
+\sound JC-vida.Juanita-2013.wav 30.620 33.380
+
+\ref 021
+\trs moa iskon hoibires yoiwe
+\tx moa    iskon         hoibires                     yoiwe
+\mb moa    isko   =n     hoi        =bi    -res       yoi     -we
+\gn ya(SK) paucar =GEN   lengua(SK) =ENF   -solamente contar  -IMP(SK)
+\ps adv    n.     =clit. n.         =clit. -suf.      v.tran. -suf.
+
+\ft ahora nomás cuenta en iskonawa
+\ELANBegin 34.060
+\ELANEnd 35.330
+\ELANParticipant Willian
+\sound JC-vida.Juanita-2013.wav 34.060 35.330
+
+\ref 022
+\trs ahá ya
+\tx ahá  ya
+\mb ahá  ya
+\gn ajá  ya(CAS)
+\ps intj. adv
+
+\ft ajá, ya
+\ELANBegin 35.415
+\ELANEnd 36.480
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 35.415 36.480
+
+\ref 023
+\trs eah neke oika
+\tx eah   neke         o-ika
+\mb eah   neke         o     -i    =ka
+\gn 1SG:S de.este.lado venir -IMPF =NAR
+\ps pron. adv.         v.    -suf. =clit.
+
+\ft yo vengo por acá
+\ELANBegin 39.220
+\ELANEnd 41.370
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 39.220 41.370
+
+\ref 024
+\trs chachi bai ikaka
+\tx chachi bai    ikaka
+\mb chachi bai    ik      -a    =ka
+\gn nombre.propio copula  -PERF =NAR
+\ps n.            v.intr. -suf. =clit.
+
+\ft ese Chachi bain
+\ELANBegin 42.910
+\ELANEnd 44.080
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 42.910 44.080
+
+\ref 025
+\trs chachi bai ikaka noa neke beni okepari oapan noa
+ka
+\tx chachi bai    ikaka                noa   neke
+\mb chachi bai    ik      -a    =ka    noa   neke
+\gn nombre.propio copula  -PERF =NAR   1PL.P de.este.lado
+\ps n.            v.intr. -suf. =clit. pron. adv.
+
+\tx beni            okepari
+\mb be     -ni      oke               =pari
+\gn traer  -PAS.REM por.otro.lado(SK) =todavía
+\ps v.tran -suf     adv.              =clit.
+
+\tx oapan                 noa   ka
+\mb o     -a     =pan     noa   =ka
+\gn venir -NOMLZ =primero 1PL.P =NAR
+\ps v.    -suf.  =clit.   pron. =clit.
+
+\ft Chachi bai a nosotros nos trajo por acá hace tiempo
+\ELANBegin 44.200
+\ELANEnd 48.860
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 44.200 48.860
+
+\ref 026
+\trs waka
+\tx waka
+\mb waka
+\gn río
+\ps n.
+
+\ft río
+\ELANBegin 49.415
+\ELANEnd 50.100
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 49.415 50.100
+
+\ref 027
+\trs ahoya riki pakan ewaya
+\tx ahoya    riki    pakan         ewaya
+\mb ahoya    riki    paka   =n     ewa   =ya
+\gn qué     COP(SK) bambú =GEN   madre =PROP
+\ps pal.int. part.   n.     =clit. n.    =clit.
+
+\ft Este era Panken ewaya
+\ELANBegin 51.160
+\ELANEnd 52.780
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 51.160 52.780
+
+\ref 028
+\trs shitaberana neke oke
+\tx shitaberana                neke         oke
+\mb shita      -beran    -a    neke         o     -ke
+\gn cruzar(SK) -VEN:TRAN -PERF de.este.lado venir -PERF(SK)
+\ps v.         -suf.     -suf. adv.         v.    -suf.
+
+\ft cruzamos para acá
+\ELANBegin 52.800
+\ELANEnd 54.560
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 52.800 54.560
+
+\ref 029
+\trs oke
+\tx oke
+\mb oke
+\gn del.otro.lado(SK)
+\ps adv.
+
+\ft acá
+\ELANBegin 54.985
+\ELANEnd 55.380
+\ELANParticipant Nelita
+\sound JC-vida.Juanita-2013.wav 54.985 55.380
+
+\ref 030
+\trs oah oahbika ana hain wai aribake
+\tx oah              oahbika
+\mb o     -ah        o     -ah        =bi    =ka
+\gn venir -SUJ>S:SIM venir -SUJ>S:SIM =ENF   =NAR
+\ps v.    -suf.      v.    -suf.      =clit. =clit.
+
+\tx ana      hain     wai    aribike
+\mb ana      hain     wai    ak      =ribi     -ke
+\gn otra.vez ahí(SK) chacra hacer   =también -PERF(SK)
+\ps adv.     adv.     n.     v.tran. =clit.    -suf.
+
+\ft nosotros ahí mismo hicimos chacra
+\ELANBegin 55.885
+\ELANEnd 59.330
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 55.885 59.330
+
+\ref 031
+\trs kaheke
+\tx kaheke
+\mb kahe -ke
+\gn casa -PERF(SK)
+\ps n.   -suf.
+
+\ft hicimos casa
+\ELANBegin 60.225
+\ELANEnd 61.030
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 60.225 61.030
+
+\ref 032
+\trs kaheah eweribike aweti semanabira ika
+\tx kaheah          eweribike
+\mb kahe -ah        ewe    =ribi     -ke
+\gn casa -SUJ>S:SIM vivir  =también -PERF(SK)
+\ps n.   -suf.      v.intr =clit.    -suf.
+
+\tx aweti       semanabira           ika
+\mb aweti       semana       =bira   ik      -a
+\gn cuánto(MX) semana(CAST) =nomás copula  -PERF
+\ps pal.int.    n.           =clit.  v.intr. -suf.
+
+\ft haciendo casa ahí mismo vivimos, ¿cuántas semanas habremos estado?
+\ELANBegin 61.910
+\ELANEnd 65.970
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 61.910 65.970
+
+\ref 033
+\trs ikah oribake ain kanon kawe
+\tx ikah               oribake                   ain
+\mb ik      -ah        o     =riba     -ke       ain
+\gn copula  -SUJ>S:SIM venir =otra.vez -PERF(SK) ahí(MIX)
+\ps v.intr. -suf.      v.    =clit.    -suf.     adv.
+
+\tx kanon        kawe
+\mb ka     -non  ka     -we
+\gn ir     -PROP ir     -IMP(SK)
+\ps v.intr -suf. v.intr -suf.
+
+\ft después de estar, hemos venido otra vez, "vamos por ahí"
+\ELANBegin 66.580
+\ELANEnd 69.060
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 66.580 69.060
+
+\ref 034
+\trs hontapan
+\tx hontapan
+\mb hontapa =n
+\gn tío    =VOC
+\ps n.      =clit.
+
+\ft tío
+\ELANBegin 70.240
+\ELANEnd 71.010
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 70.240 71.010
+
+\ref 035
+\trs ain no kanon ain wai anon oinbonon kanokota
+\tx ain       no   kanon        ain       wai
+\mb ain       no   ka     -non  ain       wai
+\gn ahí(MIX) 1PL  ir     -PROP ahí(MIX) chacra
+\ps adv.      pron v.intr -suf. adv.      n.
+
+\tx anon          oinbonon           kanokota
+\mb ak      -non  oin    =bo   -non  ka     - nokot      -a
+\gn hacer   -PROP ver    =PLU  -PROP ir     - llegar(SK) -PERF
+\ps v.tran. -suf. v.ambi =clit -suf. v.intr - v.         -suf.
+
+\ft vamos a ir a hacer chacra, vamos a ir viendo
+\ELANBegin 71.480
+\ELANEnd 74.990
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 71.480 74.990
+
+\ref 036
+\trs maroko kanokoi
+\tx maroko  kanokoi
+\mb maroko  ka     - noko   -i
+\gn rápido ir     - llegar -IMPF
+\ps adv.    v.intr - v.     -suf.
+
+\ft vamos a ver rápido
+\ELANBegin 75.470
+\ELANEnd 76.380
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 75.470 76.380
+
+\ref 037
+\trs bakishbi ka riki
+\tx bakishbi       ka            riki
+\mb bakish  =bi    ka     -a     riki
+\gn mañana =ENF   ir     -NOMLZ COP(SK)
+\ps adv.    =clit. v.intr -suf.  part.
+
+\ft mañana vamos
+\ELANBegin 77.680
+\ELANEnd 78.680
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 77.680 78.680
+
+\ref 038
+\trs pehnebeiti nato pehnebeitibi kanon kawe
+\tx pehnebeiti nato     pehnebeitibi      kanon        kawe
+\mb pehnebeiti nato     pehnebeiti =bi    ka     -non  ka     -we
+\gn amanecer   este(SK) amanecer   =ENF   ir     -PROP ir     -IMP(SK)
+\ps n.         dem.     n.         =clit. v.intr -suf. v.intr -suf.
+
+\ft mañana vamos, mañana vamos apenas amanezca
+\ELANBegin 79.965
+\ELANEnd 82.480
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 79.965 82.480
+
+\ref 039
+\trs kah kai
+\tx kah               kai
+\mb ka     -ah        ka     -i
+\gn ir     -SUJ>S:SIM ir     -IMPF
+\ps v.intr -suf.      v.intr -suf.
+
+\ft vamos yendo
+\ELANBegin 83.470
+\ELANEnd 84.090
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 83.470 84.090
+
+\ref 040
+\trs ha wai
+\tx ha      wai
+\mb ha      wai
+\gn ese(SK) chacra
+\ps dem     n.
+
+\ft la chacra
+\ELANBegin 84.325
+\ELANEnd 84.990
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 84.325 84.990
+
+\ref 041
+\trs ewen tita
+\tx ewen    tita
+\mb ewen    tita
+\gn 1SG:GEN madre(SK)
+\ps pron.   n.
+
+\ft mi mamá
+\ELANBegin 85.500
+\ELANEnd 86.370
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 85.500 86.370
+
+\ref 042
+\trs awen awinbi ai
+\tx awen    awinbi        ai
+\mb awen    awin   =bi    ak      -i
+\gn 3SG:GEN esposa =ENF   hacer   -IMPF
+\ps pron    n.     =clit. v.tran. -suf.
+
+\ft no tenemos nada (para comer ni beber)
+\ELANBegin 86.470
+\ELANEnd 87.310
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 86.470 87.310
+
+\ref 043
+\trs ain wai atiki wai atiki ain
+\tx ain       wai    atiki                 wai
+\mb ain       wai    ak      -ti    =ki    wai
+\gn ahí(MIX) chacra hacer   -NOMLZ =CON   chacra
+\ps adv.      n.     v.tran. -suf.  =clit. n.
+
+\tx atiki                 ain
+\mb ak      -ti    =ki    ain
+\gn hacer   -NOMLZ =CON   ahí(MIX)
+\ps v.tran. -suf.  =clit. adv.
+
+\ft ahí mismo vamos a hacer chacra, vamos a hacer chacra ahí mismo
+\ELANBegin 87.555
+\ELANEnd 89.730
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 87.555 89.730
+
+\ref 044
+\trs hain kai ain ewenohon wai anon kawe
+\tx hain     kai               ain       ewenohon
+\mb hain     ka     -i         ain       ewe    -nohon
+\gn ahí(SK) ir     -SUJ>S:SIM ahí(MIX) vivir  -PROP:TRAN
+\ps adv.     v.intr -suf.      adv.      v.intr -suf.
+
+\tx wai    anon          kawe
+\mb wai    ak      -non  ka     -we
+\gn chacra hacer   -PROP ir     -IMP(SK)
+\ps n.     v.tran. -suf. v.intr -suf.
+
+\ft vamos ahí para hacer chacra para vivir
+\ELANBegin 90.910
+\ELANEnd 93.850
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 90.910 93.850
+
+\ref 045
+\trs kaheai
+\tx kaheai
+\mb kahe -ai
+\gn casa -IMPF(SK)
+\ps n.   -suf.
+
+\ft haciendo casa
+\ELANBegin 95.300
+\ELANEnd 96.040
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 95.300 96.040
+
+\ref 046
+\trs kai
+\tx kai
+\mb ka     -i
+\gn ir     -SUJ>A:SIM
+\ps v.intr -suf.
+
+\ft yendo
+\ELANBegin 96.595
+\ELANEnd 97.195
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 96.595 97.195
+
+\ref 047
+\trs oharibi
+\tx oharibi
+\mb oha    =ribi
+\gn dormir =también
+\ps v.     =clit.
+
+\ft dormir  otra vez
+\ELANBegin 98.290
+\ELANEnd 99.080
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 98.290 99.080
+
+\ref 048
+\trs nino atima riki
+\tx nino atima                 riki
+\mb nino ak      -ti    =ma    riki
+\gn acá hacer   -NOMLZ =NEG   COP(SK)
+\ps adv. v.tran. -suf.  =clit. part.
+
+\ft aquí no hay que hacer
+\ELANBegin 100.590
+\ELANEnd 101.600
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 100.590 101.600
+
+\ref 049
+\trs nino wai atimari
+\tx nino wai    atimari
+\mb nino wai    ak      -ti    =ma    -ri
+\gn acá chacra hacer   -NOMLZ =NEG   -todavía
+\ps adv. n.     v.tran. -suf.  =clit. -adv.
+
+\ft aquí no hay que hacer chacra
+\ELANBegin 101.940
+\ELANEnd 103.140
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 101.940 103.140
+
+\ref 050
+\trs manan irapairo nino ati iki
+\tx manan irapairo nino ati            riki
+\mb manan irapairo nino ak      -ti    riki
+\gn cerro bonito   acá hacer   -NOMLZ COP(SK)
+\ps n.    adj.     adv. v.tran. -suf.  part.
+
+\ft hay que hacer aquí junto al cerro muy bonito
+\ELANBegin 103.750
+\ELANEnd 105.990
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 103.750 105.990
+
+\ref 051
+\trs wai akai
+\tx wai    akai
+\mb wai    ak      -ai
+\gn chacra hacer   -IMPF(SK)
+\ps n.     v.tran. -suf.
+
+\ft hacer chacra
+\ELANBegin 106.335
+\ELANEnd 107.230
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 106.335 107.230
+
+\ref 052
+\trs waka shitapake
+\tx waka shitapake
+\mb waka shita      -pake
+\gn río cruzar(SK) -ITER
+\ps n.   v.         -suf.
+
+\ft cruzando ríos
+\ELANBegin 107.560
+\ELANEnd 109.650
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 107.560 109.650
+
+\ref 053
+\trs shita
+\tx shita
+\mb shita
+\gn cruzar(SK)
+\ps v.
+
+\ft cruzar
+\ELANBegin 110.000
+\ELANEnd 110.910
+\ELANParticipant Nelita
+\sound JC-vida.Juanita-2013.wav 110.000 110.910
+
+\ref 054
+\trs kahon kai
+\tx kahon             kai
+\mb ka     -hon       ka     -i
+\gn ir     -SUJ>S:SIM ir     -IMPF
+\ps v.intr -suf.      v.intr -suf.
+
+\ft yendo
+\ELANBegin 111.700
+\ELANEnd 112.400
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 111.700 112.400
+
+\ref 055
+\trs yawa ahon
+\tx yawa     ahon
+\mb yawa     ak      -hon
+\gn huangana hacer   -SUJ>A:SIM
+\ps n.       v.tran. -suf.
+
+\ft matar huangana
+\ELANBegin 112.815
+\ELANEnd 113.785
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 112.815 113.785
+
+\ref 056
+\trs yawa ahon pikin yonahon
+\tx yawa     ahon               pikin              yonahon
+\mb yawa     ak      -hon       pi      -kin       yona  -hon
+\gn huangana hacer   -SUJ>A:SIM comer   -SUJ>A:SIM volar -SUJ>A:SIM
+\ps n.       v.tran. -suf.      v.tran. -suf.      v.    -suf.
+
+\ft matar huangana para ahumarlo y comerlo
+\ELANBegin 114.820
+\ELANEnd 116.640
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 114.820 116.640
+
+\ref 057
+\trs tapo ahon keahon
+\tx tapo     ahon               keahon
+\mb tapo     ak      -hon       kea     -hon
+\gn parrilla hacer   -SUJ>A:SIM colocar -SUJ>A:SIM
+\ps n.       v.tran. -suf.      v.      -suf.
+
+\ft haciendo barbacoa
+\ELANBegin 117.570
+\ELANEnd 119.020
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 117.570 119.020
+
+\ref 058
+\trs yoina ma shipibo yonáhon
+\tx yoina  ma  shipibo yonáhon
+\mb yoina  ma  shipibo yoná      -hon
+\gn animal ya  shipibo ahumar(SK) -SUJ>A:SIM
+\ps n.     adv n.      v.         -suf.
+
+\ft los shipibos ponen la carne a ahumar
+\ELANBegin 119.050
+\ELANEnd 121.660
+\ELANParticipant Isabel
+\sound JC-vida.Juanita-2013.wav 119.050 121.660
+
+\ref 059
+\trs ake pike
+\tx ake               pike
+\mb ak      -ke       pi      -ke
+\gn hacer   -PERF(SK) comer   -PERF(SK)
+\ps v.tran. -suf.     v.tran. -suf.
+
+\ft hizo, comió
+\ELANBegin 122.420
+\ELANEnd 123.670
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 122.420 123.670
+
+\ref 060
+\trs a abain kah anan karibake
+\tx a   abain               kah               anan     karibake
+\mb a   ak      -bain       ka     -ah        anan     ka     =riba     -ke
+\gn ese hacer   -yendo:TRAN ir     -SUJ>S:SIM otra.vez ir     =otra.vez -PERF(SK)
+\ps dem v.tran. -suf.       v.intr -suf.      adv.     v.intr =clit.    -suf.
+
+\ft yendo a cazar y haciendo chacra otra vez
+\ELANBegin 126.490
+\ELANEnd 128.640
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 126.490 128.640
+
+\ref 061
+\trs ma kanon kawe
+\tx ma  kanon        kawe
+\mb ma  ka     -non  ka     -we
+\gn ya  ir     -PROP ir     -IMP(SK)
+\ps adv v.intr -suf. v.intr -suf.
+
+\ft vamos ya
+\ELANBegin 129.960
+\ELANEnd 130.700
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 129.960 130.700
+
+\ref 062
+\trs ain ma baneke
+\tx ain       ma  baneke
+\mb ain       ma  bane     -ke
+\gn ahí(MIX) ya  quedarse -PERF(SK)
+\ps adv.      adv v.       -suf.
+
+\ft ahí se quedaron
+\ELANBegin 131.030
+\ELANEnd 132.600
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 131.030 132.600
+
+\ref 063
+\trs ain
+\tx ain
+\mb ain
+\gn ahí(MIX)
+\ps adv.
+
+\ft ahí mismo
+\ELANBegin 132.855
+\ELANEnd 133.290
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 132.855 133.290
+
+\ref 064
+\trs kaheke
+\tx kaheke
+\mb kahe -ke
+\gn casa -PERF(SK)
+\ps n.   -suf.
+
+\ft hicieron casa
+\ELANBegin 133.495
+\ELANEnd 134.055
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 133.495 134.055
+
+\ref 065
+\trs kaheah ewe eweri wai aberanahon heki bananohon
+bi oke
+\tx kaheah          ewe    eweri            wai
+\mb kahe -ah        ewe    ewe    -ri       wai
+\gn casa -SUJ>S:SIM vivir  vivir  -todavía chacra
+\ps n.   -suf.      v.intr v.intr -adv.     n.
+
+\tx aberanahon                          heki
+\mb ak      -beran    -a     -hon       heki
+\gn hacer   -VEN:TRAN -NOMLZ -SUJ>A:SIM maíz
+\ps v.tran. -suf.     -suf.  -suf.      n.
+
+\tx bananohon          bi
+\mb bana    -nohon     bi      -i
+\gn sembrar -PROP:TRAN agarrar -SUJ>S:SIM
+\ps v.tran  -suf.      v.      -suf.
+
+\tx oke
+\mb o     -ke
+\gn venir -PERF(SK)
+\ps v.    -suf.
+
+\ft después de un tiempo de hacer casa, vamos a hacer chacra, otra vez sembrar maiz para ir cogiendo
+\ELANBegin 135.450
+\ELANEnd 139.190
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 135.450 139.190
+
+\ref 066
+\trs bi oah karibake
+\tx bi                 oah
+\mb bi      -i         o     -ah
+\gn agarrar -SUJ>S:SIM venir -SUJ>S:SIM
+\ps v.      -suf.      v.    -suf.
+
+\tx karibake
+\mb ka     =riba     -ke
+\gn ir     =otra.vez -PERF(SK)
+\ps v.intr =clit.    -suf.
+
+\ft ha vuelto otra vez
+\ELANBegin 139.815
+\ELANEnd 141.050
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 139.815 141.050
+
+\ref 067
+\trs ka ikebetin nato
+\tx ka            ikebetin                    nato
+\mb ka     -a     ik      -ke        -betin   nato
+\gn ir     -NOMLZ copula  -NOMLZ(SK) -por.que este(SK)
+\ps v.intr -suf.  v.intr. -suf.      -suf.    dem.
+
+\ft ya se fueron estos
+\ELANBegin 143.740
+\ELANEnd 145.320
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 143.740 145.320
+
+\ref 068
+\trs nato tita
+\tx nato     tita
+\mb nato     tita
+\gn este(SK) madre(SK)
+\ps dem.     n.
+
+\ft esta mamá
+\ELANBegin 148.970
+\ELANEnd 150.140
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 148.970 150.140
+
+\ref 069
+\trs mahkake
+\tx mahkake
+\mb mahka  -ke
+\gn muerto -PERF(SK)
+\ps adj.   -suf.
+
+\ft ha muerto
+\ELANBegin 150.910
+\ELANEnd 151.730
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 150.910 151.730
+
+\ref 070
+\trs ewa
+\tx ewa
+\mb ewa
+\gn madre
+\ps n.
+
+\ft mamá
+\ELANBegin 151.490
+\ELANEnd 151.900
+\ELANParticipant Isabel
+\sound JC-vida.Juanita-2013.wav 151.490 151.900
+
+\ref 071
+\trs titama
+\tx titama
+\mb tita      =ma
+\gn madre(SK) =NEG
+\ps n.        =clit.
+
+\ft no "tita"
+\ELANBegin 152.540
+\ELANEnd 153.330
+\ELANParticipant Isabel
+\sound JC-vida.Juanita-2013.wav 152.540 153.330
+
+\ref 072
+\trs nato ewa mahkake
+\tx nato     ewa   mahkake
+\mb nato     ewa   mahka  -ke
+\gn este(SK) madre muerto -PERF(SK)
+\ps dem.     n.    adj.   -suf.
+
+\ft esta mamá ha muerto
+\ELANBegin 153.270
+\ELANEnd 154.830
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 153.270 154.830
+
+\ref 073
+\trs yoshinin pian aka
+\tx yoshinin         pian              aka
+\mb yoshin    =n     pia        =n     ak      -a
+\gn espíritu =ERG   flecha(SK) =INST  hacer   -PERF
+\ps n.        =clit. n.         =clit. v.tran. -suf.
+
+\ft el espírtu le ha flecheado
+\ELANBegin 154.875
+\ELANEnd 156.355
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 154.875 156.355
+
+\ref 074
+\trs yoshinin ninoki yoshinin aka
+\tx yoshinin         ninoki      yoshinin         aka
+\mb yoshin    =n     nino =ki    yoshin    =n     ak      -a
+\gn espíritu =ERG   acá =ALA   espíritu =ERG   hacer   -PERF
+\ps n.        =clit. adv. =clit. n.        =clit. v.tran. -suf.
+
+\ft este espíritu acá, el espítiru acá le ha picado
+\ELANBegin 157.080
+\ELANEnd 159.240
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 157.080 159.240
+
+\ref 075
+\trs yoshinin pianka pianka koshkia ari ari ari ari
+\tx yoshinin         pianka        pianka        koshkia      ari   ari   ari   ari
+\mb yoshin    =n     piank   -a    piank   -a    koshki -a    ari   ari   ari   ari
+\gn espíritu =ERG   flechar -PERF flechar -PERF doler  -PERF dolor dolor dolor dolor
+\ps n.        =clit. v.tran  -suf. v.tran  -suf. v.     -suf. intj. intj. intj. intj.
+
+\ft el espíritu le ha flechado, flechado, le ha hecho doler (sonido del dolor)
+\ELANBegin 160.110
+\ELANEnd 164.680
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 160.110 164.680
+
+\ref 076
+\trs nato chiquito oa
+\tx nato     chiquito       oa
+\mb nato     chiquito       o     -a
+\gn este(SK) chiquito(CAST) venir -PERF
+\ps dem.     adj.           v.    -suf.
+
+\ft ese chiquito vino
+\ELANBegin 165.340
+\ELANEnd 166.590
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 165.340 166.590
+
+\ref 077
+\trs nato
+\tx nato
+\mb nato
+\gn este(SK)
+\ps dem.
+
+\ft ese
+\ELANBegin 166.820
+\ELANEnd 167.380
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 166.820 167.380
+
+\ref 078
+\trs mirita chiquito
+\tx mirita     chiquito
+\mb mirita     chiquito
+\gn Nelita(MX) chiquito(CAST)
+\ps n.         adj.
+
+\ft Nelita chiquito
+\ELANBegin 167.875
+\ELANEnd 169.310
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 167.875 169.310
+
+\ref 079
+\trs bake
+\tx bakeheko
+\mb bake  -hoko
+\gn niño -DIM
+\ps n.    -suf
+
+\ft niño
+\ELANBegin 170.595
+\ELANEnd 171.490
+\ELANParticipant Isabel
+\sound JC-vida.Juanita-2013.wav 170.595 171.490
+
+\ref 080
+\trs itiki kake moa
+\tx itiki                 kake             moa
+\mb ik      -ti    =ki    ka     -ke       moa
+\gn copula  -NOMLZ =CON   ir     -PERF(SK) ya(SK)
+\ps v.intr. -suf.  =clit. v.intr -suf.     adv
+
+\ft ya se fue
+\ELANBegin 173.240
+\ELANEnd 175.180
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 173.240 175.180
+
+\ref 081
+\trs nokon papa
+\tx nokon       papa
+\mb nokon       papa
+\gn 1SG.GEN(SK) papá(SK)
+\ps pron        n.
+
+\ft mi papá
+\ELANBegin 175.555
+\ELANEnd 176.515
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 175.555 176.515
+
+\ref 082
+\trs yapa aki kake
+\tx yapa        aki                kake
+\mb yapa        ak      -i         ka     -ke
+\gn pescado(SK) hacer   -SUJ>S:SIM ir     -PERF(SK)
+\ps n.          v.tran. -suf.      v.intr -suf.
+
+\ft fue a pescar
+\ELANBegin 178.460
+\ELANEnd 179.450
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 178.460 179.450
+
+\ref 083
+\trs yapa
+\tx yapa
+\mb yapa
+\gn pescado(SK)
+\ps n.
+
+\ft pescado
+\ELANBegin 181.570
+\ELANEnd 181.750
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 181.570 181.750
+
+\ref 084
+\trs yapama yoma
+\tx yapama             yoma
+\mb yapa        =ma    yoma
+\gn pescado(SK) =NEG   pescado
+\ps n.          =clit. n.
+
+\ft "yapa" no, pescado
+\ELANBegin 181.810
+\ELANEnd 183.060
+\ELANParticipant Isabel
+\sound JC-vida.Juanita-2013.wav 181.810 183.060
+
+\ref 085
+\trs yoma yoma
+\tx yoma    yoma
+\mb yoma    yoma
+\gn pescado pescado
+\ps n.      n.
+
+\ft pescado, pescado
+\ELANBegin 183.195
+\ELANEnd 184.145
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 183.195 184.145
+
+\ref 086
+\trs ara askararibiki yapa ara imis iki
+\tx ara            askararibiki
+\mb a   =ra        aska =ra        =ribi     =ki
+\gn ese =EVID1(SK) así =EVID1(SK) =también =CON
+\ps dem =clit.     adv. =clit.     =clit.    =clit.
+
+\tx yapa        ara            imis
+\mb yapa        a   =ra        ik      -mis
+\gn pescado(SK) ese =EVID1(SK) copula  -PAS.HAB.
+\ps n.          dem =clit.     v.intr. -suf.
+
+\tx iki
+\mb ik      -i
+\gn copula  -IMPF
+\ps v.intr. -suf.
+
+\ft así también es pescado, pescado igual es
+\ELANBegin 184.475
+\ELANEnd 186.990
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 184.475 186.990
+
+\ref 087
+\trs yoma aki kake
+\tx yoma    aki                kake
+\mb yoma    ak      -i         ka     -ke
+\gn pescado hacer   -SUJ>S:SIM ir     -PERF(SK)
+\ps n.      v.tran. -suf.      v.intr -suf.
+
+\ft ir a pescar
+\ELANBegin 187.210
+\ELANEnd 188.060
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 187.210 188.060
+
+\ref 088
+\trs yoma aki kake kake kahon beke kena beke ma
+\tx yoma    aki                kake
+\mb yoma    ak      -i         ka     -ke
+\gn pescado hacer   -SUJ>S:SIM ir     -PERF(SK)
+\ps n.      v.tran. -suf.      v.intr -suf.
+
+\tx kake             kahon             beke
+\mb ka     -ke       ka     -hon       be     -ke
+\gn ir     -PERF(SK) ir     -SUJ>A:SIM traer  -PERF(SK)
+\ps v.intr -suf.     v.intr -suf.      v.tran -suf.
+
+\tx kena   beke             ma
+\mb kena   be     -ke       ma
+\gn llamar traer  -PERF(SK) ya
+\ps v.     v.tran -suf.     adv
+
+\ft yendo a pescar, yendo , (depués) fueron a llamarlos
+\ELANBegin 188.760
+\ELANEnd 192.500
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 188.760 192.500
+
+\ref 089
+\trs ana
+\tx ana
+\mb ana
+\gn otra.vez
+\ps adv.
+
+\ft otra vez
+\ELANBegin 193.280
+\ELANEnd 193.920
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 193.280 193.920
+
+\ref 090
+\trs hanebo yoitanwe
+\tx hanebo  yoitanwe
+\mb hanebo  yoi        -tan  -we
+\gn chamán llamar(SK) -ANDA -IMP(SK)
+\ps n.      v.tran.    -suf. -suf.
+
+\ft vete a llamar a hanebo
+\ELANBegin 195.975
+\ELANEnd 197.195
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 195.975 197.195
+
+\ref 091
+\trs hanebo kenatanwe
+\tx hanebo  kenatanwe
+\mb hanebo  kena   -tan  -we
+\gn chamán llamar -ANDA -IMP(SK)
+\ps n.      v.     -suf. -suf.
+
+\ft anda a llamar a hanebo
+\ELANBegin 197.710
+\ELANEnd 198.870
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 197.710 198.870
+
+\ref 092
+\trs behná awinin
+\tx behná awinin
+\mb behná awin   =n
+\gn nombre.propio =ERG
+\ps n.            =clit.
+
+\ft (nombre propio)
+\ELANBegin 200.005
+\ELANEnd 200.695
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 200.005 200.695
+
+\ref 093
+\trs kenake
+\tx kenake
+\mb kena   -ke
+\gn llamar -PERF(SK)
+\ps v.     -suf.
+
+\ft llamó
+\ELANBegin 201.405
+\ELANEnd 202.140
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 201.405 202.140
+
+\ref 094
+\trs hanebo
+\tx hanebo
+\mb hanebo
+\gn chamán
+\ps n.
+
+\ft (nombre propio)
+\ELANBegin 202.205
+\ELANEnd 203.145
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 202.205 203.145
+
+\ref 095
+\trs hanebo
+\tx hanebo
+\mb hanebo
+\gn chamán
+\ps n.
+
+\ft (nombre propio)
+\ELANBegin 203.870
+\ELANEnd 204.690
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 203.870 204.690
+
+\ref 096
+\trs yama
+\tx yama
+\mb yama
+\gn NEG
+\ps adv
+
+\ft no
+\ELANBegin 205.040
+\ELANEnd 205.700
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 205.040 205.700
+
+\ref 097
+\trs ha ma mawaketian
+\tx ha      ma  mawaketian
+\mb ha      ma  mawa       -ketian
+\gn ese(SK) ya  muerto(SK) -SUJ.DIF:SIM(SK)
+\ps dem     adv adj.       -suf
+
+\ft ya está muerto
+\ELANBegin 206.430
+\ELANEnd 208.060
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 206.430 208.060
+
+\ref 098
+\trs ewen papa
+\tx ewen    papa
+\mb ewen    papa
+\gn 1SG:GEN papá(SK)
+\ps pron.   n.
+
+\ft mi papá
+\ELANBegin 208.160
+\ELANEnd 208.890
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 208.160 208.890
+
+\ref 099
+\trs hankai
+\tx hankai
+\ft ???
+\ELANBegin 209.205
+\ELANEnd 209.665
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 209.205 209.665
+
+\ref 100
+\trs rome ayake
+\tx rome   ayake
+\mb rome   aya    -ke
+\gn tabaco tomar  -PERF(SK)
+\ps n.     v.tran -suf.
+
+\ft tomó tabaco
+\ELANBegin 211.040
+\ELANEnd 211.930
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 211.040 211.930
+
+\ref 101
+\trs rome techo ayake
+\tx rome   techo           ayake
+\mb rome   techo           aya    -ke
+\gn tabaco tinaja.pequeña tomar  -PERF(SK)
+\ps n.     n.              v.tran -suf.
+
+\ft tomó tabaco cocido
+\ELANBegin 212.285
+\ELANEnd 213.340
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 212.285 213.340
+
+\ref 102
+\trs ain mahkake ma tsinki aka ma ma ma mawa ika
+\tx ain       mahkake           ma
+\mb ain       mahka  -ke        ma
+\gn ahí(MIX) muerto -NOMLZ(SK) ya
+\ps adv.      adj.   -suf.      adv
+
+\tx tsinki                aka   ma  ma  ma  mawa
+\mb tsinki ak          -a       ma  ma  ma  mawa
+\gn presionar.con.mano -PERF    ya  ya  ya  muerto(SK)
+\ps v.                 -suf.    adv adv adv adj.
+
+\tx ika
+\mb ik      -a
+\gn copula  -PERF
+\ps v.intr. -suf.
+
+\ft ahí mismo agarró al muerto yayayaya ya está muerto
+\ELANBegin 214.290
+\ELANEnd 217.820
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 214.290 217.820
+
+\ref 103
+\trs ma mahkake
+\tx ma  mahkake
+\mb ma  mahka  -ke
+\gn ya  muerto -PERF(SK)
+\ps adv adj.   -suf.
+
+\ft ya muerto
+\ELANBegin 218.090
+\ELANEnd 218.700
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 218.090 218.700
+
+\ref 104
+\trs mahkake iki
+\tx mahkake           iki
+\mb mahka  -ke        ik      -i
+\gn muerto -NOMLZ(SK) copula  -IMPF
+\ps adj.   -suf.      v.intr. -suf.
+
+\ft muerto es
+\ELANBegin 219.660
+\ELANEnd 220.650
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 219.660 220.650
+
+\ref 105
+\trs ewen papa rome chori chori aka
+\tx ewen    papa      rome   chori         chori
+\mb ewen    papa      rome   chori         chori
+\gn 1SG:GEN papá(SK) tabaco tomar.rápido tomar.rápido
+\ps pron.   n.        n.     onom.         onom.
+
+\tx aka
+\mb ak      -a
+\gn hacer   -PERF
+\ps v.tran. -suf.
+
+\ft mi papá hizo tomar  tabaco (sopla)
+\ELANBegin 221.250
+\ELANEnd 224.130
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 221.250 224.130
+
+\ref 106
+\trs nokon ewa hakon moa mawa mahka iki
+\tx nokon       ewa   hakon     moa    mawa
+\mb nokon       ewa   hakon     moa    mawa
+\gn 1SG.GEN(SK) madre bueno(SK) ya(SK) muerto(SK)
+\ps pron        n.    adj.      adv    adj.
+
+\tx mahka  iki
+\mb mahka  ik      -i
+\gn muerto copula  -IMPF
+\ps adj.   v.intr. -suf.
+
+\ft ya mi mamá va a morir, ya está muerta
+\ELANBegin 228.630
+\ELANEnd 230.740
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 228.630 230.740
+
+\ref 107
+\trs moa koanohon karo bikanwe
+\tx moa    koanohon          karo
+\mb moa    koa    -nohon     karo
+\gn ya(SK) quemar -PROP:TRAN leña
+\ps adv    v.     -suf.      n.
+
+\tx bikanwe
+\mb bi      -kan  -we
+\gn agarrar -PLU  -IMP(SK)
+\ps v.      -suj. -suf.
+
+\ft cortemos leña para quemar
+\ELANBegin 232.940
+\ELANEnd 234.370
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 232.940 234.370
+
+\ref 108
+\trs karo bi kai
+\tx karo  bi                 kai
+\mb karo  bi      -i         ka     -i
+\gn leña agarrar -SUJ>S:SIM ir     -IMPF
+\ps n.    v.      -suf.      v.intr -suf.
+
+\ft cortando leña
+\ELANBegin 235.890
+\ELANEnd 236.580
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 235.890 236.580
+
+\ref 109
+\trs mahka ma ewe eweri
+\tx mahka  ma  ewe    eweri
+\mb mahka  ma  ewe    ewe    -ri
+\gn muerto ya  vivir  vivir  -todavía
+\ps adj.   adv v.intr v.intr -adv.
+
+\ft muerto, muerto, vivía (ahí)
+\ELANBegin 238.540
+\ELANEnd 240.060
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 238.540 240.060
+
+\ref 110
+\trs ha neri ana neke oke
+\tx ha      neri ana      neke         oke
+\mb ha      neri ana      neke         o     -ke
+\gn ese(SK) acá otra.vez de.este.lado venir -PERF(SK)
+\ps dem     adv. adv.     adv.         v.    -suf.
+
+\ft otra vez acá vinimos
+\ELANBegin 240.185
+\ELANEnd 242.035
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 240.185 242.035
+
+\ref 111
+\trs noa iki oke
+\tx noa   iki           oke
+\mb noa   ik      -i    o     -ke
+\gn 1PL:S copula  -IMPF venir -NOMLZ(SK)
+\ps pron. v.intr. -suf. v.    -suf.
+
+\ft nosotros somos los que vinimos
+\ELANBegin 243.595
+\ELANEnd 244.890
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 243.595 244.890
+
+\ref 112
+\trs a mahka ma beran oahka
+\tx a   mahka  ma  beran        oahka
+\mb a   mahka  ma  be     -ran  o     -ah        =ka
+\gn ese muerto ya  traer  -ITER venir -SUJ>S:SIM =NAR
+\ps dem adj.   adv v.tran -suf. v.    -suf.      =clit.
+
+\ft después de que ha muerto, hemos venido
+\ELANBegin 250.285
+\ELANEnd 251.570
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 250.285 251.570
+
+\ref 113
+\trs oahka ka
+\tx oahka                   ka
+\mb o     -ah        =ka    ka     -a
+\gn venir -SUJ>S:SIM =NAR   ir     -PERF
+\ps v.    -suf.      =clit. v.intr -suf.
+
+\ft depués va a regresar (a su casa)
+\ELANBegin 252.510
+\ELANEnd 253.280
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 252.510 253.280
+
+\ref 114
+\trs kaheribike
+\tx kaheribike
+\mb kahe =ribi     -ke
+\gn casa =también -PERF(SK)
+\ps n.   =clit.    -suf.
+
+\ft otra vez hicieron casa
+\ELANBegin 253.485
+\ELANEnd 254.250
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 253.485 254.250
+
+\ref 115
+\trs ainra wasicha ike
+\tx ainra                wasicha            ike
+\mb ain       =ra        wasi        =cha   ik      -ke
+\gn ahí(MIX) =EVID1(SK) demorar(SK) =ATE   copula  -PERF(SK)
+\ps adv.      =clit.     v.          =clit. v.intr. -suf.
+
+\ft ahí mismo han vivido (bastante) tiempo
+\ELANBegin 254.930
+\ELANEnd 256.120
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 254.930 256.120
+
+\ref 116
+\trs ain eweparike ain paranti banake
+\tx ain       eweparike                  ain       paranti
+\mb ain       ewe    =pari     -ke       ain       paranti
+\gn ahí(MIX) vivir  =todavía -PERF(SK) ahí(MIX) plátano
+\ps adv.      v.intr =clit.    -suf.     adv.      n.
+
+\tx banake
+\mb bana    -ke
+\gn sembrar -PERF(SK)
+\ps v.tran  -suf.
+
+\ft ahí mismo han vivido, ahí mismo sembraron plátano
+\ELANBegin 256.755
+\ELANEnd 258.870
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 256.755 258.870
+
+\ref 117
+\trs ain heki banake
+\tx ain       heki  banake
+\mb ain       heki  bana    -ke
+\gn ahí(MIX) maíz sembrar -PERF(SK)
+\ps adv.      n.    v.tran  -suf.
+
+\ft sembraron maíz ahí mismo
+\ELANBegin 260.175
+\ELANEnd 261.100
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 260.175 261.100
+
+\ref 118
+\trs heki banake heki wishahon
+\tx heki  banake            heki  wishahon
+\mb heki  bana    -ke       heki  wisha         -hon
+\gn maíz sembrar -PERF(SK) maíz sembrar.maíz -SUJ>A:SIM
+\ps n.    v.tran  -suf.     n.    v.            -suf.
+
+\ft sembraron maíz,  sembrando maíz
+\ELANBegin 263.510
+\ELANEnd 265.500
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 263.510 265.500
+
+\ref 119
+\trs wishahonka banake
+\tx wishahonka                      banahon
+\mb wisha         -hon       =ka    bana    -hon
+\gn sembrar.maíz -SUJ>A:SIM =NAR   sembrar -SUJ>A:SIM
+\ps v.            -suf.      =clit. v.tran  -suf.
+
+\ft sembrando maíz
+\ELANBegin 265.555
+\ELANEnd 267.100
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 265.555 267.100
+
+\ref 120
+\trs xeai
+\tx xeai
+\mb xea       -i
+\gn tomar(SK) -IMPF
+\ps v.        -suf.
+
+\ft tomaban
+\ELANBegin 267.800
+\ELANEnd 268.280
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 267.800 268.280
+
+\ref 121
+\trs minahon xeai
+\tx minahon                 xeai
+\mb miná        -hon       xea       -i
+\gn chicha.suave -SUJ>A:SIM tomar(SK) -IMPF
+\ps n.           -suf.      v.        -suf.
+
+\ft haciendo chicha, tomaban
+\ELANBegin 268.585
+\ELANEnd 269.585
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 268.585 269.585
+
+\ref 122
+\trs xea xeai ewe eweri ain tikiai
+\tx xea       xeai                 ewe    eweri
+\mb xea       xea       -i         ewe    ewe    -ri
+\gn tomar(SK) tomar(SK) -SUJ>S:SIM vivir  vivir  -todavía
+\ps v.        v.        -suf.      v.intr v.intr -adv.
+
+\tx ain       tikiai
+\mb ain       tiki      -ai
+\gn ahí(MIX) trasladar -IMPF(SK)
+\ps adv.      v.        -suf.
+
+\ft tomaban por mucho tiempo y después se trasladaban a otro sitio
+\ELANBegin 270.110
+\ELANEnd 272.430
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 270.110 272.430
+
+\ref 123
+\trs a oribake
+\tx a   oribake
+\mb a   o     =riba     -ke
+\gn ese venir =otra.vez -PERF(SK)
+\ps dem v.    =clit.    -suf.
+
+\ft han venido otra vez
+\ELANBegin 273.000
+\ELANEnd 273.920
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 273.000 273.920
+
+\ref 124
+\trs ain i ipari moa wasika moa wasi
+\tx ain       i       ipari             moa
+\mb ain       ik      ik      =pari     moa
+\gn ahí(MIX) copula  copula  =todavía ya(SK)
+\ps adv.      v.intr. v.intr. =clit.    adv
+
+\tx wasika             moa    wasi
+\mb wasi        =ka    moa    wasi
+\gn demorar(SK) =NAR   ya(SK) demorar(SK)
+\ps v.          =clit. adv    v.
+
+\ft ahí han estado bastante tiempo
+\ELANBegin 274.585
+\ELANEnd 276.820
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 274.585 276.820
+
+\ref 125
+\trs haweti añosyabiraka
+\tx haweti   añosyabiraka
+\mb haweti   años       =ya    =bira   =ka
+\gn cuándo  años(CAST) =PROP  =nomás =NAR
+\ps pal.int. n.          =clit. =clit.  =clit.
+
+\ft hace cuántos años ya
+\ELANBegin 276.975
+\ELANEnd 278.350
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 276.975 278.350
+
+\ref 126
+\trs oahka ewe eweri ohon kaheke hainribi katimari
+\tx oahka                   ewe    eweri
+\mb o     -ah        =ka    ewe    ewe    -ri
+\gn venir -SUJ>S:SIM =NAR   vivir  vivir  -todavía
+\ps v.    -suf.      =clit. v.intr v.intr -adv.
+
+\tx ohon             kaheke         hainribi
+\mb o     -hon       kahe -ke       hain     =ribi
+\gn venir -SUJ>A:SIM casa -PERF(SK) ahí(SK) =también
+\ps v.    -suf.      n.   -suf.     adv.     =clit.
+
+\tx katimari
+\mb ka     -ti    =ma    -ri
+\gn ir     -NOMLZ =NEG   -todavía
+\ps v.intr -suf.  =clit. -adv.
+
+\ft han vivido durante mucho tiempo en el mimo sitio, quieren regresar
+\ELANBegin 283.820
+\ELANEnd 287.190
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 283.820 287.190
+
+\ref 127
+\trs ain katima
+\tx ain       katima
+\mb ain       ka     -ti    =ma
+\gn ahí(MIX) ir     -NOMLZ =NEG
+\ps adv.      v.intr -suf.  =clit.
+
+\ft no hay que irse
+\ELANBegin 288.008
+\ELANEnd 288.838
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 288.008 288.838
+
+\ref 128
+\trs nokon ewahako
+\tx nokon       ewahako
+\mb nokon       ewa   -hoko
+\gn 1SG.GEN(SK) madre -DIM
+\ps pron        n.    -suf
+
+\ft mi mamita
+\ELANBegin 291.780
+\ELANEnd 293.450
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 291.780 293.450
+
+\ref 129
+\trs mahkake
+\tx mahkake
+\mb mahka  -ke
+\gn muerto -PERF(SK)
+\ps adj.   -suf.
+
+\ft murió
+\ELANBegin 293.935
+\ELANEnd 294.595
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 293.935 294.595
+
+\ref 130
+\trs ain kanon kawe
+\tx ain       kanon        kawe
+\mb ain       ka     -non  ka     -we
+\gn ahí(MIX) ir     -PROP ir     -IMP(SK)
+\ps adv.      v.intr -suf. v.intr -suf.
+
+\ft ahí vamos a ir
+\ELANBegin 295.020
+\ELANEnd 295.980
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 295.020 295.980
+
+\ref 131
+\trs aka ewe eweri
+\tx aka        ewe    eweri
+\mb a   =ka    ewe    ewe    -ri
+\gn ese =NAR   vivir  vivir  -todavía
+\ps dem =clit. v.intr v.intr -adv.
+
+\ft ahí mismo viví, vivendo
+\ELANBegin 300.020
+\ELANEnd 301.420
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 300.020 301.420
+
+\ref 132
+\trs a oke kai
+\tx a   oke               kai
+\mb a   oke               ka     -i
+\gn ese por.otro.lado(SK) ir     -IMPF
+\ps dem adv.              v.intr -suf.
+
+\ft anda al otro lado
+\ELANBegin 301.640
+\ELANEnd 303.330
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 301.640 303.330
+
+\ref 133
+\trs kirikon merakin
+\tx kirikon           merakin
+\mb kiriko     =n     mera      -kin
+\gn gringo(MX) =ERG   encontrar -SUJ>A:SIM
+\ps n.         =clit. v.tran    -suf.
+
+\ft te va a encontrar el gringo
+\ELANBegin 303.735
+\ELANEnd 305.475
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 303.735 305.475
+
+\ref 134
+\trs ainma ainma hainma  hawerano katimaka hain
+baneta
+\tx ainma         ainma         hainma       hawerano
+\mb ain       ma  ain       ma  hain     ma  hawerano
+\gn ahí(MIX) ya  ahí(MIX) ya  ahí(SK) ya  dónde
+\ps adv.      adv adv.      adv adv.     adv pal.int.
+
+\tx katimaka                    hain     baneta
+\mb ka     -ti    =ma    =ka    hain     banet    -a
+\gn ir     -NOMLZ =NEG   =NAR   ahí(SK) quedarse -PERF
+\ps v.intr -suf.  =clit. =clit. adv.     v.intr.  -suf.
+
+\ft ahí nomás me quedé a vivir
+\ELANBegin 306.390
+\ELANEnd 309.560
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 306.390 309.560
+
+\ref 135
+\trs ma nawan nawan mera
+\tx ma  nawan             nawan             mera
+\mb ma  nawa       =n     nawa       =n     mera
+\gn ya  extranjero =ERG   extranjero =ERG   encontrar
+\ps adv n.         =clit. n.         =clit. v.tran
+
+\ft el extranjero te encontrará
+\ELANBegin 309.880
+\ELANEnd 311.360
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 309.880 311.360
+
+\ref 136
+\trs hakaka nawa rashikobo tokeribi rashiko eweke
+\tx hakaka                nawa       rashikobo
+\mb ha      =ka    =ka    nawa       rashiko        =bo
+\gn ese(SK) =NAR   =NAR   extranjero brasileño(MX) =PLU
+\ps dem     =clit. =clit. n.         n.             =clit
+
+\tx tokeribi                rashiko        eweke
+\mb toke          =ribi     rashiko        ewe    -ke
+\gn del.otro.lado =también brasileño(MX) vivir  -PERF(SK)
+\ps adv.          =clit.    n.             v.intr -suf.
+
+\ft los extranjeros brasileños viven también del otro lado
+\ELANBegin 312.480
+\ELANEnd 315.390
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 312.480 315.390
+
+\ref 137
+\trs oke noa tokebiribi rashiko eweke
+\tx oke               noa   tokebiribi
+\mb oke               noa   toke          =bi    =ribi
+\gn por.otro.lado(SK) 1PL:S del.otro.lado =ENF   =también
+\ps adv.              pron. adv.          =clit. =clit.
+
+\tx rashiko        eweke
+\mb rashiko        ewe    -ke
+\gn brasileño(MX) vivir  -PERF(SK)
+\ps n.             v.intr -suf.
+
+\ft del otro lado del "noa" viven los brasileros
+\ELANBegin 315.410
+\ELANEnd 317.220
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 315.410 317.220
+
+\ref 138
+\trs hainka awerano katima ainhonbi oa
+\tx hainka          awerano     katima
+\mb hain     =ka    awerano     ka     -ti    =ma
+\gn ahí(SK) =NAR   dónde(MIX) ir     -NOMLZ =NEG
+\ps adv.     =clit. pal.int.    v.intr -suf.  =clit.
+
+\tx ainhonbi                    oa
+\mb ain       -hon       =bi    o     -a
+\gn ahí(MIX) -SUJ>A:SIM =ENF   venir -PERF
+\ps adv.      -suf.      =clit. v.    -suf.
+
+\ft ahí mismo iba, no había ya dónde ir
+\ELANBegin 317.340
+\ELANEnd 319.660
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 317.340 319.660
+
+\ref 139
+\trs nokon nawan anon
+\tx nokon       nawan             anon
+\mb nokon       nawa       =n     ak      -non
+\gn 1SG.GEN(SK) extranjero =ERG   hacer   -PROP
+\ps pron        n.         =clit. v.tran. -suf.
+
+\ft los mestizos nos van a matar
+\ELANBegin 320.060
+\ELANEnd 320.980
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 320.060 320.980
+
+\ref 140
+\trs ainbi ewe ainbi ewenon kawe
+\tx ainbi            ewe    ainbi            ewenon
+\mb ain       =bi    ewe    ain       =bi    ewe    -non
+\gn ahí(MIX) =ENF   vivir  ahí(MIX) =ENF   vivir  -PROP
+\ps adv.      =clit. v.intr adv.      =clit. v.intr -suf.
+
+\tx kawe
+\mb ka     -we
+\gn ir     -IMP(SK)
+\ps v.intr -suf.
+
+\ft ahí nomás vamos a vivir
+\ELANBegin 321.295
+\ELANEnd 323.585
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 321.295 323.585
+
+\ref 141
+\trs manan ani tename manan ani manan
+\tx manan ani        tename manan ani        manan
+\mb manan ani        tename manan ani        manan
+\gn cerro grande(SK) abajo  cerro grande(SK) cerro
+\ps n.    adj.       post.  n.    adj.       n.
+
+\ft al pie del cerro grande, al pie del cerro grande
+\ELANBegin 324.145
+\ELANEnd 326.270
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 324.145 326.270
+
+\ref 142
+\trs machi neke machi pekao
+\tx machi neke         machi pekao
+\mb machi neke         machi pekao
+\gn cerro de.este.lado cerro detrás(SK)
+\ps n.    adv.         n.    post.
+
+\ft valle, loma
+\ELANBegin 326.295
+\ELANEnd 327.235
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 326.295 327.235
+
+\ref 143
+\trs neke shinkon pake
+\tx neke         shinkon           pake
+\mb neke         shinkon           pake
+\gn de.este.lado plátano.moquicho caer(se)
+\ps adv.         n.                v.ambi.
+
+\ft se desbarranca el plátano moquicho.
+\ELANBegin 327.510
+\ELANEnd 328.540
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 327.510 328.540
+
+\ref 144
+\trs ainbi non xoboa
+\tx ainbi            non   xoboa
+\mb ain       =bi    non   xobo     -a
+\gn ahí(MIX) =ENF   1PL:A casa(SK) -FACT(SK)
+\ps adv.      =clit. pron  n.       -suf.
+
+\ft ahí mismo yo he hecho casa
+\ELANBegin 328.580
+\ELANEnd 329.620
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 328.580 329.620
+
+\ref 145
+\trs kahebi kaheah eweki
+\tx kahebi      kaheah          eweki
+\mb kahe =bi    kahe -ah        ewe    =ki
+\gn casa =ENF   casa -SUJ>S:SIM vivir  =CON
+\ps n.   =clit. n.   -suf.      v.intr =clit.
+
+\ft hacer casa para vivir
+\ELANBegin 329.955
+\ELANEnd 331.395
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 329.955 331.395
+
+\ref 146
+\trs ewehon ha hain eweke moa papakiri mera oke
+nawan nawan akaka nokon wene mayon nawanaka
+\tx ewehon            ha      hain     eweke
+\mb ewe    -hon       ha      hain     ewe    -ke
+\gn vivir  -SUJ>S:SIM ese(SK) ahí(SK) vivir  -PERF(SK)
+\ps v.intr -suf.      dem     adv.     v.intr -suf.
+
+\tx moa    papakiri                   mera
+\mb moa    papakiri                   mera      -a
+\gn ya(SK) nombre.misionero.americano encontrar -PERF
+\ps adv    n.                         v.tran    -suf.
+
+\tx oke               nawan             nawan
+\mb oke               nawa       =n     nawa       =n
+\gn por.otro.lado(SK) extranjero =ERG   extranjero =ERG
+\ps adv.              n.         =clit. n.         =clit.
+
+\tx akaka                nokon
+\mb ak      -a    =ka    nokon
+\gn hacer   -PERF =NAR   1SG.GEN(SK)
+\ps v.tran. -suf. =clit. pron
+
+\tx bene   ma  nawan             aka
+\mb bene   ma  nawa       =n     ak      -a
+\gn esposo ya  extranjero =ERG   hacer   -PERF
+\ps n.     adv n.         =clit. v.tran. -suf.
+
+\ft ahí mismo viviendo el gringo nos encontró , luego le dispararon a mi esposo, no le mató le hirió nomás
+\ELANBegin 332.630
+\ELANEnd 339.410
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 332.630 339.410
+
+\ref 147
+\trs nino to aka
+\tx nino to aka
+\mb nino to ak    -a
+\gn acá disparar -PERF
+\ps adv. v.       -suf.
+
+\ft acá [por las costillas] le disparó
+\ELANBegin 340.650
+\ELANEnd 341.650
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 340.650 341.650
+
+\ref 148
+\trs pisi poati katsa poai
+\tx pisi         poati       katsa    poai
+\mb pisi         poa  -ti    katsa    poa  -i
+\gn mal.olor(SK) oler -NOMLZ mal.olor oler -IMPF
+\ps n.           v.   -suf.  n.       v.   -suf.
+
+\ft se sentía mal olor
+\ELANBegin 343.540
+\ELANEnd 345.610
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 343.540 345.610
+
+\ref 149
+\trs haskara ewetima ikebi nokon bene mawata iki
+\tx haskara             ewetima
+\mb haska    =ra        ewe    -ti    =ma
+\gn así(SK) =EVID1(SK) vivir  -NOMLZ =NEG
+\ps adv.     =clit.     v.intr -suf.  =clit.
+
+\tx ikebi                     nokon       bene
+\mb ik      -ke        =bi    nokon       bene
+\gn copula  -NOMLZ(SK) =ENF   1SG.GEN(SK) esposo
+\ps v.intr. -suf.      =clit. pron        n.
+
+\tx mawata           iki
+\mb mawat     -a     ik      -i
+\gn morir(SK) -NOMLZ copula  -IMPF
+\ps v.        -suf.  v.intr. -suf.
+
+\ft así nomás vivía mi marido y después se murió
+\ELANBegin 348.280
+\ELANEnd 350.830
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 348.280 350.830
+
+\ref 150
+\trs mahka
+\tx mahka
+\mb mahka
+\gn muerto
+\ps adj.
+
+\ft murió
+\ELANBegin 354.760
+\ELANEnd 355.800
+\ELANParticipant Isabel
+\sound JC-vida.Juanita-2013.wav 354.760 355.800
+
+\ref 151
+\trs nokon bene ainoah chihoribike naton papa
+\tx nokon       bene   ainoah
+\mb nokon       bene   ain       =no    =ah
+\gn 1SG.GEN(SK) esposo ahí(MIX) =LOC   =SUJ>S:SIM
+\ps pron        n.     adv.      =clit. =suf.
+
+\tx chihoribike                       naton
+\mb chiho         =ribi     -ke       nato     =n
+\gn tener.diarrea =también -PERF(SK) este(SK) =GEN
+\ps v.            =clit.    -suf.     dem.     =clit.
+
+\tx papa
+\mb papa
+\gn papá(SK)
+\ps n.
+
+\ft mi esposo de ahí también estuvo con diarrea, su papá de ella
+\ELANBegin 355.525
+\ELANEnd 358.465
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 355.525 358.465
+
+\ref 152
+\trs mawake
+\tx mawake
+\mb mawa       -ke
+\gn muerto(SK) -PERF(SK)
+\ps adj.       -suf.
+
+\ft murió
+\ELANBegin 358.780
+\ELANEnd 359.850
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 358.780 359.850
+
+\ref 153
+\trs mahkake mahkarakake
+\tx mahkake          mahkarakake
+\mb mahka  -ke       mahka  raka  -ke
+\gn muerto -PERF(SK) muerto echar -PERF(SK)
+\ps adj.   -suf.     adj.   v.    -suf.
+
+\ft murió, murió recostado
+\ELANBegin 360.030
+\ELANEnd 361.830
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 360.030 361.830
+
+\ref 154
+\trs menoribike
+\tx menoribike
+\mb meno       =ribi     -ke
+\gn quemar(SK) =también -PERF(SK)
+\ps n.         =clit.    -suf.
+
+\ft también lo quemaron
+\ELANBegin 363.060
+\ELANEnd 364.100
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 363.060 364.100
+
+\ref 155
+\trs ainoah nokon papa mahkaribike
+\tx ainoah                 nokon       papa
+\mb ain       =no    =ah   nokon       papa
+\gn ahí(MIX) =LOC   =S    1SG.GEN(SK) papá(SK)
+\ps adv.      =clit. =suf. pron        n.
+
+\tx mahkaribike
+\mb mahka  =ribi     -ke
+\gn muerto =también -PERF(SK)
+\ps adj.   =clit.    -suf.
+
+\ft de ahí mi papá también murió
+\ELANBegin 364.210
+\ELANEnd 365.930
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 364.210 365.930
+
+\ref 156
+\trs ainoah menoribike
+\tx ainoah                 menoribike
+\mb ain       =no    =ah   meno       =ribi     -ke
+\gn ahí(MIX) =LOC   =S    quemar(SK) =también -PERF(SK)
+\ps adv.      =clit. =suf. n.         =clit.    -suf.
+
+\ft de ahí también lo quemaron
+\ELANBegin 365.965
+\ELANEnd 367.005
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 365.965 367.005
+
+\ref 157
+\trs ain noa papakiri nekebea neke oa iki
+\tx ain       papakiri                   neke
+\mb ain       papakiri                   neke
+\gn ahí(MIX) nombre.misionero.americano de.este.lado
+\ps adv.      n.                         adv.
+
+\tx bea          neke         oa           iki
+\mb be     -a    neke         o     -a     ik      -i
+\gn traer  -PERF de.este.lado venir -NOMLZ copula  -IMPF
+\ps v.tran -suf. adv.         v.    -suf.  v.intr. -suf.
+
+\ft ahí mismo el extranjero nos trajo acá, acá vinimos
+\ELANBegin 367.440
+\ELANEnd 369.870
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 367.440 369.870
+
+\ref 158
+\trs aokeahbira eah mahkakeana iki
+\tx aokeahbira                eah
+\mb aokeah  =bi    =ra        eah
+\gn de.ahí =ENF   =EVID1(SK) 1SG:S
+\ps conec.  =clit. =clit.     pron.
+
+\tx mahkakeana           iki
+\mb mahka  -kean  -a     ik      -i
+\gn muerto -FRUST -NOMLZ copula  -IMPF
+\ps adj.   -suf.  -suf.  v.intr. -suf.
+
+\ft de ahí nomás, yo casi me muero
+\ELANBegin 372.750
+\ELANEnd 374.440
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 372.750 374.440
+
+\ref 159
+\trs porokan chehai
+\tx porokan              chehai
+\mb porok         =n     cheha -i
+\gn estómago(SK) =ERG   doler -IMPF
+\ps n.            =clit. v.    -suf.
+
+\ft me dolía mi barriga
+\ELANBegin 375.550
+\ELANEnd 376.560
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 375.550 376.560
+
+\ref 160
+\trs nahbá taitai iki neno taitai iki
+\tx nahbá    taitai  iki           neno      taitai  iki
+\mb nahbá    taitai  ik      -i    neno      taitai ik       -i
+\gn estómago doler   copula  -IMPF aquí(SK) doler   copula  -SUJ>S:SIM
+\ps n.        v.      v.intr. -suf. adv.      v.      v.intr. -suf.
+
+\ft me dolía la barriga, acá me dolía
+\ELANBegin 377.540
+\ELANEnd 380.080
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 377.540 380.080
+
+\ref 161
+\trs piyamai piyamai ika
+\tx piyamai                     piyamai
+\mb pi      -yama    -i         pi      -yama    -i
+\gn comer   -NEG(SK) -SUJ>S:SIM comer   -NEG(SK) -IMPF
+\ps v.tran. -suf.    -suf.      v.tran. -suf.    -suf.
+
+\tx ika
+\mb ik      -a
+\gn copula  -PERF
+\ps v.intr. -suf.
+
+\ft no comía, no comía
+\ELANBegin 381.480
+\ELANEnd 383.920
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 381.480 383.920
+
+\ref 162
+\trs yoa piyamai
+\tx yoa            piyamai
+\mb yoa            pi      -yama    -i
+\gn comida.vegetal comer   -NEG(SK) -IMPF
+\ps n.             v.tran. -suf.    -suf.
+
+\ft no comía alimento
+\ELANBegin 384.625
+\ELANEnd 385.525
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 384.625 385.525
+
+\ref 163
+\trs oshishokoka
+\tx oshishokoka
+\mb oshi      =shoko   =ka
+\gn flaco(SK) =DIM(SK) =NAR
+\ps adj.      =clit.   =clit.
+
+\ft estaba flaquita
+\ELANBegin 389.120
+\ELANEnd 389.980
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 389.120 389.980
+
+\ref 164
+\trs imatahako ea
+\tx imatahako   ea
+\mb imata -hoko ea
+\gn flaco -DIM  1SG.ABS(SK)
+\ps adj.  -suf  pron.
+
+\ft yo estaba flaquita
+\ELANBegin 390.295
+\ELANEnd 391.515
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 390.295 391.515
+
+\ref 165
+\trs imatahako
+\tx imatahako
+\mb imata -hoko
+\gn flaco -DIM
+\ps adj.  -suf
+
+\ft flaquita
+\ELANBegin 391.800
+\ELANEnd 392.710
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 391.800 392.710
+
+\ref 166
+\trs ainoa [ininteligible]  oa papakiri mera
+\tx ainoa  oa   papakiri                   mera            
+\mb ainoa  oa   papakiri                   mera      -a    
+\gn ahí:P ese  nombre.misionero.americano encontrar -PERF 
+\ps adv.   dem. n.                         v.tran    -suf.
+
+\ft en ese sitio ese gringo nos encontró
+\ELANBegin 396.410
+\ELANEnd 401.010
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 396.410 401.010
+
+\ref 167
+\trs nati onihoko oa iki
+\tx nati  onihoko       oa   iki
+\mb nati  oni     -hoko oa   ik      -i
+\gn pocos persona -DIM  ese  copula  -IMPF
+\ps adj.  n.      -suf  dem. v.intr. -suf.
+
+\ft unos pocos hombres vinieron
+\ELANBegin 403.735
+\ELANEnd 406.230
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 403.735 406.230
+
+\ref 168
+\trs aokeah pashin nawá mahkake
+\tx aokeah  pashin       nawá mahkake
+\mb aokeah  pashin nawá       mahka  -ke
+\gn de.ahí nombre.propio      muerto -PERF(SK)
+\ps conec.  n.                 adj.   -suf.
+
+\ft por allá murió Pashi Nawá
+\ELANBegin 407.210
+\ELANEnd 409.710
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 407.210 409.710
+
+\ref 169
+\trs nokon papa mahkake
+\tx nokon       papa      mahkake
+\mb nokon       papa      mahka  -ke
+\gn 1SG.GEN(SK) papá(SK) muerto -PERF(SK)
+\ps pron        n.        adj.   -suf.
+
+\ft por allá murió mi papá
+\ELANBegin 410.845
+\ELANEnd 412.235
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 410.845 412.235
+
+\ref 170
+\trs nokon poi iki
+\tx nokon       poi                         iki
+\mb nokon       poi                         ik      -i
+\gn 1SG.GEN(SK) hermano.de.sexo.opuesto(SK) copula  -IMPF
+\ps pron        n.                          v.intr. -suf.
+
+\ft mi hermano estaba
+\ELANBegin 413.595
+\ELANEnd 414.675
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 413.595 414.675
+
+\ref 171
+\trs nokon bene wayon
+\tx nokon       bene   wayon
+\mb nokon       bene   wayon
+\gn 1SG.GEN(SK) esposo finado
+\ps pron        n.     adj.
+
+\ft mi esposo muerto
+\ELANBegin 417.345
+\ELANEnd 418.250
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 417.345 418.250
+
+\ref 172
+\trs mere keta
+\tx mere keta
+\mb mere keta
+\gn nombre.propio
+\ps n.
+
+\ft Mereketa
+\ELANBegin 418.480
+\ELANEnd 419.240
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 418.480 419.240
+
+\ref 173
+\trs chachi bai iki
+\tx chachi bai    iki
+\mb chachi bai    ik      -i
+\gn nombre.propio copula  -IMPF
+\ps n.            v.intr. -suf.
+
+\ft era Chachi bain
+\ELANBegin 420.190
+\ELANEnd 421.450
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 420.190 421.450
+
+\ref 174
+\trs shia iki
+\tx shia          iki
+\mb shia          ik      -i
+\gn nombre.propio copula  -IMPF
+\ps n.            v.intr. -suf.
+
+\ft era Shia
+\ELANBegin 423.730
+\ELANEnd 424.560
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 423.730 424.560
+
+\ref 175
+\trs tamo nawa iki
+\tx tamo    nawa  iki
+\mb tamo nawa     ik      -i
+\gn nombre.propio copula  -IMPF
+\ps n.            v.intr. -suf.
+
+\ft era Tamo Nawa
+\ELANBegin 427.560
+\ELANEnd 428.180
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 427.560 428.180
+
+\ref 176
+\trs sai nawa sai nawa iki
+\tx sai nawa      sai nawa      iki
+\mb sai nawa      sai nawa      ik      -i
+\gn nombre.propio nombre.propio copula  -IMPF
+\ps n.            n.            v.intr. -suf.
+
+\ft era Sainawa Sainawa
+\ELANBegin 429.390
+\ELANEnd 430.810
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 429.390 430.810
+
+\ref 177
+\trs aokamea mawa iki
+\tx aokamea mawa       iki
+\mb aokamea mawa       ik      -i
+\gn de.ahí muerto(SK) copula  -IMPF
+\ps conec.  adj.       v.intr. -suf.
+
+\ft de ahí se murió.
+\ELANBegin 430.840
+\ELANEnd 431.870
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 430.840 431.870
+
+\ref 178
+\trs aokamea mawata iki
+\tx aokamea mawata           iki
+\mb aokamea mawat     -a     ik      -i
+\gn de.ahí morir(SK) -NOMLZ copula  -IMPF
+\ps conec.  v.        -suf.  v.intr. -suf.
+
+\ft se murió ahogado
+\ELANBegin 434.490
+\ELANEnd 435.500
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 434.490 435.500
+
+\ref 179
+\trs mawatama mahka
+\tx mawatama               mahka
+\mb mawat     -a    =ma    mahka
+\gn morir(SK) -PERF =NEG   muerto
+\ps v.        -suf. =clit. adj.
+
+\ft no "mawata" (morir), sino "mahka" (morir)
+\ELANBegin 436.230
+\ELANEnd 437.740
+\ELANParticipant Isabel
+\sound JC-vida.Juanita-2013.wav 436.230 437.740
+
+\ref 180
+\trs mahka
+\tx mahka
+\mb mahka
+\gn muerto
+\ps adj.
+
+\ft morir
+\ELANBegin 437.285
+\ELANEnd 438.020
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 437.285 438.020
+
+\ref 181
+\trs merake
+\tx merake
+\mb mera      -ke
+\gn encontrar -PERF(SK)
+\ps v.tran    -suf.
+
+\ft encontró
+\ELANBegin 441.140
+\ELANEnd 441.980
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 441.140 441.980
+
+\ref 182
+\trs ka min rais mawa min raisra mawake reokoke
+\tx ka     min         rais  mawa       min
+\mb =ka    mi   =n     rais  mawa       mi   =n
+\gn =NAR   2SG  =GEN   yerno muerto(SK) 2SG  =GEN
+\ps =clit. pron =clit. n.    adj.       pron =clit.
+
+\tx raisra           mawake               reokoke
+\mb rais  =ra        mawa       -ke       reoko         -ke
+\gn yerno =EVID1(SK) muerto(SK) -PERF(SK) voltear.canoa -PERF(SK)
+\ps n.    =clit.     adj.       -suf.     v.            -suf.
+
+\ft tu yerno murió, volteado tu yerno
+\ELANBegin 443.130
+\ELANEnd 447.010
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 443.130 447.010
+
+\ref 183
+\trs tamo wayon
+\tx tamo          wayon
+\mb tamo nawa     wayon
+\gn nombre.propio finado
+\ps n.            adj.
+
+\ft Tamo [está] muerto
+\ELANBegin 447.590
+\ELANEnd 449.430
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 447.590 449.430
+
+\ref 184
+\trs min rais rama mahkake
+\tx min         rais  rama            mahkake
+\mb mi   =n     rais  rama            mahka  -ke
+\gn 2SG  =GEN   yerno actualmente(SK) muerto -PERF(SK)
+\ps pron =clit. n.    adv.            adj.   -suf.
+
+\ft tu yerno ya murió
+\ELANBegin 450.200
+\ELANEnd 452.070
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 450.200 452.070
+
+\ref 185
+\trs aokameta ariki
+\tx aokameta       a   riki
+\mb aokamet  -a    a   riki
+\gn ahogarse -PERF ese COP(SK)
+\ps v.       -suf. dem part.
+
+\ft se ahogó
+\ELANBegin 452.420
+\ELANEnd 453.540
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 452.420 453.540
+
+\ref 186
+\trs ene mena reokoa aokameta riki a
+\tx ene      mena  reokoa              aokameta        riki    a
+\mb ene      mená reoko         -a    aokamet  -a     riki    a
+\gn líquido LOC   voltear.canoa -PERF ahogarse -NOMLZ COP(SK) ese
+\ps n.       pos.  v.            -suf. v.       -suf.  part.   dem
+
+\ft se volteó adentro del agua, se ahogó
+\ELANBegin 453.775
+\ELANEnd 455.920
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 453.775 455.920
+
+\ref 187
+\trs an an neska neskatiki neska neska
+\tx an    an    neska neskatiki           neska neska
+\mb an    an    neska neska -ti    =ki    neska neska
+\gn 3SG:A 3SG:A así  así  -NOMLZ =CON   así  así
+\ps pron. pron. adv.  adv.  -suf.  =clit. adv.  adv.
+
+\ft pidió auxilio así, así, con las manos, con las manos
+\ELANBegin 459.630
+\ELANEnd 462.600
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 459.630 462.600
+
+\ref 188
+\trs tamonki bi kai motoro pishawe
+\tx tamonki                     bi
+\mb tamo nawa     =n     =ki    bi      -i
+\gn nombre.propio =ERG   =CON   agarrar -SUJ>S:SIM
+\ps n.            =clit. =clit. v.      -suf.
+
+\tx kai          motoro      pishawe
+\mb ka     -i    motoro      pisha    -we
+\gn ir     -IMPF motor(CAST) encender -IMP(SK)
+\ps v.intr -suf. n.          v.       -suf.
+
+\ft Tamo está yendo a salvar, arrancaba el motor
+\ELANBegin 465.060
+\ELANEnd 467.350
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 465.060 467.350
+
+\ref 189
+\trs pishabain bipai kai
+\tx pishabain            bipai         kai
+\mb pisha    -bain       bi      -pai  ka     -i
+\gn encender -yendo:TRAN agarrar -DES  ir     -IMPF
+\ps v.       -suf.       v.      -suf. v.intr -suf.
+
+\ft arrancaba yendo a coger
+\ELANBegin 468.080
+\ELANEnd 469.320
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 468.080 469.320
+
+\ref 190
+\trs awen awin ka awen awin kesoika ika hara
+\tx awen    awin   ka     awen    awin   keso
+\mb awen    awin   =ka    awen    awin   keso
+\gn 3SG:GEN esposa =NAR   3SG:GEN esposa canto.de.río
+\ps pron    n.     =clit. pron    n.     post.
+
+\tx ika           ika            hara
+\mb ik      -a    ik      -a     ha      =ra
+\gn copula  -PERF copula  -NOMLZ 3SG(SK) =EVID1(SK)
+\ps v.intr. -suf. v.intr. -suf.  pron    =clit.
+
+\ft cuando su mujer, su mujer llegó a la orilla
+\ELANBegin 473.140
+\ELANEnd 475.610
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 473.140 475.610
+
+\ref 191
+\trs koronia ainoah mahka iki
+\tx koronia             ainoah                 mahka
+\mb koronia             ain       =no    =ah   mahka
+\gn Colonia (CAST > SK) ahí(MIX) =LOC   =S    muerto
+\ps n.                  adv.      =clit. =suf. adj.
+
+\tx iki
+\mb ik      -i
+\gn copula  -IMPF
+\ps v.intr. -suf.
+
+\ft murió en la colonia
+\ELANBegin 476.350
+\ELANEnd 477.740
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 476.350 477.740
+
+\ref 192
+\trs eah nokon poioma naneoma iki a
+\tx eah   nokon
+\mb eah   nokon
+\gn 1SG:S 1SG.GEN(SK)
+\ps pron. pron
+
+\tx poioma
+\mb poi                         =oma
+\gn hermano.de.sexo.opuesto(SK) =PROP.NEG
+\ps n.                          =clit.
+
+\tx naneoma                        iki           a
+\mb nane                 =oma      ik      -i    a
+\gn hermano.sexo.opuesto =PROP.NEG copula  -IMPF ese
+\ps n.                   =clit.    v.intr. -suf. dem
+
+\ft yo no tengo hermano
+\ELANBegin 486.170
+\ELANEnd 488.880
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 486.170 488.880
+
+\ref 193
+\trs nokon naneyama iki nokon
+\tx nokon       naneyama                      iki
+\mb nokon       nane                 -yama    ik -i
+\gn 1SG.GEN(SK) hermano.sexo.opuesto -NEG(SK)
+\ps pron        n.                   -suf.
+
+\tx nokon
+\mb nokon
+\gn 1SG.GEN(SK)
+\ps pron
+
+\ft sin mi hermano
+\ELANBegin 489.060
+\ELANEnd 491.030
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 489.060 491.030
+
+\ref 194
+\trs poi iki nokon nane
+\tx poi                         iki           nokon
+\mb poi                         ik      -i    nokon
+\gn hermano.de.sexo.opuesto(SK) copula  -IMPF 1SG.GEN(SK)
+\ps n.                          v.intr. -suf. pron
+
+\tx nane
+\mb nane
+\gn hermano.sexo.opuesto
+\ps n.
+
+\ft mi hermano
+\ELANBegin 491.720
+\ELANEnd 493.040
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 491.720 493.040
+
+\ref 195
+\trs eah naneoma iki
+\tx eah   naneoma                        iki
+\mb eah   nane                 =oma      ik      -i
+\gn 1SG:S hermano.sexo.opuesto =PROP.NEG copula  -IMPF
+\ps pron. n.                   =clit.    v.intr. -suf.
+
+\ft sin hermano
+\ELANBegin 494.265
+\ELANEnd 495.085
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 494.265 495.085
+
+\ref 196
+\trs nokon wetsabobiyama
+\tx nokon       wetsabobiyama
+\mb nokon       wetsa       =bo   =bi    -yama
+\gn 1SG.GEN(SK) hermano(SK) =PLU  =ENF   -NEG(SK)
+\ps pron        adj.        =clit =clit. -suf.
+
+\ft sin mi hermana
+\ELANBegin 498.800
+\ELANEnd 500.040
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 498.800 500.040
+
+\ref 197
+\trs nokon kayabo ka yama
+\tx nokon       kayabo       ka     yama
+\mb nokon       kayabo       =ka    yama
+\gn 1SG.GEN(SK) pariente(SK) =NAR   NEG
+\ps pron        n.           =clit. adv
+
+\ft mis parientes ya no viven
+\ELANBegin 501.240
+\ELANEnd 502.330
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 501.240 502.330
+
+\ref 198
+\trs kiota
+\tx kiota
+\mb kiot     -a
+\gn acabarse -PERF
+\ps v.       -suf.
+
+\ft nada
+\ELANBegin 503.010
+\ELANEnd 503.700
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 503.010 503.700
+
+\ref 199
+\trs nokon  ewa mawake
+\tx nokon       ewa   mawake
+\mb nokon       ewa   mawa       -ke
+\gn 1SG.GEN(SK) madre muerto(SK) -PERF(SK)
+\ps pron        n.    adj.       -suf.
+
+\ft mi mamá murió
+\ELANBegin 505.060
+\ELANEnd 506.310
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 505.060 506.310
+
+\ref 200
+\trs hawe máski mi shinanai yoita
+\tx hawe      máski            mi    shinanai         yoita
+\mb hawe      más       =ki    mi    shinan -ai       yoi     -ta
+\gn cuál(SK) más(CAST) =INT   2SG:A pensar -IMPF(SK) contar  -IMP.FAM
+\ps pal.int.  adv        =clit. pron. v.     -suf.     v.tran. -suf.
+
+\ft ¿qué más puedes recordar?
+\ELANBegin 531.050
+\ELANEnd 533.360
+\ELANParticipant Willian
+\sound JC-vida.Juanita-2013.wav 531.050 533.360
+
+\ref 201
+\trs Haki mi más shinanai meskobo
+\tx Haki           mi    más       shinanai
+\mb ha      =ki    mi    más       shinan -ai
+\gn ese(SK) =INT   2SG:A más(CAST) pensar -IMPF(SK)
+\ps dem     =clit. pron. adv        v.     -suf.
+
+\tx meskobo
+\mb mesko        =bo
+\gn mezclado(SK) =PLU
+\ps adj.         =clit
+
+\ft ¿qué otras más cosas recuerdas?
+\ELANBegin 536.440
+\ELANEnd 538.640
+\ELANParticipant Willian
+\sound JC-vida.Juanita-2013.wav 536.440 538.640
+
+\ref 202
+\trs qué cosa es ewa
+\tx qué cosa es ewa
+\ft ¿qué cosa es "ewa"?
+\ELANBegin 538.645
+\ELANEnd 539.950
+\ELANParticipant Roberto
+\sound JC-vida.Juanita-2013.wav 538.645 539.950
+
+\ref 203
+\trs ewa es mamá
+\tx ewa es mamá
+\ft "ewa" es "mamá"
+\ELANBegin 540.310
+\ELANEnd 541.550
+\ELANParticipant Isabel
+\sound JC-vida.Juanita-2013.wav 540.310 541.550
+
+\ref 204
+\trs mamá no
+\tx mamá no
+\ft mamá, ¿no?
+\ELANBegin 541.445
+\ELANEnd 542.310
+\ELANParticipant Roberto
+\sound JC-vida.Juanita-2013.wav 541.445 542.310
+
+\ref 205
+\trs ewa
+\tx ewa
+\ft mamá
+\ELANBegin 542.150
+\ELANEnd 542.810
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 542.150 542.810
+
+\ref 206
+\trs ewa
+\tx ewa
+\ft mamá
+\ELANBegin 542.680
+\ELANEnd 543.480
+\ELANParticipant Roberto
+\sound JC-vida.Juanita-2013.wav 542.680 543.480
+
+\ref 207
+\trs ella no tiene ewa
+\tx ella no tiene ewa
+\ft ella no tiene"ewa" (mamá)
+\ELANBegin 543.345
+\ELANEnd 544.650
+\ELANParticipant Isabel
+\sound JC-vida.Juanita-2013.wav 543.345 544.650
+
+\ref 208
+\trs ha muerto su mamá
+\tx ha muerto su mamá
+\ft ha muerto su mamá
+\ELANBegin 545.350
+\ELANEnd 546.420
+\ELANParticipant Isabel
+\sound JC-vida.Juanita-2013.wav 545.350 546.420
+
+\ref 209
+\trs epa
+\tx epa
+\ft papá
+\ELANBegin 546.820
+\ELANEnd 547.340
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 546.820 547.340
+
+\ref 210
+\trs hermano dice
+\tx hermano dice
+\ft hermano dice
+\ELANBegin 547.170
+\ELANEnd 547.800
+\ELANParticipant Isabel
+\sound JC-vida.Juanita-2013.wav 547.170 547.800
+
+\ref 211
+\trs epa
+\tx epa
+\ft papá
+\ELANBegin 547.815
+\ELANEnd 548.295
+\ELANParticipant Roberto
+\sound JC-vida.Juanita-2013.wav 547.815 548.295
+
+\ref 212
+\trs epa
+\tx epa
+\ft papá
+\ELANBegin 548.340
+\ELANEnd 548.980
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 548.340 548.980
+
+\ref 213
+\trs papá
+\tx papá
+\ft papá
+\ELANBegin 549.025
+\ELANEnd 549.650
+\ELANParticipant Roberto
+\sound JC-vida.Juanita-2013.wav 549.025 549.650
+
+\ref 214
+\trs epa
+\tx epa
+\ft papá
+\ELANBegin 551.210
+\ELANEnd 552.020
+\ELANParticipant Roberto
+\sound JC-vida.Juanita-2013.wav 551.210 552.020
+
+\ref 215
+\trs haskara
+\tx haskara
+\mb haska    =ra
+\gn así(SK) =EVID1(SK)
+\ps adv.     =clit.
+
+\ft entonces
+\ELANBegin 554.330
+\ELANEnd 554.950
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 554.330 554.950
+
+\ref 216
+\trs micha bake
+\tx micha bake
+\mb micha bake
+\gn hijo.casado
+\ps n.
+
+\ft mi hijo casado
+\ELANBegin 557.020
+\ELANEnd 557.770
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 557.020 557.770
+
+\ref 217
+\trs micha bake
+\tx micha bake
+\mb micha bake
+\gn hijo.casado
+\ps n.
+
+\ft mi hijo casado
+\ELANBegin 560.940
+\ELANEnd 561.750
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 560.940 561.750
+
+\ref 218
+\trs micha bake
+\tx micha bake
+\mb micha bake
+\gn hijo.casado
+\ps n.
+
+\ft mi hijo casado
+\ELANBegin 562.270
+\ELANEnd 562.970
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 562.270 562.970
+
+\ref 219
+\trs natoka
+\tx natoka
+\mb nato     =ka
+\gn este(SK) =NAR
+\ps dem.     =clit.
+
+\ft este
+\ELANBegin 563.235
+\ELANEnd 563.930
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 563.235 563.930
+
+\ref 220
+\trs micha ibo
+\tx micha ibo
+\mb micha ibo
+\gn hija.casada
+\ps n.
+
+\ft mi hija casada
+\ELANBegin 564.355
+\ELANEnd 565.340
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 564.355 565.340
+
+\ref 221
+\trs micha ibo
+\tx micha ibo
+\mb micha ibo
+\gn hija.casada
+\ps n.
+
+\ft primera hija(casada)
+\ELANBegin 565.665
+\ELANEnd 566.465
+\ELANParticipant Roberto
+\sound JC-vida.Juanita-2013.wav 565.665 566.465
+
+\ref 222
+\trs micha ibo
+\tx micha ibo
+\mb micha ibo
+\gn hija.casada
+\ps n.
+
+\ft mi hija casada
+\ELANBegin 566.490
+\ELANEnd 567.150
+\ELANParticipant Juanita
+\sound JC-vida.Juanita-2013.wav 566.490 567.150
+
+
+\ELANMediaURL file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC-vida.Juanita-2013.mpg
+\ELANMediaMIME video/mpeg
+\ELANMediaURL file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC-vida.Juanita-2013.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaExtracted file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC-vida.Juanita-2013.mpg

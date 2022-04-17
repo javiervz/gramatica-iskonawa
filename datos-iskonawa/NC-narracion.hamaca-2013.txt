@@ -1,0 +1,704 @@
+\_sh v3.0  400  text
+
+\ref 001
+\ELANBegin 0.780
+\ELANEnd 6.300
+\ELANParticipant Jaime
+\trs entonces Nelita nos va a contar cómo ha hecho una hamaca muy 
+bonita de algodón
+\tx entonces Nelita nos va a contar cómo ha hecho una hamaca muy 
+bonita de algodón
+\ft entonces Nelita nos va a contar cómo ha hecho una hamaca muy 
+bonita de algodón
+\sound NC-narracion.hamaca-2013.wav 0.780 6.300
+
+\ref 002
+\ELANBegin 7.950
+\ELANEnd 9.750
+\ELANParticipant Jaime
+\trs en iskonawa nos va a contar
+\tx en iskonawa nos va a contar
+\ft en iskonawa nos va a contar
+\sound NC-narracion.hamaca-2013.wav 7.950 9.750
+
+\ref 003
+\ELANBegin 10.560
+\ELANEnd 13.360
+\ELANParticipant Nelita
+\trs enra ain enra ashina
+\tx enra                 ain           enra                 ashina
+\mb en        =ra        ain           en        =ra        ak      -shina
+\gn 1SG:A(SK) =EVID1(SK) entonces(MIX) 1SG:A(SK) =EVID1(SK) hacer   -PAS.una.semana
+\ps pron      =clit.     conec.        pron      =clit.     v.tran. -suf.
+
+\ft yo (la) hice semana pasada
+\sound NC-narracion.hamaca-2013.wav 10.560 13.360
+
+\ref 004
+\ELANBegin 13.800
+\ELANEnd 15.070
+\ELANParticipant Nelita
+\trs en ashina
+\tx en        ashina
+\mb en        ak      -shina
+\gn 1SG:A(SK) hacer   -PAS.una.semana
+\ps pron      v.tran. -suf.
+
+\ft yo (la) hice la semana pasada
+\sound NC-narracion.hamaca-2013.wav 13.800 15.070
+
+\ref 005
+\ELANBegin 15.340
+\ELANEnd 16.650
+\ELANParticipant Nelita
+\trs rakati akin
+\tx rakati akin
+\mb rakati ak      -kin
+\gn hamaca hacer   -SUJ>A:SIM
+\ps n.     v.tran. -suf.
+
+\ft haciendo la hamaca
+\sound NC-narracion.hamaca-2013.wav 15.340 16.650
+
+\ref 006
+\ELANBegin 17.000
+\ELANEnd 19.060
+\ELANParticipant Nelita
+\trs aon rakati aon rakati
+\tx aon      rakati aon      rakati
+\mb aon      rakati aon      rakati
+\gn algodón hamaca algodón hamaca
+\ps n.       n.     n.       n.
+
+\ft hamaca de algodón, hamaca de algodón
+\sound NC-narracion.hamaca-2013.wav 17.000 19.060
+
+\ref 007
+\ELANBegin 19.530
+\ELANEnd 23.490
+\ELANParticipant Nelita
+\trs en bana banahon wai mahkata tsekake
+\tx en        bana    banahon            wai
+\mb en        bana    bana    -hon       wai
+\gn 1SG:A(SK) sembrar sembrar -SUJ>A:SIM chacra
+\ps pron      v.tran  v.tran  -suf.      n.
+
+\tx mahkata tsekake
+\mb mahkata tseka    -ke
+\gn LOC     cosechar -PERF(SK)
+\ps post.   v.tran   -suf.
+
+\ft después de sembrar en la chacra he cosechado (el algodón)
+\sound NC-narracion.hamaca-2013.wav 19.530 23.490
+
+\ref 008
+\ELANBegin 23.890
+\ELANEnd 25.460
+\ELANParticipant Nelita
+\trs tsekahon beke
+\tx tsekahon            beke
+\mb tseka    -hon       be     -ke
+\gn cosechar -SUJ>A:SIM traer  -PERF(SK)
+\ps v.tran   -suf.      v.tran -suf.
+
+\ft después de cosechar traje
+\sound NC-narracion.hamaca-2013.wav 23.890 25.460
+
+\ref 009
+\ELANBegin 25.890
+\ELANEnd 27.450
+\ELANParticipant Nelita
+\trs behon hontahke
+\tx behon             hontahke
+\mb be     -hon       hontah   -ke
+\gn traer  -SUJ>A:SIM despepar -PERF(SK)
+\ps v.tran -suf.      v.tran   -suf.
+
+\ft después de traer saqué las semillas
+\sound NC-narracion.hamaca-2013.wav 25.890 27.450
+
+\ref 010
+\ELANBegin 28.910
+\ELANEnd 31.400
+\ELANParticipant Nelita
+\trs nato awen ehebo tsekake
+\tx nato     awen    ehebo         tsekake
+\mb nato     awen    ehe     =bo   tseka    -ke
+\gn este(SK) 3SG:GEN semilla =PLU  arrancar -PERF(SK)
+\ps dem.     pron    n.      =clit v.tran   -suf.
+
+\ft (le) saqué estas (que son) sus semillas
+\sound NC-narracion.hamaca-2013.wav 28.910 31.400
+
+\ref 011
+\ELANBegin 31.520
+\ELANEnd 33.650
+\ELANParticipant Nelita
+\trs askahon en toro ake
+\tx askahon         en        toro ake
+\mb aska -hon       en        toro ak      -ke
+\gn así -SUJ>A:SIM 1SG:A(SK) huso hacer   -PERF(SK)
+\ps adv. -suf.      pron      n.   v.tran. -suf.
+
+\ft después (de hacer) así yo hilé
+\sound NC-narracion.hamaca-2013.wav 31.520 33.650
+
+\ref 012
+\ELANBegin 35.070
+\ELANEnd 37.030
+\ELANParticipant Nelita
+\trs toroahon en meweke
+\tx toroahon en meweke
+\ft después de hilar yo ovillé (el algodón)
+\sound NC-narracion.hamaca-2013.wav 35.070 37.030
+
+\ref 013
+\ELANBegin 37.500
+\ELANEnd 39.100
+\ELANParticipant Nelita
+\trs en mayake
+\tx en        mayake
+\mb en        maya    -ke
+\gn 1SG:A(SK) trenzar -PERF(SK)
+\ps pron      v.      -suf.
+
+\ft y lo trencé
+\sound NC-narracion.hamaca-2013.wav 37.500 39.100
+
+\ref 014
+\ELANBegin 39.670
+\ELANEnd 42.630
+\ELANParticipant Nelita
+\trs ara emenkiri aibake ea tsoan akinyama
+\tx ara            emenkiri aibake                                ea          tsoan         akinyama
+\mb a   =ra        emenkiri ak      -iba                -ke       ea          tsoa   =n     ak      -kin  -yama    -a
+\gn ese =EVID1(SK) yo.solo  hacer   -PAS.una.semana(SK) -PERF(SK) 1SG.ABS(SK) quién =ERG   hacer   -ASOC -NEG(SK) -PERF
+\ps dem =clit.     pron.    v.tran. -suf.               -suf.     pron.       pron.  =clit. v.tran. -suf. -suf.    -suf.
+
+\ft yo lo hice solita (hace días), lo hice sin nadie
+\sound NC-narracion.hamaca-2013.wav 39.670 42.630
+
+\ref 015
+\ELANBegin 43.010
+\ELANEnd 44.430
+\ELANParticipant Nelita
+\trs emenkiri aibake
+\tx emenkiri aibake
+\mb emenkiri ak      -iba                -ke
+\gn yo.solo  hacer   -PAS.una.semana(SK) -PERF(SK)
+\ps pron.    v.tran. -suf.               -suf.
+
+\ft lo hice solita
+\sound NC-narracion.hamaca-2013.wav 43.010 44.430
+
+\ref 016
+\ELANBegin 45.000
+\ELANEnd 47.360
+\ELANParticipant Nelita
+\trs emenkiri a rakati aibake
+\tx emenkiri a   rakati
+\mb emenkiri a   rakati
+\gn yo.solo  ese hamaca
+\ps pron.    dem n.
+
+\tx aibake
+\mb ak      -iba                -ke
+\gn hacer   -PAS.una.semana(SK) -PERF(SK)
+\ps v.tran. -suf.               -suf.
+
+\ft solita hice esa hamaca
+\sound NC-narracion.hamaca-2013.wav 45.000 47.360
+
+\ref 017
+\ELANBegin 48.070
+\ELANEnd 55.330
+\ELANParticipant Nelita
+\trs a tanakin en aka micha micha michabira micha biratiki ihon ikabi 
+iro iro pikoke
+\tx a   tanakin           en        aka
+\mb a   tana   -kin       en        ak      -a
+\gn ese probar -SUJ>A:SIM 1SG:A(SK) hacer   -PERF
+\ps dem v.     -suf.      pron      v.tran. -suf.
+
+\tx micha micha michabira    micha
+\mb micha micha micha =bira  micha
+\gn feo   feo   feo   =mismo feo
+\ps adj.  adj.  adj.  =clit. adj.
+
+\tx biratiki                  ihon
+\mb bi      =ra        =tiki  ik      -hon
+\gn v.tran. =EVID1(SK) =COND  ser     -SUJ>A:SIM
+\ps v.      =clit.     =clit. v.intr. -suf.
+
+\tx ikabi                 iro   iro   pikoke
+\mb ik      -a     =bi    iro   iro   piko    -ke
+\gn ser     -NOMLZ =ENF   bueno bueno salir   -PERF(SK)
+\ps v.intr. -suf.  =clit. adj.  adj.  v.intr. -suf.
+
+\ft eso yo lo he probado, aunque la hice pensando que iba a estar mal, 
+salió buena.
+\sound NC-narracion.hamaca-2013.wav 48.070 55.330
+
+\ref 018
+\ELANBegin 56.130
+\ELANEnd 57.300
+\ELANParticipant Nelita
+\trs rakati
+\tx rakati
+\mb rakati
+\gn hamaca
+\ps n.
+
+\ft la hamaca
+\sound NC-narracion.hamaca-2013.wav 56.130 57.300
+
+\ref 019
+\ELANBegin 58.470
+\ELANEnd 60.140
+\ELANParticipant Nelita
+\trs aka ea ohapaoni
+\tx aka            ea          ohapaoni
+\mb ak      -a     ea          oha    -paoni
+\gn hacer   -NOMLZ 1SG.ABS(SK) dormir -PAS.REM:IMPF
+\ps v.tran. -suf.  pron.       v.     -suf.
+
+\ft en ese (tipo de hamaca), dormía hace mucho tiempo
+\sound NC-narracion.hamaca-2013.wav 58.470 60.140
+
+\ref 020
+\ELANBegin 63.720
+\ELANEnd 66.530
+\ELANParticipant Nelita
+\trs ea askarabo a riki non
+\tx ea          askarabo              a   riki
+\mb ea          aska =ra        =bo   a   riki
+\gn 1SG.ABS(SK) así =EVID1(SK) =PLU  ese COP(SK)
+\ps pron.       adv. =clit.     =clit dem part.
+
+\tx non
+\mb no   =n
+\gn 1PL  =ERG
+\ps pron =clit.
+
+\ft yo era como esos, eso era nuestra...
+\sound NC-narracion.hamaca-2013.wav 63.720 66.530
+
+\ref 021
+\ELANBegin 67.240
+\ELANEnd 68.980
+\ELANParticipant Nelita
+\trs non axebiribi
+\tx non         axebiribi
+\mb no   =n     axe       =bi    =ribi
+\gn 1PL  =GEN   costumbre =ENF   =también
+\ps pron =clit. n.        =clit. =clit.
+
+\ft nuestra costumbre
+\sound NC-narracion.hamaca-2013.wav 67.240 68.980
+
+\ref 022
+\ELANBegin 69.360
+\ELANEnd 71.780
+\ELANParticipant Nelita
+\trs noa ohapaoni rakati aka
+\tx noa   ohapaoni             rakati aka
+\mb noa   oha    -paoni        rakati ak      -a
+\gn 1PL.P dormir -PAS.REM:IMPF hamaca hacer   -PERF
+\ps pron. v.     -suf.         n.     v.tran. -suf.
+
+\ft nosotros dormíamos, hacíamos hamacas
+\sound NC-narracion.hamaca-2013.wav 69.360 71.780
+
+\ref 023
+\ELANBegin 72.790
+\ELANEnd 74.530
+\ELANParticipant Nelita
+\trs wai mahkata banai
+\tx wai    mahkata banai
+\mb wai    mahkata bana    -i
+\gn chacra LOC     sembrar -IMPF
+\ps n.     post.   v.tran  -suf.
+
+\ft sembrábamos en la chacra
+\sound NC-narracion.hamaca-2013.wav 72.790 74.530
+
+\ref 024
+\ELANBegin 75.170
+\ELANEnd 79.080
+\ELANParticipant Nelita
+\trs bana ohosboketian non ohosboketian tsekai
+\tx bana    ohosboketian                   non         ohosboketian                   tsekai
+\mb bana    ohos    -bo   -ketian          no   =n     ohos    -bo   -ketian          tseka    -i
+\gn sembrar brotar  -PLU  -SUJ.DIF:SIM(SK) 1PL  =A     brotar  -PLU  -SUJ.DIF:SIM(SK) cosechar -IMPF
+\ps v.tran  v.intr. -suf. -suf             pron =clit. v.intr. -suf. -suf             v.tran   -suf.
+
+\ft cuando los cultivos (de algodón) se ponían bien blancos, 
+cosechábamos
+\sound NC-narracion.hamaca-2013.wav 75.170 79.080
+
+\ref 025
+\ELANBegin 79.690
+\ELANEnd 81.370
+\ELANParticipant Nelita
+\trs tsekahon non hontahi
+\tx tsekahon            non         hontahi
+\mb tseka    -hon       no   =n     hontah   -i
+\gn arrancar -SUJ>A:SIM 1PL  =A     despepar -IMPF
+\ps v.tran   -suf.      pron =clit. v.tran   -suf.
+
+\ft después de cosechar nosotros sacamos la semilla
+\sound NC-narracion.hamaca-2013.wav 79.690 81.370
+
+\ref 026
+\ELANBegin 82.010
+\ELANEnd 83.440
+\ELANParticipant Nelita
+\trs toro akai
+\tx toro akai
+\mb toro ak      -ai
+\gn huso hacer   -IMPF(SK)
+\ps n.   v.tran. -suf.
+
+\ft hacíamos hilo
+\sound NC-narracion.hamaca-2013.wav 82.010 83.440
+
+\ref 027
+\ELANBegin 84.280
+\ELANEnd 86.180
+\ELANParticipant Nelita
+\trs toro ahon non mayai
+\tx toro ahon               non         mayai
+\mb toro ak      -hon       no   =n     maya    -i
+\gn huso hacer   -SUJ>A:SIM 1PL  =A     trenzar -IMPF
+\ps n.   v.tran. -suf.      pron =clit. v.      -suf.
+
+\ft después de hilar, nosotros trenzamos
+\sound NC-narracion.hamaca-2013.wav 84.280 86.180
+
+\ref 028
+\ELANBegin 86.770
+\ELANEnd 89.030
+\ELANParticipant Nelita
+\trs mewehon meweai
+\tx mewehon            meweai
+\mb mewe    -hon       mewe    -ai
+\gn ovillar -SUJ>A:SIM ovillar -IMPF(SK)
+\ps v.tran  -suf.      v.tran  -suf.
+
+\ft ovillando, hacíamos ovillos
+\sound NC-narracion.hamaca-2013.wav 86.770 89.030
+
+\ref 029
+\ELANBegin 89.780
+\ELANEnd 92.400
+\ELANParticipant Nelita
+\trs a mayahonka non mabain
+\tx a   mayahonka                 non         mabain
+\mb a   maya    -hon       =ka    no   =n     maban  -i
+\gn ese trenzar -SUJ>A:SIM =NAR   1PL  =A     tejer  -IMPF
+\ps dem v.      -suf.      =clit. pron =clit. v.tran -suf.
+
+\ft cuando trenzábamos nosotros tejíamos
+\sound NC-narracion.hamaca-2013.wav 89.780 92.400
+
+\ref 030
+\ELANBegin 93.340
+\ELANEnd 95.750
+\ELANParticipant Nelita
+\trs mabain hewai
+\tx mabain       hewai
+\mb maban  -i    hewai
+\gn tejer  -IMPF tensar.hilo
+\ps v.tran -suf. v.tran
+
+\ft tensábamos (el hilo) y tejíamos
+\nt no armonía transitiva
+\sound NC-narracion.hamaca-2013.wav 93.340 95.750
+
+\ref 031
+\ELANBegin 96.420
+\ELANEnd 98.670
+\ELANParticipant Nelita
+\trs mababain non hewai
+\tx mababain                      non         hewai
+\mb maban  -bain       -i         no   =n     hewai
+\gn tejer  -yendo:TRAN -SUJ>S:SIM 1PL  =A     tensar.hilo
+\ps v.tran -suf.       -suf.      pron =clit. v.tran
+
+\ft tensábamos (el hijo) y nosotros tejíamos
+\nt no armonía transitiva
+\sound NC-narracion.hamaca-2013.wav 96.420 98.670
+
+\ref 032
+\ELANBegin 99.890
+\ELANEnd 101.320
+\ELANParticipant Nelita
+\trs non hewai
+\tx non         hewai
+\mb no   =n     hewa        -i
+\gn 1PL  =A     tensar.hilo -IMPF
+\ps pron =clit. v.tran      -suf.
+
+\ft nosotros tejíamos
+\sound NC-narracion.hamaca-2013.wav 99.890 101.320
+
+\ref 033
+\ELANBegin 102.840
+\ELANEnd 106.480
+\ELANParticipant Nelita
+\trs hewahon emenkiribi en keyo keyoshina
+\tx hewahon                emenkiribi      en        keyo         keyoshina
+\mb hewa        -hon       emenkiri =bi    en        keyo         keyo         -shina
+\gn tensar.hilo -SUJ>A:SIM yo.solo  =ENF   1SG:A(SK) terminar(SK) terminar(SK) -PAS.una.semana
+\ps v.tran      -suf.      pron.    =clit. pron      v.tran.      v.tran.      -suf.
+
+\ft después de hilar, yo solita terminé (la hamaca)
+\sound NC-narracion.hamaca-2013.wav 102.840 106.480
+
+\ref 034
+\ELANBegin 107.370
+\ELANEnd 110.270
+\ELANParticipant Nelita
+\trs emenkiri emenkiribira en keioshinke
+\tx emenkiri emenkiribira    en
+\mb emenkiri emenkiri =bira  en
+\gn yo.solo  yo.solo  =mismo 1SG:A(SK)
+\ps pron.    pron.    =clit. pron
+
+\tx keyoshinke
+\mb keyo         -shin           -ke
+\gn terminar(SK) -PAS.una.semana -PERF(SK)
+\ps v.tran.      -suf.           -suf.
+
+\ft yo solita, aunque solita yo he terminado
+\sound NC-narracion.hamaca-2013.wav 107.370 110.270
+
+\ref 035
+\ELANBegin 111.480
+\ELANEnd 112.680
+\ELANParticipant Nelita
+\trs eso es todo
+\tx eso es todo
+\ft eso es todo
+\sound NC-narracion.hamaca-2013.wav 111.480 112.680
+
+\ref 036
+\ELANBegin 113.610
+\ELANEnd 118.420
+\ELANParticipant Jaime
+\trs gracias Nelita y nos puede traducir un poquito en español un 
+poquito nomas
+\tx gracias Nelita y nos puede traducir un poquito en español un 
+poquito nomas
+\ft gracias Nelita y nos puede traducir un poquito en español un 
+poquito nomas
+\sound NC-narracion.hamaca-2013.wav 113.610 118.420
+
+\ref 037
+\ELANBegin 119.920
+\ELANEnd 122.040
+\ELANParticipant Nelita
+\trs lo que puedo voy a contar
+\tx lo que puedo voy a contar
+\ft lo que puedo voy a contar
+\sound NC-narracion.hamaca-2013.wav 119.920 122.040
+
+\ref 038
+\ELANBegin 125.610
+\ELANEnd 127.730
+\ELANParticipant Nelita
+\trs yo he hecho mi hamaca
+\tx yo he hecho mi hamaca
+\ft yo he hecho mi hamaca
+\sound NC-narracion.hamaca-2013.wav 125.610 127.730
+
+\ref 039
+\ELANBegin 128.230
+\ELANEnd 131.980
+\ELANParticipant Nelita
+\trs yo he probado hamaca cómo estará cómo va a salir
+\tx yo he probado hamaca cómo estará cómo va a salir
+\ft yo he probado hamaca cómo estará cómo va a salir
+\sound NC-narracion.hamaca-2013.wav 128.230 131.980
+
+\ref 040
+\ELANBegin 132.920
+\ELANEnd 133.690
+\ELANParticipant Nelita
+\trs y yo
+\tx y yo
+\ft y yo
+\sound NC-narracion.hamaca-2013.wav 132.920 133.690
+
+\ref 041
+\ELANBegin 134.510
+\ELANEnd 135.800
+\ELANParticipant Nelita
+\trs me he ido a al chacra
+\tx me he ido a al chacra
+\ft me he ido a al chacra
+\sound NC-narracion.hamaca-2013.wav 134.510 135.800
+
+\ref 042
+\ELANBegin 136.285
+\ELANEnd 137.825
+\ELANParticipant Nelita
+\trs traído mi algodón
+\tx traído mi algodón
+\ft traído mi algodón
+\sound NC-narracion.hamaca-2013.wav 136.285 137.825
+
+\ref 043
+\ELANBegin 138.970
+\ELANEnd 145.400
+\ELANParticipant Nelita
+\trs después de estar alimentado qué lindo algodón voy a hacer mi hamaca
+\tx
+\ft 
+
+\tx después de estar alimentado qué lindo algodón voy a hacer mi hamaca
+\ft después de estar alimentado qué lindo algodón voy a hacer mi hamaca
+
+\sound NC-narracion.hamaca-2013.wav 138.970 145.400
+
+\ref 044
+\ELANBegin 146.060
+\ELANEnd 147.570
+\ELANParticipant Nelita
+\trs digo mi marido
+\tx digo mi marido
+\ft digo mi marido
+\sound NC-narracion.hamaca-2013.wav 146.060 147.570
+
+\ref 045
+\ELANBegin 148.020
+\ELANEnd 150.050
+\ELANParticipant Nelita
+\trs ¿sabe hamaca? me dice
+\tx ¿sabe hamaca? me dice
+\ft ¿sabe hamaca? me dice
+\sound NC-narracion.hamaca-2013.wav 148.020 150.050
+
+\ref 046
+\ELANBegin 150.380
+\ELANEnd 153.140
+\ELANParticipant Nelita
+\trs yo yo no sabe voy a probar digo
+\tx yo yo no sabe voy a probar digo
+\ft yo yo no sabe voy a probar digo
+\sound NC-narracion.hamaca-2013.wav 150.380 153.140
+
+\ref 047
+\ELANBegin 153.450
+\ELANEnd 156.670
+\ELANParticipant Nelita
+\trs si sale bueno si sale malo decía yo
+\tx si sale bueno si sale malo decía yo
+\ft si sale bueno si sale malo decía yo
+\sound NC-narracion.hamaca-2013.wav 153.450 156.670
+
+\ref 048
+\ELANBegin 157.880
+\ELANEnd 161.380
+\ELANParticipant Nelita
+\trs yo me decía yo sacando su semilla
+\tx yo me decía yo sacando su semilla
+\ft yo me decía yo sacando su semilla
+\sound NC-narracion.hamaca-2013.wav 157.880 161.380
+
+\ref 049
+\ELANBegin 162.190
+\ELANEnd 163.880
+\ELANParticipant Nelita
+\trs yo he hilado
+\tx yo he hilado
+\ft yo he hilado
+\sound NC-narracion.hamaca-2013.wav 162.190 163.880
+
+\ref 050
+\ELANBegin 164.750
+\ELANEnd 168.570
+\ELANParticipant Nelita
+\trs unos cuantos días hemos terminado yo solito
+\tx unos cuantos días hemos terminado yo solito
+\ft unos cuantos días hemos terminado yo solito
+\sound NC-narracion.hamaca-2013.wav 164.750 168.570
+
+\ref 051
+\ELANBegin 169.240
+\ELANEnd 170.690
+\ELANParticipant Nelita
+\trs nadie no me ayuda
+\tx nadie no me ayuda
+\ft nadie no me ayuda
+\sound NC-narracion.hamaca-2013.wav 169.240 170.690
+
+\ref 052
+\ELANBegin 171.920
+\ELANEnd 174.700
+\ELANParticipant Nelita
+\trs ahí he terminado yo hilando
+\tx ahí he terminado yo hilando
+\ft ahí he terminado yo hilando
+\sound NC-narracion.hamaca-2013.wav 171.920 174.700
+
+\ref 053
+\ELANBegin 176.580
+\ELANEnd 178.010
+\ELANParticipant Nelita
+\trs después ya
+\tx después ya
+\ft después ya
+\sound NC-narracion.hamaca-2013.wav 176.580 178.010
+
+\ref 054
+\ELANBegin 178.860
+\ELANEnd 180.940
+\ELANParticipant Nelita
+\trs yo he tejido
+\tx yo he tejido
+\ft yo he tejido
+\sound NC-narracion.hamaca-2013.wav 178.860 180.940
+
+\ref 055
+\ELANBegin 181.640
+\ELANEnd 184.330
+\ELANParticipant Nelita
+\trs cuando está mediodía he terminado
+\tx cuando está mediodía he terminado
+\ft cuando está mediodía he terminado
+\sound NC-narracion.hamaca-2013.wav 181.640 184.330
+
+\ref 056
+\ELANBegin 184.660
+\ELANEnd 186.280
+\ELANParticipant Nelita
+\trs esa hamaca chiquito
+\tx esa hamaca chiquito
+\ft esa hamaca chiquito
+\sound NC-narracion.hamaca-2013.wav 184.660 186.280
+
+\ref 057
+\ELANBegin 186.665
+\ELANEnd 187.765
+\ELANParticipant Nelita
+\trs eso es todo
+\tx eso es todo
+\ft eso es todo
+\sound NC-narracion.hamaca-2013.wav 186.665 187.765
+
+\ref 058
+\ELANBegin 188.190
+\ELANEnd 189.270
+\ELANParticipant Jaime
+\trs gracias
+\tx gracias
+\ft gracias
+\sound NC-narracion.hamaca-2013.wav 188.190 189.270
+
+
+\ELANMediaURL file:///E:/documentos/iskonawa/basededatos-iskonawa procesada/data/NC-narracion.hamaca-2013.mpg
+\ELANMediaMIME video/mpeg
+\ELANMediaExtracted file:///E:/documentos/iskonawa/basededatos-iskonawa procesada/data/NC-narracion.hamaca-2013.mpg
+\ELANMediaURL file:///E:/documentos/iskonawa/basededatos-iskonawa procesada/data/NC-narracion.hamaca-2013.wav
+\ELANMediaMIME audio/x-wav

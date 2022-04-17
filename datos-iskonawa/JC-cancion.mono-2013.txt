@@ -1,0 +1,196 @@
+\_sh v3.0  400  text
+
+\ref 001
+\trs Awen manan senenme.
+\tx Awen    manan  senenme.
+\mb awen    manan  senen mená
+\gn 3SG:GEN arriba final LOC
+\ps pron    post.  n.    pos.
+
+\ft desde la punta del cerro.
+\ELANBegin 1.110
+\ELANEnd 2.400
+\ELANParticipant Juanita
+\sound JC-cancion.mono-2013.wav 1.110 2.400
+
+\ref 002
+\trs kaya pakekaini / kaya pakekaini.
+\tx kaya      pakekaini                / kaya      pakekaini.
+\mb kaya      pake     -kain     -i    / kaya      pake     -kain     -i
+\gn espíritu caer(se) -AND:INTR -IMPF / espíritu caer(se) -AND:INTR -IMPF
+\ps n.        v.ambi.  -suf.     -suf. / n.        v.ambi.  -suf.     -suf.
+
+\ft el espíritu está yéndose bajando, el espíritu está yéndose bajando.
+\ELANBegin 2.400
+\ELANEnd 5.250
+\ELANParticipant Juanita
+\sound JC-cancion.mono-2013.wav 2.400 5.250
+
+\ref 003
+\trs kotsi roe honina.
+\tx Kotsi  roe           honina.
+\mb kotsi  roe           honin -a
+\gn bonito piedra.grande sobar -EST
+\ps adj.   n.            v.    -suf
+
+\ft Está sobándose en una piedra grande.
+\ELANBegin 5.740
+\ELANEnd 7.090
+\ELANParticipant Juanita
+\sound JC-cancion.mono-2013.wav 5.740 7.090
+
+\ref 004
+\trs kotsi roe honina.
+\tx Kotsi  roe           honina.
+\mb kotsi  roe           honin -a
+\gn bonito piedra.grande sobar -EST
+\ps adj.   n.            v.    -suf
+
+\ft Está sobándose en una piedra grande.
+\ELANBegin 7.090
+\ELANEnd 8.290
+\ELANParticipant Juanita
+\sound JC-cancion.mono-2013.wav 7.090 8.290
+
+\ref 005
+\trs Hoho. Hoho. Hoho. Hoho.
+\tx Hoho.                  Hoho.                  Hoho.                  Hoho.
+\mb hoho                   hoho                   hoho                   hoho
+\gn vocalización.cotomono vocalización.cotomono vocalización.cotomono vocalización.cotomono
+\ps ono.                   ono.                   ono.                   ono.
+
+\ft "Hoho. Hoho. Hoho. Hoho."
+\ELANBegin 8.750
+\ELANEnd 11.390
+\ELANParticipant Juanita
+\sound JC-cancion.mono-2013.wav 8.750 11.390
+
+\ref 006
+\trs Kotsi roe honina.
+\tx Kotsi  roe           honina.
+\mb kotsi  roe           honin -a
+\gn bonito piedra.grande sobar -EST
+\ps adj.   n.            v.    -suf
+
+\ft Está sobándose en una piedra grande.
+\ELANBegin 11.820
+\ELANEnd 13.080
+\ELANParticipant Juanita
+\sound JC-cancion.mono-2013.wav 11.820 13.080
+
+\ref 007
+\trs Awen manan tename.
+\tx Awen    manan tename.
+\mb awen    manan tename.
+\gn 3SG:GEN cerro abajo
+\ps pron    n.    post.
+
+\ft Al pie del cerro.
+\ELANBegin 13.080
+\ELANEnd 14.390
+\ELANParticipant Juanita
+\sound JC-cancion.mono-2013.wav 13.080 14.390
+
+\ref 008
+\trs Ina inakaini.
+\tx Ina   inakaini.
+\mb ina   ina   -kain     -i
+\gn subir subir -AND:INTR -IMPF
+\ps v.    v.    -suf.     -suf.
+
+\ft Va subiendo.
+\ELANBegin 14.390
+\ELANEnd 15.550
+\ELANParticipant Juanita
+\sound JC-cancion.mono-2013.wav 14.390 15.550
+
+\ref 009
+\trs Hoho. Hoho. Hoho. Hoho.
+\tx Hoho.                  Hoho.
+\mb hoho                   hoho
+\gn vocalización.cotomono vocalización.cotomono
+\ps ono.                   ono.
+
+\tx Hoho.                  Hoho.
+\mb hoho                   hoho
+\gn vocalización.cotomono vocalización.cotomono
+\ps ono.                   ono.
+
+\ft "Hoho, hoho, hoho, hoho".
+\ELANBegin 15.550
+\ELANEnd 17.890
+\ELANParticipant Juanita
+\sound JC-cancion.mono-2013.wav 15.550 17.890
+
+\ref 010
+\trs Kotsi roe honina.
+\tx Kotsi  roe           honina.
+\mb kotsi  roe           honin -a
+\gn bonito piedra.grande sobar -EST
+\ps adj.   n.            v.    -suf
+
+\ft Se está sobando en una piedra grande.
+\ELANBegin 18.230
+\ELANEnd 19.510
+\ELANParticipant Juanita
+\sound JC-cancion.mono-2013.wav 18.230 19.510
+
+\ref 011
+\trs Kotsi roe honina.
+\tx Kotsi  roe           honina.
+\mb kotsi  roe           honin -a
+\gn bonito piedra.grande sobar -EST
+\ps adj.   n.            v.    -suf
+
+\ft Se está sobando en una piedra grande.
+\ELANBegin 19.510
+\ELANEnd 20.720
+\ELANParticipant Juanita
+\sound JC-cancion.mono-2013.wav 19.510 20.720
+
+\ref 012
+\trs Kotsi roe honina.
+\tx Kotsi  roe           honina.
+\mb kotsi  roe           honin -a
+\gn bonito piedra.grande sobar -EST
+\ps adj.   n.            v.    -suf
+
+\ft Se está sobando en una piedra grande.
+\ELANBegin 20.720
+\ELANEnd 21.860
+\ELANParticipant Juanita
+\sound JC-cancion.mono-2013.wav 20.720 21.860
+
+\ref 013
+\trs Hoho. Hoho. Hoho.
+\tx Hoho.                  Hoho.
+\mb hoho                   hoho
+\gn vocalización.cotomono vocalización.cotomono
+\ps ono.                   ono.
+
+\tx Hoho.
+\mb hoho
+\gn vocalización.cotomono
+\ps ono.
+
+\ft "Hoho, hoho, hoho".
+\ELANBegin 21.860
+\ELANEnd 23.520
+\ELANParticipant Juanita
+\sound JC-cancion.mono-2013.wav 21.860 23.520
+
+\ref 014
+\trs Ahí. Ya, ahí, nomás. Ahí, nomás.
+\tx Ahí. Ya, ahí, nomás. Ahí, nomás.
+\ft Ahí. Ya, ahí, nomás. Ahí, nomás.
+\ELANBegin 23.560
+\ELANEnd 25.560
+\ELANParticipant Juanita
+\sound JC-cancion.mono-2013.wav 23.560 25.560
+
+
+\ELANMediaURL file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC-cancion.mono-2013.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaExtracted file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC-cancion.mono-2013.mpg
+\ELANMediaURL file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC-cancion.mono-2013.mpg
+\ELANMediaMIME video/mpeg

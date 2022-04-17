@@ -1,0 +1,321 @@
+\_sh v3.0  400  text
+
+\ref 001
+\ELANBegin 0.890
+\ELANEnd 3.520
+\ELANParticipant Roberto
+\trs ya entonces estamos acá con Isabel
+\tx ya entonces estamos acá con Isabel
+\ft ya entonces estamos acá con Isabel
+\sound IC-narracion.juventud-2013.wav 0.890 3.520
+
+\ref 002
+\ELANBegin 3.900
+\ELANEnd 6.370
+\ELANParticipant Roberto
+\trs que nos va a contar un poco de sobre su vida
+\tx que nos va a contar un poco de sobre su vida
+\ft que nos va a contar un poco de sobre su vida
+\sound IC-narracion.juventud-2013.wav 3.900 6.370
+
+\ref 003
+\ELANBegin 6.870
+\ELANEnd 7.680
+\ELANParticipant Roberto
+\trs ¿no?
+\tx ¿no?
+\ft ¿no?
+\sound IC-narracion.juventud-2013.wav 6.870 7.680
+
+\ref 004
+\ELANBegin 8.580
+\ELANEnd 10.040
+\ELANParticipant Roberto
+\trs y su trabajo
+\tx y su trabajo
+\ft y su trabajo
+\sound IC-narracion.juventud-2013.wav 8.580 10.040
+
+\ref 005
+\ELANBegin 13.520
+\ELANEnd 15.120
+\ELANParticipant Roberto
+\trs ya puedes empezar
+\tx ya puedes empezar
+\ft ya puedes empezar
+\sound IC-narracion.juventud-2013.wav 13.520 15.120
+
+\ref 006
+\ELANBegin 15.680
+\ELANEnd 21.460
+\ELANParticipant Isabel
+\trs ea tepaonika ea benehokoa ea bakehekobi ea benemakana nokon ewan
+\tx ea          tepaonika                     ea          benehokoa           ea          bakehekobi         ea          benemakana                    nokon       ewan
+\mb ea          te       -paoni        =ka    ea          bene    -hoko -a    ea          bake  -hoko =bi    ea          bene    -ma   -kan  -a        nokon       ewa   =n
+\gn 1SG.ABS(SK) trabajar -PAS.REM:IMPF =NAR   1SG.ABS(SK) casarse -DIM  -PERF 1SG.ABS(SK) niño -DIM  =ENF   1SG.ABS(SK) casarse -CAUS -PLU  -FACT(SK) 1SG.GEN(SK) madre =ERG
+\ps pron.       v.       -suf.         =clit. pron.       v.      -suf  -suf. pron.       n.    -suf  =clit. pron.       v.      -suf. -suj. -suf.     pron        n.    =clit.
+
+\ft yo trabajaba, pero yo tuve marido aunque era chiquilla; mis mamás me hicieron tener marido.
+\sound IC-narracion.juventud-2013.wav 15.680 21.460
+
+\ref 007
+\ELANBegin 22.260
+\ELANEnd 27.300
+\ELANParticipant Isabel
+\trs ewen epan ea beneoma ea noitapakati yoa aki maai
+\tx ewen    epan         ea
+\mb ewen    epa   =n     ea
+\gn 1SG:GEN padre =ERG   1SG.ABS(SK)
+\ps pron.   n.    =clit. pron.
+
+\tx beneoma          ea
+\mb bene   =oma      ea
+\gn esposo =PROP.NEG 1SG.ABS(SK)
+\ps n.     =clit.    pron.
+
+\tx noitapakati          yoa            aki
+\mb noitapa -kati        yoa            ak      -i
+\gn sufrir  -PAS.REM:HAB comida.vegetal hacer   -SUJ>S:SIM
+\ps v.      -suf.        n.             v.tran. -suf.
+
+\tx maai
+\mb maa     -i
+\gn cocinar -SUJ>S:SIM
+\ps v.      -suf.
+
+\ft cuando mi papá (me entregó a mi marido), yo sufri mucho; yo no tenía marido (después) tuve que cocinar.
+\sound IC-narracion.juventud-2013.wav 22.260 27.300
+
+\ref 008
+\ELANBegin 27.800
+\ELANEnd 30.390
+\ELANParticipant Isabel
+\trs maati onama maati onanyama
+\tx maati                    onama              maati
+\mb maa               -ti    onan   -ma   -a    maa               -ti
+\gn cocinar.vegetales -NOMLZ saber  -CAUS -PERF cocinar.vegetales -NOMLZ
+\ps v.                -suf.  v.tran -suf. -suf. v.                -suf.
+
+\tx onanyama
+\mb onan   -yama    -a
+\gn saber  -NEG(SK) -PERF
+\ps v.tran -suf.    -suf.
+
+\ft no sabía cocinar, no sabía cocinar
+\sound IC-narracion.juventud-2013.wav 27.800 30.390
+
+\ref 009
+\ELANBegin 31.230
+\ELANEnd 33.970
+\ELANParticipant Isabel
+\trs noitapakati ea yoa maa ika
+\tx noitapakati          ea          yoa                maaika
+\mb noitapa -kati        ea          yoa                maa               -i         =ka
+\gn sufrir  -PAS.REM:HAB 1SG.ABS(SK) comida.vegetal(SK) cocinar.vegetales -SUJ>S:SIM =NAR
+\ps v.      -suf.        pron.       n.                 v.                -suf.      =clit.
+
+\ft yo sufría cocinando comida
+\sound IC-narracion.juventud-2013.wav 31.230 33.970
+
+\ref 010
+\ELANBegin 34.450
+\ELANEnd 39.080
+\ELANParticipant Isabel
+\trs bene pimanohon maai ewen bene pimanon maai hena metsai
+\tx bene   pimanohon                maai                         ewen    bene   pimanon             maai                         hena    metsai
+\mb bene   pi      -ma   -nohon     maa               -i         ewen    bene   pi      -ma   -non  maa               -i         hena    metsa               -i
+\gn esposo comer   -CAUS -PROP:TRAN cocinar.vegetales -SUJ>S:SIM 1SG:GEN esposo comer   -CAUS -PROP cocinar.vegetales -SUJ>S:SIM candela tocar.algo.caliente -SUJ>S:SIM
+\ps n.     v.tran. -suf. -suf.      v.                -suf.      pron.   n.     v.tran. -suf. -suf. v.                -suf.      n.      v.                  -suf.
+
+\ft yo cocinaba para darle de comer a mi marido; yo cocinaba para darle de comer a mi marido; agarrraba candela
+\sound IC-narracion.juventud-2013.wav 34.450 39.080
+
+\ref 011
+\ELANBegin 40.010
+\ELANEnd 42.780
+\ELANParticipant Isabel
+\trs ea sufre noitapakati
+\tx ea          sufre noitapakati
+\mb ea          sufre noitapa -kati
+\gn 1SG.ABS(SK) sufre sufrir  -PAS.REM:HAB
+\ps pron.       v.    v.      -suf.
+
+\ft yo sufría mucho
+\sound IC-narracion.juventud-2013.wav 40.010 42.780
+
+\ref 012
+\ELANBegin 46.270
+\ELANEnd 48.980
+\ELANParticipant Isabel
+\trs yoa ahonwe ma ahonwe
+\tx yoa                ahonwe                 ma
+\mb yoa                ak      -hon  -we      ma
+\gn comida.vegetal(SK) hacer   -BEN  -IMP(SK) ya
+\ps n.                 v.tran. -suf. -suf.    adv
+
+\tx ahonwe
+\mb ak      -hon  -we
+\gn hacer   -BEN  -IMP(SK)
+\ps v.tran. -suf. -suf.
+
+\ft "hazle su comida, ya hazle su comida" (decía mi mamá)
+\sound IC-narracion.juventud-2013.wav 46.270 48.980
+
+\ref 013
+\ELANBegin 49.740
+\ELANEnd 52.630
+\ELANParticipant Isabel
+\trs bene ma ahonwe noitapakati ea
+\tx bene   ma  ahonwe
+\mb bene   ma  ak      -hon  -we
+\gn esposo ya  hacer   -BEN  -IMP(SK)
+\ps n.     adv v.tran. -suf. -suf.
+
+\tx noitapakati          ea
+\mb noitapa -kati        ea
+\gn sufrir  -PAS.REM:HAB 1SG.ABS(SK)
+\ps v.      -suf.        pron.
+
+\ft "hazle la comida a su marido" y yo sufría
+\sound IC-narracion.juventud-2013.wav 49.740 52.630
+
+\ref 014
+\ELANBegin 55.500
+\ELANEnd 57.360
+\ELANParticipant Isabel
+\trs bakehekobi benoah
+\tx bakehekobi         benoah
+\mb bake  -hoko =bi    beno        -ah
+\gn niño -DIM  =ENF   casarse(SK) -SUJ>S:SIM
+\ps n.    -suf  =clit. v.          -suf.
+
+\ft casandome aunque era niña
+\sound IC-narracion.juventud-2013.wav 55.500 57.360
+
+\ref 015
+\ELANBegin 63.790
+\ELANEnd 65.680
+\ELANParticipant Isabel
+\trs ares ena mia yoyai
+\tx ares           ena     mia         yoyai
+\mb a   -res       ena     mia         yoya   -i
+\gn ese -solamente 1SG:ERG 2SG.ABS(SK) decir  -IMPF
+\ps dem -suf.      pron.   pron        v.tran -suf.
+
+\ft eso no más te cuento
+\sound IC-narracion.juventud-2013.wav 63.790 65.680
+
+\ref 016
+\ELANBegin 67.080
+\ELANEnd 68.640
+\ELANParticipant Isabel
+\trs ya está don Roberto
+\tx ya está don Roberto
+\ft ya está don Roberto
+\sound IC-narracion.juventud-2013.wav 67.080 68.640
+
+\ref 017
+\ELANBegin 68.370
+\ELANEnd 69.145
+\ELANParticipant Roberto
+\trs ¿ya está?
+\tx ¿ya está?
+\ft ¿ya está?
+\sound IC-narracion.juventud-2013.wav 68.370 69.145
+
+\ref 018
+\ELANBegin 69.535
+\ELANEnd 73.380
+\ELANParticipant Isabel
+\trs ahí nomás lo que ha pasado mi sufrimiento cuando era chiquitita
+\tx ahí nomás lo que ha pasado mi sufrimiento cuando era chiquitita
+\ft ahí nomás lo que ha pasado mi sufrimiento cuando era chiquitita
+\sound IC-narracion.juventud-2013.wav 69.535 73.380
+
+\ref 019
+\ELANBegin 76.570
+\ELANEnd 79.570
+\ELANParticipant Roberto
+\trs ¿y podrías contar cómo ha sido en español?
+\tx ¿y podrías contar cómo ha sido en español?
+\ft ¿y podrías contar cómo ha sido en español?
+\sound IC-narracion.juventud-2013.wav 76.570 79.570
+
+\ref 020
+\ELANBegin 80.040
+\ELANEnd 81.330
+\ELANParticipant Roberto
+\trs lo que has dicho
+\tx lo que has dicho
+\ft lo que has dicho
+\sound IC-narracion.juventud-2013.wav 80.040 81.330
+
+\ref 021
+\ELANBegin 81.590
+\ELANEnd 84.620
+\ELANParticipant Isabel
+\trs yo le estoy, yo le estoy contando a ti, yo he sufrido
+\tx yo le estoy, yo le estoy contando a ti, yo he sufrido
+\ft yo le estoy, yo le estoy contando a ti, yo he sufrido
+\sound IC-narracion.juventud-2013.wav 81.590 84.620
+
+\ref 022
+\ELANBegin 84.640
+\ELANEnd 87.560
+\ELANParticipant Isabel
+\trs mi vida cuando era chiquitita tenía marido
+\tx mi vida cuando era chiquitita tenía marido
+\ft mi vida cuando era chiquitita tenía marido
+\sound IC-narracion.juventud-2013.wav 84.640 87.560
+
+\ref 023
+\ELANBegin 87.835
+\ELANEnd 90.735
+\ELANParticipant Isabel
+\trs no tenía, no sabía cocinar, no sabía
+\tx no tenía, no sabía cocinar, no sabía
+\ft no tenía, no sabía cocinar, no sabía
+\sound IC-narracion.juventud-2013.wav 87.835 90.735
+
+\ref 024
+\ELANBegin 91.470
+\ELANEnd 92.760
+\ELANParticipant Isabel
+\trs lavar ropa
+\tx lavar ropa
+\ft lavar ropa
+\sound IC-narracion.juventud-2013.wav 91.470 92.760
+
+\ref 025
+\ELANBegin 93.090
+\ELANEnd 94.600
+\ELANParticipant Isabel
+\trs así estoy diciendo
+\tx así estoy diciendo
+\ft así estoy diciendo
+\sound IC-narracion.juventud-2013.wav 93.090 94.600
+
+\ref 026
+\ELANBegin 94.910
+\ELANEnd 96.330
+\ELANParticipant Isabel
+\trs así estoy hablando
+\tx así estoy hablando
+\ft así estoy hablando
+\sound IC-narracion.juventud-2013.wav 94.910 96.330
+
+\ref 027
+\ELANBegin 98.660
+\ELANEnd 106.410
+\ELANParticipant Isabel
+\trs mi mamá me mandaba para tener marido me entrega marido eso estoy contando mi vida lo que he pasado yo
+\tx mi mamá me mandaba para tener marido me entrega marido eso estoy contando mi vida lo que he pasado yo
+\ft mi mamá me mandaba para tener marido me entrega marido eso estoy contando mi vida lo que he pasado yo
+\sound IC-narracion.juventud-2013.wav 98.660 106.410
+
+
+\ELANMediaURL file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/IC-narracion.juventud-2013.mpg
+\ELANMediaMIME video/mpeg
+\ELANMediaURL file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/IC-narracion.juventud-2013.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaExtracted file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/IC-narracion.juventud-2013.mpg

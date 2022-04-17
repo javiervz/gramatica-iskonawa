@@ -1,0 +1,258 @@
+\_sh v3.0  400  text
+
+\ref 001
+\ELANBegin 3.090
+\ELANEnd 9.610
+\ELANParticipant Roberto
+\trs para que los niños aprendan los niños tienen que aprender ¿cómo debería ser el futuro de los iskonawas?
+\tx para que los niños aprendan los niños tienen que aprender ¿cómo debería ser el futuro de los iskonawas?
+\ft para que los niños aprendan los niños tienen que aprender ¿cómo debería ser el futuro de los iskonawas?
+\sound IC-narracion.futuro-2013.wav 3.090 9.610
+
+\ref 002
+\ELANBegin 10.570
+\ELANEnd 12.430
+\ELANParticipant Isabel
+\trs el futuro de iskonawa
+\tx el futuro de iskonawa
+\ft el futuro de iskonawa
+\sound IC-narracion.futuro-2013.wav 10.570 12.430
+
+\ref 003
+\ELANBegin 13.860
+\ELANEnd 15.810
+\ELANParticipant Isabel
+\trs onamaika bakebo
+\tx onamaika                       bakebo
+\mb onan   -ma   -i         =ka    bake  =bo
+\gn saber  -CAUS -SUJ>S:SIM =NAR   niño =PLU
+\ps v.tran -suf. -suf.      =clit. n.    =clit
+
+\ft (vamos) hacerles aprender a los niños
+\sound IC-narracion.futuro-2013.wav 13.860 15.810
+
+\ref 004
+\ELANBegin 17.080
+\ELANEnd 19.020
+\ELANParticipant Isabel
+\trs bakebo onamai
+\tx bakebo      onamai
+\mb bake  =bo   onan   -ma   -i
+\gn niño =PLU  saber  -CAUS -IMPF
+\ps n.    =clit v.tran -suf. -suf.
+
+\ft vamos hacerles aprender a los niños
+\sound IC-narracion.futuro-2013.wav 17.080 19.020
+
+\ref 005
+\ELANBegin 20.580
+\ELANEnd 22.620
+\ELANParticipant Isabel
+\trs cuando ya, este...
+\tx cuando ya, este...
+\ft cuando ya, este...
+\sound IC-narracion.futuro-2013.wav 20.580 22.620
+
+\ref 006
+\ELANBegin 23.325
+\ELANEnd 26.530
+\ELANParticipant Isabel
+\trs kahe iro ahonra bakebo onamai ain ewehon
+\tx kahe iro   ahonra                        bakebo      onamai             ain       ewehon
+\mb kahe iro   ak      -hon       =ra        bake  =bo   onan   -ma   -i    ain       ewe    -hon
+\gn casa bueno hacer   -SUJ>A:SIM =EVID1(SK) niño =PLU  saber  -CAUS -IMPF ahí(MIX) vivir  -SUJ>A:SIM
+\ps n.   adj.  v.tran. -suf.      =clit.     n.    =clit v.tran -suf. -suf. adv.      v.intr -suf.
+
+\ft haciendo una casa bonita, vamos a enseñarles a los niños viiviendo ahí
+\sound IC-narracion.futuro-2013.wav 23.325 26.530
+
+\ref 007
+\ELANBegin 27.210
+\ELANEnd 29.010
+\ELANParticipant Isabel
+\trs [¿?]
+\tx [¿?]
+\ft [¿?]
+\sound IC-narracion.futuro-2013.wav 27.210 29.010
+
+\ref 008
+\ELANBegin 30.430
+\ELANEnd 31.990
+\ELANParticipant Isabel
+\trs ma kaheya ihon
+\tx ma  kaheya      ihon
+\mb ma  kahe =ya    ik      -hon
+\gn ya  casa =PROP  copula  -SUJ>A:SIM
+\ps adv n.   =clit. v.intr. -suf.
+
+\ft ya cuando tengamos casa
+\sound IC-narracion.futuro-2013.wav 30.430 31.990
+
+\ref 009
+\ELANBegin 32.670
+\ELANEnd 35.350
+\ELANParticipant Isabel
+\trs ain ma onamai baba ewen babaka
+\tx ain       ma  onamai             baba
+\mb ain       ma  onan   -ma   -i    baba
+\gn ahí(MIX) ya  saber  -CAUS -IMPF nieto(SK)
+\ps adv.      adv v.tran -suf. -suf. n.
+
+\tx ewen    babaka
+\mb ewen    baba      =ka
+\gn 1SG:GEN nieto(SK) =NAR
+\ps pron.   n.        =clit.
+
+\ft ahí les voy a enseñar a mis nietos
+\sound IC-narracion.futuro-2013.wav 32.670 35.350
+
+\ref 010
+\ELANBegin 35.740
+\ELANEnd 38.450
+\ELANParticipant Isabel
+\trs en onamai ewen ewaribi onamai
+\tx en        onamai                  ewen
+\mb en        onan   -ma   -i         ewen
+\gn 1SG:A(SK) saber  -CAUS -SUJ>S:SIM 1SG:GEN
+\ps pron      v.tran -suf. -suf.      pron.
+
+\tx ewaribi         onamai
+\mb ewa   =ribi     onan   -ma   -i
+\gn madre =también saber  -CAUS -IMPF
+\ps n.    =clit.    v.tran -suf. -suf.
+
+\ft yo voy a enseñar, mi mamá también va a enseñar
+\sound IC-narracion.futuro-2013.wav 35.740 38.450
+
+\ref 011
+\ELANBegin 38.950
+\ELANEnd 42.200
+\ELANParticipant Isabel
+\trs non onamai non bababo mahkobo
+\tx non         onamai             non
+\mb no   =n     onan   -ma   -i    no   =n
+\gn 1PL  =ERG   saber  -CAUS -IMPF 1PL  =GEN
+\ps pron =clit. v.tran -suf. -suf. pron =clit.
+
+\tx bababo          mahkobo
+\mb baba      =bo   mahko =bo
+\gn nieto(SK) =PLU  joven =PLU
+\ps n.        =clit n.    =clit
+
+\ft nosotros vamos a enseñar a nuestros nietos y a los jóvenes
+\sound IC-narracion.futuro-2013.wav 38.950 42.200
+
+\ref 012
+\ELANBegin 42.960
+\ELANEnd 44.950
+\ELANParticipant Isabel
+\trs onamakinka hain ewehon
+\tx onamakinka                     hain
+\mb onan   -ma   -kin       =ka    hain
+\gn saber  -CAUS -SUJ>A:SIM =NAR   ahí(SK)
+\ps v.tran -suf. -suf.      =clit. adv.
+
+\tx ewehon
+\mb ewe    -hon
+\gn vivir  -SUJ>A:SIM
+\ps v.intr -suf.
+
+\ft nosotros vamos a hacer aprender viviendo ahí
+\sound IC-narracion.futuro-2013.wav 42.960 44.950
+
+\ref 013
+\ELANBegin 45.680
+\ELANEnd 48.460
+\ELANParticipant Isabel
+\trs maiya ihon onamakin
+\tx maiya         ihon               onamakin
+\mb mai    =ya    ik      -hon       onan   -ma   -kin
+\gn tierra =PROP  copula  -SUJ>A:SIM saber  -CAUS -SUJ>A:SIM
+\ps n.     =clit. v.intr. -suf.      v.tran -suf. -suf.
+
+\ft cuando tengamos nuestro terreno, vamos a enseñar
+\sound IC-narracion.futuro-2013.wav 45.680 48.460
+
+\ref 014
+\ELANBegin 52.350
+\ELANEnd 56.250
+\ELANParticipant Isabel
+\trs onankanai bakebon bababon baba icha ea
+\tx onankanai              bakebon
+\mb onan   -kan  -ai       bake  =bo   =n
+\gn saber  -PLU  -IMPF(SK) niño =PLU  =GEN
+\ps v.tran -suj. -suf.     n.    =clit =clit.
+
+\tx bababon                baba
+\mb baba      =bo   =n     baba
+\gn nieto(SK) =PLU  =GEN   nieto(SK)
+\ps n.        =clit =clit. n.
+
+\tx icha      ea
+\mb icha      ea
+\gn mucho(SK) 1SG.ABS(SK)
+\ps cuant.    pron.
+
+\ft mis hijos y mis nietos saben, yo tengo muchos nietos
+\sound IC-narracion.futuro-2013.wav 52.350 56.250
+
+\ref 015
+\ELANBegin 57.780
+\ELANEnd 59.540
+\ELANParticipant Isabel
+\trs ewen ewankai onamai
+\tx ewen    ewankai
+\mb ewen    ewa   =n     =kai
+\gn 1SG:GEN madre =GEN   =RESO
+\ps pron.   n.    =clit. =clit.
+
+\tx onamai
+\mb onan   -ma   -i
+\gn saber  -CAUS -IMPF
+\ps v.tran -suf. -suf.
+
+\ft mi mamá les enseña
+\sound IC-narracion.futuro-2013.wav 57.780 59.540
+
+\ref 016
+\ELANBegin 61.380
+\ELANEnd 62.900
+\ELANParticipant Isabel
+\trs ya está Roberto eso nomás
+\tx ya está Roberto eso nomás
+\ft ya está Roberto eso nomás
+\sound IC-narracion.futuro-2013.wav 61.380 62.900
+
+\ref 017
+\ELANBegin 64.140
+\ELANEnd 65.610
+\ELANParticipant Roberto
+\trs ¿Y entonces qué cosa has dicho?
+\tx ¿Y entonces qué cosa has dicho?
+\ft ¿Y entonces qué cosa has dicho?
+\sound IC-narracion.futuro-2013.wav 64.140 65.610
+
+\ref 018
+\ELANBegin 65.830
+\ELANEnd 72.560
+\ELANParticipant Isabel
+\trs Yo cuando tengo mi sitio sentada ahí le voy hacer aprender a mis nietos digo yo yo tengo varios nietos
+\tx Yo cuando tengo mi sitio sentada ahí le voy hacer aprender a mis nietos digo yo yo tengo varios nietos
+\ft Yo cuando tengo mi sitio sentada ahí le voy hacer aprender a mis nietos digo yo yo tengo varios nietos
+\sound IC-narracion.futuro-2013.wav 65.830 72.560
+
+\ref 019
+\ELANBegin 73.910
+\ELANEnd 75.020
+\ELANParticipant Isabel
+\trs mi mamá
+\tx mi mamá
+\ft mi mamá
+\sound IC-narracion.futuro-2013.wav 73.910 75.020
+
+
+\ELANMediaURL file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/IC-narracion.futuro-2013.mpg
+\ELANMediaMIME video/mpeg
+\ELANMediaURL file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/IC-narracion.futuro-2013.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaExtracted file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/IC-narracion.futuro-2013.mpg

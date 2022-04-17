@@ -1,0 +1,316 @@
+\_sh v3.0  400  text
+
+\ref 001
+\trs Kaya poyopoyoi. Hehe.
+\tx Kaya      poyopoyoi.     Hehe.
+\mb kaya      poyopoyo -i    hehe
+\gn espíritu soplar   -IMPF hehe
+\ps n.        v.       -suf. intj.
+
+\ft El viento sopla, sopla: "hehe".
+\ELANBegin 0.000
+\ELANEnd 2.710
+\ELANParticipant Juanita
+\sound JC-cancion.bihao-2013.wav 0.000 2.710
+
+\ref 002
+\trs Awen machi yoshinra.
+\tx Awen    machi yoshinra.
+\mb awen    machi yoshin    =ra
+\gn 3SG:GEN cerro espíritu =EVID1(SK)
+\ps pron    n.    n.        =clit.
+
+\ft Es el espíritu del cerro.
+\ELANBegin 2.720
+\ELANEnd 4.040
+\ELANParticipant Juanita
+\sound JC-cancion.bihao-2013.wav 2.720 4.040
+
+\ref 003
+\trs kaya poyopoyoi
+\tx kaya poyopoyoi
+\mb kaya       poyopoyo -i
+\gn espíritu  soplar   -IMPF
+\ps n.         v.       -suf.
+
+\ft el viento sopla
+\ELANBegin 4.060
+\ELANEnd 5.380
+\ELANParticipant Juanita
+\sound JC-cancion.bihao-2013.wav 4.060 5.380
+
+\ref 004
+\trs hehe hehe
+\tx hehe  hehe
+\mb hehe  hehe
+\gn hehe  hehe
+\ps intj. intj.
+
+\ft he he he he
+\ELANBegin 5.380
+\ELANEnd 7.800
+\ELANParticipant Juanita
+\sound JC-cancion.bihao-2013.wav 5.380 7.800
+
+\ref 005
+\trs Awen manan yoshinra.
+\tx Awen    manan  yoshinra.
+\mb awen    manan  yoshin    =ra
+\gn 3SG:GEN arriba espíritu =EVID1(SK)
+\ps pron    post.  n.        =clit.
+
+\ft Es el espíritu del monte.
+\ELANBegin 8.300
+\ELANEnd 9.591
+\ELANParticipant Juanita
+\sound JC-cancion.bihao-2013.wav 8.300 9.591
+
+\ref 006
+\trs Kaya poyopoyoi.
+\tx Kaya poyopoyoi.
+\mb kaya            poyopoyo -i
+\gn espíritu       soplar   -IMPF
+\ps n.              v.       -suf.
+
+\ft El viento está sopla.
+\ELANBegin 9.591
+\ELANEnd 10.729
+\ELANParticipant Juanita
+\sound JC-cancion.bihao-2013.wav 9.591 10.729
+
+\ref 007
+\trs tin iki meai.
+\tx tin   iki                   meai.
+\mb tin   ik         -i         me    -ai
+\gn ruido decir:INTR -SUJ>S:SIM tocar -IMPF(SK)
+\ps onom. v.intr.    -suf.      v.    -suf.
+
+\ft las hojas se golpean y suenan: "tin"
+\ELANBegin 10.790
+\ELANEnd 12.010
+\ELANParticipant Juanita
+\sound JC-cancion.bihao-2013.wav 10.790 12.010
+
+\ref 008
+\trs Hehe.
+\tx Hehe.
+\mb hehe
+\gn hehe
+\ps intj.
+
+\ft "hehe".
+\ELANBegin 12.010
+\ELANEnd 13.230
+\ELANParticipant Juanita
+\sound JC-cancion.bihao-2013.wav 12.010 13.230
+
+\ref 009
+\trs Tin iki meai.
+\tx Tin   iki                   meai.
+\mb tin   ik         -i         me    -ai
+\gn ruido decir:INTR -SUJ>S:SIM tocar -IMPF(SK)
+\ps onom. v.intr.    -suf.      v.    -suf.
+
+\ft las hojas se golpean y suenan: "tin"
+\ELANBegin 13.240
+\ELANEnd 14.710
+\ELANParticipant Juanita
+\sound JC-cancion.bihao-2013.wav 13.240 14.710
+
+\ref 010
+\trs Hehe.
+\tx Hehe.
+\mb hehe
+\gn hehe
+\ps intj.
+
+\ft "hehe".
+\ELANBegin 14.710
+\ELANEnd 15.970
+\ELANParticipant Juanita
+\sound JC-cancion.bihao-2013.wav 14.710 15.970
+
+\ref 011
+\trs Kohren iki meai.
+\tx Kohren iki                   meai.
+\mb kohren ik         -i         me    -ai
+\gn ruido  decir:INTR -SUJ>S:SIM tocar -IMPF(SK)
+\ps onom.  v.intr.    -suf.      v.    -suf.
+
+\ft las hojas se golpean y suenan: "kohren"
+\ELANBegin 15.980
+\ELANEnd 17.321
+\ELANParticipant Juanita
+\sound JC-cancion.bihao-2013.wav 15.980 17.321
+
+\ref 012
+\trs Hehe.
+\tx Hehe.
+\mb hehe
+\gn hehe
+\ps intj.
+
+\ft "hehe".
+\ELANBegin 17.387
+\ELANEnd 18.710
+\ELANParticipant Juanita
+\sound JC-cancion.bihao-2013.wav 17.387 18.710
+
+\ref 013
+\trs Awen machi yoshinra.
+\tx Awen    machi yoshinra.
+\mb awen    machi yoshin    =ra
+\gn 3SG:GEN cerro espíritu =EVID1(SK)
+\ps pron    n.    n.        =clit.
+
+\ft Es el espíritu del cerro.
+\ELANBegin 18.840
+\ELANEnd 20.150
+\ELANParticipant Juanita
+\sound JC-cancion.bihao-2013.wav 18.840 20.150
+
+\ref 014
+\trs Kaya poyopoyoi. Hehe.
+\tx Kaya poyopoyoi.                Hehe.
+\mb kaya            poyopoyo -i    hehe
+\gn espíritu       soplar   -IMPF hehe
+\ps n.              v.       -suf. intj.
+
+\ft El viento sopla: "Hehe".
+\ELANBegin 20.193
+\ELANEnd 22.760
+\ELANParticipant Juanita
+\sound JC-cancion.bihao-2013.wav 20.193 22.760
+
+\ref 015
+\trs Awen tinko yoshinra.
+\tx Awen    tinko    yoshinra.
+\mb awen    tinko    yoshin    =ra
+\gn 3SG:GEN pequeño espíritu =EVID1(SK)
+\ps pron    adj.     n.        =clit.
+
+\ft Es su pequeño espíritu.
+\ELANBegin 23.160
+\ELANEnd 24.391
+\ELANParticipant Juanita
+\sound JC-cancion.bihao-2013.wav 23.160 24.391
+
+\ref 016
+\trs Kohren iki meai.
+\tx Kohren iki                   meai.
+\mb kohren ik         -i         me    -ai
+\gn ruido  decir:INTR -SUJ>S:SIM tocar -IMPF(SK)
+\ps onom.  v.intr.    -suf.      v.    -suf.
+
+\ft las hojas se golpean y suenan: "kohren"
+\ELANBegin 24.391
+\ELANEnd 25.673
+\ELANParticipant Juanita
+\sound JC-cancion.bihao-2013.wav 24.391 25.673
+
+\ref 017
+\trs Hehe.
+\tx Hehe.
+\mb hehe
+\gn hehe
+\ps intj.
+
+\ft "Hehe".
+\ELANBegin 25.673
+\ELANEnd 26.948
+\ELANParticipant Juanita
+\sound JC-cancion.bihao-2013.wav 25.673 26.948
+
+\ref 018
+\trs Awen tinko yoshinra.
+\tx Awen    tinko    yoshinra.
+\mb awen    tinko    yoshin    =ra
+\gn 3SG:GEN pequeño espíritu =EVID1(SK)
+\ps pron    adj.     n.        =clit.
+
+\ft Es su pequeño espíritu.
+\ELANBegin 26.948
+\ELANEnd 28.163
+\ELANParticipant Juanita
+\sound JC-cancion.bihao-2013.wav 26.948 28.163
+
+\ref 019
+\trs Kaya poyopoyoi. Hehe.
+\tx Kaya poyopoyoi.                Hehe.
+\mb kaya            poyopoyo -i    hehe
+\gn espíritu       soplar   -IMPF hehe
+\ps n.              v.       -suf. intj.
+
+\ft El viento sopla: "Hehe".
+\ELANBegin 28.163
+\ELANEnd 30.890
+\ELANParticipant Juanita
+\sound JC-cancion.bihao-2013.wav 28.163 30.890
+
+\ref 020
+\trs Awen tinko yoshinra.
+\tx Awen    tinko    yoshinra.
+\mb awen    tinko    yoshin    =ra
+\gn 3SG:GEN pequeño espíritu =EVID1(SK)
+\ps pron    adj.     n.        =clit.
+
+\ft Es su pequeño espíritu.
+\ELANBegin 31.152
+\ELANEnd 32.530
+\ELANParticipant Juanita
+\sound JC-cancion.bihao-2013.wav 31.152 32.530
+
+\ref 021
+\trs Tin iki meai.
+\tx Tin   iki                   meai.
+\mb tin   ik         -i         me    -ai
+\gn ruido decir:INTR -SUJ>S:SIM tocar -IMPF(SK)
+\ps onom. v.intr.    -suf.      v.    -suf.
+
+\ft las hojas se golpean y suenan: "tin"
+\ELANBegin 32.530
+\ELANEnd 33.724
+\ELANParticipant Juanita
+\sound JC-cancion.bihao-2013.wav 32.530 33.724
+
+\ref 022
+\trs Kohren meai.
+\tx Kohren meai.
+\mb kohren me    -ai
+\gn ruido  tocar -IMPF(SK)
+\ps onom.  v.    -suf.
+
+\ft las hojas se golpean y suenan: "kohren"
+\ELANBegin 33.724
+\ELANEnd 34.921
+\ELANParticipant Juanita
+\sound JC-cancion.bihao-2013.wav 33.724 34.921
+
+\ref 023
+\trs Hehe. Hehe.
+\tx Hehe. Hehe.
+\mb hehe  hehe
+\gn hehe  hehe
+\ps intj. intj.
+
+\ft "Hehe, hehe".
+\ELANBegin 34.946
+\ELANEnd 37.193
+\ELANParticipant Juanita
+\sound JC-cancion.bihao-2013.wav 34.946 37.193
+
+\ref 024
+\trs Ya.
+\tx Ya.
+\ft Ya.
+\ELANBegin 37.244
+\ELANEnd 37.937
+\ELANParticipant Juanita
+\sound JC-cancion.bihao-2013.wav 37.244 37.937
+
+
+\ELANMediaURL file:///D:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC-cancion.bihao-2013.mpg
+\ELANMediaMIME video/mpeg
+\ELANMediaURL file:///D:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC-cancion.bihao-2013.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaExtracted file:///D:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC-cancion.bihao-2013.mpg

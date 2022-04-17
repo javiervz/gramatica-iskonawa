@@ -1,0 +1,1306 @@
+\_sh v3.0  400  text
+
+\ref 001
+\ELANBegin 6.930
+\ELANEnd 8.830
+\ELANParticipant Germán
+\trs westiora michapaka
+\tx westiora michapaka
+\mb westiora michapa =ka
+\gn uno(SK)  sonso   =NAR
+\ps num.     adj.    =clit.
+
+\ft (había un) hombre sonso
+\nt iro > irapairo
+\sound GC-cuento.pelejo-2013.wav 6.930 8.830
+
+\ref 002
+\ELANBegin 8.965
+\ELANEnd 10.325
+\ELANParticipant Germán
+\trs michaparonki inike
+\tx michaparonki     inike
+\mb michapa =ronki   ik      -ni      -ke
+\gn sonso   =REP(SK) ser     -PAS.REM -PERF(SK)
+\ps adj.    =clit.   v.intr. -suf     -suf.
+
+\ft dice había un hombre sonso hace mucho tiempo
+\sound GC-cuento.pelejo-2013.wav 8.965 10.325
+
+\ref 003
+\ELANBegin 12.180
+\ELANEnd 13.200
+\ELANParticipant Germán
+\trs waiomabobi
+\tx waiomabobi
+\mb wai    =oma      =bo   =bi
+\gn chacra =PROP.NEG =PLU  =ENF
+\ps n.     =clit.    =clit =clit.
+\nt bo no se usa como plural
+\ft sin siquiera un pedacito de chacra
+\sound GC-cuento.pelejo-2013.wav 12.180 13.200
+
+\ref 004
+\ELANBegin 15.940
+\ELANEnd 18.000
+\ELANParticipant Germán
+\trs haton paranti
+\tx haton          paranti
+\mb hato    =n     paranti
+\gn 3PL(SK) =GEN   plátano
+\ps pron.   =clit. n.
+
+\ft el plátano de alguien
+\sound GC-cuento.pelejo-2013.wav 15.940 18.000
+
+\ref 005
+\ELANBegin 18.415
+\ELANEnd 19.245
+\ELANParticipant Germán
+\trs yometsoires
+\tx yometsoires
+\mb yometso   -i    -res
+\gn robar(SK) -IMPF -solamente
+\ps v.        -suf. -suf.
+
+\ft solía robar nomás
+\sound GC-cuento.pelejo-2013.wav 18.415 19.245
+
+\ref 006
+\ELANBegin 20.265
+\ELANEnd 20.945
+\ELANParticipant Germán
+\trs hatian
+\tx hatian
+\mb hatian
+\gn entonces(SK)
+\ps conec.
+
+\ft entonces
+\sound GC-cuento.pelejo-2013.wav 20.265 20.945
+
+\ref 007
+\ELANBegin 21.530
+\ELANEnd 22.540
+\ELANParticipant Germán
+\trs hainoaxki
+\tx hainoaxki
+\mb hainoax         =ki
+\gn después.de.eso =REP
+\ps conec.          =clit.
+
+\ft después de eso
+\sound GC-cuento.pelejo-2013.wav 21.530 22.540
+
+\ref 008
+\ELANBegin 23.070
+\ELANEnd 23.720
+\ELANParticipant Germán
+\trs ka iki
+\tx ka     iki
+\mb ka     ik      -i
+\gn ir     ser     -IMPF
+\ps v.intr v.intr. -suf.
+
+\ft se iba
+\sound GC-cuento.pelejo-2013.wav 23.070 23.720
+
+\ref 009
+\ELANBegin 26.610
+\ELANEnd 27.840
+\ELANParticipant Germán
+\trs naima nain
+\tx naima         nain
+\mb nain   =n     nain
+\gn pelejo =GEN   pelejo
+\ps n.     =clit. n.
+
+\ft donde el pelejo
+\sound GC-cuento.pelejo-2013.wav 26.610 27.840
+
+\ref 010
+\ELANBegin 28.400
+\ELANEnd 29.340
+\ELANParticipant Germán
+\trs nain merati a
+\tx nain   merati        a
+\mb nain   merati        a
+\gn pelejo enamorado(SK) ese
+\ps n.     n.            dem
+
+\ft el pelejo era su enamorado
+\sound GC-cuento.pelejo-2013.wav 28.400 29.340
+
+\ref 011
+\ELANBegin 29.945
+\ELANEnd 30.915
+\ELANParticipant Germán
+\trs nain merati a
+\tx nain   merati        a
+\mb nain   merati        a
+\gn pelejo enamorado(SK) ese
+\ps n.     n.            dem
+
+\ft el pelejo era su enamorado
+\sound GC-cuento.pelejo-2013.wav 29.945 30.915
+
+\ref 012
+\ELANBegin 34.010
+\ELANEnd 35.120
+\ELANParticipant Germán
+\trs paranti
+\tx paranti
+\mb paranti
+\gn plátano
+\ps n.
+
+\ft el plátano
+\sound GC-cuento.pelejo-2013.wav 34.010 35.120
+
+\ref 013
+\ELANBegin 35.450
+\ELANEnd 36.840
+\ELANParticipant Germán
+\trs yometsoxon nato
+\tx yometsoxon           nato
+\mb yometso   -xon       nato
+\gn robar(SK) -S/A>A(SK) este(SK)
+\ps v.        -suf.      dem.
+
+\ft robando esto
+\sound GC-cuento.pelejo-2013.wav 35.450 36.840
+
+\ref 014
+\ELANBegin 36.960
+\ELANEnd 37.920
+\ELANParticipant Germán
+\trs hoshiaxonai
+\tx hoshiaxonai
+\mb hoshin   -a        -xon       -ai
+\gn rojo(SK) -FACT(SK) -S/A>A(SK) -IMPF(SK)
+\ps adj.     -suf.     -suf.      -suf.
+
+\ft lo hacía madurar
+\sound GC-cuento.pelejo-2013.wav 36.960 37.920
+
+\ref 015
+\ELANBegin 39.215
+\ELANEnd 40.085
+\ELANParticipant Germán
+\trs paranta ipoin
+\tx paranta      ipoin
+\mb paranta      ipon     -i
+\gn plátano(SK) esconder -IMPF
+\ps n.           v.       -suf.
+
+\ft escondiendo el plátano
+\sound GC-cuento.pelejo-2013.wav 39.215 40.085
+
+\ref 016
+\ELANBegin 40.215
+\ELANEnd 41.295
+\ELANParticipant Germán
+\trs ahí está ipoin
+\tx ahí está ipoin
+\mb ahí está ipon     -i
+\gn ahí está esconder -IMPF
+\ps adv. v.    v.       -suf.
+
+\ft escondiéndolo
+\sound GC-cuento.pelejo-2013.wav 40.215 41.295
+
+\ref 017
+\ELANBegin 41.990
+\ELANEnd 42.810
+\ELANParticipant Germán
+\trs ipoan itian
+\tx ipoan itian
+\mb ipon       -a     ik      =tian
+\gn esconder   -NOMLZ ser     =TEMP(SK)
+\ps v.         -suf.  v.intr. =clit.
+
+\ft cuando lo escondía
+\sound GC-cuento.pelejo-2013.wav 41.990 42.810
+
+\ref 018
+\ELANBegin 44.320
+\ELANEnd 45.470
+\ELANParticipant Germán
+\trs haton iboboan
+\tx haton        iboboan
+\mb hato    =n   ibo    =bo   =n
+\gn 3PL(SK) =GEN dueño =PLU  =ERG
+\ps pron.   =clitn.     =clit =clit.
+
+\ft los dueños
+\sound GC-cuento.pelejo-2013.wav 44.320 45.470
+
+\ref 019
+\ELANBegin 46.060
+\ELANEnd 46.920
+\ELANParticipant Germán
+\trs paranta
+\tx paranta
+\mb paranta
+\gn plátano(SK)
+\ps n.
+
+\ft el plátano
+\sound GC-cuento.pelejo-2013.wav 46.060 46.920
+
+\ref 020
+\ELANBegin 47.265
+\ELANEnd 47.945
+\ELANParticipant Germán
+\trs rotoai
+\tx rotoai
+\mb roto             -ai
+\gn no.encontrar(SK) -IMPF(SK)
+\ps v.               -suf.
+
+\ft no lo encontraban
+\sound GC-cuento.pelejo-2013.wav 47.265 47.945
+
+\ref 021
+\ELANBegin 49.820
+\ELANEnd 50.460
+\ELANParticipant Germán
+\trs rotoai
+\tx rotoai
+\mb roto             -ai
+\gn no.encontrar(SK) -IMPF(SK)
+\ps v.               -suf.
+
+\ft no lo encontraban
+\sound GC-cuento.pelejo-2013.wav 49.820 50.460
+
+\ref 022
+\ELANBegin 51.325
+\ELANEnd 51.995
+\ELANParticipant Germán
+\trs hatian
+\tx hatian
+\mb hatian
+\gn entonces(SK)
+\ps conec.
+\ft entonces
+\sound GC-cuento.pelejo-2013.wav 51.325 51.995
+
+\ref 023
+\ELANBegin 52.150
+\ELANEnd 53.770
+\ELANParticipant Germán
+\trs tsonki paranta yometsoai
+\tx tsonki               paranta      yometsoai
+\mb tso    =n     =ki    paranta      yometso   -ai
+\gn quién =ERG   =INT   plátano(SK) robar(SK) -IMPF(SK)
+\ps pron.  =clit. =clit. n.           v.        -suf.
+
+\ft ¿quién se ha robado mi plátano?
+\sound GC-cuento.pelejo-2013.wav 52.150 53.770
+
+\ref 024
+\ELANBegin 55.625
+\ELANEnd 56.955
+\ELANParticipant Germán
+\trs tsonki paranta yometsoai
+\tx tsonki               paranta      yometsoai
+\mb tso    =n     =ki    paranta      yometso   -ai
+\gn quién =ERG   =INT   plátano(SK) robar(SK) -IMPF(SK)
+\ps pron.  =clit. =clit. n.           v.        -suf.
+
+\ft ¿quién se ha robado mi plátano?
+\sound GC-cuento.pelejo-2013.wav 55.625 56.955
+
+\ref 025
+\ELANBegin 58.790
+\ELANEnd 60.240
+\ELANParticipant Germán
+\trs michapanin yometsoai
+\tx michapanin     yometsoai
+\mb michapa =n     yometso   -ai
+\gn sonso   =ERG   robar(SK) -IMPF(SK)
+\ps adj.    =clit. v.        -suf.
+
+\ft el sonso lo ha robado
+\sound GC-cuento.pelejo-2013.wav 58.790 60.240
+
+\ref 026
+\ELANBegin 61.820
+\ELANEnd 63.470
+\ELANParticipant Germán
+\trs nain nain ainbo
+\tx nain   nain   ainbo
+\mb nain   nain   ainbo
+\gn pelejo pelejo mujer
+\ps n.     n.     n.
+
+\ft para el pelejo hembra
+\sound GC-cuento.pelejo-2013.wav 61.820 63.470
+
+\ref 027
+\ELANBegin 64.650
+\ELANEnd 65.310
+\ELANParticipant Germán
+\trs honexonki
+\tx honexonki
+\mb hone         -xon       =ki
+\gn esconder(SK) -S/A>A(SK) =REP
+\ps v.           -suf.      =clit.
+
+\ft lo ha escondido
+\sound GC-cuento.pelejo-2013.wav 64.650 65.310
+
+\ref 028
+\ELANBegin 65.575
+\ELANEnd 66.575
+\ELANParticipant Germán
+\trs hoshin kokomanoxon
+\tx hoshin     kokomanoxon
+\mb hoshin     koko        -ma   -no   -xon
+\gn maduro(SK) comer.fruta -CAUS -LOC  -S/A>A(SK)
+\ps adj.       v.          -suf. -suf. -suf.
+
+\ft para hacerle comer maduro
+\sound GC-cuento.pelejo-2013.wav 65.575 66.575
+
+\ref 029
+\ELANBegin 70.710
+\ELANEnd 73.290
+\ELANParticipant Germán
+\trs i iki atian michapa onankanai
+\tx i       iki           atian
+\mb ik      ik      -i    atian
+\gn ser     ser     -IMPF entonces
+\ps v.intr. v.intr. -suf. conec
+
+\tx michapa onankanai
+\mb michapa onan    -kan  -ai
+\gn sonso   conocer -PLU  -IMPF(SK)
+\ps adj.    v.tran  -suj. -suf.
+
+\ft entonces ya conocían al sonso
+\sound GC-cuento.pelejo-2013.wav 70.710 73.290
+
+\ref 030
+\ELANBegin 73.725
+\ELANEnd 74.625
+\ELANParticipant Germán
+\trs onankanai
+\tx onankanai
+\mb onan    -kan  -ai
+\gn conocer -PLU  -IMPF(SK)
+\ps v.tran  -suj. -suf.
+
+\ft ya lo conocían
+\sound GC-cuento.pelejo-2013.wav 73.725 74.625
+
+\ref 031
+\ELANBegin 75.980
+\ELANEnd 76.950
+\ELANParticipant Germán
+\trs ha yometsoaitian
+\tx ha      yometsoaitian
+\mb ha      yometso   -ai       =tian
+\gn ese(SK) robar(SK) -IMPF(SK) =TEMP(SK)
+\ps dem     v.        -suf.     =clit.
+
+\ft cuando el robaba el plátano
+\sound GC-cuento.pelejo-2013.wav 75.980 76.950
+
+\ref 032
+\ELANBegin 77.060
+\ELANEnd 77.830
+\ELANParticipant Germán
+\trs paranta yometsoai
+\tx paranta      yometsoai
+\mb paranta      yometso   -ai
+\gn plátano(SK) robar(SK) -IMPF(SK)
+\ps n.           v.        -suf.
+
+\ft se robaba el plátano
+\sound GC-cuento.pelejo-2013.wav 77.060 77.830
+
+\ref 033
+\ELANBegin 79.060
+\ELANEnd 79.900
+\ELANParticipant Germán
+\trs chitei
+\tx chitei
+\mb chite     -i
+\gn encontrar -SUJ>S:SIM
+\ps v.        -suf.
+
+\ft cuando lo encontraban
+\sound GC-cuento.pelejo-2013.wav 79.060 79.900
+
+\ref 034
+\ELANBegin 80.065
+\ELANEnd 80.815
+\ELANParticipant Germán
+\trs pechibainkanai
+\tx pechibainkanai
+\mb pechi     -bain       -kan  -ai
+\gn encontrar -yendo:TRAN -PLU  -IMPF(SK)
+\ps v.        -suf.       -suj. -suf.
+
+\ft iban a espiarlo
+\sound GC-cuento.pelejo-2013.wav 80.065 80.815
+
+\ref 035
+\ELANBegin 81.715
+\ELANEnd 83.105
+\ELANParticipant Germán
+\trs pechibakanai iboboan
+\tx pechibakanai                     iboboan
+\mb pechi     -ba    -kan  -ai       ibo    =bo   =n
+\gn encontrar -ahora -PLU  -IMPF(SK) dueño =PLU  =ERG
+\ps v.        -suf.  -suj. -suf.     n.     =clit =clit.
+
+\ft lo espiaban los dueños
+\sound GC-cuento.pelejo-2013.wav 81.715 83.105
+
+\ref 036
+\ELANBegin 84.465
+\ELANEnd 85.445
+\ELANParticipant Germán
+\trs pechibainxonki
+\tx pechibainxonki
+\mb pechi     -bain       -xon       =ki
+\gn encontrar -yendo:TRAN -S/A>A(SK) =REP
+\ps v.        -suf.       -suf.      =clit.
+
+\ft cuando lo escuchaban
+\sound GC-cuento.pelejo-2013.wav 84.465 85.445
+
+\ref 037
+\ELANBegin 86.090
+\ELANEnd 86.860
+\ELANParticipant Germán
+\trs oinkanai
+\tx oinkanai
+\mb oin    -kan  -ai
+\gn ver    -PLU  -IMPF(SK)
+\ps v.ambi -suj. -suf.
+
+\ft veían
+\sound GC-cuento.pelejo-2013.wav 86.090 86.860
+
+\ref 038
+\ELANBegin 87.780
+\ELANEnd 88.470
+\ELANParticipant Germán
+\trs westiora
+\tx westiora
+\mb westiora
+\gn uno(SK)
+\ps num.
+
+\ft un
+\sound GC-cuento.pelejo-2013.wav 87.780 88.470
+
+\ref 039
+\ELANBegin 89.090
+\ELANEnd 90.690
+\ELANParticipant Germán
+\trs iwi ani iwi
+\tx iwi    ani        iwi
+\mb iwi    ani        iwi
+\gn árbol grande(SK) árbol
+\ps n.     adj.       n.
+
+\ft un álbol grande
+\sound GC-cuento.pelejo-2013.wav 89.090 90.690
+
+\ref 040
+\ELANBegin 92.034
+\ELANEnd 94.054
+\ELANParticipant Germán
+\trs boba boban ewa boba bobaisinoa
+\tx boba   boban         ewa   boba   bobaisinoa
+\mb boba   boba   =n     ewa   boba   boba   -isi  -no   -a
+\gn coposo coposo =GEN   madre coposo coposo -AUG  -LOC  -ABL
+\ps adj.   adj.   =clit. n.    adj.   adj.   -suf. -suf. -suf
+
+\ft en un árbol muy coposo y muy grande
+\sound GC-cuento.pelejo-2013.wav 92.034 94.054
+
+\ref 041
+\ELANBegin 95.389
+\ELANEnd 96.269
+\ELANParticipant Germán
+\trs hainronki ika iki
+\tx hainronki         ika            iki
+\mb hain     =ronki   ik      =ka    ik      -i
+\gn ahí(SK) =REP(SK) estar   =NAR   copula  -IMPF
+\ps adv.     =clit.   v.intr. =clit. v.intr. -suf.
+
+\ft ahí estaba
+\sound GC-cuento.pelejo-2013.wav 95.389 96.269
+
+\ref 042
+\ELANBegin 96.984
+\ELANEnd 97.554
+\ELANParticipant Germán
+\trs ha nain
+\tx ha      nain
+\mb ha      nain
+\gn ese(SK) pelejo
+\ps dem     n.
+
+\ft ese pelejo
+\sound GC-cuento.pelejo-2013.wav 96.984 97.554
+
+\ref 043
+\ELANBegin 99.174
+\ELANEnd 99.944
+\ELANParticipant Germán
+\trs nain awin
+\tx nain   awin
+\mb nain   awin
+\gn pelejo esposa
+\ps n.     n.
+
+\ft la mujer pelejo
+\sound GC-cuento.pelejo-2013.wav 99.174 99.944
+
+\ref 044
+\ELANBegin 102.880
+\ELANEnd 103.560
+\ELANParticipant Germán
+\trs nain awin
+\tx nain   awin
+\mb nain   awin
+\gn pelejo esposa
+\ps n.     n.
+
+\ft la mujer pelejo
+\sound GC-cuento.pelejo-2013.wav 102.880 103.560
+
+\ref 045
+\ELANBegin 105.570
+\ELANEnd 107.670
+\ELANParticipant Germán
+\trs hainronki keenai michapanin keenai
+\tx hainronki         keenai           michapanin     keenai
+\mb hain     =ronki   keen   -ai       michapa =n     keen   -ai
+\gn ahí(SK) =REP(SK) llamar -IMPF(SK) sonso   =ERG   llamar -IMPF(SK)
+\ps adv.     =clit.   v.     -suf.     adj.    =clit. v.     -suf.
+
+\ft ahi el sonso lo llamaba
+\sound GC-cuento.pelejo-2013.wav 105.570 107.670
+
+\ref 046
+\ELANBegin 107.855
+\ELANEnd 109.675
+\ELANParticipant Germán
+\trs hawen nain awinki keenai
+\tx hawen   nain   awinki        keenai
+\mb hawen   nain   awin   =ki    keen   -ai
+\gn 3SG:GEN pelejo esposa =REP   llamar -IMPF(SK)
+\ps pron.   n.     n.     =clit. v.     -suf.
+
+\ft llamaba a su mujer pelejo
+\sound GC-cuento.pelejo-2013.wav 107.855 109.675
+
+\ref 047
+\ELANBegin 114.280
+\ELANEnd 116.260
+\ELANParticipant Germán
+\trs rexo bawi aronki
+\tx rexo bawi     aronki
+\mb rexo bawi     ak          =ronki
+\gn nombre.propio decir(TRAN) =REP(SK)
+\ps n             v.tran.     =clit.
+
+\ft le decía rexo wabi
+\sound GC-cuento.pelejo-2013.wav 114.280 116.260
+
+\ref 048
+\ELANBegin 117.735
+\ELANEnd 119.145
+\ELANParticipant Germán
+\trs rexo bawi
+\tx rexo bawi
+\mb rexo bawi
+\gn nombre.propio
+\ps n
+
+\ft rexo bawi
+\sound GC-cuento.pelejo-2013.wav 117.735 119.145
+
+\ref 049
+\ELANBegin 121.610
+\ELANEnd 123.080
+\ELANParticipant Germán
+\trs rexo bawi
+\tx rexo bawi
+\mb rexo bawi
+\gn nombre.propio
+\ps n
+
+\ft rexowawin
+\sound GC-cuento.pelejo-2013.wav 121.610 123.080
+
+\ref 050
+\ELANBegin 124.660
+\ELANEnd 125.520
+\ELANParticipant Germán
+\trs hatian
+\tx hatian
+\mb hatian
+\gn entonces(SK)
+\ps conec.
+
+\ft entonces
+\sound GC-cuento.pelejo-2013.wav 124.660 125.520
+
+\ref 051
+\ELANBegin 126.345
+\ELANEnd 127.325
+\ELANParticipant Germán
+\trs rexo bawi contesta
+\tx rexo bawi     contesta
+\mb rexo bawi     contesta
+\gn nombre.propio contesta
+\ps n             v.
+
+\ft rexowawin contesta
+\sound GC-cuento.pelejo-2013.wav 126.345 127.325
+
+\ref 052
+\ELANBegin 127.700
+\ELANEnd 128.840
+\ELANParticipant Germán
+\trs shhhhhhhh
+\tx shhhhhhhh
+\mb shhhhhhhh
+\gn shhhhhhhhhhh
+\ps inter.
+
+\ft shhhhhhhh [onomatopeia del sonido del pelejo]
+\sound GC-cuento.pelejo-2013.wav 127.700 128.840
+
+\ref 053
+\ELANBegin 131.215
+\ELANEnd 132.235
+\ELANParticipant Germán
+\trs shhhhhhhh
+\tx shhhhhhhh
+\mb shhhhhhhh
+\gn shhhhhhhhhhh
+\ps inter.
+
+\ft shhhhhhhh [onomatopeia del sonido del pelejo]
+\sound GC-cuento.pelejo-2013.wav 131.215 132.235
+
+\ref 054
+\ELANBegin 135.090
+\ELANEnd 137.190
+\ELANParticipant Germán
+\trs ainoax rexo bawi paketai
+\tx ainoax                      rexo bawi     paketai
+\mb ain       -no   -a   =x     rexo bawi     paket      -ai
+\gn ahí(MIX) -LOC  -ABL =S     nombre.propio caerse(SK) -IMPF(SK)
+\ps adv.      -suf. -suf =clit. n             v.         -suf.
+
+\ft de ahi rexowawin bajaba
+\sound GC-cuento.pelejo-2013.wav 135.090 137.190
+
+\ref 055
+\ELANBegin 141.300
+\ELANEnd 142.880
+\ELANParticipant Germán
+\trs paketianki ibon
+\tx paketianki                  ibon
+\mb paket      =tian     =ki    ibo    =n
+\gn caerse(SK) =TEMP(SK) =REP   dueño =ERG
+\ps v.         =clit.    =clit. n.     =clit.
+
+\ft cuando bajaba, el dueño
+\sound GC-cuento.pelejo-2013.wav 141.300 142.880
+
+\ref 056
+\ELANBegin 143.825
+\ELANEnd 145.635
+\ELANParticipant Germán
+\trs awen awen meratinin
+\tx awen    awen    meratinin
+\mb awen    awen    merati        =n
+\gn 3SG:GEN 3SG:GEN enamorado(SK) =ERG
+\ps pron    pron    n.            =clit.
+
+\ft su enamorado (el sonso)
+\sound GC-cuento.pelejo-2013.wav 143.825 145.635
+
+\ref 057
+\ELANBegin 147.155
+\ELANEnd 148.105
+\ELANParticipant Germán
+\trs menia oshin
+\tx menia      oshin
+\mb meni -a    onshi
+\gn dar  -PERF maduro
+\ps v.   -suf. adj.
+
+\ft le daba su maduro
+\sound GC-cuento.pelejo-2013.wav 147.155 148.105
+
+\ref 058
+\ELANBegin 149.145
+\ELANEnd 149.555
+\ELANParticipant Germán
+\trs ya
+\tx ya
+\mb ya
+\gn ya(CAS)
+\ps adv
+
+\ft ya
+\sound GC-cuento.pelejo-2013.wav 149.145 149.555
+
+\ref 059
+\ELANBegin 150.755
+\ELANEnd 151.785
+\ELANParticipant Germán
+\trs aska askata iki
+\tx aska askata iki
+\mb aska askata ik      -i
+\gn así así   ser     -IMPF
+\ps adv. adv.   v.intr. -suf.
+
+\ft entonces
+\sound GC-cuento.pelejo-2013.wav 150.755 151.785
+
+\ref 060
+\ELANBegin 153.595
+\ELANEnd 155.115
+\ELANParticipant Germán
+\trs rexo bawi retenakanai
+\tx rexo  bawi    retenakanai
+\mb rexo bawi     rete      -ana -kan  -ai
+\gn nombre.propio matar(SK) -MAL -PLU  -IMPF(SK)
+\ps n             v.        -suf -suj. -suf.
+
+\ft le matan a rexo bawin
+\sound GC-cuento.pelejo-2013.wav 153.595 155.115
+
+\ref 061
+\ELANBegin 155.680
+\ELANEnd 157.010
+\ELANParticipant Germán
+\trs ha wai wai iboboan
+\tx ha      wai    wai    iboboan
+\mb ha      wai    wai    ibo    =bo   =n
+\gn ese(SK) chacra chacra dueño =PLU  =ERG
+\ps dem     n.     n.     n.     =clit =clit.
+
+\ft los dueños de las chacras
+\sound GC-cuento.pelejo-2013.wav 155.680 157.010
+
+\ref 062
+\ELANBegin 157.580
+\ELANEnd 158.440
+\ELANParticipant Germán
+\trs paranti iboboan
+\tx paranti  iboboan
+\mb paranti  ibo    =bo   =n
+\gn plátano dueño =PLU  =ERG
+\ps n.       n.     =clit =clit.
+
+\ft los dueños del plátano
+\sound GC-cuento.pelejo-2013.wav 157.580 158.440
+
+\ref 063
+\ELANBegin 159.495
+\ELANEnd 160.115
+\ELANParticipant Germán
+\trs ainki
+\tx ainki
+\mb ain       =ki
+\gn ahí(MIX) =REP
+\ps conec.    =clit.
+
+\ft entonces
+\sound GC-cuento.pelejo-2013.wav 159.495 160.115
+
+\ref 064
+\ELANBegin 161.110
+\ELANEnd 162.070
+\ELANParticipant Germán
+\trs paranti
+\tx paranti
+\mb paranti
+\gn plátano
+\ps n.
+
+\ft el plátano
+\sound GC-cuento.pelejo-2013.wav 161.110 162.070
+
+\ref 065
+\ELANBegin 162.645
+\ELANEnd 163.895
+\ELANParticipant Germán
+\trs hoshin kokotian awen chain
+\tx hoshin     kokotian              awen
+\mb hoshin     koko        =tian     awen
+\gn maduro(SK) comer.fruta =TEMP(SK) 3SG:GEN
+\ps adj.       v.          =clit.    pron
+
+\tx chain
+\mb chai    =n
+\gn cuñado =ERG
+\ps n.      =clit.
+
+\ft cuando estaba comiendo maduro, su cuñado
+\sound GC-cuento.pelejo-2013.wav 162.645 163.895
+
+\ref 066
+\ELANBegin 164.715
+\ELANEnd 166.425
+\ELANParticipant Germán
+\trs awen chainki pechibainai
+\tx awen
+\mb awen
+\gn 3SG:GEN
+\ps pron
+
+\tx chainki               pechibainai
+\mb chai    =n     =ki    pechi     -bain       -ai
+\gn cuñado =ERG   =REP   encontrar -yendo:TRAN -IMPF(SK)
+\ps n.      =clit. =clit. v.        -suf.       -suf.
+
+\ft su cuñado lo espió
+\sound GC-cuento.pelejo-2013.wav 164.715 166.425
+
+\ref 067
+\ELANBegin 167.215
+\ELANEnd 168.515
+\ELANParticipant Germán
+\trs pechibain kaxon hatian
+\tx pechibain             kaxon             hatian
+\mb pechi     -bain       ka     -xon       hatian
+\gn encontrar -yendo:TRAN ir     -S/A>A(SK) entonces(SK)
+\ps v.        -suf.       v.intr -suf.      conec.
+
+\ft yando a espiarle entonces
+\sound GC-cuento.pelejo-2013.wav 167.215 168.515
+
+\ref 068
+\ELANBegin 169.240
+\ELANEnd 170.370
+\ELANParticipant Germán
+\trs kaxon retenanai
+\tx kaxon             retenanai
+\mb ka     -xon       rete      -anan -ai
+\gn ir     -S/A>A(SK) matar(SK) -MAL  -IMPF(SK)
+\ps v.intr -suf.      v.        -suf  -suf.
+
+\ft yendo lo mató
+\sound GC-cuento.pelejo-2013.wav 169.240 170.370
+
+\ref 069
+\ELANBegin 171.290
+\ELANEnd 171.800
+\ELANParticipant Germán
+\trs keenaxon
+\tx keenaxon
+\mb keena  -xon
+\gn llamar -S/A>A(SK)
+\ps v.     -suf.
+
+\ft llamándolo
+\sound GC-cuento.pelejo-2013.wav 171.290 171.800
+
+\ref 070
+\ELANBegin 171.940
+\ELANEnd 173.470
+\ELANParticipant Germán
+\trs rexo bawi
+\tx rexo bawi
+\mb rexo bawi
+\gn nombre.propio
+\ps n
+
+\ft rexowawin
+\sound GC-cuento.pelejo-2013.wav 171.940 173.470
+
+\ref 071
+\ELANBegin 174.320
+\ELANEnd 175.840
+\ELANParticipant Germán
+\trs rexo bawi
+\tx rexo bawi
+\mb rexo bawi
+\gn nombre.propio
+\ps n
+
+\ft rexowawin
+\sound GC-cuento.pelejo-2013.wav 174.320 175.840
+
+\ref 072
+\ELANBegin 177.045
+\ELANEnd 177.545
+\ELANParticipant Germán
+\trs aka kai
+\tx aka           kai
+\mb ak      -a    ka     -i
+\gn hacer   -PERF ir     -SUJ>S:SIM
+\ps v.tran. -suf. v.intr -suf.
+
+\ft lo mataron yendo
+\sound GC-cuento.pelejo-2013.wav 177.045 177.545
+
+\ref 073
+\ELANBegin 177.660
+\ELANEnd 178.680
+\ELANParticipant Germán
+\trs shhhhhhhh
+\tx shhhhhhhh
+\mb shhhhhhhh
+\gn shhhhhhhhhhh
+\ps inter.
+
+\ft shhhhhhh
+\sound GC-cuento.pelejo-2013.wav 177.660 178.680
+
+\ref 074
+\ELANBegin 180.155
+\ELANEnd 181.365
+\ELANParticipant Germán
+\trs shhhhhhhh ikai
+\tx shhhhhhhh    ikai
+\mb shhhhhhhh    ik         -ai
+\gn shhhhhhhhhhh decir:INTR -IMPF(SK)
+\ps inter.       v.intr.    -suf.
+
+\ft shhhhhhh decía
+\sound GC-cuento.pelejo-2013.wav 180.155 181.365
+
+\ref 075
+\ELANBegin 182.760
+\ELANEnd 183.980
+\ELANParticipant Germán
+\trs hain pakeketianki
+\tx hain     pakeketianki
+\mb hain     paket      -ketian          =ki
+\gn ahí(SK) caerse(SK) -SUJ.DIF:SIM(SK) =REP
+\ps adv.     v.         -suf             =clit.
+
+\ft cuando bajo
+\sound GC-cuento.pelejo-2013.wav 182.760 183.980
+
+\ref 076
+\ELANBegin 185.030
+\ELANEnd 185.820
+\ELANParticipant Germán
+\trs marekanai moa
+\tx marekanai             moa
+\mb mare  -kan  -ai       moa
+\gn matar -PLU  -IMPF(SK) ya
+\ps v.    -suj. -suf.     adv
+
+\ft ya lo mató
+\sound GC-cuento.pelejo-2013.wav 185.030 185.820
+
+\ref 077
+\ELANBegin 185.920
+\ELANEnd 186.490
+\ELANParticipant Germán
+\trs toh
+\tx toh
+\mb toh
+\gn ideófono.cortar.algo.duro
+\ps ideo.
+
+\ft toh [onomatopeia del golpe]
+\sound GC-cuento.pelejo-2013.wav 185.920 186.490
+
+\ref 078
+\ELANBegin 187.510
+\ELANEnd 188.670
+\ELANParticipant Germán
+\trs marei ma toh
+\tx marei       ma  toh
+\mb mare  -i    ma  toh
+\gn matar -IMPF ya  ideófono.cortar.algo.duro
+\ps v.    -suf. adv ideo.
+
+\ft lo mató [onomatopeia del golpe]
+\sound GC-cuento.pelejo-2013.wav 187.510 188.670
+
+\ref 079 
+\ELANBegin 189.530
+\ELANEnd 190.930
+\ELANParticipant Germán
+\trs ma rexo bawi mahka moa
+\tx ma  rexo bawi     mahka  moa
+\mb ma  rexo bawi     mahka  moa
+\gn ya  nombre.propio muerto ya(SK)
+\ps adv n             adj.   adv
+
+\ft entonces murió rexowawin
+\sound GC-cuento.pelejo-2013.wav 189.530 190.930
+
+\ref 080
+\ELANBegin 191.295
+\ELANEnd 191.695
+\ELANParticipant Germán
+\trs mawa
+\tx mawa
+\mb mawa
+\gn muerto(SK)
+\ps adj.
+
+\ft murió
+\sound GC-cuento.pelejo-2013.wav 191.295 191.695
+
+\ref 081
+\ELANBegin 193.890
+\ELANEnd 196.100
+\ELANParticipant Germán
+\trs hain akiribi michapa kaxon oina
+\tx hain     akiribi                  michapa kaxon             oina
+\mb hain     ak      -i     =ribi     michapa ka     -xon       oin    -a
+\gn ahí(SK) hacer   -NOMLZ =también sonso   ir     -S/A>A(SK) ver    -PERF
+\ps adv.     v.tran. -suf.  =clit.    adj.    v.intr -suf.      v.ambi -suf.
+
+\ft entonces el sonso yendo lo vio
+\sound GC-cuento.pelejo-2013.wav 193.890 196.100
+
+\ref 082
+\ELANBegin 197.440
+\ELANEnd 198.880
+\ELANParticipant Germán
+\trs ma rexo bawi yama moa
+\tx ma  rexo bawi     yama moa
+\mb ma  rexo bawi     yama moa
+\gn ya  nombre.propio NEG  ya(SK)
+\ps adv n             adv  adv
+
+\ft rexowawin ya no estaba
+\sound GC-cuento.pelejo-2013.wav 197.440 198.880
+
+\ref 083
+\ELANBegin 200.345
+\ELANEnd 201.925
+\ELANParticipant Germán
+\trs ma ma retekana
+\tx ma  ma  retekana
+\mb ma  ma  rete      =ka    -anan
+\gn ya  ya  matar(SK) =NAR   -MAL
+\ps adv adv v.        =clit. -suf
+
+\ft ya lo habían matado
+\sound GC-cuento.pelejo-2013.wav 200.345 201.925
+
+\ref 084
+\ELANBegin 202.920
+\ELANEnd 205.510
+\ELANParticipant Germán
+\trs ma retexon hatian hainoax hohoai moa
+\tx ma  retexon              hatian       hainoax
+\mb ma  rete      -xon       hatian       hainoax
+\gn ya  matar(SK) -S/A>A(SK) entonces(SK) después.de.eso
+\ps adv v.        -suf.      conec.       conec.
+
+\tx hohoai           moa
+\mb hoho   -ai       moa
+\gn llorar -IMPF(SK) ya(SK)
+\ps v.     -suf.     adv
+
+\ft estaba muerto ahí y entonces el sonso ha llorado
+\sound GC-cuento.pelejo-2013.wav 202.920 205.510
+
+\ref 085
+\ELANBegin 207.360
+\ELANEnd 209.210
+\ELANParticipant Germán
+\trs tsawe koahontanwe tsawe koahontanwe
+\tx tsawe   koahontanwe                 tsawe   koahontanwe
+\mb tsawe   koa    -hon  -tan  -we      tsawe   koa    -hon  -tan  -we
+\gn cuñada quemar -BEN  -ANDA -IMP(SK) cuñada quemar -BEN  -ANDA -IMP(SK)
+\ps n.      v.     -suf. -suf. -suf.    n.      v.     -suf. -suf. -suf.
+
+\ft "anda a quemar a tu cuñada"
+\sound GC-cuento.pelejo-2013.wav 207.360 209.210
+
+\ref 086
+\ELANBegin 209.640
+\ELANEnd 210.690
+\ELANParticipant Germán
+\trs tsawe koahontanwe
+\tx tsawe   koahontanwe
+\mb tsawe   koa    -hon  -tan  -we
+\gn cuñada quemar -BEN  -ANDA -IMP(SK)
+\ps n.      v.     -suf. -suf. -suf.
+
+\ft "anda a quemar a tu cuñada"
+\sound GC-cuento.pelejo-2013.wav 209.640 210.690
+
+\ref 087
+\ELANBegin 211.020
+\ELANEnd 212.780
+\ELANParticipant Germán
+\trs tsawe koahontanwe awen nane yoiki
+\tx tsawe   koahontanwe                 awen    nane    yoiki
+\mb tsawe   koa    -hon  -tan  -we      awen    nane    yoi     =ki
+\gn cuñada quemar -BEN  -ANDA -IMP(SK) 3SG:GEN hermana contar  =REP
+\ps n.      v.     -suf. -suf. -suf.    pron    n.      v.tran. =clit.
+
+\ft "anda a quemar a tu cuñada" y a su hermana le dijo
+\sound GC-cuento.pelejo-2013.wav 211.020 212.780
+
+\ref 088
+\ELANBegin 213.830
+\ELANEnd 214.660
+\ELANParticipant Germán
+\trs awen naneki
+\tx awen    naneki
+\mb awen    nane    =ki
+\gn 3SG:GEN hermana =REP
+\ps pron    n.      =clit.
+
+\ft a su hermana
+\sound GC-cuento.pelejo-2013.wav 213.830 214.660
+
+\ref 089
+\ELANBegin 216.100
+\ELANEnd 218.500
+\ELANParticipant Germán
+\trs awerano kairi tsawe koahontanpa
+\tx awerano     kairi                 tsawe
+\mb awerano     ka     -i    =ri      tsawe
+\gn dónde(MIX) ir     -IMPF =COP.INT cuñada
+\ps pal.int.    v.intr -suf. =clit    n.
+
+\tx koahontanpa
+\mb koa    -hon  -tan  -pa
+\gn quemar -BEN  -ANDA -FUT
+\ps v.     -suf. -suf. -suf.
+
+\ft ¿donde está para que queme a mi cuñada?
+\sound GC-cuento.pelejo-2013.wav 216.100 218.500
+
+\ref 090
+\ELANBegin 219.235
+\ELANEnd 219.995
+\ELANParticipant Germán
+\trs oani kairi tsawe
+\tx oani     kairi                 tsawe
+\mb oani     ka     -i    =ri      tsawe
+\gn dónde   ir     -IMPF =COP.INT cuñada
+\ps pal.int. v.intr -suf. =clit    n.
+
+\ft ¿donde está mi cuñada?
+\sound GC-cuento.pelejo-2013.wav 219.235 219.995
+
+\ref 091
+\ELANBegin 220.130
+\ELANEnd 221.180
+\ELANParticipant Germán
+\trs tsawe koahontanpa
+\tx tsawe   koahontanpa
+\mb tsawe   koa    -hon  -tan  -pa
+\gn cuñada quemar -BEN  -ANDA -FUT
+\ps n.      v.     -suf. -suf. -suf.
+
+\ft para quemar a mi cuñada
+\sound GC-cuento.pelejo-2013.wav 220.130 221.180
+
+\ref 092
+\ELANBegin 222.610
+\ELANEnd 223.620
+\ELANParticipant Germán
+\trs tsawe koahontanwe
+\tx tsawe   koahontanwe
+\mb tsawe   koa    -hon  -tan  -we
+\gn cuñada quemar -BEN  -ANDA -IMP(SK)
+\ps n.      v.     -suf. -suf. -suf.
+
+\ft anda a quemar a tu cuñada
+\sound GC-cuento.pelejo-2013.wav 222.610 223.620
+
+\ref 093
+\ELANBegin 224.600
+\ELANEnd 228.130
+\ELANParticipant Germán
+\trs tsawe koahontanwe, tsawe koahontanwe, tsawe koahontanwe
+\tx tsawe   koahontanwe,                tsawe
+\mb tsawe   koa    -hon  -tan  -we      tsawe
+\gn cuñada quemar -BEN  -ANDA -IMP(SK) cuñada
+\ps n.      v.     -suf. -suf. -suf.    n.
+
+\tx koahontanwe,                tsawe
+\mb koa    -hon  -tan  -we      tsawe
+\gn quemar -BEN  -ANDA -IMP(SK) cuñada
+\ps v.     -suf. -suf. -suf.    n.
+
+\tx koahontanwe
+\mb koa    -hon  -tan  -we
+\gn quemar -BEN  -ANDA -IMP(SK)
+\ps v.     -suf. -suf. -suf.
+
+\ft anda a quemar a tu cuñada, anda a quemar a tu cuñada, anda a 
+quemar a tu cuñada
+\sound GC-cuento.pelejo-2013.wav 224.600 228.130
+
+\ref 094
+\ELANBegin 229.740
+\ELANEnd 231.010
+\ELANParticipant Germán
+\trs awen nane oin oini
+\tx awen    nane    oin    oini
+\mb awen    nane    oin    oin    -i
+\gn 3SG:GEN hermana ver    ver    -IMPF
+\ps pron    n.      v.ambi v.ambi -suf.
+
+\ft su hermana ha visto bien
+\sound GC-cuento.pelejo-2013.wav 229.740 231.010
+
+\ref 095
+\ELANBegin 231.730
+\ELANEnd 233.250
+\ELANParticipant Germán
+\trs hoxon hoxon oinaka ma
+\tx hoxon                hoxon                oinaka              ma
+\mb ho        -xon       ho        -xon       oin    -a    =ka    ma
+\gn venir(SK) -S/A>A(SK) venir(SK) -S/A>A(SK) ver    -PERF =NAR   ya
+\ps v.        -suf.      v.        -suf.      v.ambi -suf. =clit. adv
+
+\ft viniendo viniendo la ha visto
+\sound GC-cuento.pelejo-2013.wav 231.730 233.250
+
+\ref 096
+\ELANBegin 234.960
+\ELANEnd 238.330
+\ELANParticipant Germán
+\trs nain mawata moa retekana hoshin iboboan
+\tx nain   mawata           moa
+\mb nain   mawat     -a     moa
+\gn pelejo morir(SK) -NOMLZ ya(SK)
+\ps n.     v.        -suf.  adv
+
+\tx retekana               hoshin   iboboan
+\mb rete      =ka    -anan hoshin   ibo    =bo   =n
+\gn matar(SK) =NAR   -MAL  rojo(SK) dueño =PLU  =ERG
+\ps v.        =clit. -suf  adj.     n.     =clit =clit.
+
+\ft al pelejo muerto ya lo habían matado los dueños del maduro
+\sound GC-cuento.pelejo-2013.wav 234.960 238.330
+
+\ref 097
+\ELANBegin 241.620
+\ELANEnd 242.810
+\ELANParticipant Germán
+\trs Ahí nomás termina
+\tx Ahí nomás termina
+\ft ahí nomás termina
+\sound GC-cuento.pelejo-2013.wav 241.620 242.810
+
+
+\ELANMediaURL file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/GC-cuento.pelejo-2013.mpg
+\ELANMediaMIME video/mpeg
+\ELANMediaURL file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/GC-cuento.pelejo-2013.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaExtracted file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/GC-cuento.pelejo-2013.mpg

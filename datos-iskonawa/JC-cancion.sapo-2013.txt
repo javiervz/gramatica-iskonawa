@@ -1,0 +1,248 @@
+\_sh v3.0  400  text
+
+\ref 001
+\trs Ya, ahora sí, con Juanita. Tu canción.
+\tx Ya,     ahora sí, con Juanita. Tu canción.
+
+\ft Ya, ahora sí, con Juanita. Tu canción.
+\ELANBegin 2.000
+\ELANEnd 4.130
+\ELANParticipant Roberto
+\sound JC-cancion.sapo-2013.wav 2.000 4.130
+
+\ref 002
+\trs Tae winowinori.
+\tx Tae winowinori.
+\mb tae wino         - wino         =ri
+\gn pie ser.desigual - ser.desigual =CON
+\ps n.  v.           - v.           =clit
+
+\ft pies desiguales
+\ELANBegin 5.060
+\ELANEnd 6.280
+\ELANParticipant Juanita
+\sound JC-cancion.sapo-2013.wav 5.060 6.280
+
+\ref 003
+\trs Atsa taho chikehpi.
+\tx Atsa taho         chikehpi.
+\mb atsa taho         chi-     kehpi
+\gn yuca palo.de.yuca trasero- carne
+\ps n.   n.           pref.-   n.
+
+\ft su carne de atrás (parece) palo de yuca
+\ELANBegin 6.280
+\ELANEnd 7.400
+\ELANParticipant Juanita
+\sound JC-cancion.sapo-2013.wav 6.280 7.400
+
+\ref 004
+\trs Tae winowinori.
+\tx Tae winowinori.
+\mb tae wino         - wino         =ri
+\gn pie ser.desigual - ser.desigual =CON
+\ps n.  v.           - v.           =clit
+
+\ft pies desiguales
+\ELANBegin 7.400
+\ELANEnd 8.520
+\ELANParticipant Juanita
+\sound JC-cancion.sapo-2013.wav 7.400 8.520
+
+\ref 005
+\trs Tae winowinori.
+\tx Tae    winowinori.
+\mb tae    wino         - wino         =ri
+\gn pierna ser.desigual - ser.desigual =CON
+\ps n.     v.           - v.           =clit
+
+\ft pies desiguales.
+\ELANBegin 8.520
+\ELANEnd 9.640
+\ELANParticipant Juanita
+\sound JC-cancion.sapo-2013.wav 8.520 9.640
+
+\ref 006
+\trs Atsa taho chikehpi.
+\tx Atsa taho         chikehpi.
+\mb atsa taho         chi-     kehpi
+\gn yuca palo.de.yuca trasero- carne
+\ps n.   n.           pref.-   n.
+
+\ft su carne de atrás (parece) palo de yuca
+\ELANBegin 9.640
+\ELANEnd 10.756
+\ELANParticipant Juanita
+\sound JC-cancion.sapo-2013.wav 9.640 10.756
+
+\ref 007
+\trs Atsa taho chikehpi.
+\tx Atsa taho         chikehpi.
+\mb atsa taho         chi-     kehpi
+\gn yuca palo.de.yuca trasero- carne
+\ps n.   n.           pref.-   n.
+
+\ft su carne de atrás (parece) palo de yuca
+\ELANBegin 10.756
+\ELANEnd 11.878
+\ELANParticipant Juanita
+\sound JC-cancion.sapo-2013.wav 10.756 11.878
+
+\ref 008
+\trs Tae winowinori.
+\tx Tae    winowinori.
+\mb tae    wino         - wino         =ri
+\gn pierna ser.desigual - ser.desigual =CON
+\ps n.     v.           - v.           =clit
+
+\ft pies desiguales
+\ELANBegin 11.878
+\ELANEnd 13.027
+\ELANParticipant Juanita
+\sound JC-cancion.sapo-2013.wav 11.878 13.027
+
+\ref 009
+\trs Tae winowinori.
+\tx Tae    winowinori.
+\mb tae    wino         - wino         =ri
+\gn pierna ser.desigual - ser.desigual =CON
+\ps n.     v.           - v.           =clit
+
+\ft pies desiguales
+\ELANBegin 13.027
+\ELANEnd 14.108
+\ELANParticipant Juanita
+\sound JC-cancion.sapo-2013.wav 13.027 14.108
+
+\ref 010
+\trs Atsa taho chikehpi.
+\tx Atsa taho         chikehpi.
+\mb atsa taho         chi-     kehpi
+\gn yuca palo.de.yuca trasero- carne
+\ps n.   n.           pref.-   n.
+
+\ft su carne de atrás (parece) palo de yuca
+\ELANBegin 14.108
+\ELANEnd 15.283
+\ELANParticipant Juanita
+\sound JC-cancion.sapo-2013.wav 14.108 15.283
+
+\ref 011
+\trs Atsa taho chikehpi.
+\tx Atsa taho         chikehpi.
+\mb atsa taho         chi-     kehpi
+\gn yuca palo.de.yuca trasero- carne
+\ps n.   n.           pref.-   n.
+
+\ft su carne de atrás (parece) palo de yuca
+\ELANBegin 15.283
+\ELANEnd 16.472
+\ELANParticipant Juanita
+\sound JC-cancion.sapo-2013.wav 15.283 16.472
+
+\ref 012
+\trs Tae winowinori.
+\tx Tae winowinori.
+\mb tae wino         - wino         =ri
+\gn pie ser.desigual - ser.desigual =CON
+\ps n.  v.           - v.           =clit
+
+\ft pies desiguales
+\ELANBegin 16.472
+\ELANEnd 17.648
+\ELANParticipant Juanita
+\sound JC-cancion.sapo-2013.wav 16.472 17.648
+
+\ref 013
+\trs Tae winowinori.
+\tx Tae winowinori.
+\mb tae wino         - wino         =ri
+\gn pie ser.desigual - ser.desigual =CON
+\ps n.  v.           - v.           =clit
+
+\ft pies desiguales
+\ELANBegin 17.648
+\ELANEnd 18.680
+\ELANParticipant Juanita
+\sound JC-cancion.sapo-2013.wav 17.648 18.680
+
+\ref 014
+\trs Atsa taho chikehpi.
+\tx Atsa taho         chikehpi.
+\mb atsa taho         chi-     kehpi
+\gn yuca palo.de.yuca trasero- carne
+\ps n.   n.           pref.-   n.
+
+\ft su carne de atrás (parece) palo de yuca
+\ELANBegin 18.720
+\ELANEnd 19.799
+\ELANParticipant Juanita
+\sound JC-cancion.sapo-2013.wav 18.720 19.799
+
+\ref 015
+\trs Atsa taho chikehpi.
+\tx Atsa taho         chikehpi.
+\mb atsa taho         chi-     kehpi
+\gn yuca palo.de.yuca trasero- carne
+\ps n.   n.           pref.-   n.
+
+\ft su carne de atrás (parece) palo de yuca
+\ELANBegin 19.799
+\ELANEnd 21.027
+\ELANParticipant Juanita
+\sound JC-cancion.sapo-2013.wav 19.799 21.027
+
+\ref 016
+\trs Tae winowinori.
+\tx Tae winowinori.
+\mb tae wino         - wino         =ri
+\gn pie ser.desigual - ser.desigual =CON
+\ps n.  v.           - v.           =clit
+
+\ft pies desiguales
+\ELANBegin 21.027
+\ELANEnd 22.378
+\ELANParticipant Juanita
+\sound JC-cancion.sapo-2013.wav 21.027 22.378
+
+\ref 017
+\trs Tae winowinori.
+\tx Tae winowinori.
+\mb tae wino         - wino         -ri
+\gn pie ser.desigual - ser.desigual -todavía
+\ps n.  v.           - v.           -adv.
+
+\ft pies desiguales
+\ELANBegin 22.378
+\ELANEnd 23.445
+\ELANParticipant Juanita
+\sound JC-cancion.sapo-2013.wav 22.378 23.445
+
+\ref 018
+\trs Tae winowinori.
+\tx Tae winowinori.
+\mb tae wino         - wino         =ri
+\gn pie ser.desigual - ser.desigual =CON
+\ps n.  v.           - v.           =clit
+
+\ft pies desiguales.
+\ELANBegin 23.445
+\ELANEnd 24.339
+\ELANParticipant Juanita
+\sound JC-cancion.sapo-2013.wav 23.445 24.339
+
+\ref 019
+\trs Ahí, nomás. Ya.
+\tx Ahí, nomás. Ya.
+\ft Ahí, nomás. Ya.
+\ELANBegin 24.390
+\ELANEnd 25.450
+\ELANParticipant Juanita
+\sound JC-cancion.sapo-2013.wav 24.390 25.450
+
+
+\ELANMediaURL file:///D:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC-cancion.sapo-2013.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaExtracted file:///D:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC-cancion.sapo-2013.mpg
+\ELANMediaURL file:///D:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC-cancion.sapo-2013.mpg
+\ELANMediaMIME video/mpeg

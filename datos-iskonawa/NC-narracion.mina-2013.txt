@@ -1,0 +1,469 @@
+\_sh v3.0  400  text
+
+\ref 001
+\ELANBegin 0.680
+\ELANEnd 3.160
+\ELANParticipant Jaime
+\trs estamos acá con Nelita también
+\tx estamos acá con Nelita también
+\ft estamos acá con Nelita también
+\sound NC-narracion.mina-2013.wav 0.680 3.160
+
+\ref 002
+\ELANBegin 3.910
+\ELANEnd 5.370
+\ELANParticipant Jaime
+\trs y vamos a
+\tx y vamos a
+\ft y vamos a
+\sound NC-narracion.mina-2013.wav 3.910 5.370
+
+\ref 003
+\ELANBegin 5.770
+\ELANEnd 12.170
+\ELANParticipant Jaime
+\trs a acordarnos en iskonawa nos va a contar cómo se hacía la miná
+\tx a acordarnos en iskonawa nos va a contar cómo se hacía la miná
+\ft a acordarnos en iskonawa nos va a contar cómo se hacía la miná
+\sound NC-narracion.mina-2013.wav 5.770 12.170
+
+\ref 004
+\ELANBegin 13.020
+\ELANEnd 13.780
+\ELANParticipant Nelita
+\trs ajá
+\tx ajá
+\ft ajá
+\sound NC-narracion.mina-2013.wav 13.020 13.780
+
+\ref 005
+\ELANBegin 14.830
+\ELANEnd 17.390
+\ELANParticipant Nelita
+\trs nonka heki heki apaoni
+\tx nonka              heki  heki  apaoni
+\mb no   =n     =ka    heki  heki  ak      -paoni
+\gn 1PL  =GEN   =NAR   maíz maíz hacer   -PAS.REM:IMPF
+\ps pron =clit. =clit. n.    n.    v.tran. -suf.
+
+\ft Nosotros, antiaguamente cultivábamos maíz
+\sound NC-narracion.mina-2013.wav 14.830 17.390
+
+\ref 006
+\ELANBegin 18.180
+\ELANEnd 20.090
+\ELANParticipant Nelita
+\trs minahon ayapaoni
+\tx minahon                 ayapaoni
+\mb miná        -hon       aya    -paoni
+\gn chicha.suave -SUJ>A:SIM tomar  -PAS.REM:IMPF
+\ps n.           -suf.      v.tran -suf.
+
+\ft después de hacer miná, nosotros (la) tomábamos
+\sound NC-narracion.mina-2013.wav 18.180 20.090
+
+\ref 007
+\ELANBegin 20.580
+\ELANEnd 25.150
+\ELANParticipant Nelita
+\trs okon ahon renehon miná okon ahon renehon
+\tx okon    ahon               renehon
+\mb okon    ak      -hon       rene  -hon
+\gn crecido hacer   -SUJ>A:SIM moler -SUJ>A:SIM
+\ps adj.    v.tran. -suf.      v.    -suf.
+
+\tx miná         okon    ahon
+\mb miná         okon    ak      -hon
+\gn chicha.suave  crecido hacer   -SUJ>A:SIM
+\ps n.            adj.    v.tran. -suf.
+
+\tx renehon
+\mb rene  -hon
+\gn moler -SUJ>A:SIM
+\ps v.    -suf.
+
+\ft 
+
+\ft después de que crecía molíamos el miná, cuando crecía molíamos
+
+\sound NC-narracion.mina-2013.wav 20.580 25.150
+
+\ref 008
+\ELANBegin 25.540
+\ELANEnd 26.440
+\ELANParticipant Nelita
+\trs beponhon
+\tx beponhon
+\mb bepon             -hon
+\gn mezclar.líquidos -SUJ>A:SIM
+\ps v.                -suf.
+
+\ft mezclábamos
+\sound NC-narracion.mina-2013.wav 25.540 26.440
+
+\ref 009
+\ELANBegin 27.590
+\ELANEnd 30.470
+\ELANParticipant Nelita
+\trs a beponhon a pekao bebehne ketian pichai
+\tx a   beponhon                     a   pekao
+\mb a   bepon             -hon       a   pekao
+\gn ese mezclar.líquidos -SUJ>A:SIM ese después(SK)
+\ps dem v.                -suf.      dem post.
+
+\tx bebehneketian                pichai
+\mb behne behne -ketian          picha   -i
+\gn claro claro -SUJ.DIF:SIM(SK) cocinar -IMPF
+\ps adj.  adj.  -suf             v.      -suf.
+
+\ft eso (lo) mezclabamos y después de que se hacía clarito (lo) 
+cocinábamos
+\sound NC-narracion.mina-2013.wav 27.590 30.470
+
+\ref 010
+\ELANBegin 31.300
+\ELANEnd 33.160
+\ELANParticipant Nelita
+\trs pichanhon ayapaoni
+\tx pichanhon                ayapaoni
+\mb pichan        -hon       aya    -paoni
+\gn cocinar.carne -SUJ>A:SIM tomar  -PAS.REM:IMPF
+\ps v.tran.       -suf.      v.tran -suf.
+
+\ft después de que cocinábamos, (la) tomábamos
+\sound NC-narracion.mina-2013.wav 31.300 33.160
+
+\ref 011
+\ELANBegin 33.900
+\ELANEnd 36.340
+\ELANParticipant Nelita
+\trs non non apaoni champeh
+\tx non         non         apaoni
+\mb no   =n     no   =n     ak      -paoni
+\gn 1PL  =ERG   1PL  =ERG   hacer   -PAS.REM:IMPF
+\ps pron =clit. pron =clit. v.tran. -suf.
+
+\tx champeh
+\mb champeh
+\gn chicha.dulce.maiz.no.maduro
+\ps n.
+
+\ft nosotros hacíamos otra bebida (llamada) "champeh"
+\sound NC-narracion.mina-2013.wav 33.900 36.340
+
+\ref 012
+\ELANBegin 36.870
+\ELANEnd 38.510
+\ELANParticipant Nelita
+\trs non champehhon ayapaoni
+\tx non         champehhon
+\mb no   =n     champeh                     -hon
+\gn 1PL  =ERG   chicha.dulce.maiz.no.maduro -SUJ>A:SIM
+\ps pron =clit. n.                          -suf.
+
+\tx ayapaoni
+\mb aya    -paoni
+\gn tomar  -PAS.REM:IMPF
+\ps v.tran -suf.
+
+\ft después de hacer champeh, nosotros (lo) tomábamos
+\sound NC-narracion.mina-2013.wav 36.870 38.510
+
+\ref 013
+\ELANBegin 39.720
+\ELANEnd 43.460
+\ELANParticipant Nelita
+\trs champeh ainoa misi ahon non pipaoni
+\tx champeh                     ainoa                misi   ahon               non         pipaoni
+\mb champeh                     ain       -no   -a   misi   ak      -hon       no   =n     pi      -paoni
+\gn chicha.dulce.maiz.no.maduro ahí(MIX) -LOC  -ABL humita hacer   -SUJ>A:SIM 1PL  =GEN   comer   -PAS.REM:IMPF
+\ps n.                          adv.      -suf. -suf n.     v.tran. -suf.      pron =clit. v.tran. -suf.
+
+\ft preparábamos el champeh, hacíamos la humita y nosotros (la) 
+comíamos
+\sound NC-narracion.mina-2013.wav 39.720 43.460
+
+\ref 014
+\ELANBegin 44.320
+\ELANEnd 45.480
+\ELANParticipant Nelita
+\trs tonko misi
+\tx tonko   misi
+\mb tonko   misi
+\gn redondo humita
+\ps adj.    n.
+
+\ft (era) redonda la humita
+\sound NC-narracion.mina-2013.wav 44.320 45.480
+
+\ref 015
+\ELANBegin 46.620
+\ELANEnd 47.390
+\ELANParticipant Nelita
+\trs taba
+\tx taba
+\mb taba
+\gn tortilla.de.maíz
+\ps n.
+
+\ft tortilla de maiz
+\sound NC-narracion.mina-2013.wav 46.620 47.390
+
+\ref 016
+\ELANBegin 49.600
+\ELANEnd 50.800
+\ELANParticipant Nelita
+\trs tonkoboka ha
+\tx tonkoboka            ha
+\mb tonko   =bo   =ka    ha
+\gn redondo =PLU  =NAR   ese(SK)
+\ps adj.    =clit =clit. dem
+
+\ft esas (eran) redondas
+\sound NC-narracion.mina-2013.wav 49.600 50.800
+
+\ref 017
+\ELANBegin 51.110
+\ELANEnd 51.940
+\ELANParticipant Nelita
+\trs taba
+\tx taba
+\mb taba
+\gn tortilla.de.maíz
+\ps n.
+
+\ft tortilla de maiz
+\sound NC-narracion.mina-2013.wav 51.110 51.940
+
+\ref 018
+\ELANBegin 53.410
+\ELANEnd 55.370
+\ELANParticipant Nelita
+\trs taba habo non apaoni
+\tx taba              habo          non
+\mb taba              ha      =bo   no   =n
+\gn tortilla.de.maíz ese(SK) =PLU  1PL  =GEN
+\ps n.                dem     =clit pron =clit.
+
+\tx apaoni
+\mb ak      -paoni
+\gn hacer   -PAS.REM:IMPF
+\ps v.tran. -suf.
+
+\ft nosotros hacíamos esas tortillas de maíz
+\sound NC-narracion.mina-2013.wav 53.410 55.370
+
+\ref 019
+\ELANBegin 57.010
+\ELANEnd 59.160
+\ELANParticipant Nelita
+\trs askahon non pipaoni
+\tx askahon         non         pipaoni
+\mb aska -hon       no   =n     pi      -paoni
+\gn así -SUJ>A:SIM 1PL  =ERG   comer   -PAS.REM:IMPF
+\ps adv. -suf.      pron =clit. v.tran. -suf.
+
+\ft después de hacer, nosotros comíamos
+\sound NC-narracion.mina-2013.wav 57.010 59.160
+
+\ref 020
+\ELANBegin 59.630
+\ELANEnd 61.460
+\ELANParticipant Nelita
+\trs minahon pae ahon
+\tx minahon                 pae        ahon
+\mb miná        -hon       pae        ak      -hon
+\gn chicha.suave -SUJ>A:SIM fermentado hacer   -SUJ>A:SIM
+\ps n.           -suf.      adj.       v.tran. -suf.
+
+\ft después hacíamos miná, (lo) fermentábamos
+\sound NC-narracion.mina-2013.wav 59.630 61.460
+
+\ref 021
+\ELANBegin 63.030
+\ELANEnd 63.830
+\ELANParticipant Nelita
+\trs ares ma
+\tx ares           ma
+\mb a   -res       ma
+\gn ese -solamente ya(SK)
+\ps dem -suf.      adv
+
+\ft eso es todo
+\sound NC-narracion.mina-2013.wav 63.030 63.830
+
+\ref 022
+\ELANBegin 65.440
+\ELANEnd 66.340
+\ELANParticipant Nelita
+\trs es todo
+\tx es todo
+\ft es todo
+\sound NC-narracion.mina-2013.wav 65.440 66.340
+
+\ref 023
+\ELANBegin 67.900
+\ELANEnd 74.820
+\ELANParticipant Jaime
+\trs y ahora Nelita ¿puedes contarnos en castellano? un poquito lo 
+mismo para explicarnos lo que has dicho
+\tx y ahora Nelita ¿puedes contarnos en castellano? un poquito lo 
+mismo para explicarnos lo que has dicho
+\ft y ahora Nelita ¿puedes contarnos en castellano? un poquito lo 
+mismo para explicarnos lo que has dicho
+\sound NC-narracion.mina-2013.wav 67.900 74.820
+
+\ref 024
+\ELANBegin 77.600
+\ELANEnd 79.620
+\ELANParticipant Nelita
+\trs nosotros comía maiz
+\tx nosotros comía maiz
+\ft nosotros comía maiz
+\sound NC-narracion.mina-2013.wav 77.600 79.620
+
+\ref 025
+\ELANBegin 80.600
+\ELANEnd 83.950
+\ELANParticipant Nelita
+\trs ha hecho remojando el agua
+\tx ha hecho remojando el agua
+\ft ha hecho remojando el agua
+\sound NC-narracion.mina-2013.wav 80.600 83.950
+
+\ref 026
+\ELANBegin 85.260
+\ELANEnd 89.390
+\ELANParticipant Nelita
+\trs cuando crecía le mordía con piedra
+\tx cuando crecía le mordía con piedra
+\ft cuando crecía le mordía con piedra
+\sound NC-narracion.mina-2013.wav 85.260 89.390
+
+\ref 027
+\ELANBegin 90.860
+\ELANEnd 98.510
+\ELANParticipant Nelita
+\trs haciendo mezclado con maduro de plátano maduro mezclado ahí comía
+\tx
+\ft 
+
+\tx haciendo mezclado con maduro de plátano maduro mezclado ahí comía
+\ft haciendo mezclado con maduro de plátano maduro mezclado ahí comía
+
+\sound NC-narracion.mina-2013.wav 90.860 98.510
+
+\ref 028
+\ELANBegin 98.650
+\ELANEnd 100.380
+\ELANParticipant Nelita
+\trs no tomaba
+\tx no tomaba
+\ft no tomaba
+\sound NC-narracion.mina-2013.wav 98.650 100.380
+
+\ref 029
+\ELANBegin 100.620
+\ELANEnd 102.000
+\ELANParticipant Nelita
+\trs nosotros tomaba
+\tx nosotros tomaba
+\ft nosotros tomaba
+\sound NC-narracion.mina-2013.wav 100.620 102.000
+
+\ref 030
+\ELANBegin 102.380
+\ELANEnd 104.340
+\ELANParticipant Nelita
+\trs nosotros hacía también humita
+\tx nosotros hacía también humita
+\ft nosotros hacía también humita
+\sound NC-narracion.mina-2013.wav 102.380 104.340
+
+\ref 031
+\ELANBegin 105.980
+\ELANEnd 107.490
+\ELANParticipant Nelita
+\trs haciendo humita
+\tx haciendo humita
+\ft haciendo humita
+\sound NC-narracion.mina-2013.wav 105.980 107.490
+
+\ref 032
+\ELANBegin 108.560
+\ELANEnd 111.480
+\ELANParticipant Nelita
+\trs humita se llamaba misi
+\tx humita se llamaba misi
+\ft humita se llamaba misi
+\sound NC-narracion.mina-2013.wav 108.560 111.480
+
+\ref 033
+\ELANBegin 111.930
+\ELANEnd 114.300
+\ELANParticipant Nelita
+\trs ya está de antes hemos contado ya
+\tx ya está de antes hemos contado ya
+\ft ya está de antes hemos contado ya
+\sound NC-narracion.mina-2013.wav 111.930 114.300
+
+\ref 034
+\ELANBegin 115.710
+\ELANEnd 117.430
+\ELANParticipant Nelita
+\trs humita comía
+\tx humita comía
+\ft humita comía
+\sound NC-narracion.mina-2013.wav 115.710 117.430
+
+\ref 035
+\ELANBegin 118.930
+\ELANEnd 119.850
+\ELANParticipant Nelita
+\trs opi
+\tx opi
+\ft opi
+\sound NC-narracion.mina-2013.wav 118.930 119.850
+
+\ref 036
+\ELANBegin 120.830
+\ELANEnd 123.380
+\ELANParticipant Nelita
+\trs también moti también ya
+\tx también moti también ya
+\ft también moti también ya
+\sound NC-narracion.mina-2013.wav 120.830 123.380
+
+\ref 037
+\ELANBegin 123.460
+\ELANEnd 124.990
+\ELANParticipant Nelita
+\trs hacía nosotros
+\tx hacía nosotros
+\ft hacía nosotros
+\sound NC-narracion.mina-2013.wav 123.460 124.990
+
+\ref 038
+\ELANBegin 125.860
+\ELANEnd 127.810
+\ELANParticipant Nelita
+\trs ese todo ya mi vida
+\tx ese todo ya mi vida
+\ft ese todo ya mi vida
+\sound NC-narracion.mina-2013.wav 125.860 127.810
+
+\ref 039
+\ELANBegin 128.280
+\ELANEnd 129.410
+\ELANParticipant Jaime
+\trs gracias
+\tx gracias
+\ft gracias
+\sound NC-narracion.mina-2013.wav 128.280 129.410
+
+
+\ELANMediaURL file:///E:/documentos/iskonawa/basededatos-iskonawa procesada/data/NC-narracion.mina-2013.mpg
+\ELANMediaMIME video/mpeg
+\ELANMediaExtracted file:///E:/documentos/iskonawa/basededatos-iskonawa procesada/data/NC-narracion.mina-2013.mpg
+\ELANMediaURL file:///E:/documentos/iskonawa/basededatos-iskonawa procesada/data/NC-narracion.mina-2013.wav
+\ELANMediaMIME audio/x-wav

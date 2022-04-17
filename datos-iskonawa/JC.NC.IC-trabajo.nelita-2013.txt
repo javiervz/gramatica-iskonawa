@@ -1,0 +1,4417 @@
+\_sh v3.0  579  text
+
+\ref 001
+\trs ¿Ya?
+\tx ¿Ya?
+\mb ya
+\gn ya(CAS)
+\ps adv
+
+\ft ¿Ya?
+\ELANBegin 3.340
+\ELANEnd 3.790
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 3.340 3.790
+
+\ref 002
+\trs Entonces, ahora Nelita nos va a contar su.., su historia de lo que va a trabajar el 2013, ¿no es cierto? Cómo va a ser su trabajo, en dónde va a estar, si en Callería, cómo va a reunirse con sus familiares isconahuas, todo lo que va a hacer. Pero como un cuento nos va a contar, ¿no es cierto?
+\tx Entonces, ahora Nelita nos va a contar su.., su historia de lo que va a trabajar el 2013, ¿no es cierto? Cómo va a ser su trabajo, en dónde va a estar, si en Callería, cómo va a reunirse con sus familiares isconahuas, todo lo que va a hacer. Pero como un cuento nos va a contar, ¿no es cierto?
+\mb
+
+\ft Entonces, ahora Nelita nos va a contar su.., su historia de lo que va a trabajar el 2013, ¿no es cierto? Cómo va a ser su trabajo, en dónde va a estar, si en Callería, cómo va a reunirse con sus familiares isconahuas, todo lo que va a hacer. Pero como un cuento nos va a contar, ¿no es cierto?
+\ELANBegin 4.173
+\ELANEnd 23.043
+\ELANParticipant Roberto
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 4.173 23.043
+
+\ref 003
+\trs Mhm.. ya.
+\tx Mhm.. ya.
+\ft Mhm.. ya.
+\ELANBegin 23.061
+\ELANEnd 23.578
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 23.061 23.578
+
+\ref 004
+\trs Ea shinamanon xawe.
+\tx Ea          shinamanonxawe.
+\mb ea          shinan -ma   -non  -xa  -we
+\gn 1SG.ABS(SK) pensar -CAUS -PROP -*** -IMP(SK)
+\ps pron.       v.     -suf. -suf. -*** -suf.
+
+\ft hazme recordar
+\ELANBegin 24.226
+\ELANEnd 25.502
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 24.226 25.502
+
+\ref 005
+\trs Ya.
+\tx Ya.
+\ft Ya.
+\ELANBegin 25.488
+\ELANEnd 25.826
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 25.488 25.826
+
+\ref 006
+\trs ¿Ya?
+\tx ¿Ya?
+\ft ¿Ya?
+\ELANBegin 27.480
+\ELANEnd 28.000
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 27.480 28.000
+
+\ref 007
+\trs Hatian en enra ma enra ma shínanai. Ea ainbo. Ea ainbo riki iskó ainbo.
+\tx Hatian       en        enra                 ma
+\mb hatian       en        en        =ra        ma
+\gn entonces(SK) 1SG:A(SK) 1SG:A(SK) =EVID1(SK) ya
+\ps conec.       pron      pron      =clit.     adv
+
+\tx shinanai         enra                 ma
+\mb shinan -ai       en        =ra        ma
+\gn pensar -IMPF(SK) 1SG:A(SK) =EVID1(SK) ya
+\ps v.     -suf.     pron      =clit.     adv
+
+\tx shinanai.        Eah   ainbo. Eah   ainbo
+\mb shinan -ai       eah   ainbo  eah   ainbo
+\gn pensar -IMPF(SK) 1SG:S mujer  1SG:S mujer
+\ps v.     -suf.     pron. n.     pron. n.
+
+\tx riki    isko   ainbo.
+\mb riki    isko   ainbo
+\gn COP(SK) paucar mujer
+\ps part.   n.     n.
+
+\ft Entonces yo… estoy recordando ahora. Soy una mujer. Soy una mujer. Soy una mujer iskonawa.
+\ELANBegin 31.796
+\ELANEnd 41.738
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 31.796 41.738
+
+\ref 008
+\trs Isko ainbo ihon enra ma shinanai dos mil trece.
+\tx Isko   ainbo ihon
+\mb isko   ainbo ik      -hon
+\gn paucar mujer copula  -SUJ>A:SIM
+\ps n.     n.    v.intr. -suf.
+
+\tx enra                 ma  shinanai
+\mb en        =ra        ma  shinan -ai
+\gn 1SG:A(SK) =EVID1(SK) ya  pensar -IMPF(SK)
+\ps pron      =clit.     adv v.     -suf.
+
+\tx dos       mil       trece.
+\mb dos       mil       trece
+\gn dos(CAST) mil(CAST) trece(CAST)
+\ps num       num.      num.
+
+\ft Siendo una mujer iskonawa yo piendo ahora en el dos mil trece.
+\ELANBegin 42.670
+\ELANEnd 46.545
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 42.670 46.545
+
+\ref 009
+\trs Eahbiribi eweti ewen kaibo  ewen kayabo tsinkintana. Earibi ewekasi.
+\tx Eahbiribi              eweti         ewen
+\mb eah   =bi    =ribi     ewe    -ti    ewen
+\gn 1SG:S =ENF   =también vivir  -NOMLZ 1SG:GEN
+\ps pron. =clit. =clit.    v.intr -suf.  pron.
+
+\tx kaibo    ewen    kayabo
+\mb kaibo    ewen    kayabo
+\gn pariente 1SG:GEN pariente(SK)
+\ps n.       pron.   n.
+
+\tx tsinkin-tan-a.          Earibi
+\mb tsinkin     -tan  -a    ea          =ribi
+\gn agrupar(SK) -ANDA -PERF 1SG.ABS(SK) =también
+\ps v.          -suf. -suf. pron.       =clit.
+
+\tx ewekasi.
+\mb ewe    -kas  -i
+\gn vivir  -DES  -IMPF
+\ps v.intr -suf. -suf.
+
+\ft Yo también quiero vivir con mi familia, reunida junto a mi familia. Yo así, pues, también quiero vivir.
+\ELANBegin 47.427
+\ELANEnd 55.004
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 47.427 55.004
+
+\ref 010
+\trs Atian eahka ma shipibo iba miran miran ikashamain eah, shipibo iba miran ikashamain.
+\tx Atian    eahka        ma  shipibo iba                      miran
+\mb atian    eah   =ka    ma  shipibo ik      -ba    -a        miran
+\gn entonces 1SG:S =NAR   ya  shipibo copula  -ahora -FACT(SK) mezclado
+\ps conec.   pron. =clit. adv n.      v.intr. -suf.  -suf.     adj
+
+\tx miran    ikashamain                    eah,  shipibo
+\mb miran    ik      -kas  -shaman   -i    eah   shipibo
+\gn mezclado copula  -DES  -INTF(SK) -IMPF 1SG:S shipibo
+\ps adj      v.intr. -suf. -suf.     -suf. pron. n.
+
+\tx iba                   miran    ikashamain.
+\mb ik      -ba    -a     miran    ik      -kas  -shaman   -i
+\gn copula  -ahora -NOMLZ mezclado copula  -DES  -INTF(SK) -IMPF
+\ps v.intr. -suf.  -suf.  adj      v.intr. -suf. -suf.     -suf.
+
+\ft Entonces yo ya no quiero vivir en ajeno donde los shipibos. Yo no quiero vivir en ajeno donde los shipibos.
+\ELANBegin 56.522
+\ELANEnd 62.567
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 56.522 62.567
+
+\ref 011
+\trs Atian nato ewen witsa nawabo iba miran ika
+\tx Atian    nato     ewen    witsa nawabo
+\mb atian    nato     ewen    witsa nawa         =bo
+\gn entonces este(SK) 1SG:GEN otro  no.indígena =PLU
+\ps conec.   dem.     pron.   adj.  n.           =clit
+
+\tx iba                   miran
+\mb ik      -ba    -a     miran
+\gn copula  -ahora -NOMLZ mezclado
+\ps v.intr. -suf.  -suf.  adj
+
+\tx ik-a-bi-ribi                    miran    ik-a.
+\mb ik      -a     =bi    =ribi     miran    ik      -a
+\gn copula  -NOMLZ =ENF   =también mezclado copula  -NOMLZ
+\ps v.intr. -suf.  =clit. =clit.    adj      v.intr. -suf.
+
+\ft Entonces, mi hermana también vive en ajeno donde los mestizos.
+\ELANBegin 62.849
+\ELANEnd 66.745
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 62.849 66.745
+
+\ref 012
+\trs Miran ika hatian.
+\tx Miran    ik-a           hatian.
+\mb miran    ik      -a     hatian
+\gn mezclado copula  -NOMLZ entonces(SK)
+\ps adj      v.intr. -suf.  conec.
+
+\ft Entonces vive en ajeno.
+\ELANBegin 68.119
+\ELANEnd 70.432
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 68.119 70.432
+
+\ref 013
+\trs Moatian ka noa kirinkonin pikohonbi noa iska akamai iki.
+\tx Moatian          ka     noa   kirinkonin     pikohonbi
+\mb moa    =tian     =ka    noa   kirinko =n     piko    -hon       =bi
+\gn ya(SK) =TEMP(SK) =NAR   1PL.P gringo  =GEN   salir   -SUJ>A:SIM =ENF
+\ps adv    =clit.    =clit. pron. n.      =clit. v.intr. -suf.      =clit.
+
+\tx noa   iska akamai                           iki.
+\mb noa   iska ak      -a     =ma    -i         ik      -i
+\gn 1PL.P así hacer   -NOMLZ =NEG   -SUJ>S:SIM copula  -IMPF
+\ps pron. adv. v.tran. -suf.  =clit. -suf.      v.intr. -suf.
+
+\ft Antiguamente, los gringos, aunque nos sacaron del monte, no nos han hecho así (no nos han enseñado).
+\ELANBegin 70.999
+\ELANEnd 75.352
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 70.999 75.352
+
+\ref 014
+\trs Noa noa riki miyah askawe ea miabiribí neno ewewe nato riki miabiribí
+ewewe akín. Noa akama. Noa kirin.
+\tx Noa   noa   riki    miah  askawe        ea
+\mb noa   noa   riki    miah  aska -we      ea
+\gn 1PL.P 1PL.P COP(SK) 2SG:S así -IMP(SK) 1SG.ABS(SK)
+\ps pron. pron. part.   pron. adv. -suf.    pron.
+
+\tx miabiribi                    neno      ewewe           nato     riki
+\mb mia         =bi    =ribi     neno      ewe    -we      nato     riki
+\gn 2SG.ABS(SK) =ENF   =también aquí(SK) vivir  -IMP(SK) este(SK) COP(SK)
+\ps pron        =clit. =clit.    adv.      v.intr -suf.    dem.     part.
+
+\tx miabiribi                    ewewe           akin.              Noa
+\mb mia         =bi    =ribi     ewe    -we      ak      -kin       noa
+\gn 2SG.ABS(SK) =ENF   =también vivir  -IMP(SK) hacer   -SUJ>A:SIM 1PL.P
+\ps pron        =clit. =clit.    v.intr -suf.    v.tran. -suf.      pron.
+
+\tx akama.                Noa   kirinkon.
+\mb ak      -a     =ma    noa   kirinko =n
+\gn hacer   -NOMLZ =NEG   1PL.P gringo  =ERG
+\ps v.tran. -suf.  =clit. pron. n.      =clit.
+
+\ft A nosotros ni "Tú haz así, tú vive aquí, tú vive en este sitio". Así no nos han dicho.
+\ELANBegin 75.352
+\ELANEnd 86.147
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 75.352 85.147
+
+\ref 015
+\trs Misioneronin noa potabainresni.
+\tx Misioneronin           noa   pota-bain-res-ni.
+\mb Misionero       =n     noa   pota  -bain       -res       -ni
+\gn misionero(CAST) =ERG   1PL.P botar -yendo:TRAN -solamente -PAS.REM
+\ps n.              =clit. pron. v.    -suf.       -suf.      -suf
+
+\ft Los misioneros se fueron dejándonos abandonados, nomás.
+\ELANBegin 85.147
+\ELANEnd 87.909
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 85.147 87.909
+
+\ref 016
+\trs Potabainihon.
+\tx Pota-bain-ni-hon
+\mb pota  -bain       -ni      -hon
+\gn botar -yendo:TRAN -PAS.REM -SUJ>A:SIM 
+\ps v.    -suf.       -suf     -suf.
+
+\ft Cuando se fueron nos dejaron botados.
+\ELANBegin 89.863
+\ELANEnd 91.181
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 89.863 91.181
+
+\ref 017
+\trs Noa potabainihon noa oinyamabobiai.
+\tx Noa   potabainihon                          noa
+\mb noa   pota  -bain       -ni      -hon       noa
+\gn 1PL.P botar -yendo:TRAN -PAS.REM -SUJ>A:SIM 1PL.P
+\ps pron. v.    -suf.       -suf     -suf.      pron.
+
+\tx oinyamabobiai.
+\mb oin    -yama    =bo   =bi    -ai
+\gn ver    -NEG(SK) =PLU  =ENF   -IMPF(SK)
+\ps v.ambi -suf.    =clit =clit. -suf.
+
+\ft A nosotros nos dejaron botados cuando se fueron. Ni siquiera nunca vienen a visitarnos.
+\ELANBegin 91.284
+\ELANEnd 94.738
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 91.284 94.738
+
+\ref 018
+\trs Noa oinyama oinyama oinyamabobi ponté oinyamabobi.
+\tx Noa   oinyama         oinyama
+\mb noa   oin    -yama    oin    -yama
+\gn 1PL.P ver    -NEG(SK) ver    -NEG(SK)
+\ps pron. v.ambi -suf.    v.ambi -suf.
+
+\tx oinyamabobi                        ponté
+\mb oin    -yama    =bo   =bi    -i    ponté
+\gn ver    -NEG(SK) =PLU  =ENF   -IMPF derecho
+\ps v.ambi -suf.    =clit =clit. -suf. adv.
+
+\tx oinyamabobi.
+\mb oin    -yama    =bo   =bi    -i
+\gn ver    -NEG(SK) =PLU  =ENF   -IMPF
+\ps v.ambi -suf.    =clit =clit. -suf.
+
+\ft Ni siquiera a vernos, a vernos, para nada, no vienen a vernos.
+\ELANBegin 95.045
+\ELANEnd 98.295
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 95.045 98.295
+
+\ref 019
+\trs Oinyamabobi.
+\tx Oinyamabobi.
+\mb oin    -yama    =bo   =bi    -i
+\gn ver    -NEG(SK) =PLU  =ENF   -IMPF
+\ps v.ambi -suf.    =clit =clit. -suf.
+
+\ft Ni siquiera vienen a ver.
+\ELANBegin 97.250
+\ELANEnd 98.318
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 97.250 98.318
+
+\ref 020
+\trs Hatian misionerobora akati apoyankin a Hinaro Rodríguez no.
+\tx Hatian       misionerobora                    akati
+\mb hatian       misionero       =bo   =ra        ak      -kati
+\gn entonces(SK) misionero(CAST) =PLU  =EVID1(SK) hacer   -PAS.REM:HAB
+\ps conec.       n.              =clit =clit.     v.tran. -suf.
+
+\tx apoyankin                  a   Hinaro     Rodríguez      no
+\mb apoyan          -kin       a   Hinaro     Rodríguez      no
+\gn apoyar(CAST>SK) -SUJ>A:SIM ese Genaro(SK) Rodriguez(CAST) 1PL
+\ps v.              -suf.      dem n.         n.              pron
+
+\ft Antes, los misioneros sí venían a apoyar. Genaro Rodríguez a ese nomás.
+\ELANBegin 98.363
+\ELANEnd 103.182
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 98.363 103.182
+
+\ref 021
+\trs Awen bake wanomakatiai.
+\tx Awen    bake  wanomakatiai.
+\mb awen    bake  wanoma -kati        -ai
+\gn 3SG:GEN niño viudo  -PAS.REM:HAB -IMPF(SK)
+\ps pron    n.    n.     -suf.        -suf.
+
+\ft A su hijo había hecho casar.
+\ELANBegin 104.272
+\ELANEnd 106.499
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 104.272 106.499
+
+\ref 022
+\trs Awen bake benomakatiai.
+\tx Awen    bake  benomakatiai.
+\mb awen    bake  beno        -ma   -kati        -ai
+\gn 3SG:GEN niño casarse(SK) -CAUS -PAS.REM:HAB -IMPF(SK)
+\ps pron    n.    v.          -suf. -suf.        -suf.
+
+\ft Había hecho casar a su hija.
+\ELANBegin 106.783
+\ELANEnd 108.897
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 106.783 108.897
+
+\ref 023
+\trs Ares apoyo akatiai.
+\tx Ares           apoyo       akatiai.
+\mb a   -res       apoyo       ak      -kati        -ai
+\gn ese -solamente apoyo(CAST) hacer   -PAS.REM:HAB -IMPF(SK)
+\ps dem -suf.      n.          v.tran. -suf.        -suf.
+
+\ft A ese, nomás, apoyaban.
+\ELANBegin 109.579
+\ELANEnd 111.533
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 109.579 111.533
+
+\ref 024
+\trs Awinyamakin
+\tx Awin=ya-ma-kin
+\mb awin   =ya    -ma   -kin
+\gn esposa =PROP  -CAUS -SUJ>A:SIM
+\ps n.     =clit. -suf. -suf.
+
+\ft Le hizo tener esposa.
+\ELANBegin 111.704
+\ELANEnd 112.499
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 111.704 112.499
+
+\ref 025
+\trs Hatian ea oinyamabobi ikatiai ha kirínkonin.
+\tx Hatian       ea          oinyamabobi
+\mb hatian       ea          oin    -yama    =bo   =bi    -i
+\gn entonces(SK) 1SG.ABS(SK) ver    -NEG(SK) =PLU  =ENF   -SUJ>S:SIM
+\ps conec.       pron.       v.ambi -suf.    =clit =clit. -suf.
+
+\tx ikatiai                        ha      kirinkonin.
+\mb ik      -kati        -ai       ha      kirinko =n
+\gn copula  -PAS.REM:HAB -IMPF(SK) ese(SK) gringo  =ERG
+\ps v.intr. -suf.        -suf.     dem     n.      =clit.
+
+\ft De ahí, los gringos, aunque sea ese, no me ven.
+\ELANBegin 112.067
+\ELANEnd 115.431
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 112.067 115.431
+
+\ref 026
+\trs Hakopiri haskara.
+\tx Hakopiri          haskara.
+\mb hakopi      =ri   haska    =ra
+\gn por.eso(SK) =CON  así(SK) =EVID1(SK)
+\ps conec.      =clit adv.     =clit.
+
+\ft Así pasó.
+\ELANBegin 115.658
+\ELANEnd 117.488
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 115.658 117.488
+
+\ref 027
+\trs Hakopi riki ea nato shipibo sharan noa miran iresa, eahribi ireska miran
+ireska.
+\tx Hakopi      riki    ea          nato     shipibo sharan   noa   miran
+\mb hakopi      riki    ea          nato     shipibo sharan   noa   miran
+\gn por.eso(SK) COP(SK) 1SG.ABS(SK) este(SK) shipibo multitud 1PL.P mezclado
+\ps conec.      part.   pron.       dem.     n.      n.       pron. adj
+
+\tx iresa.                   Eahribi         iresa                    miran
+\mb ik      -res       -a    eah   =ribi     ik      -res       -a    miran
+\gn copula  -solamente -PERF 1SG:S =también copula  -solamente -PERF mezclado
+\ps v.intr. -suf.      -suf. pron. =clit.    v.intr. -suf.      -suf. adj
+
+\tx iresa.
+\mb ik      -res       -a
+\gn copula  -solamente -PERF
+\ps v.intr. -suf.      -suf.
+
+\ft Por eso yo estoy, nomás, viviendo en ajeno, entre los shipibos. Yo también estoy en ajeno, nomás.
+\ELANBegin 117.488
+\ELANEnd 124.647
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 117.488 124.647
+
+\ref 028
+\trs Hatian nokon witsa ka nawa ibabiribi miran ika, nawabo ichamai ichamai.
+\tx Hatian       nokon       witsa ka     nawa
+\mb hatian       nokon       witsa =ka    nawa
+\gn entonces(SK) 1SG.GEN(SK) otro  =NAR   no.indígena
+\ps conec.       pron        adj.  =clit. n.
+
+\tx ibabiribi                             miran    ik-a,         nawabo
+\mb ik      -ba    -a    =bi    =ribi     miran    ik      -a    nawa         =bo
+\gn copula  -ahora -PERF =ENF   =también mezclado copula  -PERF no.indígena =PLU
+\ps v.intr. -suf.  -suf. =clit. =clit.    adj      v.intr. -suf. n.           =clit
+
+\tx ichamai            ichamai.
+\mb icha     ma  -i    icha     ma  -i
+\gn insultar ya  -IMPF insultar ya  -IMPF
+\ps v.       adv -suf. v.       adv -suf.
+
+\ft Además, mi hermana está en ajeno entre los mestizos. Los mestizos la insultan.
+\ELANBegin 124.647
+\ELANEnd 128.635
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 124.647 128.635
+
+\ref 029
+\trs ichamai nawa kehayamai kehayamai
+\tx ichamai            nawa         kehayamai       kehayamai
+\mb icha     ma  -i    nawa         kehayama  -i    kehayama  -i
+\gn insultar ya  -IMPF no.indígena mesquinar -IMPF mesquinar -IMPF
+\ps v.       adv -suf. n.           v.        -suf. v.        -suf.
+
+\ft Los mestizos insultan
+\ELANBegin 127.840
+\ELANEnd 131.499
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 127.840 131.499
+
+\ref 030
+\trs Nawa kehayamai kehayamai.
+\tx Nawa kehayamai       kehayamai.
+\mb nawa kehayama  -i    kehayama  -i
+\gn      mesquinar -IMPF mesquinar -IMPF
+\ps      v.        -suf. v.        -suf.
+
+\ft Los metizos insultan, insultan.
+\ELANBegin 129.226
+\ELANEnd 131.204
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 129.226 131.204
+
+\ref 031
+\trs Eahbiribi ka shipibo kehayama kehayamaibiribi.
+\tx Eahbiribi              ka     shipi   kehayama
+\mb eah   =bi    =ribi     =ka    shipi   kehayama
+\gn 1SG:S =ENF   =también =NAR   shipibo mezquinar
+\ps pron. =clit. =clit.    =clit. n.      v.
+
+\tx kehayamaibiribi.
+\mb kehayama  -i    =bi    =ribi
+\gn mesquinar -IMPF =ENF   =también
+\ps v.        -suf. =clit. =clit.
+
+\ft A mí solo los shipibos me insultan.
+\ELANBegin 131.204
+\ELANEnd 133.865
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 131.204 133.865
+
+\ref 032
+\trs Nawa ichamai.
+\tx Nawa         ichamai.
+\mb nawa         icha     ma  -i
+\gn no.indígena insultar ya  -IMPF
+\ps n.           v.       adv -suf.
+
+\ft (Ininteligible) Los mestizos sí insultan.
+\ELANBegin 132.340
+\ELANEnd 135.590
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 132.340 135.590
+
+\ref 033
+\trs Hatian shipibo sharan ikebika.
+\tx Hatian       shipibo  sharan   ikebika.
+\mb hatian        shipibo sharan   ik      -ke        =bi    =ka
+\gn entonces(SK)  shipibo multitud copula  -NOMLZ(SK) =ENF   =NAR
+\ps conec.        n.      n.       v.intr. -suf.      =clit. =clit.
+
+\ft De ahí en el medio de los shipibos estoy.
+\ELANBegin 135.453
+\ELANEnd 138.068
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 135.453 138.068
+
+\ref 034
+\trs Noa apoyo hawe ayamai.
+\tx Noa   apoyo       hawe      ayamai.
+\mb noa   apoyo       hawe      ak      -yama    -i
+\gn 1PL.P apoyo(CAST) cuál(SK) hacer   -NEG(SK) -IMPF
+\ps pron. n.          pal.int.  v.tran. -suf.    -suf.
+
+\ft A nosotros no nos apoya nadie.
+\ELANBegin 138.516
+\ELANEnd 140.544
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 138.516 140.544
+
+\ref 035
+\trs En nokon bake rabé ni profesionalmabo.
+\tx En        nokon       bake rabé   ni       profesionalmabo.
+\mb en        nokon       bake rabé   ni       profesional       =ma    =bo
+\gn 1SG:A(SK) 1SG.GEN(SK) hijo dos(SK) ni(CAST) profesional(CAST) =NEG   =PLU
+\ps pron      pron        n.   num.    conj.    n.                =clit. =clit
+
+\ft Tengo dos hijos pero no tienen profesión.
+\ELANBegin 140.703
+\ELANEnd 144.465
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 140.703 144.465
+
+\ref 036
+\trs Ni westiora iskobo profesional yama.
+\tx Ni       westiora iskobo       profesionalyama.
+\mb ni       westiora isko   =bo   profesional       -yama
+\gn ni(CAST) uno(SK)  paucar =PLU  profesional(CAST) -NEG(SK)
+\ps conj.    num.     n.     =clit n.                -suf.
+
+\ft Ni ningún otro iskonawa es profesional.
+\ELANBegin 144.465
+\ELANEnd 147.158
+\ELANParticipant Nelita
+\sound JC.C.IC-trabajo.Nelita-2013.wav 144.465 147.158
+
+\ref 037
+\trs Akopi riki ramabi nato dos mil trece riki moah noabiribi ewekasai nonbiribi
+nonbiribi way akahka puro iskonawabires ewekasai.
+\tx Akopi   riki    ramabi                 nato     dos       mil
+\mb akopi   riki    rama            =bi    nato     dos       mil
+\gn por.eso COP(SK) actualmente(SK) =ENF   este(SK) dos(CAST) mil(CAST)
+\ps conect. part.   adv.            =clit. dem.     num       num.
+
+\tx trece       riki    moah              noabiribi
+\mb trece       riki    moa    -ah        noa   =bi    =ribi
+\gn trece(CAST) COP(SK) ya(SK) -SUJ>S:SIM 1PL.P =ENF   =también
+\ps num.        part.   adv    -suf.      pron. =clit. =clit.
+
+\tx ewekasi            nonbiribi                    nonbiribi
+\mb ewe    -kas  -i    no   =n     =bi    =ribi     no   =n     =bi    =ribi
+\gn vivir  -DES  -IMPF 1PL  =ERG   =ENF   =también 1PL  =ERG   =ENF   =también
+\ps v.intr -suf. -suf. pron =clit. =clit. =clit.    pron =clit. =clit. =clit.
+
+\tx wai    akahka                    puro       iskonawabires
+\mb wai    ak      -ah        =ka    puro       iskonawa =bi    -res
+\gn chacra hacer   -SUJ>S:SIM =NAR   puro(CAST) iskonawa =ENF   -solamente
+\ps n.     v.tran. -suf.      =clit. adv.       n.       =clit. -suf.
+
+\tx ewekasi.
+\mb ewe    -kas  -i
+\gn vivir  -DES  -IMPF
+\ps v.intr -suf. -suf.
+
+\ft Por eso, ahora, este dos mil trece ya nosotros, también, queremos vivir y hacer una chacra puro
+isknawa, nomás, queremos vivir.
+\ELANBegin 147.726
+\ELANEnd 159.067
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 147.726 159.067
+
+\ref 038
+\trs Puro iskonawa kaheah.
+\tx Puro       iskonawa kaheah.
+\mb puro       iskonawa kahe -ah
+\gn puro(CAST) iskonawa casa -SUJ>S:SIM
+\ps adv.       n.       n.   -suf.
+
+\ft Hacer una casa puro iskonawa.
+\ELANBegin 157.590
+\ELANEnd 159.249
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 157.590 159.249
+
+\ref 039
+\trs Kaheah noa ewekasai.
+\tx Kaheah          noa   ewekasai.
+\mb kahe -ah        noa   ewe    -kas  -ai
+\gn casa -SUJ>S:SIM 1PL.P vivir  -DES  -IMPF(SK)
+\ps n.   -suf.      pron. v.intr -suf. -suf.
+
+\ft Nosotros queremos vivir en una casa.
+\ELANBegin 159.271
+\ELANEnd 160.953
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 159.271 160.953
+
+\ref 040
+\trs Kaheah ka.
+\tx Kaheah          ka.
+\mb kahe -ah        =ka
+\gn casa -SUJ>S:SIM =NAR
+\ps n.   -suf.      =clit.
+
+\ft Hacer una casa.
+\ELANBegin 161.078
+\ELANEnd 162.010
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 161.078 162.010
+
+\ref 041
+\trs Kaheah.
+\tx Kaheah.
+\mb kahe -ah
+\gn casa -SUJ>S:SIM
+\ps n.   -suf.
+
+\ft Hacer una casa.
+\ELANBegin 161.442
+\ELANEnd 162.646
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 161.442 162.646
+
+\ref 042
+\trs Kaheah non waiai.
+\tx Kaheah          non         waiai.
+\mb kahe -ah        no   =n     wai    -ai
+\gn casa -SUJ>S:SIM 1PL  =A     chacra -IMPF(SK)
+\ps n.   -suf.      pron =clit. n.     -suf.
+
+\ft Nosotros hacemos una casa y la chacra.
+\ELANBegin 163.942
+\ELANEnd 165.487
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 163.942 165.487
+
+\ref 043
+\trs Wai akai.
+\tx Wai    akai.
+\mb wai    ak      -ai
+\gn chacra hacer   -IMPF(SK)
+\ps n.     v.tran. -suf.
+
+\ft Hacemos una chacra.
+\ELANBegin 165.180
+\ELANEnd 165.930
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 165.180 165.930
+
+\ref 044
+\trs Hatian non ewekasai manoah noama shipibo iba shipibo sharan miran
+ikashamain.
+\tx Hatian       non         ewekasai                 ma  noah  noa
+\mb hatian       no   =n     ewe    -kas  -ai         ma  noah  noa
+\gn entonces(SK) 1PL  =NOM   vivir  -DES  -IMPF(SK)   ya  1PL:S 1PL:NOM
+\ps conec.       pron =clit. v.intr -suf. -suf.       adv pron. pron.
+
+\tx ma  shipibo iba                  shipibo sharan
+\mb ma  shipibo ik      -ba    -a    shipibo sharan
+\gn ya  shipibo copula  -ahora -PERF shipibo multitud
+\ps adv n.      v.intr. -suf.  -suf. n.      n.
+
+\tx miran    ikashamain.
+\mb miran    ik      -kas  -shaman   -i
+\gn mezclado copula  -DES  -INTF(SK) -IMPF
+\ps adj      v.intr. -suf. -suf.     -suf.
+
+\ft Entonces, nosotros queremos vivir ya, no queremos vivir donde los shipibo, entre los shipibo.
+\ELANBegin 165.885
+\ELANEnd 171.203
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 165.885 171.203
+
+\ref 045
+\trs Hatian eah keenai shipibonin bake koshi shipibonin bake koshi itima.
+\tx Hatian       eah   keenai           shipibonin     bake koshi
+\mb hatian       eah   keena  -ai       shipibo =n     bake koshi
+\gn entonces(SK) 1SG:S llamar -IMPF(SK) shipibo =GEN   hijo fuerte(SK)
+\ps conec.       pron. v.     -suf.     n.      =clit. n.   adj.
+
+\tx shipibonin     bake koshi      itima.
+\mb shipibo =n     bake koshi      i       -ti    =ma
+\gn shipibo =GEN   hijo fuerte(SK) lamento -NOMLZ =NEG
+\ps n.      =clit. n.   adj.       inter,  -suf.  =clit.
+
+\ft Además, yo quiero que los hijos de los shipibos, que los hijos de los shipibos no sean jefes.
+\ELANBegin 172.272
+\ELANEnd 180.817
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 172.272 180.817
+
+\ref 046
+\trs Hatian iskonawa legítimo iti jefe de comunidad.
+\tx Hatian       iskonawa legítimo       iti            jefe       de
+\mb hatian       iskonawa legítimo       ik      -ti    jefe       de
+\gn entonces(SK) iskonawa legítimo(CAST) copula  -NOMLZ jefe(CAST) de(CAST)
+\ps conec.       n.       adj.            v.intr. -suf.  n.         prep.
+
+\tx comunidad.
+\mb comunidad
+\gn comunidad(CAST)
+\ps n.
+
+\ft Entonces, un isconahua legítimo ser jefe de comunidad.
+\ELANBegin 181.158
+\ELANEnd 185.885
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 181.158 185.885
+
+\ref 047
+\trs Iskonawa legítimo itihake agente municipal.
+\tx Iskonawa legítimo       itihake              agente       municipal.
+\mb iskonawa legítimo       ik      -ti    -hake agente       municipal
+\gn iskonawa legítimo(CAST) copula  -NOMLZ -OBL  agente(CAST) municipal
+\ps n.       adj.            v.intr. -suf.  -suf. n.           adj.
+
+\ft Un isconahua legítimo tiene que ser agente municipal.
+\ELANBegin 186.419
+\ELANEnd 189.646
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 186.419 189.646
+
+\ref 048
+\trs Iskonawa itihake teniente gobernador.
+\tx Iskonawa itihake              teniente gobernador.
+\mb iskonawa ik      -ti    -hake teniente gobernador
+\gn iskonawa copula  -NOMLZ -OBL  teniente gobernador
+\ps n.       v.intr. -suf.  -suf. n.       n.
+
+\ft Un isconahua tiene que ser teniente gobernador.
+\ELANBegin 190.066
+\ELANEnd 193.180
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 190.066 193.180
+
+\ref 049
+\trs Isko itihake secretaria, isko ainbo iti ati paribake jefe de comunidad nato.
+\tx Isko   itihake              secretaria, isko   ainbo iti
+\mb isko   ik      -ti    -hake secretaria  isko   ainbo ik      -ti
+\gn paucar copula  -NOMLZ -OBL  secretaria  paucar mujer copula  -NOMLZ
+\ps n.     v.intr. -suf.  -suf. n.          n.     n.    v.intr. -suf.
+
+\tx atiparibake               jefe       de       comunidad       nato.
+\mb atipa =riba     -ke       jefe       de       comunidad       nato
+\gn poder =otra.vez -PERF(SK) jefe(CAST) de(CAST) comunidad(CAST) este(SK)
+\ps v.    =clit.    -suf.     n.         prep.    n.              dem.
+
+\ft Una isconahua tiene que ser secretaria. Una mujer isconahua también puede ser jefe de comunidad, este...
+\ELANBegin 193.385
+\ELANEnd 200.544
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 193.385 200.544
+
+\ref 050
+\trs Jefa isko ainboribi.
+\tx Jefa       isko   ainboribi.
+\mb jefa       isko   ainbo =ribi
+\gn jefa(CAST) paucar mujer =también
+\ps n.         n.     n.    =clit.
+
+\ft Una jefa isconahua, también.
+\ELANBegin 200.930
+\ELANEnd 202.794
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 200.930 202.794
+
+\ref 051
+\trs Eah kenyamai noa kenyamai, noa atibi iskoka
+\tx Eah   kenyamai                  noa   kenyamai.
+\mb eah   kena       -yama    -i    noa   kena       -yama    -i
+\gn 1SG:S querer(SK) -NEG(SK) -IMPF 1PL.P querer(SK) -NEG(SK) -SUJ>S:SIM
+\ps pron. v.         -suf.    -suf. pron. v.         -suf.    -suf.
+
+\tx Noa   atibi                 iskoka
+\mb noa   ak      -ti    =bi    isko   =ka
+\gn 1PL.P hacer   -NOMLZ =ENF   paucar =NAR
+\ps pron. v.tran. -suf.  =clit. n.     =clit.
+
+\ft Yo no quiero, nosotros no queremos que los iskos mismos hagan
+\ELANBegin 203.476
+\ELANEnd 207.015
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 203.476 207.015
+
+\ref 052
+\trs Noa kenyamai cruzado.
+\tx Noa     kenyamai                  cruzado.
+\mb noa     kena       -yama    -i    cruzado
+\gn 1PL:NOM querer(SK) -NEG(SK) -IMPF cruzado(CAST)
+\ps pron.   v.         -suf.    -suf. adj.
+
+\ft No queremos cruzado (hijo de papá shipibo y mamá iskonawa).
+\ELANBegin 207.113
+\ELANEnd 209.249
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 207.113 209.249
+
+\ref 053
+\trs Shipi bake kaxon ma non oikopi non banakopi ha nato koriki bibiti. Ea
+kenyamai.
+\tx Shipi   bake kaxon             ma  non         oikopi
+\mb Shipi   bake ka     -xon       ma  no   =n     oi         - kopi
+\gn shipibo hijo ir     -S/A>A(SK) ya  1PL  =A     idioma(MX) - por.eso
+\ps n.      n.   v.intr -suf.      adv pron =clit. n.         - conect.
+
+\tx non         bana   kopí   ha      nato     koriki bibiti.
+\mb no   =n     bana   kopí   ha      nato     koriki bi      =bi    -ti
+\gn 1PL  =A     lengua por.eso ese(SK) este(SK) dinero agarrar =ENF   -NOMLZ
+\ps pron =clit. n.     post.   dem     dem.     n.     v.      =clit. -suf.
+
+\tx Ea          kenyamai.
+\mb ea          kena       -yama    -i
+\gn 1SG.ABS(SK) querer(SK) -NEG(SK) -IMPF
+\ps pron.       v.         -suf.    -suf.
+
+\ft Los hijos de los shipibo están yendo a recibir plata por nuestra lengua, por nuestro idioma. Eso yo no quiero.
+\ELANBegin 209.749
+\ELANEnd 219.817
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 209.749 219.817
+
+\ref 054
+\trs Eah kenai noabi iti.
+\tx Eah   kenai            noabi          iti.
+\mb eah   kena       -i    noa     =bi    ik      -ti
+\gn 1SG:S querer(SK) -IMPF 1PL:NOM =ENF   copula  -NOMLZ
+\ps pron. v.         -suf. pron.   =clit. v.intr. -suf.
+
+\ft Yo quiero vivir entre nosotros, nomás.
+\ELANBegin 221.067
+\ELANEnd 222.795
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 221.067 222.795
+
+\ref 055
+\trs Non yoyakopi noah kopiayamai.
+\tx Non         yoyakopí        noa   kopiayamai.
+\mb no   =n     yoya   - kopí   noa   kopi    -a        -yama    -i
+\gn 1PL  =A     decir  - por.eso 1PL.P por.eso -FACT(SK) -NEG(SK) -IMPF
+\ps pron =clit. v.tran - post.   pron. conect. -suf.     -suf.    -suf.
+
+\ft Nosotros hablamos y nos pagan.
+\ELANBegin 222.829
+\ELANEnd 225.374
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 222.829 225.374
+
+\ref 056
+\trs Noah kopiayamai ares kai beneficio biai.
+\tx Noah  kopiayamai                       a-reskai
+\mb noah  kopi    -a        -yama    -i    a   -res       =kai
+\gn 1PL:S por.eso -FACT(SK) -NEG(SK) -IMPF ese -solamente =RESO
+\ps pron. conect. -suf.     -suf.    -suf. dem -suf.      =clit.
+
+\tx beneficio       biai.
+\mb beneficio       bi      -ai
+\gn beneficio(CAST) agarrar -IMPF(SK)
+\ps n.              v.      -suf.
+
+\ft Èl nomás recibe beneficios.
+\ELANBegin 225.749
+\ELANEnd 228.544
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 225.749 228.544
+
+\ref 057
+\trs Beneficio biai.
+\tx Beneficio       biai.
+\mb beneficio       bi      -ai
+\gn beneficio(CAST) agarrar -IMPF(SK)
+\ps n.              v.      -suf.
+
+\ft Ellos reciben los beneficios.
+\ELANBegin 227.044
+\ELANEnd 228.930
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 227.044 228.930
+
+\ref 058
+\trs Biai. Beneficio biai.
+\tx Biai.             Beneficio       biai.
+\mb bi      -ai       beneficio       bi      -ai
+\gn agarrar -IMPF(SK) beneficio(CAST) agarrar -IMPF(SK)
+\ps v.      -suf.     n.              v.      -suf.
+
+\ft Se aprovechan. Se aprovechan del beneficio.
+\ELANBegin 228.953
+\ELANEnd 230.930
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 228.953 230.930
+
+\ref 059
+\trs Noaka kehá ibo.
+\tx Noaka          kehá  ibo.
+\mb noa     =ka    kehá  ibo
+\gn 1PL:NOM =NAR   idioma dueño
+\ps pron.   =clit. n.     n.
+
+\ft Nosotros somos dueños de nuestra lengua (y ¿ahora?)
+\ELANBegin 232.384
+\ELANEnd 234.384
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 232.384 234.384
+
+\ref 060
+\trs Kehá ibo. machopa keyoai.
+\tx Kehá  ibo.       machopa     keyoai.
+\mb kehá  ibo        ma  - chopa keyo         -ai
+\gn idioma dueño     ya  - ropa  terminar(SK) -IMPF(SK)
+\ps n.     n.         adv - n.    v.tran.      -suf.
+
+\ft Somos dueños de nuestra lengua. Tenemos ya las ropas gastadas.
+\ELANBegin 234.986
+\ELANEnd 237.100
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 234.986 237.100
+
+\ref 061
+\trs Chopa keyoai. Hawe atiyama. Hawe omabobi. Hawe chopa bitiyama. Chopa
+biyamai.
+\tx Chopa keyoai.                Hawe      atiyama.
+\mb chopa keyo         -ai       hawe      ak      -ti    -yama
+\gn ropa  terminar(SK) -IMPF(SK) cuál(SK) hacer   -NOMLZ -NEG(SK)
+\ps n.    v.tran.      -suf.     pal.int.  v.tran. -suf.  -suf.
+
+\tx Haweomabobi.                     Hawe      chopa
+\mb hawe      =oma      =bo   =bi    hawe      chopa
+\gn cuál(SK) =PROP.NEG =PLU  =ENF   cuál(SK) ropa
+\ps pal.int.  =clit.    =clit =clit. pal.int.  n.
+
+\tx bitiyama.               Chopa biyamai.
+\mb bi      -ti    -yama    chopa bi      -yama    -i
+\gn agarrar -NOMLZ -NEG(SK) ropa  agarrar -NEG(SK) -IMPF
+\ps v.      -suf.  -suf.    n.    v.      -suf.    -suf.
+
+\ft (Ininteligible) No tengo nada. No tenemos nada. No tenemos para comprar ropa.
+\ELANBegin 236.350
+\ELANEnd 242.100
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 236.350 242.100
+
+\ref 062
+\trs Chopa biyamai; chopa biyamai.
+\tx Chopa biyamai;               chopa biyamai.
+\mb chopa bi      -yama    -i    chopa bi      -yama    -i
+\gn ropa  agarrar -NEG(SK) -IMPF ropa  agarrar -NEG(SK) -IMPF
+\ps n.    v.      -suf.    -suf. n.    v.      -suf.    -suf.
+
+\ft No tenemos para comprar ropa; no tenemos para comprar ropa.
+\ELANBegin 242.214
+\ELANEnd 244.418
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 242.214 244.418
+
+\ref 063
+\trs Rama ma oi yoike, aweti oi yoipaoini.
+\tx Rama            ma  oi         yoike,            aweti         oi
+\mb rama            ma  oi         yoi     -ke       awe    -ti    oi
+\gn actualmente(SK) ya  idioma(MX) contar  -PERF(SK) hembra -NOMLZ idioma(MX)
+\ps adv.            adv n.         v.tran. -suf.     adj.   -suf.  n.
+
+\tx yoipaoini.
+\mb yoi     - pao    -i    -ni
+\gn contar  - concha -IMPF -PAS.REM
+\ps v.tran. - n.     -suf. -suf
+
+\ft Hasta ahora yo hablo la lengua. ¡Cuántas veces yo enseñaba mi lengua!
+\ELANBegin 244.555
+\ELANEnd 247.806
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 244.555 247.806
+
+\ref 064
+\trs En ma oi yoiki. Senan aka iki. En hatoh senen aka iki. Senen aka iki.
+\tx En        ma  oi         yoiki.         Senen aka
+\mb en        ma  oi         yoi     =ki    senen ak      -a
+\gn 1SG:A(SK) ya  idioma(MX) contar  =CON   final hacer   -NOMLZ
+\ps pron      adv n.         v.tran. =clit. n.    v.tran. -suf.
+
+\tx iki.          En        hato    senen aka           iki.          Senen
+\mb ik      -i    en        hato    senen ak      -a    ik      -i    senen
+\gn copula  -IMPF 1SG:A(SK) 3PL(SK) final hacer   -PERF copula  -IMPF final
+\ps v.intr. -suf. pron      pron.   n.    v.tran. -suf. v.intr. -suf. n.
+
+\tx aka           iki.
+\mb ak      -a    ik      -i
+\gn hacer   -PERF copula  -IMPF
+\ps v.tran. -suf. v.intr. -suf.
+
+\ft Yo ya he enseñado nuestra lengua. Ya se ha terminado. Yo a ellos les he enseñado terminado.
+\ELANBegin 247.902
+\ELANEnd 252.532
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 247.902 252.532
+
+\ref 065
+\trs Moa senen aka iki.
+\tx Moa    senen aka            iki.
+\mb moa    senen ak      -a     ik      -i
+\gn ya(SK) final hacer   -NOMLZ copula  -IMPF
+\ps adv    n.    v.tran. -suf.  v.intr. -suf.
+
+\ft Ahí se acabó
+\ELANBegin 251.544
+\ELANEnd 253.113
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 251.544 253.113
+
+\ref 066
+\trs Askara riki askara riki wishai.
+\tx Askara          riki    askara          riki    wishai.
+\mb aska =ra        riki    aska =ra        riki    wisha        -i
+\gn así =EVID1(SK) COP(SK) así =EVID1(SK) COP(SK) escribir(SK) -IMPF
+\ps adv. =clit.     part.   adv. =clit.     part.   v.           -suf.
+
+\ft Así, también, escribían.
+\ELANBegin 253.499
+\ELANEnd 256.203
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 253.499 256.203
+
+\ref 067
+\trs Rama riki eah.
+\tx Rama            riki    eah.
+\mb rama            riki    eah
+\gn actualmente(SK) COP(SK) 1SG:S
+\ps adv.            part.   pron.
+
+\ft Ahora estoy.
+\ELANBegin 257.280
+\ELANEnd 258.420
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 257.280 258.420
+
+\ref 068
+\trs Eah nato
+\tx Eah   nato
+\mb eah   nato
+\gn 1SG:S este(SK)
+\ps pron. dem.
+
+\ft Aquí estoy.
+\ELANBegin 257.788
+\ELANEnd 259.225
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 257.788 259.225
+
+\ref 069
+\trs Nato eah a nato eah bana yoka yokakanai maton ea bana yoka yokakanai ea
+riki maton ha.
+\tx Nato     eah   a   nato     eah   bana   yoka      yokakanai
+\mb nato     eah   a   nato     eah   bana   yoka      yoka      -kan  -ai
+\gn este(SK) 1SG:S ese este(SK) 1SG:S lengua preguntar preguntar -PLU  -IMPF(SK)
+\ps dem.     pron. dem dem.     pron. n.     v.        v.        -suj. -suf.
+
+\tx maton       ea          bana   yoka      yokakanai
+\mb maton       ea          bana   yoka      yoka      -kan  -ai
+\gn ustedes(SK) 1SG.ABS(SK) lengua preguntar preguntar -PLU  -IMPF(SK)
+\ps pron.       pron.       n.     v.        v.        -suj. -suf.
+
+\tx ea          riki    maton       ha.
+\mb ea          riki    maton       ha
+\gn 1SG.ABS(SK) COP(SK) ustedes(SK) ese(SK)
+\ps pron.       part.   pron.       dem
+
+\ft Este... ustedes me preguntaron  varias veces por mi idioma, ustedes quieren preguntar por mi idioma.
+\ELANBegin 258.816
+\ELANEnd 266.549
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 258.816 266.549
+
+\ref 070
+\trs Apoyanti noa kenai noabires tsamaketian.
+\tx Apoyanti               noa   kenai            noabires
+\mb apoyan          -ti    noa   kena       -i    noa     =bi    -res
+\gn apoyar(CAST>SK) -NOMLZ 1PL.P querer(SK) -IMPF 1PL:NOM =ENF   -solamente
+\ps v.              -suf.  pron. v.         -suf. pron.   =clit. -suf.
+
+\tx tsamaketian.
+\mb tsama        -ketian
+\gn reunirse(SK) -SUJ.DIF:SIM(SK)
+\ps v.           -suf
+
+\ft Nos quieren apoyar a nosotros mismos porque nos reúnen.
+\ELANBegin 267.380
+\ELANEnd 270.042
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 267.380 270.042
+
+\ref 071
+\trs Noabires tsamahon piai.
+\tx Noabires                  tsamahon                piai.
+\mb noa     =bi    -res       tsama        -hon       pi      -ai
+\gn 1PL:NOM =ENF   -solamente reunirse(SK) -SUJ>A:SIM comer   -IMPF(SK)
+\ps pron.   =clit. -suf.      v.           -suf.      v.tran. -suf.
+
+\ft Nosotros nomás comemos reunidos.
+\ELANBegin 270.084
+\ELANEnd 271.394
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 270.084 271.394
+
+\ref 072
+\trs Noara ikatiai nato Colonia chiponki.
+\tx Noara              ikatiai                        nato
+\mb noa     =ra        ik      -kati        -ai       nato
+\gn 1PL:NOM =EVID1(SK) copula  -PAS.REM:HAB -IMPF(SK) este(SK)
+\ps pron.   =clit.     v.intr. -suf.        -suf.     dem.
+
+\tx Colonia       chiponki.
+\mb Colonia       chiponki
+\gn Colonia(CAST) abajo.de
+\ps n.            pos.
+
+\ft Nosotros estábamos acá, debajo de Colonia.
+\ELANBegin 270.844
+\ELANEnd 273.605
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 270.844 273.605
+
+\ref 073
+\trs Colonia chiponkirishoko mayá rabé mayá pekao.
+\tx Colonia       chiponkirishoko         mayá     rabé   mayá
+\mb Colonia       chiponki =ri   =shoko   mayá     rabé   mayá
+\gn Colonia(CAST) abajo.de =CON  =DIM(SK) curva(SK) dos(SK) curva(SK)
+\ps n.            pos.     =clit =clit.   adv.      num.    adv.
+
+\tx pekao.
+\mb pekao
+\gn detrás(SK)
+\ps post.
+
+\ft Más abajito de la colonia, después de dos vueltas.
+\ELANBegin 274.196
+\ELANEnd 277.806
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 274.196 277.806
+
+\ref 074
+\trs Hainoa ikatiai puro iskonawa puro puro. Hainoa miskararoyama.
+\tx Hainoa    ikatiai                        puro       iskonawa
+\mb hainoa    ik      -kati        -ai       puro       iskonawa
+\gn ahi:S(SK) copula  -PAS.REM:HAB -IMPF(SK) puro(CAST) iskonawa
+\ps adv.      v.intr. -suf.        -suf.     adv.       n.
+
+\tx puro       puro.      Hainoa       miskararoyama.
+\mb puro       puro       hainoa       miskararo         -yama
+\gn puro(CAST) puro(CAST) ahí:NOM(SK) mezclado(CAST>SK) -NEG(SK)
+\ps adv.       adv.       adv.         adj.              -suf.
+
+\ft Ahí había puro isconahua, puro, puro. Y ningún mestizo.
+\ELANBegin 277.806
+\ELANEnd 281.858
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 277.806 281.858
+
+\ref 075
+\trs Hainoan westiorahako shipibo noa koirankati. Shipibo no faltaba.
+\tx Hainoan    westiorahako   shipibo noa   koirankati.
+\mb hainoan    westiora -hoko shipibo noa   koiran          -kati
+\gn ahí:A(SK) uno(SK)  -DIM  shipibo 1PL.P cuidar(CAST>SK) -PAS.REM:HAB
+\ps adv.       num.     -suf  n.      pron. v.              -suf.
+
+\tx Shipibo       no   faltaba.
+\mb Shipi   =bo   no   faltaba
+\gn shipibo =PLU  1PL  faltaba(CAST)
+\ps n.      =clit pron v.
+
+\ft Además, un shipibito nos cuidaba. Había un shipibo que siempre nos ayudaba.
+\ELANBegin 284.098
+\ELANEnd 288.661
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 284.098 288.661
+
+\ref 076
+\trs Cinco shipibo.
+\tx Cinco shipibo.
+\mb Cinco shipibo
+\gn cinco shipibo
+\ps num.  n.
+
+\ft Sigue shipibos.
+\ELANBegin 289.527
+\ELANEnd 290.555
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 289.527 290.555
+
+\ref 077
+\trs Hain shipibo koirankatiai Arístides Mori.
+\tx Hain     shipibo koirankatiai                           Arístides Mori.
+\mb hain     shipibo koiran          -kati        -ai       Arístides Mori
+\gn ahí(SK) shipibo cuidar(CAST>SK) -PAS.REM:HAB -IMPF(SK) Arístides.Mori(CAST)
+\ps adv.     n.      v.              -suf.        -suf.     n.
+
+\ft Ahí, un shipibo, Arístides Mori, siempre nos cuidaba.
+\ELANBegin 291.076
+\ELANEnd 293.724
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 291.076 293.724
+
+\ref 078
+\trs Non Arístides Mori non irake akai.
+\tx Non         Arístides Mori       non         irake   akai.
+\mb no   =n     Arístides Mori       no   =n     irake   ak          -ai
+\gn 1PL  =ERG   Arístides.Mori(CAST) 1PL  =ERG   gracias decir(TRAN) -IMPF(SK)
+\ps pron =clit. n.                    pron =clit. intj.   v.tran.     -suf.
+
+\ft Nosotros le agradecemos a Arístides Mori.
+\ELANBegin 294.774
+\ELANEnd 297.784
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 294.774 297.784
+
+\ref 079
+\trs Arístides Mori riki non bana onana. Ika habi ha nunca proyecto ayohma.
+\tx Arístides Mori       riki    non         bana   onan-a.
+\mb Arístides Mori       riki    no   =n     bana   onan    -a
+\gn Arístides.Mori(CAST) COP(SK) 1PL  =ERG   lengua conocer -PERF
+\ps n.                    part.   pron =clit. n.     v.tran  -suf.
+
+\tx Ik-a           habi           ha      nunca
+\mb ik      -a     ha      =bi    ha      nunca
+\gn copula  -NOMLZ ese(SK) =ENF   3SG(SK) nunca(CAST)
+\ps v.intr. -suf.  dem     =clit. pron    adv.
+
+\tx proyecto       ayohma.
+\mb proyecto       ak      -yohma
+\gn proyecto(CAST) hacer   -NOMLZ:NEG
+\ps n.             v.tran. -suf.
+
+\ft Arístides Mori sabe nuestro idioma. Pero ese nunca hace proyectos.
+\ELANBegin 297.784
+\ELANEnd 302.436
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 297.784 302.436
+
+\ref 080
+\trs Ha riki iro onihiko.
+\tx Ha      riki    iro   onihiko.
+\mb ha      riki    iro   oni     -hoko
+\gn ese(SK) COP(SK) bueno persona -DIM
+\ps dem     part.   adj.  n.      -suf
+
+\ft Ese es un buen hombrecito.
+\ELANBegin 306.478
+\ELANEnd 307.886
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 306.478 307.886
+
+\ref 081
+\trs Iro bake ranon.
+\tx Iro   bake  ranon.
+\mb iro   bake  ranon
+\gn bueno niño muchacho(SK)
+\ps adj.  n.    n.
+
+\ft Buen muchacho.
+\ELANBegin 307.611
+\ELANEnd 308.620
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 307.611 308.620
+
+\ref 082
+\trs Iro bake ranon Arístides.
+\tx Iro   bake  ranon        Arístides.
+\mb iro   bake  ranon        Arístides
+\gn bueno niño muchacho(SK) Arístides(CAST)
+\ps adj.  n.    n.           n.
+
+\ft Era un buen muchacho Arístides.
+\ELANBegin 307.611
+\ELANEnd 309.413
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 307.611 309.413
+
+\ref 083
+\trs Ni siquiera proyecto akin.
+\tx Ni siquiera     proyecto       akin.
+\mb Ni siquiera     proyecto       ak      -kin
+\gn ni siquiera(SK) proyecto(CAST) hacer   -SUJ>A:SIM
+\ps conj.           n.             v.tran. -suf.
+
+\ft Ni siquiera proyecto aqui.
+\ELANBegin 310.390
+\ELANEnd 312.431
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 310.390 312.431
+
+\ref 084
+\trs Haton awen bakebobetanhon proyecto tsinkitana koriki ki biohma noakopi
+koriki biohma riki Arístides.
+\tx Haton awen    bakebobetanhon               proyecto
+\mb haton awen    bake =bo   =betan -hon       proyecto
+\gn 3PL:A 3SG:GEN hijo =PLU  =COM   -SUJ>A:SIM proyecto(CAST)
+\ps pron. pron    n.   =clit =clit. -suf.      n.
+
+\tx tsinki-tan-a            koriki ki      biohma
+\mb tsinki      -tan  -a    koriki ki      bi      -ohma
+\gn agrupar(SK) -ANDA -PERF dinero TOP.DIF agarrar -nunca(TRAN)
+\ps v.          -suf. -suf. n.     part.   v.      -suf
+
+\tx noakopi         koriki biohma               riki    Arístides.
+\mb noa   - kopi    koriki bi      -ohma        riki    Arístides
+\gn 1PL.P - por.eso dinero agarrar -nunca(TRAN) COP(SK) Arístides(CAST)
+\ps pron. - conect. n.     v.      -suf         part.   n.
+
+\ft Esos, con sus hijos juntan no hizo proyectos, nosotros no accedemos al dinero... Arístides.
+\ELANBegin 312.431
+\ELANEnd 319.181
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 312.431 319.181
+
+\ref 085
+\trs Aristides riki kikín hakon oni iro oni.
+\tx Arístides       riki    kikin              hakon     oni     iro   oni.
+\mb Arístides       riki    kikin              hakon     oni     iro   oni
+\gn Arístides(CAST) COP(SK) verdaderamente(SK) bueno(SK) persona bueno persona
+\ps n.               part.   adv                adj.      n.      adj.  n.
+
+\ft Arístides es una persona muy buena, una buena persona.
+\ELANBegin 319.181
+\ELANEnd 322.100
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 319.181 322.100
+
+\ref 086
+\trs Hatian haribi noa koirankatian, ha kirinkonin víveres inanketian, noa
+menikatiai.
+\tx Hatian       haribi            noa
+\mb hatian       ha      =ribi     noa
+\gn entonces(SK) 3SG(SK) =también 1PL.P
+\ps conec.       pron    =clit.    pron.
+
+\tx koirankatiai,                          ha      kirinkonin     víveres
+\mb koiran          -kati        -ai       ha      kirinko =n     víveres
+\gn cuidar(CAST>SK) -PAS.REM:HAB -IMPF(SK) ese(SK) gringo  =ERG   víveres
+\ps v.              -suf.        -suf.     pron    n.      =clit. n.
+
+\tx inanketian,               noa   menikatiai.
+\mb inan     -ketian          noa   meni    -kati        -ai
+\gn alcanzar -SUJ.DIF:SIM(SK) 1PL.P dar(SK) -PAS.REM:HAB -IMPF(SK)
+\ps v.       -suf             pron. v.      -suf.        -suf.
+
+\ft Entonces a ese también cuidamos, porque ese gringo da víveres, nos ha dado.
+\ELANBegin 323.203
+\ELANEnd 328.265
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 323.203 328.265
+
+\ref 087
+\trs Arístides hakon.
+\tx Arístides       hakon.
+\mb Arístides       hakon
+\gn Arístides(CAST) bueno(SK)
+\ps n.               adj.
+
+\ft Arístides es bueno.
+\ELANBegin 328.507
+\ELANEnd 329.445
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 328.507 329.445
+
+\ref 088
+\trs Arístides 
+\tx Arístides
+\mb Arístides
+\gn Arístides(CAST)
+\ps n.
+
+\ft Arístides, sí.
+\ELANBegin 329.249
+\ELANEnd 330.280
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 329.249 330.280
+
+\ref 089
+\trs Arístides.
+\tx Arístides.
+\mb Arístides
+\gn Arístides(CAST)
+\ps n.
+
+\ft Arístides.
+\ELANBegin 329.990
+\ELANEnd 331.022
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 329.990 331.022
+
+\ref 090
+\trs Ha riki nunca proyecto ayohmashoko. Arístides non non bana onanke.
+Arístides Mori.
+\tx Ha      riki    nunca       proyecto       ayohmashoko.
+\mb ha      riki    nunca       proyecto       ak      -yohma     =shoko
+\gn 3SG(SK) COP(SK) nunca(CAST) proyecto(CAST) hacer   -NOMLZ:NEG =DIM(SK)
+\ps pron    part.   adv.        n.             v.tran. -suf.      =clit.
+
+\tx Arístides       non         non         bana   onanke.
+\mb Arístides       no   =n     no   =n     bana   onan   -ke
+\gn Arístides(CAST) 1PL  =GEN   1PL  =GEN   lengua saber  -PERF(SK)
+\ps n.               pron =clit. pron =clit. n.     v.tran -suf.
+
+\tx Arístides Mori.
+\mb Arístides Mori
+\gn Arístides.Mori(CAST)
+\ps n.
+
+\ft Ese nunca ni un proyectito hace, Arístides sabe nuestro idioma, Arístides Mori.
+\ELANBegin 331.124
+\ELANEnd 337.311
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 331.124 337.311
+
+\ref 091
+\trs Ha siempre noa hain kaketian non bana. Noa saludanai kikin iro.
+\tx Ha      siempre     noa   hain     kaketian                non         bana.
+\mb ha      siempre     noa   hain     ka     -ketian          no   =n     bana
+\gn 3SG(SK) siempre(SK) 1PL.P ahí(SK) ir     -SUJ.DIF:SIM(SK) 1PL  =GEN   lengua
+\ps pron    adv.        pron. adv.     v.intr -suf             pron =clit. n.
+
+\tx Noa   saludanai               kikin              iro.
+\mb noa   saludan       -ai       kikin              iro
+\gn 1PL.P saludar(CAST) -IMPF(SK) verdaderamente(SK) bueno
+\ps pron. v.            -suf.     adv                adj.
+
+\ft Siempre que iba ahí, donde nosotros, nos saludaba muy bien en nuestra lengua.
+\ELANBegin 338.436
+\ELANEnd 344.905
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 338.436 344.905
+
+\ref 092
+\trs Hakopi riki en mia aska akai. Haa miariki iro oni aibake.
+\tx Hakopi      riki    en        mia         aska akai                  mia
+\mb hakopi      riki    en        mia         aska ak          -ai       mia
+\gn por.eso(SK) COP(SK) 1SG:A(SK) 2SG.ABS(SK) así decir(TRAN) -IMPF(SK) 2SG.ABS(SK)
+\ps conec.      part.   pron      pron        adv. v.tran.     -suf.     pron
+
+\tx riki    iro   oni     aibake.
+\mb riki    iro   oni     ak          -iba                -ke
+\gn COP(SK) bueno persona decir(TRAN) -PAS.una.semana(SK) -PERF(SK)
+\ps part.   adj.  n.      v.tran.     -suf.               -suf.
+
+\ft Por eso yo así le digo "Tú eres buena persona", así le he dicho.
+\ELANBegin 345.405
+\ELANEnd 349.311
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 345.405 349.311
+
+\ref 093
+\trs Iro oni.
+\tx Iro   oni.
+\mb iro   oni
+\gn bueno persona
+\ps adj.  n.
+
+\ft Buena gente.
+\ELANBegin 349.162
+\ELANEnd 349.850
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 349.162 349.850
+
+\ref 094
+\trs Noa noa hawetianbi proyecto ayohma. Non banan ibo.
+\tx Noa   noa   hawetianbi                 proyecto       ayohma.
+\mb noa   noa   hawe      =tian     =bi    proyecto       ak      -yohma
+\gn 1PL:S 1PL:S cuál(SK) =TEMP(SK) =ENF   proyecto(CAST) hacer   -NOMLZ:NEG
+\ps pron. pron. pal.int.  =clit.    =clit. n.             v.tran. -suf.
+
+\tx No=n        banan         ibo.
+\mb no   =n     bana   =n     ibo
+\gn 1PL  =GEN   lengua =GEN   dueño
+\ps pron =clit. n.     =clit. n.
+
+\ft Aunque nosotros no hacemos proyectos, nuestra lengua.
+\ELANBegin 350.404
+\ELANEnd 353.998
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 350.404 353.998
+
+\ref 095
+\trs Wetsabo shipibon akai nato.
+\tx Wetsabo        shipibon       akai              nato.
+\mb wetsa    =bo   shipibo =n     ak      -ai       nato
+\gn otro(SK) =PLU  shipibo =GEN   hacer   -IMPF(SK) este(SK)
+\ps adj.     =clit n.      =clit. v.tran. -suf.     dem.
+
+\ft o los otro shipibos hacen (proyectos)
+\ELANBegin 355.140
+\ELANEnd 358.500
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 355.140 358.500
+
+\ref 096
+\trs Proyecto akin.
+\tx Proyecto       akin.
+\mb proyecto       ak      -kin
+\gn proyecto(CAST) hacer   -SUJ>A:SIM
+\ps n.             v.tran. -suf.
+
+\ft Hacen proyectos.
+\ELANBegin 359.030
+\ELANEnd 360.155
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 359.030 360.155
+
+\ref 097
+\trs Proyecto akai.
+\tx Proyecto       akai.
+\mb proyecto       ak      -ai
+\gn proyecto(CAST) hacer   -IMPF(SK)
+\ps n.             v.tran. -suf.
+
+\ft Hacen proyectos.
+\ELANBegin 360.162
+\ELANEnd 361.287
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 360.162 361.287
+
+\ref 098
+\trs Hawen bake mejor universidadain haton estudianai.
+\tx Hawen   bake mejor       universidadain       haton
+\mb hawen   bake mejor       universidad =ain     haton
+\gn 3SG:GEN hijo mejor(CAST) universidad =LOC(SK) 3PL:A
+\ps pron.   n.   adj.        n.          =clit.   pron.
+
+\tx estudianmai.
+\mb estudian          -ma   -i
+\gn estudiar(CAST>SK) -CAUS -IMPF
+\ps v.                -suf. -suf.
+
+\ft Dicen que, mejor, sus hijos estudian en la universidad.
+\ELANBegin 361.350
+\ELANEnd 366.500
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 361.350 366.500
+
+\ref 099
+\trs Ea riki isko ainbo.
+\tx Ea          riki    isko   ainbo.
+\mb ea          riki    isko   ainbo
+\gn 1SG.ABS(SK) COP(SK) paucar mujer
+\ps pron.       part.   n.     n.
+
+\ft Yo soy una mujer iskonawa.
+\ELANBegin 366.500
+\ELANEnd 367.965
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 366.500 367.965
+
+\ref 100
+\trs Ea riki isko hontoko ikai.
+\tx Ea          riki    isko   hontoko  ikai.
+\mb ea          riki    isko   hontoko  ik      -ai
+\gn 1SG.ABS(SK) COP(SK) paucar muchacha copula  -IMPF(SK)
+\ps pron.       part.   n.     n.       v.intr. -suf.
+
+\ft Dicen que soy una señorita iskonawa.
+\ELANBegin 367.965
+\ELANEnd 370.034
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 367.965 370.034
+
+\ref 101
+\trs Hatian isko hontoko iketian kai.
+\tx Hatian       isko   hontoko  iketiankai.
+\mb hatian       isko   hontoko  ik      -ketian          =kai
+\gn entonces(SK) paucar muchacha copula  -SUJ.DIF:SIM(SK) =RESO
+\ps conec.       n.     n.       v.intr. -suf             =clit.
+
+\ft Entonces, yo soy una señorita iskonawa.
+\ELANBegin 370.034
+\ELANEnd 372.659
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 370.034 372.659
+
+\ref 102
+\trs Isko hontoko iketian non hoi non bana yoyoimapairiki. Ha nato profesor de
+nato universidad iki eah íbake. Eah yoibake.
+\tx Isko   hontoko  iketian                  non         hoi        non
+\mb isko   hontoko  ik      -ketian          no   =n     hoi        no   =n
+\gn paucar muchacha copula  -SUJ.DIF:SIM(SK) 1PL  =GEN   lengua(SK) 1PL  =GEN
+\ps n.     n.       v.intr. -suf             pron =clit. n.         pron =clit.
+
+\tx bana   yoyoimapai                           riki.   Ha      nato
+\mb bana   yoi     - yoi     -i    =ma    -pai  riki    ha      nato
+\gn lengua contar  - contar  -IMPF =NEG   -DES  COP(SK) 3SG(SK) este(SK)
+\ps n.     v.tran. - v.tran. -suf. =clit. -suf. part.   pron    dem.
+
+\tx profesor       de       nato     universidad iki           eah
+\mb profesor       de       nato     universidad ik      -i    eah
+\gn profesor(CAST) de(CAST) este(SK) universidad copula  -IMPF 1SG:S
+\ps n.             prep.    dem.     n.          v.intr. -suf. pron.
+
+\tx iibake.                                  Eah   yoibake.
+\mb ik         -iba                -ke       eah   yoi     -iba                -ke
+\gn decir:INTR -PAS.una.semana(SK) -PERF(SK) 1SG:S contar  -PAS.una.semana(SK) -PERF(SK)
+\ps v.intr.    -suf.               -suf.     pron. v.tran. -suf.               -suf.
+
+\ft Cuando yo era una iskonawa joven, por qué no me preguntaron mi idioma mi profesor de la univesidad". Yo hablaba así.
+\ELANBegin 372.659
+\ELANEnd 383.193
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 372.659 383.193
+
+\ref 103
+\trs Eah bana ibake. Haskati ka. Eah sinasinati ka.
+\tx Eah   bana   ibake.                                   Haskati
+\mb eah   bana   ik         -iba                -ke       haska    -ti
+\gn 1SG:S lengua decir:INTR -PAS.una.semana(SK) -PERF(SK) así(SK) -NOMLZ
+\ps pron. n.     v.intr.    -suf.               -suf.     adv.     -suf.
+
+\tx ka.    Eah   sina           sinati               ka.
+\mb =ka    eah   siná          siná          -i    =ka
+\gn =NAR   1SG:S molestarse(SK) molestarse(SK) -IMPF =NAR
+\ps =clit. pron. v.             v.             -suf. =clit.
+
+\ft Yo hablaba, yo hablaba así. Yo renegaba.
+\ELANBegin 383.193
+\ELANEnd 386.988
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 382.193 386.988
+
+\ref 104
+\trs Nokon bakebo profesionalma iketian.
+\tx Nokon       bakebo     profesionalma            iketian.
+\mb nokon       bake =bo   profesional       =ma    ik      -ketian
+\gn 1SG.GEN(SK) hijo =PLU  profesional(CAST) =NEG   copula  -SUJ.DIF:SIM(SK)
+\ps pron        n.   =clit n.                =clit. v.intr. -suf
+
+\ft Porque ninguno de mis hijos es profesional.
+\ELANBegin 386.988
+\ELANEnd 390.200
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 386.988 390.200
+
+\ref 105
+\trs Ika hawe non nunca ni westiora isko. Ea riki rama askara kenyamai.
+\tx Ika           hawe      non   nunca       ni       westiora isko.
+\mb ik      -a    hawe      non   nunca       ni       westiora isko
+\gn copula  -PERF cuál(SK) 1PL:S nunca(CAST) ni(CAST) uno(SK)  paucar
+\ps v.intr. -suf. pal.int.  pron  adv.        conj.    num.     n.
+
+\tx Ea        riki    rama            askara
+\mb ea        riki    rama            aska =ra
+\gn 1SG:S(SK) COP(SK) actualmente(SK) así =EVID1(SK)
+\ps pron.     part.   adv.            adv. =clit.
+
+\tx kenyamai.
+\mb kena       -yama    -i
+\gn querer(SK) -NEG(SK) -IMPF
+\ps v.         -suf.    -suf.
+
+\ft Ningun lo es, ni un solo isconahua. Ahora nunca yo no quiero que sea así ahora.
+\ELANBegin 390.700
+\ELANEnd 395.465
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 390.700 395.465
+
+\ref 106
+\trs Itihake nato baritian dos mil catorcenin iti hake siquiera estudiankin
+universidanin iskonawa.
+\tx Itihake              nato     baritia=n      dos       mil
+\mb ik      -ti    -hake nato     baritia =n     dos       mil
+\gn copula  -NOMLZ -por  este(SK) año    =LOC   dos(CAST) mil(CAST)
+\ps v.intr. -suf.  -suf. dem.     n.      =clit. num       num.
+
+\tx catorcenin           itihake              siquiera
+\mb catorce       =n     ik      -ti    -hake siquiera
+\gn catorce(CAST) =LOC   copula  -NOMLZ -por  siquiera(CAST)
+\ps num.          =clit. v.intr. -suf.  -suf. conec.
+
+\tx estudiankin                  universidadnin     iskonawa.
+\mb estudian          -kin       universidad =n     iskonawa
+\gn estudiar(CAST>SK) -SUJ>A:SIM universidad =LOC   iskonawa
+\ps v.                -suf.      n.          =clit. n.
+
+\ft Tiene que haber este año dos mil catorce siquiera un isconahua estudiando en la universidad.
+\ELANBegin 395.465
+\ELANEnd 402.086
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 395.465 402.086
+
+\ref 107
+\trs Isko isko maho.
+\tx Isko   isko   maho.
+\mb isko   isko   maho
+\gn paucar paucar joven
+\ps n.     n.     n.
+
+\ft Un iskonawa joven.
+\ELANBegin 403.087
+\ELANEnd 404.613
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 403.087 404.613
+
+\ref 108
+\trs Noara isko isko isko legítimo. Ichá ichá ichariki wetsariki.
+\tx Noara            isko   isko   isko   legítimo.      Icha      icha
+\mb noa   =ra        isko   isko   isko   legítimo       icha      icha
+\gn 1PL:S =EVID1(SK) paucar paucar paucar legítimo(CAST) mucho(SK) mucho(SK)
+\ps pron. =clit.     n.     n.     n.     adj.            cuant.    cuant.
+
+\tx icha      riki    wetsa    riki.
+\mb icha      riki    wetsa    riki
+\gn mucho(SK) COP(SK) otro(SK) COP(SK)
+\ps cuant.    part.   adj.     part.
+
+\ft Nosotros somos isconahuas legítimos, pues. Somos muchos, dispersos.
+\ELANBegin 405.701
+\ELANEnd 411.192
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 405.701 411.192
+
+\ref 109
+\trs Héchoma.
+\tx Hechoma.
+\mb hechoma
+\gn bastantes
+\ps adj.
+
+\ft Muchos.
+\ELANBegin 410.771
+\ELANEnd 411.279
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 410.771 411.279
+
+\ref 110
+\trs Héchoma.
+\tx Hechoma.
+\mb hechoma
+\gn bastantes
+\ps adj.
+
+\ft Muchos.
+\ELANBegin 411.648
+\ELANEnd 412.209
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 411.648 412.209
+
+\ref 111
+\trs Wetsa hechoma iki. Noara hechoma iki.
+\tx Wetsa    hechoma   iki.          Noara            hechoma
+\mb wetsa    hechoma   ik      -i    noa   =ra        hechoma
+\gn otro(SK) bastantes copula  -IMPF 1PL:S =EVID1(SK) bastantes
+\ps adj.     adj.      v.intr. -suf. pron. =clit.     adj.
+
+\tx iki.
+\mb ik      -i
+\gn copula  -IMPF
+\ps v.intr. -suf.
+
+\ft Estamos en muchos sitios. Nosotros somos bastantes.
+\ELANBegin 412.016
+\ELANEnd 414.999
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 412.016 414.999
+
+\ref 112
+\trs Wetsanko ika kai. Wetsábo iskobakebo wetsanko ikabo.
+\tx Wetsanko        ik-a           kai.         Wetsanko        ik-a
+\mb wetsa    =nko   ik      -a     ka     -i    wetsa    =nko   ik      -a
+\gn otro(SK) =LOC   copula  -NOMLZ ir     -IMPF otro(SK) =LOC   copula  -NOMLZ
+\ps adj.     =clit. v.intr. -suf.  v.intr -suf. adj.     =clit. v.intr. -suf.
+
+\tx isko   bakebo     wetsanko        ikabo.
+\mb isko   bake =bo   wetsa    =nko   ik      -a     -bo
+\gn paucar hijo =PLU  otro(SK) =LOC   copula  -NOMLZ -PLU
+\ps n.     n.   =clit adj.     =clit. v.intr. -suf.  -suf.
+
+\ft Vivían en otros lados. Otros isconahuas vivían en otros lados.
+\ELANBegin 414.639
+\ELANEnd 418.244
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 414.639 418.244
+
+\ref 113
+\trs Wetsa iki. Mia yoinon. Ninkawe. Wetsa iki Tingo Maria.
+\tx Wetsa    iki.          Mia         yoinon.       Ninkawe.
+\mb wetsa    ik      -i    mia         yoi     -non  ninkat   -we
+\gn otro(SK) copula  -IMPF 2SG.ABS(SK) contar  -PROP escuchar -IMP(SK)
+\ps adj.     v.intr. -suf. pron        v.tran. -suf. v.       -suf.
+
+\tx Wetsa    iki   Tingo Maria.
+\mb wetsa    ik -i Tingo Maria
+\gn otro(SK)       Tingo Maria(CAST)
+\ps adj.           n.
+
+\ft Otro (Ininteligible). Te voy a decir, escucha. Otra está en Tingo María.
+\ELANBegin 416.595
+\ELANEnd 421.977
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 416.595 421.977
+
+\ref 114
+\trs Shipi beneya.
+\tx Shipi   beneya.
+\mb Shipi   bene   =ya
+\gn shipibo esposo =PROP
+\ps n.      n.     =clit.
+
+\ft Tiene su marido shipibo.
+\ELANBegin 422.049
+\ELANEnd 423.156
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 422.049 423.156
+
+\ref 115
+\trs Shipi bene ya.
+\tx Shipi   bene   ya.
+\mb Shipi   bene   ya
+\gn shipibo esposo ya(CAS)
+\ps n.      n.     adv
+
+\ft Tiene su marido shipibo.
+\ELANBegin 423.165
+\ELANEnd 424.200
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 423.165 424.200
+
+\ref 116
+\trs Wetsá iki.
+\tx Wetsá   iki.
+\mb wetsa    ik      -i
+\gn otro(SK) copula  -SUJ>S:SIM
+\ps adj.     v.intr. -suf.
+
+\ft Hay otro.
+\ELANBegin 424.304
+\ELANEnd 425.340
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 424.304 425.340
+
+\ref 117
+\trs Tiene marido shipibo.
+\tx Tiene marido shipibo.
+\ft Tiene marido shipibo.
+\ELANBegin 425.375
+\ELANEnd 426.726
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 425.375 426.726
+
+\ref 118
+\trs Nawa beneya riki Atalaya.
+\tx Nawa         beneya        riki    Atalaya.
+\mb nawa         bene   =ya    riki    Atalaya
+\gn no.indígena esposo =PROP  COP(SK) Atalaya(CAST)
+\ps n.           n.     =clit. part.   n.
+
+\ft Tiene su marido mestizo en Atalaya.
+\ELANBegin 426.568
+\ELANEnd 429.375
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 426.568 429.375
+
+\ref 119
+\trs A legítima iskonawa ainbo.
+\tx A   legítima       iskonawa ainbo.
+\mb a   legítima       iskonawa ainbo
+\gn ese legítima(CAST) iskonawa mujer
+\ps dem adj.            n.       n.
+
+\ft Esa es una mujer isconahua legítima.
+\ELANBegin 429.822
+\ELANEnd 432.436
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 429.822 432.436
+
+\ref 120
+\trs Ara iskonawa ainbo legítimo iki.
+\tx Ara            iskonawa ainbo legítimo       iki.
+\mb a   =ra        iskonawa ainbo legítimo       ik      -i
+\gn ese =EVID1(SK) iskonawa mujer legítimo(CAST) copula  -IMPF
+\ps dem =clit.     n.       n.    adj.            v.intr. -suf.
+
+\ft Esa es isconahua legítima.
+\ELANBegin 431.576
+\ELANEnd 434.103
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 431.576 434.103
+
+\ref 121
+\trs Wetsá iki a nawan nawan paranhon potaniki Liman
+\tx Wetsá   iki           a   nawan
+\mb wetsa    ik      -i    a   nawa                   =n
+\gn otro(SK) copula  -IMPF ese persona.de.otro.pueblo =ERG
+\ps adj.     v.intr. -suf. dem n.                     =clit.
+
+\tx nawan                         paranhon            potaniki
+\mb nawa                   =n     paran    -hon       pota  -ni      =ki
+\gn persona.de.otro.pueblo =ERG   engañar -SUJ>A:SIM botar -PAS.REM =REP
+\ps n.                     =clit. v.       -suf.      v.    -suf     =clit.
+
+\tx Liman.
+\mb lima =n
+\gn Lima =LOC
+\ps n.   =clit.
+
+\ft Otro más, ese mestizo engaña y se ha distanciado en Lima.
+\ELANBegin 433.665
+\ELANEnd 438.693
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 433.665 438.693
+
+\ref 122
+\trs Atalaya vive ella.
+\tx Atalaya vive ella.
+\ft Atalaya vive ella.
+\ELANBegin 434.174
+\ELANEnd 435.560
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 434.174 435.560
+
+\ref 123
+\trs (Ininteligible)
+\tx (Ininteligible)
+\ft (Ininteligible)
+\ELANBegin 438.683
+\ELANEnd 441.613
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 438.683 441.613
+
+\ref 124
+\trs Ariki nokon inan bake.
+\tx A riki    nokon       inan bake.
+\mb   riki    nokon       inan bake
+\gn   COP(SK) 1SG.GEN(SK) sobrina
+\ps   part.   pron        n.
+
+\ft Ella es mi sobrina.
+\ELANBegin 438.693
+\ELANEnd 440.709
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 438.693 440.709
+
+\ref 125
+\trs Nokon inan bake riki a.
+\tx Nokon       inan bake riki    a.
+\mb nokon       inan bake riki    a
+\gn 1SG.GEN(SK) sobrina   COP(SK) ese
+\ps pron        n.        part.   dem
+
+\ft Es mi sobrina.
+\ELANBegin 440.867
+\ELANEnd 442.744
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 440.867 442.744
+
+\ref 126
+\trs Ahí están mis dos sobrinos. En Lima están viviendo, dice.
+\tx Ahí están mis dos sobrinos. En Lima están viviendo, dice.
+\ft Ahí están mis dos sobrinos. En Lima están viviendo, dice.
+\ELANBegin 441.972
+\ELANEnd 445.744
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 441.972 445.744
+
+\ref 127
+\trs Inan bake.
+\tx Inan bake.
+\mb inan bake
+\gn sobrina
+\ps n.
+
+\ft Mi sobrino.
+\ELANBegin 445.235
+\ELANEnd 446.130
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 445.235 446.130
+
+\ref 128
+\trs Hawetsiki
+\tx Hawetsiki
+\mb Hawetsi       =ki
+\gn qué.cosa(SK) =INT
+\ps pal.int       =clit.
+
+\ft Pero...
+\ELANBegin 446.164
+\ELANEnd 447.235
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 446.164 447.235
+
+\ref 129
+\trs Sí, Nelita, pero, y estás conversando ahorita en shipibo, ¿no es cierto? ¿O
+en iskonawa?
+\tx Sí, Nelita, pero, y estás conversando ahorita en shipibo, ¿no es cierto? ¿O
+en iskonawa?
+\ft Sí, Nelita, pero, y estás conversando ahorita en shipibo, ¿no es cierto? ¿O en isconahua?
+\ELANBegin 447.796
+\ELANEnd 453.357
+\ELANParticipant Roberto
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 447.796 453.357
+
+\ref 130
+\trs Iskonawa.
+\tx Iskonawa.
+\ft Isconahua.
+\ELANBegin 453.041
+\ELANEnd 453.813
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 453.041 453.813
+
+\ref 131
+\trs ¿Iskonawa es?
+\tx ¿Iskonawa es?
+\ft ¿Isconahua es?
+\ELANBegin 453.892
+\ELANEnd 454.594
+\ELANParticipant Roberto
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 453.892 454.594
+
+\ref 132
+\trs Ehe.
+\tx Ehe.
+\ft Sí.
+\ELANBegin 454.287
+\ELANEnd 454.813
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 454.287 454.813
+
+\ref 133
+\trs Nokon inan bakebo abispatana ahea riki.
+\tx Nokon       inan bakebo     abispatana         ahea               riki.
+\mb nokon       inan bake =bo   abispatan   -a     ahe         -a     riki
+\gn 1SG.GEN(SK) sobrina   =PLU  dispersarse -NOMLZ acostumbrar -NOMLZ COP(SK)
+\ps pron        n.        =clit v.          -suf.  v.          -suf.  part.
+
+\ft Mis sobrinos están acostumbrados a estar dispersos.
+\ELANBegin 455.279
+\ELANEnd 458.683
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 455.279 458.683
+
+\ref 134
+\trs A veces, cuenta de shipibo, de que, de que hace profesional, está contando, también, hehe.
+\tx A veces, cuenta de shipibo, de que, de que hace profesional, está contando, también, hehe.
+\ft A veces, cuenta de shipibos, de que, de que hace profesional, está contando, también, sí.
+\ELANBegin 456.630
+\ELANEnd 465.121
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 456.630 465.121
+
+\ref 135
+\trs (Ininteligible)
+\tx (Ininteligible)
+\ft (Ininteligible)
+\ELANBegin 458.901
+\ELANEnd 461.042
+\ELANParticipant William
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 458.901 461.042
+
+\ref 136
+\trs Rama, rama ea ewekasai nato dos mil trece nobiribi ma nobiribi ma.
+\tx Rama,           rama            ea        ewekasai               nato
+\mb rama            rama            ea        ewe    -kas  -ai       nato
+\gn actualmente(SK) actualmente(SK) 1SG:S(SK) vivir  -DES  -IMPF(SK) este(SK)
+\ps adv.            adv.            pron.     v.intr -suf. -suf.     dem.
+
+\tx dos       mil       trece       nobiribi              ma
+\mb dos       mil       trece       no   =bi    =ribi     ma
+\gn dos(CAST) mil(CAST) trece(CAST) 1PL  =ENF   =también ya
+\ps num       num.      num.        pron =clit. =clit.    adv
+
+\tx nobiribi              ma.
+\mb no   =bi    =ribi     ma
+\gn 1PL  =ENF   =también ya
+\ps pron =clit. =clit.    adv
+
+\ft Ahora, ahora este dos mil trece quiero vivir, nosotros mismos.
+\ELANBegin 469.087
+\ELANEnd 475.113
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 469.087 475.113
+
+\ref 137
+\trs Kahe atana. Noa isko tsinkikasai.
+\tx Kahe atana.              Noa   isko   tsinkikasai.
+\mb kahe ak      -tan  -a    noa   isko   tsinki      -kas  -ai
+\gn casa hacer   -ANDA -PERF 1PL:S paucar agrupar(SK) -DES  -IMPF(SK)
+\ps n.   v.tran. -suf. -suf. pron. n.     v.          -suf. -suf.
+
+\ft Ya hacer una casa. Nosotros queremos juntarnos.
+\ELANBegin 476.145
+\ELANEnd 478.665
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 476.145 478.665
+
+\ref 138
+\trs Nato nato nokon nato nokon naya.
+\tx Nato     nato     nokon       nato     nokon       naya.
+\mb nato     nato     nokon       nato     nokon       naya
+\gn este(SK) este(SK) 1SG.GEN(SK) este(SK) 1SG.GEN(SK) tía.de.la.mujer
+\ps dem.     dem.     pron        dem.     pron        n.
+
+\ft Esta, esta es mi tía.
+\ELANBegin 479.033
+\ELANEnd 481.612
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 479.033 481.612
+
+\ref 139
+\trs Puro iskobicho.
+\tx Puro       iskobicho.
+\mb puro       isko   =bicho
+\gn puro(CAST) paucar =solamente
+\ps adv.       n.     =suf.
+
+\ft Puro isconahua, solito.
+\ELANBegin 480.120
+\ELANEnd 481.576
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 480.120 481.576
+
+\ref 140
+\trs Nokon wetsa.
+\tx Nokon       wetsa.
+\mb nokon       wetsa
+\gn 1SG.GEN(SK) otro(SK)
+\ps pron        adj.
+
+\ft Mi hermana.
+\ELANBegin 481.822
+\ELANEnd 483.085
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 481.822 483.085
+
+\ref 141
+\trs A wetsa ikai nokon bene iki nawa.
+\tx A   wetsa       ikai               nokon       bene   iki
+\mb a   wetsa       ik      -ai        nokon       bene   ik      -i
+\gn ese hermano(SK) copula  -NOMLZ(SK) 1SG.GEN(SK) esposo copula  -IMPF
+\ps dem adj.        v.intr. -suf.      pron        n.     v.intr. -suf.
+
+\tx nawa.
+\mb nawa
+\gn persona.de.otro.pueblo
+\ps n.
+
+\ft Esta hermana dice que mi esposo es mestizo.
+\ELANBegin 483.525
+\ELANEnd 485.738
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 483.525 485.738
+
+\ref 142
+\trs Ajá hawemabiki. Hara noa apoyanti atipanke.
+\tx Ajá   hawemabiki.                    Hara               noa
+\mb ajá   hawe      =ma    =bi    =ki    ha      =ra        noa
+\gn ajá   cuál(SK) =NEG   =ENF   =CON   ese(SK) =EVID1(SK) 1PL.P
+\ps inter. pal.int.  =clit. =clit. =clit. dem     =clit.     pron.
+
+\tx apoyanti               atipanke.
+\mb apoyan          -ti    atipan     -ke
+\gn apoyar(CAST>SK) -NOMLZ ayudar(SK) -PERF(SK)
+\ps v.              -suf.  v.         -suf.
+
+\ft "Él tampoco tiene nada, él también puede hacer, apoyarnos".
+\ELANBegin 485.738
+\ELANEnd 490.209
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 485.738 490.209
+
+\ref 143
+\trs Él va a apoyar.
+\tx Él va a apoyar.
+\ft Él va a apoyar.
+\ELANBegin 488.718
+\ELANEnd 490.051
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 488.718 490.051
+
+\ref 144
+\trs Hara hakon iki.
+\tx Hara               hakon     iki.
+\mb ha      =ra        hakon     ik      -i
+\gn 3SG(SK) =EVID1(SK) bueno(SK) copula  -IMPF
+\ps pron    =clit.     adj.      v.intr. -suf.
+
+\ft Ese es bueno.
+\ELANBegin 490.357
+\ELANEnd 491.287
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 490.357 491.287
+
+\ref 145
+\trs Él es bueno.
+\tx Él es bueno.
+\ft Él es bueno.
+\ELANBegin 491.304
+\ELANEnd 492.550
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 491.304 492.550
+
+\ref 146
+\trs Neno kai isko ichama. icha riki.
+\tx Neno      kai          isko   ichama.          icha      riki.
+\mb neno      ka     -i    isko   icha      =ma    icha      riki
+\gn aquí(SK) ir     -IMPF paucar mucho(SK) =NEG   mucho(SK) COP(SK)
+\ps adv.      v.intr -suf. n.     cuant.    =clit. cuant.    part.
+
+\ft Aquí los isconahuas no somos muchos.
+\ELANBegin 491.831
+\ELANEnd 494.287
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 491.831 494.287
+
+\ref 147
+\trs Iro oni, iro oni. Mi marido es iro oni.
+\tx Iro   oni,    iro   oni.    Mi       marido       es iro   oni.
+\mb iro   oni     iro   oni     mi       marido       es iro   oni
+\gn bueno persona bueno persona mi(CAST) marido(CAST) es bueno persona
+\ps adj.  n.      adj.  n.      pron.    n.           v. adj.  n.
+
+\ft Buen gente, buena gente. Mi marido es buena gente.
+\ELANBegin 492.613
+\ELANEnd 495.946
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 492.613 495.946
+
+\ref 148
+\trs Iro oniki nokon rais.
+\tx Iro   oniki          nokon       rais.
+\mb iro   oni     =ki    nokon       rais
+\gn bueno persona =CON   1SG.GEN(SK) yerno
+\ps adj.  n.      =clit. pron        n.
+
+\ft Buena gente, mi yerno es un buen hombre.
+\ELANBegin 493.454
+\ELANEnd 496.170
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 493.454 496.170
+
+\ref 149
+\trs Kepan oni.
+\tx Kepan oni.
+\mb kepan oni
+\gn manso persona
+\ps adj.  n.
+
+\ft (Ininteligible) Buena gente.
+\ELANBegin 496.042
+\ELANEnd 497.854
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 496.042 497.854
+
+\ref 150
+\trs Nokon rais iro oniki kepan oni kepan oni.
+\tx Nokon       rais  iro   oniki          kepan oni     kepan oni.
+\mb nokon       rais  iro   oni     =ki    kepan oni     kepan oni
+\gn 1SG.GEN(SK) yerno bueno persona =CON   manso persona manso persona
+\ps pron        n.    adj.  n.      =clit. adj.  n.      adj.  n.
+
+\ft Mi yerno es buena gente, una buena persona.
+\ELANBegin 496.170
+\ELANEnd 500.138
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 496.170 500.138
+
+\ref 151
+\trs Hombre bueno era. Bien bueno es, bien bueno es. Iro oni.
+\tx Hombre bueno era. Bien bueno es, bien bueno es. Iro oni.
+\ft Hombre bueno era. Bien bueno es, bien bueno es. buena persona.
+\ELANBegin 499.618
+\ELANEnd 503.611
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 499.618 503.611
+
+\ref 152
+\trs Yowashima, nato piwe, nato piwe. Come, come.
+\tx Yowashima,          nato     piwe,            nato     piwe.
+\mb Yowashi      =ma    nato     pi      -we      nato     pi      -we
+\gn mezquino(SK) =NEG   este(SK) comer   -IMP(SK) este(SK) comer   -IMP(SK)
+\ps adj.         =clit. dem.     v.tran. -suf.    dem.     v.tran. -suf.
+
+\tx Come,      come.
+\mb Come       come
+\gn come(CAST) come(CAST)
+\ps v.         v.
+
+\ft No es tacaño. Dice: "come, come".
+\ELANBegin 503.462
+\ELANEnd 508.521
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 503.462 508.521
+
+\ref 153
+\trs (Ininteligible) No es mishíko. (Ininteligible). Come con todos. Reparte cuando come.
+\tx (Ininteligible) No es mishíko. (Ininteligible). Come con todos. Reparte cuando come.
+\ft (Ininteligible) No es mishíko. (Ininteligible). Come con todos. Reparte cuando come.
+\ELANBegin 504.446
+\ELANEnd 508.939
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 504.446 508.939
+
+\ref 154
+\trs Él es bien bueno.
+\tx Él es bien bueno.
+\ft Él es bien bueno.
+\ELANBegin 510.013
+\ELANEnd 511.476
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 510.013 511.476
+
+\ref 155
+\trs Hara ha hakon iki.
+\tx Hara               ha      hakon     iki.
+\mb ha      =ra        ha      hakon     ik      -i
+\gn ese(SK) =EVID1(SK) ese(SK) bueno(SK) copula  -IMPF
+\ps dem     =clit.     dem     adj.      v.intr. -suf.
+
+\ft Ese es bueno.
+\ELANBegin 512.103
+\ELANEnd 514.014
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 512.103 514.014
+
+\ref 156
+\trs Haskara ma riki neskara riki eah ayudankanti.
+\tx Haskara             ma  riki    neskara          riki    eah
+\mb haska    =ra        ma  riki    neska =ra        riki    eah
+\gn así(SK) =EVID1(SK) ya  COP(SK) así  =EVID1(SK) COP(SK) 1SG:S
+\ps adv.     =clit.     adv part.   adv.  =clit.     part.   pron.
+
+\tx ayudankanti.
+\mb ayudan          -kan  -ti
+\gn ayudar(CAST>SK) -PLU  -NOMLZ
+\ps v.              -suj. -suf.
+
+\ft Yo también quiero que me ayuden.
+\ELANBegin 512.707
+\ELANEnd 515.484
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 512.707 515.484
+
+\ref 157
+\trs Él habla... idioma, también.
+\tx Él habla... idioma, también.
+\ft Él habla... idioma, también.
+\ELANBegin 513.715
+\ELANEnd 516.058
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 513.715 516.058
+
+\ref 158
+\trs Ea ayudankanti kenai moa nato non noabiribi eweketian ka.
+\tx Ea    ayudankanti                  kenai            moa    nato
+\mb ea    ayudan          -kan  -ti    kena       -i    moa    nato
+\gn 1SG:P ayudar(CAST>SK) -PLU  -NOMLZ querer(SK) -IMPF ya(SK) este(SK)
+\ps pron. v.              -suj. -suf.  v.         -suf. adv    dem.
+
+\tx non   noabiribi              eweketian               ka.
+\mb non   noa   =bi    =ribi     ewe    -ketian          =ka
+\gn 1PL:S 1PL:S =ENF   =también vivir  -SUJ.DIF:SIM(SK) =NAR
+\ps pron  pron. =clit. =clit.    v.intr -suf             =clit.
+
+\ft Yo quiero que me ayuden ya cuando entre nosotros mismos vivamos.
+\ELANBegin 516.656
+\ELANEnd 521.178
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 516.656 521.178
+
+\ref 159
+\trs (Ininteligible) Ya.
+\tx (Ininteligible) Ya.
+\ft (Ininteligible) Ya.
+\ELANBegin 522.208
+\ELANEnd 525.835
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 522.208 525.835
+
+\ref 160
+\trs Eh... askara.
+\tx Eh... askara.
+\mb eh    aska =ra
+\gn eh    así =EVID1(SK)
+\ps intj. adv. =clit.
+
+\ft Eehhh... así.
+\ELANBegin 526.208
+\ELANEnd 527.432
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 526.208 527.432
+
+\ref 161
+\trs Noa micha eweresa hakon kai ikebetin.
+\tx Noa   micha eweresa                 hakon     kai
+\mb noa   micha ewe    -res       -a    hakon     ka     -i
+\gn 1PL:S feo   vivir  -solamente -PERF bueno(SK) ir     -IMPF
+\ps pron. adj.  v.intr -suf.      -suf. adj.      v.intr -suf.
+
+\tx ikebetin.
+\mb ik      -ke        -betin
+\gn copula  -NOMLZ(SK) -por.que
+\ps v.intr. -suf.      -suf.
+
+\ft Nosotros nomás vivíamos mal.
+\ELANBegin 533.181
+\ELANEnd 535.966
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 533.181 535.966
+
+\ref 162
+\trs (Risas)
+\tx (Risas)
+\ft (Risas)
+\ELANBegin 536.854
+\ELANEnd 539.451
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 536.854 539.451
+
+\ref 163
+\trs Micha eweresa hakon.
+\tx Micha eweresa                 hakon
+\mb micha ewe    -res       -a    hakon
+\gn feo   vivir  -solamente -PERF bueno(SK)
+\ps adj.  v.intr -suf.      -suf. adj.
+
+\ft Nomás vivíamos mal.
+\ELANBegin 537.361
+\ELANEnd 539.227
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 537.361 539.227
+
+\ref 164
+\trs No, todavía.
+\tx No, todavía.
+\ft No, todavía.
+\ELANBegin 540.667
+\ELANEnd 541.652
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 540.667 541.652
+
+\ref 165
+\trs Micha eweresa riki ea.
+\tx Micha eweresa                  riki    ea.
+\mb micha ewe    -res       -a     riki    ea
+\gn feo   vivir  -solamente -NOMLZ COP(SK) 1SG:S(SK)
+\ps adj.  v.intr -suf.      -suf.  part.   pron.
+
+\ft Mal nomás vivía yo.
+\ELANBegin 543.969
+\ELANEnd 545.551
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 543.969 545.551
+
+\ref 166
+\trs Micha eweresa.
+\tx Micha eweresa.
+\mb micha ewe    -res       -a
+\gn feo   vivir  -solamente -PERF
+\ps adj.  v.intr -suf.      -suf.
+
+\ft Mal vivíamos.
+\ELANBegin 546.111
+\ELANEnd 547.749
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 546.111 547.749
+
+\ref 167
+\trs Kaheoma.
+\tx Kaheoma.
+\mb kahe =oma
+\gn casa =PROP.NEG
+\ps n.   =clit.
+
+\ft Sin casa.
+\ELANBegin 547.266
+\ELANEnd 548.087
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 547.266 548.087
+
+\ref 168
+\trs Ea kaheoma ea mirakamea.
+\tx Ea        kaheoma        ea        mirakamea.
+\mb ea        kahe =oma      ea        mirakame -a
+\gn 1SG:S(SK) casa =PROP.NEG 1SG:S(SK) sufrir   -EST
+\ps pron.     n.   =clit.    pron.     v.       -suf
+
+\ft Yo estoy sin casa, en ajeno.
+\ELANBegin 549.149
+\ELANEnd 551.835
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 549.149 551.835
+
+\ref 169
+\trs Kaheoma.
+\tx Kaheoma.
+\mb kahe =oma
+\gn casa =PROP.NEG
+\ps n.   =clit.
+
+\ft Sin casa.
+\ELANBegin 549.639
+\ELANEnd 550.371
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 549.639 550.371
+
+\ref 170
+\trs Yo vivo San Miguel.
+\tx Yo vivo San Miguel.
+\ft Yo vivo San Miguel.
+\ELANBegin 551.549
+\ELANEnd 552.701
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 551.549 552.701
+
+\ref 171
+\trs (Ininteligible)
+\tx (Ininteligible)
+\ft (Ininteligible)
+\ELANBegin 552.485
+\ELANEnd 553.604
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 552.485 553.604
+
+\ref 172
+\trs Kahe michahako.
+\tx Kahe michahako.
+\mb kahe micha -hoko
+\gn casa feo   -DIM
+\ps n.   adj.  -suf
+
+\ft Mi casa está malita.
+\ELANBegin 553.550
+\ELANEnd 554.660
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 553.550 554.660
+
+\ref 173
+\trs Kahe michahako.
+\tx Kahe michahako.
+\mb kahe micha -hoko
+\gn casa feo   -DIM
+\ps n.   adj.  -suf
+
+\ft La casa está malita.
+\ELANBegin 554.680
+\ELANEnd 555.580
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 554.680 555.580
+
+\ref 174
+\trs No tengo casa buena yo.
+\tx No tengo casa buena yo.
+\ft No tengo casa buena yo.
+\ELANBegin 555.875
+\ELANEnd 557.105
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 555.875 557.105
+
+\ref 175
+\trs Ahí vivimos, nomás. Tengo casa dañadito.
+\tx Ahí vivimos, nomás. Tengo casa dañadito.
+\ft Ahí vivimos, nomás. Tengo casa dañadito.
+\ELANBegin 557.570
+\ELANEnd 560.830
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 557.570 560.830
+
+\ref 176
+\trs Mi marido no quiere hacer (Ininteligible).
+\tx Mi marido no quiere hacer (Ininteligible).
+\ft Mi marido no quiere hacer (Ininteligible).
+\ELANBegin 561.440
+\ELANEnd 564.710
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 561.440 564.710
+
+\ref 177
+\trs (Ininteligible)
+\tx (Ininteligible)
+\ft (Ininteligible)
+\ELANBegin 563.450
+\ELANEnd 564.380
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 563.450 564.380
+
+\ref 178
+\trs Ishton kahewe. Ain no inon akin.
+\tx Ishton  kahewe.       Ain       no   inon          akin.
+\mb ishton  kahe -we      ain       no   ik      -non  ak      -kin
+\gn rápido casa -IMP(SK) ahí(MIX) 1PL  copula  -PROP hacer   -SUJ>A:SIM
+\ps adv.    n.   -suf.    adv.      pron v.intr. -suf. v.tran. -suf.
+
+\ft Haz la casa rápido. Haz para que vivamos ahí.
+\ELANBegin 564.820
+\ELANEnd 567.880
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 564.820 567.880
+
+\ref 179
+\trs Panpihiko kahe panpihiko hainhiko nokon bakebetan iki. Nokon hijabetan.
+\tx Panpihiko kahe panpihiko hainhiko       nokon       bakebetan
+\mb panpihiko kahe panpihiko hain     -hoko nokon       bake =betan
+\gn pequeño  casa pequeño  ahí(SK) -DIM  1SG.GEN(SK) hijo =COM
+\ps adj.      n.   adj.      adv.     -suf  pron        n.   =clit.
+
+\tx iki.          Nokon       hijabetan.
+\mb ik      -i    nokon       hija       =betan
+\gn copula  -IMPF 1SG.GEN(SK) hija(CAST) =COM
+\ps v.intr. -suf. pron        n.         =clit.
+
+\ft En una casa chiquita con mi hija vivo, una casa chiquita. Con mi hija.
+\ELANBegin 570.310
+\ELANEnd 576.840
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 570.310 576.840
+
+\ref 180
+\trs Hawetiki min kaheai.
+\tx Hawetiki        min   kaheai.
+\mb haweti   =ki    min   kahe -ai
+\gn cuándo  =INT   2SG:A casa -IMPF(SK)
+\ps pal.int. =clit. pron. n.   -suf.
+
+\ft ¿Cuándo vas a hacer la casa?
+\ELANBegin 579.470
+\ELANEnd 581.590
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 579.470 581.590
+
+\ref 181
+\trs Anon pari iki nokon rais.
+\tx Anonpari                iki           nokon       rais.
+\mb ak      -non  =pari     ik      -i    nokon       rais
+\gn hacer   -PROP =todavía copula  -IMPF 1SG.GEN(SK) yerno
+\ps v.tran. -suf. =clit.    v.intr. -suf. pron        n.
+
+\ft "Espera, ya voy a hacerla", y mi yerno:
+\ELANBegin 583.010
+\ELANEnd 585.040
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 583.010 585.040
+
+\ref 182
+\trs Akasabira atipayamai.
+\tx Akasabira                    atipayamai.
+\mb ak      -kas  -a     =bira   atipa -yama    -i
+\gn hacer   -DES  -NOMLZ =nomás poder -NEG(SK) -IMPF
+\ps v.tran. -suf. -suf.  =clit.  v.    -suf.    -suf.
+
+\ft "Quisiera pero no puedo hacerla".
+\ELANBegin 586.170
+\ELANEnd 588.320
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 586.170 588.320
+
+\ref 183
+\trs Eara kaheomaribiki.
+\tx Eara                 kaheomaribiki.
+\mb ea        =ra        kahe =oma      =ribi     =ki
+\gn 1SG:S(SK) =EVID1(SK) casa =PROP.NEG =también =CON
+\ps pron.     =clit.     n.   =clit.    =clit.    =clit.
+
+\ft Yo también estoy sin casa.
+\ELANBegin 589.460
+\ELANEnd 590.830
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 589.460 590.830
+
+\ref 184
+\trs En kaheoma.
+\tx En    kaheoma.
+\mb en    kahe =oma
+\gn 1SG:S casa =PROP.NEG
+\ps pron  n.   =clit.
+
+\ft Yo estoy sin casa.
+\ELANBegin 590.830
+\ELANEnd 591.784
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 590.830 591.784
+
+\ref 185
+\trs Ea kaheomaribi panpíhiko.
+\tx Ea        kaheomaribi              panpihiko.
+\mb ea        kahe =oma      =ribi     panpihiko
+\gn 1SG:S(SK) casa =PROP.NEG =también pequeño
+\ps pron.     n.   =clit.    =clit.    adj.
+
+\ft Yo también estoy estoy sin una casa pequeñita.
+\ELANBegin 591.784
+\ELANEnd 593.860
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 591.784 593.860
+
+\ref 186
+\trs Eah kaheoma. Ewen bene ma iwahako.
+\tx Eah   kaheoma.       Ewen    bene   ma  iwahako.
+\mb eah   kahe =oma      ewen    bene   ma  iwa   -hoko
+\gn 1SG:S casa =PROP.NEG 1SG:GEN esposo ya  viejo -DIM
+\ps pron. n.   =clit.    pron.   n.     adv adj.  -suf
+
+\ft Yo estoy sin casa. Mi marido ya está viejito.
+\ELANBegin 592.770
+\ELANEnd 595.310
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 592.770 595.310
+
+\ref 187
+\trs Kaheti. Kahetiah.
+\tx Kaheti.     Kahetiah.
+\mb kahe -ti    kahe -ti    -ah
+\gn casa -NOMLZ casa -NOMLZ -SUJ>S:SIM
+\ps n.   -suf.  n.   -suf.  -suf.
+
+\ft Hacer la casa.
+\ELANBegin 595.450
+\ELANEnd 597.306
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 595.450 597.306
+
+\ref 188
+\trs Kaheti ati atipanyamai iwahako moa.
+\tx Kaheti      ati            atipanyamai               iwahako
+\mb kahe -ti    ak      -ti    atipan     -yama    -i    iwa   -hoko
+\gn casa -NOMLZ hacer   -NOMLZ ayudar(SK) -NEG(SK) -IMPF viejo -DIM
+\ps n.   -suf.  v.tran. -suf.  v.         -suf.    -suf. adj.  -suf
+
+\tx moa.
+\mb moa
+\gn ya(SK)
+\ps adv
+
+\ft Hacer la casa no puede el viejito, ya.
+\ELANBegin 597.306
+\ELANEnd 600.440
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 597.306 600.440
+
+\ref 189
+\trs Ma kahe pei harati. 
+\tx Ma  kahe pei         harati.
+\mb ma  kahe pei         hara         -ti
+\gn ya  casa hoja.grande jalar(CAST?) -NOMLZ
+\ps adv n.   n.          v            -suf.
+
+\ft Ya jalar hojas para la casa. (Ininteligible)
+\ELANBegin 601.840
+\ELANEnd 604.235
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 601.840 604.235
+
+\ref 190
+\trs Eara beneomahako iki.
+\tx Eara                 beneomahako   iki.
+\mb ea        =ra        beneoma -hoko ik      -i
+\gn 1SG:S(SK) =EVID1(SK) viuda   -DIM  copula  -IMPF
+\ps pron.     =clit.     n.      -suf  v.intr. -suf.
+
+\ft Yo estoy solita sin mi marido.
+\ELANBegin 603.340
+\ELANEnd 605.030
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 603.340 605.030
+
+\ref 191 
+\trs Mirakamehekoa nokon rayos iba.
+\tx Mirakame-hekoa      nokon       rayos     iba.
+\mb mirakame -hoko -a   nokon       rayos     ik      -ba    -a
+\gn sufrir   -DIM  -EST 1SG.GEN(SK) yerno(SK) copula  -ahora -EST
+\ps v.       -suf  -suf pron        n.        v.intr. -suf.  -suf
+
+\ft Yo vivo en ajeno donde mi yerno.
+\ELANBegin 605.510
+\ELANEnd 608.370
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 605.510 608.370
+
+\ref 192
+\trs (Ininteligible)
+\tx (Ininteligible)
+\ft (Ininteligible)
+\ELANBegin 612.010
+\ELANEnd 613.050
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 612.010 613.050
+
+\ref 193
+\trs Iwahako yoshanhako ikah.
+\tx Iwahako     yoshanhako      ikah.
+\mb iwa   -hoko yoshan    -hoko ik      -ah
+\gn vieja -DIM  vieja(SK) -DIM  copula  -SUJ>S:SIM
+\ps adj.  -suf  adj.      -suf  v.intr. -suf.
+
+\ft Soy viejita, viejita.
+\ELANBegin 612.625
+\ELANEnd 614.595
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 612.625 614.595
+
+\ref 194
+\trs Non anan kaheati. Non anan kaheati noa.
+\tx Non   anan     kaheati.              Non   anan
+\mb non   anan     kahe -a        -ti    non   anan
+\gn 1PL:A otra.vez casa -FACT(SK) -NOMLZ 1PL:A otra.vez
+\ps pron  adv.     n.   -suf.     -suf.  pron  adv.
+
+\tx kaheati               noa.
+\mb kahe -a        -ti    noa
+\gn casa -FACT(SK) -NOMLZ 1PL:S
+\ps n.   -suf.     -suf.  pron.
+
+\ft Nosotros hacemos la casa. Hacemos la casa.
+\ELANBegin 616.570
+\ELANEnd 620.693
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 616.570 620.693
+
+\ref 195
+\trs Beneti atipanyama ma ea.
+\tx Beneti         atipanyama                 ma  ea.
+\mb bene    -ti    atipan     -yama    -a     ma  ea
+\gn casarse -NOMLZ ayudar(SK) -NEG(SK) -NOMLZ ya  1SG:S(SK)
+\ps v.      -suf.  v.         -suf.    -suf.  adv pron.
+
+\ft Yo ya no podía casarme.
+\ELANBegin 616.620
+\ELANEnd 618.720
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 616.620 618.720
+
+\ref 196
+\trs Non anan kaheati eah kenai.
+\tx Non   anan     kaheati               eah   kenai.
+\mb non   anan     kahe -a        -ti    eah   kena       -i
+\gn 1PL:A otra.vez casa -FACT(SK) -NOMLZ 1SG:S querer(SK) -IMPF
+\ps pron  adv.     n.   -suf.     -suf.  pron. v.         -suf.
+
+\ft Yo quiero que nosotros hagamos una casa.
+\ELANBegin 620.693
+\ELANEnd 622.680
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 620.693 622.680
+
+\ref 197
+\trs Noah ha...
+\tx Noah  ha...
+\mb noah  ha
+\gn 1PL:S ese(SK)
+\ps pron. dem
+
+\ft Nosotros, este...
+\ELANBegin 623.900
+\ELANEnd 624.480
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 623.900 624.480
+
+\ref 198
+\trs Noa ankati eah kenai motoro.
+\tx Noa   ankati eah   kenai            motoro.
+\mb noa   ankati eah   kena       -i    motoro
+\gn 1PL:S bote   1SG:S querer(SK) -IMPF motor(CAST)
+\ps pron. n.     pron. v.         -suf. n.
+
+\ft Yo quiero un motor para que vayamos con él.
+\ELANBegin 624.975
+\ELANEnd 627.765
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 624.975 627.765
+
+\ref 199
+\trs Motoro motoro motoro.
+\tx Motoro      motoro      motoro.
+\mb motoro      motoro      motoro
+\gn motor(CAST) motor(CAST) motor(CAST)
+\ps n.          n.          n.
+
+\ft Un motor, un motor.
+\ELANBegin 629.820
+\ELANEnd 631.470
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 629.820 631.470
+
+\ref 200
+\trs Atian ha neskaki ha tapoati ka.
+\tx Atian    ha      neskaki      ha      tapoati ka.
+\mb atian    ha      neska =ki    ha      tapoati =ka
+\gn entonces ese(SK) así  =REP   ese(SK) piso    =NAR
+\ps conec.   dem     adv.  =clit. dem     n.      =clit.
+
+\ft Después, también quiero.
+\ELANBegin 631.560
+\ELANEnd 636.159
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 631.560 636.159
+
+\ref 201
+\trs Kohan kahketi kohan kahketi kenai motosierra.
+\tx Kohan kahketi                  kohan kahketi
+\mb Kohan kahke             -ti    kohan kahke             -ti
+\gn cedro cortar.con.sierra -NOMLZ cedro cortar.con.sierra -NOMLZ
+\ps n.    v.                -suf.  n.    v.                -suf.
+
+\tx kenai            motosierra.
+\mb kena       -i    motosierra
+\gn querer(SK) -IMPF motosierra
+\ps v.         -suf. n.
+
+\ft Una motosierra, así, para hacer piso, cortar madera, cortar madera.
+\ELANBegin 636.159
+\ELANEnd 641.240
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 636.159 641.240
+
+\ref 202
+\trs Ma iro ma iro ewea bena ewe wená ewe wená ewe wená.
+\tx Ma  iro   ma  iro   ewea         bena   ewe    wená ewe    wená ewe    wená.
+\mb ma  iro   ma  iro   ewe    -a    bena   ewe    wená ewe    wená ewe    wená
+\gn ya  bueno ya  bueno vivir  -PERF buscar vivir  nuevo vivir  nuevo vivir  nuevo
+\ps adv adj.  adv adj.  v.intr -suf. v.intr v.intr adj.  v.intr adj.  v.intr adj.
+
+\ft Ya para vivir bien en un lugar nuevo, en un lugar nuevo.
+\ELANBegin 642.610
+\ELANEnd 646.110
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 642.610 646.110
+
+\ref 203
+\trs Ewe wená.
+\tx Ewe    wená.
+\mb ewe    wená
+\gn vivir  nuevo
+\ps v.intr adj.
+
+\ft En un lugar nuevo.
+\ELANBegin 646.435
+\ELANEnd 647.225
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 646.435 647.225
+
+\ref 204
+\trs Ewe wená.
+\tx Ewe    wená.
+\mb ewe    wená
+\gn vivir  nuevo
+\ps v.intr adj.
+
+\ft Un lugar nuevo.
+\ELANBegin 647.150
+\ELANEnd 647.750
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 647.150 647.750
+
+\ref 205
+\trs Ewe wenáhon kaheati.
+\tx Ewe    wenáhon         kaheati.
+\mb ewe    wená -hon       kahe -a        -ti
+\gn vivir  nuevo -SUJ>A:SIM casa -FACT(SK) -NOMLZ
+\ps v.intr adj.  -suf.      n.   -suf.     -suf.
+
+\ft Teniendo este sitio nuevo donde vivir, para hacer una casa ahí.
+\ELANBegin 647.675
+\ELANEnd 649.375
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 647.675 649.375
+
+\ref 206
+\trs Iro iro kaheati.
+\tx Iro   iro   kaheati.
+\mb iro   iro   kahe -a        -ti
+\gn bueno bueno casa -FACT(SK) -NOMLZ
+\ps adj.  adj.  n.   -suf.     -suf.
+
+\ft Hacer una casa (Ininteligible) buena.
+\ELANBegin 648.090
+\ELANEnd 650.610
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 648.090 650.610
+
+\ref 207
+\trs Iro kaheati.
+\tx Iro   kaheati.
+\mb iro   kahe -a        -ti
+\gn bueno casa -FACT(SK) -NOMLZ
+\ps adj.  n.   -suf.     -suf.
+
+\ft Hacer una buena casa.
+\ELANBegin 649.265
+\ELANEnd 650.615
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 649.265 650.615
+
+\ref 208
+\trs Ewe wenahon kaheati ea kenai motosierra.
+\tx Ewe    wenahon          kaheati               ea
+\mb ewe    wená -hon       kahe -a        -ti    ea
+\gn vivir  nuevo -SUJ>A:SIM casa -FACT(SK) -NOMLZ 1SG:S(SK)
+\ps v.intr adj.  -suf.      n.   -suf.     -suf.  pron.
+
+\tx kenai            motosierra.
+\mb kena       -i    motosierra
+\gn querer(SK) -IMPF motosierra
+\ps v.         -suf. n.
+
+\ft Teniendo este sitio nuevo donde vivir, para hacer una casa ahí, quiero una motosierra.
+\ELANBegin 649.895
+\ELANEnd 652.765
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 649.895 652.765
+
+\ref 209
+\trs Kahe ani ahon iro ewei hain. Non yoahon piai. Non yoa atsa banai hawi
+banai.
+\tx Kahe ani        ahon               iro   ewei         hain.    Non
+\mb kahe ani        ak      -hon       iro   ewe    -i    hain     non
+\gn casa grande(SK) hacer   -SUJ>A:SIM bueno vivir  -IMPF ahí(SK) 1PL:A
+\ps n.   adj.       v.tran. -suf.      adj.  v.intr -suf. adv.     pron
+
+\tx yoahon                        piai.             Non         yoa
+\mb yoa                -hon       pi      -ai       no   =n     yoa
+\gn comida.vegetal(SK) -SUJ>A:SIM comer   -IMPF(SK) 1PL  =GEN   comida.vegetal(SK)
+\ps n.                 -suf.      v.tran. -suf.     pron =clit. n.
+
+\tx atsa banai         hawi             banai.
+\mb atsa bana    -i    hawi             bana   -i
+\gn yuca sembrar -IMPF caña.de.azúcar lengua -IMPF
+\ps n.   v.tran  -suf. n.               n.     -suf.
+
+\ft Haciendo una casa grande, ahí vivmos bien. Cultivando, comemos. Cultivamos yuca, sembramos caña.
+\ELANBegin 652.000
+\ELANEnd 658.460
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 652.000 658.460
+
+\ref 210
+\trs Eara ha habo kenai apoyo.
+\tx Eara                 ha      habo          kenai            apoyo.
+\mb ea        =ra        ha      ha      =bo   kena       -i    apoyo
+\gn 1SG:S(SK) =EVID1(SK) ese(SK) ese(SK) =PLU  querer(SK) -IMPF apoyo(CAST)
+\ps pron.     =clit.     dem     dem     =clit v.         -suf. n.
+
+\ft Yo quiero eso, apoyo.
+\ELANBegin 658.525
+\ELANEnd 660.735
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 658.525 660.735
+
+\ref 211
+\trs Paranti banai. Heki banai.
+\tx Paranti  banai.        Heki  banai.
+\mb paranti  bana    -i    heki  bana    -i
+\gn plátano sembrar -IMPF maíz sembrar -IMPF
+\ps n.       v.tran  -suf. n.    v.tran  -suf.
+
+\ft Sembramos plátano, maíz.
+\ELANBegin 659.795
+\ELANEnd 661.775
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 659.795 661.775
+
+\ref 212
+\trs Hatian...
+\tx Hatian...
+\mb hatian
+\gn entonces(SK)
+\ps conec.
+
+\ft También...
+\ELANBegin 661.030
+\ELANEnd 661.630
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 661.030 661.630
+
+\ref 213
+\trs Ea eah heriheri ikai nato... teléfono.
+\tx Ea        eah   heriheri          ikai nato     teléfono.
+\mb ea        eah   heriheri ik  -ai       nato     teléfono
+\gn 1SG:S(SK) 1SG:S desear.mucho -IMPF(SK) este(SK) teléfono(CAST)
+\ps pron.     pron. v.           -suf.     dem.     n.
+
+\ft Yo quiero... Yo quiero este... un teléfono.
+\ELANBegin 662.410
+\ELANEnd 667.740
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 662.410 667.740
+
+\ref 214
+\trs Ainoah radiofonía.
+\tx Ainoah   radiofonía.
+\mb Ainoah   radiofonía
+\gn después radiofonía(CAST)
+\ps conec.   n.
+
+\ft Después radiofonía.
+\ELANBegin 667.950
+\ELANEnd 670.900
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 667.950 670.900
+
+\ref 215
+\trs Aribi riki eah heriheri iki.
+\tx Aribi         riki    eah   heriheri           iki.
+\mb a   =ribi     riki    eah   heriheri ik  -i
+\gn ese =también COP(SK) 1SG:S desear.mucho -IMPF
+\ps dem =clit.    part.   pron. v.           -suf.
+
+\ft Eso, también, yo estoy queriendo.
+\ELANBegin 671.520
+\ELANEnd 673.020
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 671.520 673.020
+
+\ref 216
+\trs Comunicanti kopí.
+\tx Comunican-ti              kopi.
+\mb comunican          -ti    kopi
+\gn comunicar(CAST>SK) -NOMLZ por.eso
+\ps v.                 -suf.  conect.
+
+\ft Para comunicarme.
+\ELANBegin 673.525
+\ELANEnd 674.785
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 673.525 674.785
+
+\ref 217
+\trs Kenati kopí.
+\tx Kenati        kopí.
+\mb kena   -ti    kopí
+\gn llamar -NOMLZ por.eso
+\ps v.     -suf.  post.
+
+\ft Para querer llamar.
+\ELANBegin 673.560
+\ELANEnd 674.550
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 673.560 674.550
+
+\ref 218
+\trs Ato kenati kopi.
+\tx Ato   kenati        kopi.
+\mb ato   kena   -ti    kopi
+\gn 3PL   llamar -NOMLZ por.eso
+\ps pron. v.     -suf.  conect.
+
+\ft Para llamarlos a ellos.
+\ELANBegin 674.790
+\ELANEnd 676.230
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 674.790 676.230
+
+\ref 219
+\trs Ato kenati.
+\tx Ato   kenati.
+\mb ato   kena       -ti
+\gn 3PL   querer(SK) -NOMLZ
+\ps pron. v.         -suf.
+
+\ft Llamarlos a ellos.
+\ELANBegin 675.835
+\ELANEnd 676.915
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 675.835 676.915
+
+\ref 220
+\trs Mato kenati ka.
+\tx Mato    kenati        ka.
+\mb mato    kena   -ti    =ka
+\gn 2PL(SK) llamar -NOMLZ =NAR
+\ps pron.   v.     -suf.  =clit.
+
+\ft Para llamarlos a ustedes.
+\ELANBegin 677.030
+\ELANEnd 678.110
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 677.030 678.110
+
+\ref 221
+\trs Mato kenati. Roberto kenati.
+\tx Mato    kenati.       Roberto kenati.
+\mb mato    kena   -ti    Roberto kena   -ti
+\gn 2PL(SK) llamar -NOMLZ Roberto llamar -NOMLZ
+\ps pron.   v.     -suf.  n.      v.     -suf.
+
+\ft Llamarlos a ustedes, a Roberto.
+\ELANBegin 677.955
+\ELANEnd 680.175
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 677.955 680.175
+
+\ref 222
+\trs Noa oini onon.
+\tx Noa   oin-i             onon.
+\mb noa   oin    -i         o     -non
+\gn 1PL.P ver    -SUJ>S:SIM venir -PROP
+\ps pron. v.ambi -suf.      v.    -suf.
+
+\ft (Ininteligible) "Vengan a vernos".
+\ELANBegin 679.000
+\ELANEnd 682.530
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 679.000 682.530
+
+\ref 223
+\trs Pa que venga a mirar.
+\tx Pa que venga a mirar.
+\ft Pa que venga a mirar.
+\ELANBegin 682.590
+\ELANEnd 684.130
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 682.590 684.130
+
+\ref 224
+\trs Haskarabo ea. Eah heriheri iki motosierra, motor.
+\tx Haskarabo                 ea.       Eah   heriheri iki       motosierra, motor.
+\mb haska    =ra        =bo   ea        eah   heriheri ik  -i    motosierra  motoro
+\gn así(SK) =EVID1(SK) =PLU  1SG:S(SK) 1SG:S desear.mucho -IMPF motosierra  motor(CAST)
+\ps adv.     =clit.     =clit pron.     pron. v.           -suf. n.          n.
+
+\ft Así, pues,  yo quiero una motosierra, un motor.
+\ELANBegin 684.320
+\ELANEnd 689.610
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 684.320 689.610
+
+\ref 225
+\trs Ma eweketian ka. Ramábimá.
+\tx Ma  eweketian               ka.    Ramabima.
+\mb ma  ewe    -ketian          =ka    rama            =bi    =ma
+\gn ya  vivir  -SUJ.DIF:SIM(SK) =NAR   actualmente(SK) =ENF   =NEG
+\ps adv v.intr -suf             =clit. adv.            =clit. =clit.
+
+\ft Ya cuando estemos viviendo juntos, no ahora mismo.
+\ELANBegin 691.080
+\ELANEnd 693.640
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 691.080 693.640
+
+\ref 226
+\trs Ramabima.
+\tx Ramabima.
+\mb rama            =bi    =ma
+\gn actualmente(SK) =ENF   =NEG
+\ps adv.            =clit. =clit.
+
+\ft No ahora mismo.
+\ELANBegin 692.465
+\ELANEnd 693.475
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 692.465 693.475
+
+\ref 227
+\trs Ramabima. Xobo hakon akah.
+\tx Ramabima.                     Xobo     hakon     akah.
+\mb rama            =bi    =ma    xobo     hakon     ak      -ah
+\gn actualmente(SK) =ENF   =NEG   casa(SK) bueno(SK) hacer   -SUJ>S:SIM
+\ps adv.            =clit. =clit. n.       adj.      v.tran. -suf.
+
+\ft No ahora mismo. Después de hacer una buena casa.
+\ELANBegin 693.810
+\ELANEnd 695.490
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 693.810 695.490
+
+\ref 228
+\trs Ehe. Ma eweah eweah mairo eweah.
+\tx Ehe.  Ma  eweah             eweah             ma  iro   eweah.
+\mb ehe   ma  ewe    -ah        ewe    -ah        ma  iro   ewe    -ah
+\gn sí   ya  vivir  -SUJ>S:SIM vivir  -SUJ>S:SIM ya  bueno vivir  -SUJ>S:SIM
+\ps intj. adv v.intr -suf.      v.intr -suf.      adv adj.  v.intr -suf.
+
+\ft Eehhh. Ya después de vivir mejor.
+\ELANBegin 695.540
+\ELANEnd 698.220
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 695.540 698.220
+
+\ref 229
+\trs Xoborewan. Ma iro akaka.
+\tx Xoborewan.       Ma  iro   akaka.
+\mb xobo     - rewan ma  iro   ak      -a    =ka
+\gn casa(SK) - AUM   ya  bueno hacer   -PERF =NAR
+\ps n.       - suf.  adv adj.  v.tran. -suf. =clit.
+
+\ft Después de vivir en una buena casa. Después de hacer una casa buena.
+\ELANBegin 697.055
+\ELANEnd 699.145
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 697.055 699.145
+
+\ref 230
+\trs Ma eah kenyamai nato.
+\tx Ma  eah   kenyamai                   nato.
+\mb ma  eah   kena       -yama    -i     nato
+\gn ya  1SG:S querer(SK) -NEG(SK) -NOMLZ este(SK)
+\ps adv pron. v.         -suf.    -suf.  dem.
+
+\ft Pero yo no quiero esto.
+\ELANBegin 699.510
+\ELANEnd 701.650
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 699.510 701.650
+
+\ref 231
+\trs Shipibo hain westiora shipibo katima.
+\tx Shipibo       hain     westiora shipibo katima.
+\mb Shipi   =bo   hain     westiora shipibo ka     -ti    =ma
+\gn shipibo =PLU  ahí(SK) uno(SK)  shipibo ir     -NOMLZ =NEG
+\ps n.      =clit adv.     num.     n.      v.intr -suf.  =clit.
+
+\ft Que ni un shipibo pueda ir.
+\ELANBegin 702.340
+\ELANEnd 705.600
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 702.340 705.600
+
+\ref 232
+\trs Puro iskobo. Iskonawabires ka.
+\tx Puro       iskobo.      Iskonawabires              ka.
+\mb puro       isko   =bo   iskonawa =bi    -res       =ka
+\gn puro(CAST) paucar =PLU  iskonawa =ENF   -solamente =NAR
+\ps adv.       n.     =clit n.       =clit. -suf.      =clit.
+
+\ft Puro isconahua. Isconahuas, nomás.
+\ELANBegin 706.450
+\ELANEnd 708.950
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 706.450 708.950
+
+\ref 233
+\trs Puro iskonawabires.
+\tx Puro       iskonawabires.
+\mb puro       iskonawa =bi    -res
+\gn puro(CAST) iskonawa =ENF   -solamente
+\ps adv.       n.       =clit. -suf.
+
+\ft Puro isconahua, nomás.
+\ELANBegin 708.992
+\ELANEnd 710.385
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 708.992 710.385
+
+\ref 234
+\trs Iskonawabira. Hatian shipibo ka aka non moa hawen hoi akin ma noa.
+\tx Iskonawabira.    Hatian       shipibo ka     aka           non   moa
+\mb iskonawa =bira   hatian       shipibo =ka    ak      -a    non   moa
+\gn iskonawa =nomás entonces(SK) shipibo =NAR   hacer   -PERF 1PL:A ya(SK)
+\ps n.       =clit.  conec.       n.      =clit. v.tran. -suf. pron  adv
+
+\tx hawen   hoi        akin                   ma  noa.
+\mb hawen   hoi        ak          -kin       ma  noa
+\gn 3SG:GEN lengua(SK) decir(TRAN) -SUJ>A:SIM ya  1PL:S
+\ps pron.   n.         v.tran.     -suf.      adv pron.
+
+\ft Los mismos isconahuas. También hablan shipibo. Nosotros ya hablamos su idioma, ya.
+\ELANBegin 710.300
+\ELANEnd 714.410
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 710.300 714.410
+
+\ref 235
+\trs Iskonawa hoi.
+\tx Iskonawa hoi.
+\mb iskonawa hoi
+\gn iskonawa lengua(SK)
+\ps n.       n.
+
+\ft El idioma isconahua.
+\ELANBegin 714.580
+\ELANEnd 715.770
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 714.580 715.770
+
+\ref 236
+\trs (Ininteligible)
+\tx (Ininteligible)
+\ft (Ininteligible)
+\ELANBegin 714.870
+\ELANEnd 716.440
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 714.870 716.440
+
+\ref 237
+\trs Non bana moa shinanbenoribi iki.
+\tx Non   bana   moa    shinanbenoribi           iki.
+\mb non   bana   moa    shinan beno    =ribi     ik      -i
+\gn 1PL:A lengua ya(SK) pensar olvidar =también copula  -IMPF
+\ps pron  n.     adv    v.     v.      =clit.    v.intr. -suf.
+
+\ft "Estamos ya olvidando nuestro idioma", decimos.
+\ELANBegin 716.450
+\ELANEnd 718.710
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 716.450 718.710
+
+\ref 238
+\trs Bana shinanbenotai.
+\tx Bana   shinanbenotai.
+\mb bana   shinan - beno    -ai
+\gn lengua pensar - olvidar -IMPF(SK)
+\ps n.     v.     - v.      -suf.
+
+\ft Estamos olvdando nuestro idioma.
+\ELANBegin 718.695
+\ELANEnd 719.945
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 718.695 719.945
+
+\ref 239
+\trs Shinanbenotai.
+\tx shinanbenotai.
+\mb shinan - beno    -ai
+\gn pensar - olvidar -IMPF(SK)
+\ps v.     - v.      -suf.
+
+\ft Olvidamos nuestro idioma.
+\ELANBegin 719.945
+\ELANEnd 720.855
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 719.945 720.855
+
+\ref 240
+\trs Shipibobetan iki.
+\tx Shipibobetan         iki.
+\mb Shipi   =bo   =betan ik      -i
+\gn shipibo =PLU  =COM   copula  -IMPF
+\ps n.      =clit =clit. v.intr. -suf.
+
+\ft Estamos con los shipibo.
+\ELANBegin 720.465
+\ELANEnd 721.945
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 720.465 721.945
+
+\ref 241
+\trs Eara shipibobetan ika ika ipa ikatiai nato koronia hoah.
+\tx Eara                 shipibobetan   ik-a          ik-a
+\mb ea        =ra        shipibo =betan ik      -a    ik      -a
+\gn 1SG:S(SK) =EVID1(SK) shipibo =COM   copula  -PERF copula  -PERF
+\ps pron.     =clit.     n.      =clit. v.intr. -suf. v.intr. -suf.
+
+\tx ipaikatiai                           nato     koronia
+\mb ik      -pai  -kati        -ai       nato     koronia
+\gn copula  -DES  -PAS.REM:HAB -IMPF(SK) este(SK) Colonia (CAST > SK)
+\ps v.intr. -suf. -suf.        -suf.     dem.     n.
+
+\tx hoah.
+\mb ho        -ah
+\gn venir(SK) -SUJ>S:SIM
+\ps v.        -suf.
+
+\ft Yo vengo de esa colonia con los shipibo.
+\ELANBegin 723.790
+\ELANEnd 730.830
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 723.790 730.830
+
+\ref 242
+\trs Atian ea shipi bakebon ka ea mawakín micha banahako.
+\tx Atian    ea        shipi   bakebon           ka
+\mb atian    ea        shipi   bake =bo   =n     =ka
+\gn entonces 1SG:S(SK) shipibo hijo =PLU  =ERG   =NAR
+\ps conec.   pron.     n.      n.   =clit =clit. =clit.
+
+\tx ea    mawakin           micha banahako.
+\mb ea    mawa   -kin       micha bana   -hoko
+\gn 1SG:P imitar -SUJ>A:SIM feo   lengua -DIM
+\ps pron. v.     -suf.      adj.  n.     -suf
+
+\ft Los shipibos también se burlaban de mí. Me remedaban. Me decían: "Tu dialecto es feo".
+\ELANBegin 732.000
+\ELANEnd 735.640
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 732.000 735.640
+
+\ref 243
+\trs Haweki kairi ha ahoyai.
+\tx Haweki           kairi    ha      ahoya.
+\mb hawe      =ki    kairi    ha      ahoya
+\gn cuál(SK) =INT   ***      ese(SK) qué
+\ps pal.int.  =clit. ***      dem     pal.int.
+
+\ft "¿Por qué dices, qué es 'ahoyai'?"
+\ELANBegin 736.570
+\ELANEnd 738.500
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 736.570 738.500
+
+\ref 244
+\trs Haweki kairi ohai iki.
+\tx Haweki           kairi ohai              iki.
+\mb hawe      =ki    kairi oha    -i         ik      -i
+\gn cuál(SK) =INT   ***   dormir -SUJ>S:SIM copula  -IMPF
+\ps pal.int.  =clit. ***   v.     -suf.      v.intr. -suf.
+
+\ft "¿Qué es, pues, 'ohai'?", decían.
+\ELANBegin 738.500
+\ELANEnd 740.120
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 738.500 740.120
+
+\ref 245
+\trs Haska akin eah shipibon ea mawarabini kai. Eah shinanbenoti.
+\tx Haska    akin               eah   shipibon       ea
+\mb haska    ak      -kin       eah   shipibo =n     ea
+\gn así(SK) hacer   -SUJ>A:SIM 1SG:S shipibo =ERG   1SG:P
+\ps adv.     v.tran. -suf.      pron. n.      =clit. pron.
+
+\tx mawarabini                     kai.         Eah   shinanbenoti.
+\mb mawa   rabin        -i         ka     -i    eah   shinan beno    -i
+\gn imitar avergonzarse -SUJ>S:SIM ir     -IMPF 1SG:S pensar olvidar -IMPF
+\ps v.     v.           -suf.      v.intr -suf. pron. v.     v.      -suf.
+
+\ft Así, así me remedaban los shipibo, me hacían avergonzarme. Por eso me olvido.
+\ELANBegin 740.520
+\ELANEnd 744.920
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 740.520 744.920
+
+\ref 246
+\trs Shinanhon shinanhon yoikati yoikati.
+\tx shinanhon         shinanhon    yoikati              yoikati.
+\mb shinan -hon       shinan -hon  yoi     -kati        yoi     -kati
+\gn pensar -SUJ>A:SIM pensar -BEN  contar  -PAS.REM:HAB contar  -PAS.REM:HAB
+\ps v.     -suf.      v.     -suf. v.tran. -suf.        v.tran. -suf.
+
+\ft (Ininteligible) Hablábamos pensando, pensando.
+\ELANBegin 743.245
+\ELANEnd 746.035
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 743.245 746.035
+
+\ref 247
+\trs Atian noa yoyai indio. Maltratamiento. Me dice indio.
+\tx Atian    noa   yoyai        indio.      Maltratamiento. Me       dice
+\mb atian    noa   yoya   -i    indio       Maltratamiento  Me       dice
+\gn entonces 1PL.P decir  -IMPF indio(CAST) maltratamiento  me(CAST) dice
+\ps conec.   pron. v.tran -suf. n.          n.              pron.    v.
+
+\tx indio.
+\mb indio
+\gn indio(CAST)
+\ps n.
+
+\ft También nos decían 'indio'. Era un maltrato. Me decían 'indio'.
+\ELANBegin 746.011
+\ELANEnd 751.041
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 746.011 751.041
+
+\ref 248
+\trs (Ininteligible) shipibo (Ininteligible).
+\tx (Ininteligible) shipibo (Ininteligible).
+\ft (Ininteligible) shipibo (Ininteligible).
+\ELANBegin 746.020
+\ELANEnd 755.570
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 746.020 755.570
+
+\ref 249
+\trs Atian eah rabinribiai oni ikah.
+\tx Atian    eah   rabinribiai                      oni     ikah.
+\mb atian    eah   rabin        =ribi     -ai       oni     ik      -ah
+\gn entonces 1SG:S avergonzarse =también -IMPF(SK) persona copula  -SUJ>S:SIM
+\ps conec.   pron. v.           =clit.    -suf.     n.      v.intr. -suf.
+
+\ft Además, yo también tenía vergüenza cuando la gente decía.
+\ELANBegin 752.090
+\ELANEnd 755.120
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 752.090 755.120
+
+\ref 250
+\trs Eah oni ikah eah rabinai.
+\tx Eah   oni     ikah               eah   rabinai.
+\mb eah   oni     ik      -ah        eah   rabin        -ai
+\gn 1SG:S persona copula  -SUJ>S:SIM 1SG:S avergonzarse -IMPF(SK)
+\ps pron. n.      v.intr. -suf.      pron. v.           -suf.
+
+\ft Yo me avergonzaba cuando la gente decía.
+\ELANBegin 755.530
+\ELANEnd 757.700
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 755.530 757.700
+
+\ref 251
+\trs Porque (Ininteligible) puro isconahua (Ininteligible).
+\tx Porque (Ininteligible) puro isconahua (Ininteligible).
+\ft Porque (Ininteligible) puro isconahua (Ininteligible).
+\ELANBegin 756.720
+\ELANEnd 763.550
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 756.720 763.550
+
+\ref 252
+\trs Eah aikaribi oni ikah rabinika. Hain ka moa shipibon bana onanke.
+\tx Eah   askaribi       oni     ikah               rabinika.
+\mb eah   aska =ribi     oni     ik      -ah        rabin        -i    =ka
+\gn 1SG:S así =también persona copula  -SUJ>S:SIM avergonzarse -IMPF =NAR
+\ps pron. adv. =clit.    n.      v.intr. -suf.      v.           -suf. =clit.
+
+\tx Hain     ka     moa    shipibon       bana   onanke.
+\mb hain     =ka    moa    shipibo =n     bana   onan   -ke
+\gn ahí(SK) =NAR   ya(SK) shipibo =ERG   lengua saber  -PERF(SK)
+\ps adv.     =clit. adv    n.      =clit. n.     v.tran -suf.
+
+\ft Yo así, también, me avergozaba cuando la gente decía. Ahí ya he aprendido a hablar shipibo.
+\ELANBegin 758.750
+\ELANEnd 764.363
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 758.750 764.363
+
+\ref 253
+\trs Ea shipibobetan yoyoike.
+\tx Ea        shipibobetan   yoyoike.
+\mb ea        shipibo =betan yoyoik     -ke
+\gn 1SG:S(SK) shipibo =COM   hablar(SK) -PERF(SK)
+\ps pron.     n.      =clit. v.         -suf.
+
+\ft Converso con los shipibo.
+\ELANBegin 764.363
+\ELANEnd 766.520
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 764.363 766.520
+
+\ref 254
+\trs Non hoi iwe akabetin.
+\tx Non         hoi        iwe                 akabetin.
+\mb no   =n     hoi        ik         -we      ak          -a     -betin
+\gn 1PL  =GEN   lengua(SK) decir:INTR -IMP(SK) decir(TRAN) -NOMLZ -por.que
+\ps pron =clit. n.         v.intr.    -suf.    v.tran.     -suf.  -suf.
+
+\ft Decían: "Hablen nuestro idioma".
+\ELANBegin 766.000
+\ELANEnd 768.180
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 766.000 768.180
+
+\ref 255
+\trs Atian. Ha min hoi iyama mi min bana iyamawe.
+\tx Atian.   Ha      min          hoi        iyama                     mi
+\mb atian    ha      mi    =n     hoi        ik         -yama    -a    mi
+\gn entonces ese(SK) 2SG   =GEN   lengua(SK) decir:INTR -NEG(SK) -PERF 2SG:ABS
+\ps conec.   dem     pron. =clit. n.         v.intr.    -suf.    -suf. pron
+
+\tx min          bana   iyamawe.
+\mb mi    =n     bana   ik      -yama    -we
+\gn 2SG   =GEN   lengua copula  -NEG(SK) -IMP(SK)
+\ps pron. =clit. n.     v.intr. -suf.    -suf.
+
+\ft "Además, no hables tu idioma, no hables tu idioma".
+\ELANBegin 768.715
+\ELANEnd 773.322
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 768.715 773.322
+
+\ref 256
+\trs Nokon hoi nokon bana iwe akin akai shipibon ribi noa.
+\tx Nokon       hoi        nokon       bana   iwe
+\mb nokon       hoi        nokon       bana   ik         -we
+\gn 1SG.GEN(SK) lengua(SK) 1SG.GEN(SK) lengua decir:INTR -IMP(SK)
+\ps pron        n.         pron        n.     v.intr.    -suf.
+
+\tx akin                   akai              shipibonribi             noa.
+\mb ak          -kin       ak      -ai       shipibo =n     =ribi     noa
+\gn decir(TRAN) -SUJ>A:SIM hacer   -IMPF(SK) shipibo =ERG   =también 1PL.P
+\ps v.tran.     -suf.      v.tran. -suf.     n.      =clit. =clit.    pron.
+
+\ft "Habla así, mi idioma". Así, nos hablaban, también, los shipibo.
+\ELANBegin 773.322
+\ELANEnd 777.962
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 773.322 777.962
+
+\ref 257
+\trs Noa awen bana iki.
+\tx Noa   awen    bana   iki.
+\mb noa   awen    bana   ik         -i
+\gn 1PL:S 3SG:GEN lengua decir:INTR -IMPF
+\ps pron. pron    n.     v.intr.    -suf.
+
+\ft Nos hablaban su idioma.
+\ELANBegin 778.449
+\ELANEnd 780.170
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 778.449 780.170
+
+\ref 258
+\trs Hatian shipibonki ninkayamai ewen bana.
+\tx Hatian       shipibonki            ninkayamai              ewen    bana.
+\mb hatian       shipibo =n     =ki    ninkat   -yama    -i    ewen    bana
+\gn entonces(SK) shipibo =ERG   =CON   escuchar -NEG(SK) -IMPF 1SG:GEN lengua
+\ps conec.       n.      =clit. =clit. v.       -suf.    -suf. pron.   n.
+
+\ft Además, los shipibo no entienden mi idioma.
+\ELANBegin 780.170
+\ELANEnd 784.136
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 780.170 784.136
+
+\ref 259
+\trs Non non ewen bana akaka. Atian shipibo.
+\tx Non   non   ewen    bana   akaka.                   Atian    shipibo.
+\mb non   non   ewen    bana   ak          -a    =ka    atian    shipibo
+\gn 1PL:A 1PL:A 1SG:GEN lengua decir(TRAN) -PERF =NAR   entonces shipibo
+\ps pron  pron  pron.   n.     v.tran.     -suf. =clit. conec.   n.
+
+\ft Nosotros hablábamos mi idioma. Además, los shipibo decían:
+\ELANBegin 784.136
+\ELANEnd 787.181
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 784.136 787.181
+
+\ref 260
+\trs Hawe ikiri hawe ikiri minkaiki ninkayamai akin.
+\tx Hawe      ikiri                       hawe      ikiri
+\mb hawe      ik      -i         =ri      hawe      ik      -i         =ri
+\gn cuál(SK) copula  -SUJ>S:SIM =COP.INT cuál(SK) copula  -SUJ>S:SIM =COP.INT
+\ps pal.int.  v.intr. -suf.      =clit    pal.int.  v.intr. -suf.      =clit
+
+\tx min   ka     iki              ninkayamai
+\mb min   =ka    ik         -i    ninkat   -yama    -i
+\gn 2SG:A =NAR   decir:INTR -IMPF escuchar -NEG(SK) -SUJ>S:SIM
+\ps pron. =clit. v.intr.    -suf. v.       -suf.    -suf.
+
+\tx akin.
+\mb ak          -kin
+\gn decir(TRAN) -SUJ>A:SIM
+\ps v.tran.     -suf.
+
+\ft "¿Por qué? ¿Por qué no entiendes?"
+\ELANBegin 787.181
+\ELANEnd 793.289
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 787.181 793.289
+
+\ref 261
+\trs Ha haskati riki akin akai. Awen hoin ka shipin hoin awen haskati riki akin.
+\tx Ha      haskati         riki    akin
+\mb ha      haska    -ti    riki    ak          -kin
+\gn ese(SK) así(SK) -NOMLZ COP(SK) decir(TRAN) -SUJ>A:SIM
+\ps dem     adv.     -suf.  part.   v.tran.     -suf.
+
+\tx akai.                 Awen    hoin              ka     shipin
+\mb ak          -ai       awen    hoi        =n     =ka    shipi   =n
+\gn decir(TRAN) -IMPF(SK) 3SG:GEN lengua(SK) =INST  =NAR   shipibo =GEN
+\ps v.tran.     -suf.     pron    n.         =clit. =clit. n.      =clit.
+
+\tx hoin              awen    haskati         riki    akin.
+\mb hoi        =n     awen    haska    -ti    riki    ak          -kin
+\gn lengua(SK) =ERG   3SG:GEN así(SK) -NOMLZ COP(SK) decir(TRAN) -SUJ>A:SIM
+\ps n.         =clit. pron    adv.     -suf.  part.   v.tran.     -suf.
+
+\ft Así decían. Así, pues, nos decían. Así, pues, con su idioma los shipibo, así.
+\ELANBegin 793.289
+\ELANEnd 798.175
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 793.289 798.175
+
+\ref 262
+\trs Awen bana.
+\tx Awen    bana.
+\mb awen    bana
+\gn 3SG:GEN lengua
+\ps pron    n.
+
+\ft Su idioma.
+\ELANBegin 798.074
+\ELANEnd 798.893
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 798.074 798.893
+
+\ref 263
+\trs Awen bana shipin bana ka.
+\tx Awen    bana   shipin         bana   ka.
+\mb awen    bana   shipi   =n     bana   =ka
+\gn 3SG:GEN lengua shipibo =GEN   lengua =NAR
+\ps pron    n.     n.      =clit. n.     =clit.
+
+\ft Su idioma, los shipibo.
+\ELANBegin 798.903
+\ELANEnd 800.446
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 798.903 800.446
+
+\ref 264
+\trs Shipibon bana.
+\tx Shipibon             bana.
+\mb Shipi   =bo   =n     bana
+\gn shipibo =PLU  =GEN   lengua
+\ps n.      =clit =clit. n.
+
+\ft El idioma de los shipibo.
+\ELANBegin 800.328
+\ELANEnd 801.232
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 800.328 801.232
+
+\ref 265
+\trs Shipibon bana.
+\tx Shipibon       bana.
+\mb shipibo =n     bana
+\gn shipibo =GEN   lengua
+\ps n.      =clit. n.
+
+\ft El idioma shipibo.
+\ELANBegin 800.328
+\ELANEnd 801.381
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 800.328 801.381
+
+\ref 266
+\trs Shipibon bana askati askati riki akin ewen banabiribí akai.
+\tx Shipibon       bana   askati      askati      riki
+\mb shipibo =n     bana   aska -ti    aska -ti    riki
+\gn shipibo =ERG   lengua así -NOMLZ así -NOMLZ COP(SK)
+\ps n.      =clit. n.     adv. -suf.  adv. -suf.  part.
+
+\tx akin               ewen    banabiribi              akai.
+\mb ak      -kin       ewen    bana   =bi    =ribi     ak          -ai
+\gn hacer   -SUJ>A:SIM 1SG:GEN lengua =ENF   =también decir(TRAN) -IMPF(SK)
+\ps v.tran. -suf.      pron.   n.     =clit. =clit.    v.tran.     -suf.
+
+\ft Así, pues, hablo shipibo y mi idioma mismo, también.
+\ELANBegin 801.031
+\ELANEnd 805.573
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 801.031 805.573
+
+\ref 267
+\trs En maton bana ninkayamai iki shipibo.
+\tx En        maton          bana   ninkayamai                   iki           shipibo.
+\mb en        mato    =n     bana   ninkat   -yama    -i         ik      -i    shipibo
+\gn 1SG:A(SK) 2PL(SK) =GEN   lengua escuchar -NEG(SK) -SUJ>S:SIM copula  -IMPF shipibo
+\ps pron      pron.   =clit. n.     v.       -suf.    -suf.      v.intr. -suf. n.
+
+\ft "Yo no entiendo su idioma" dicen los shipibo.
+\ELANBegin 806.106
+\ELANEnd 808.446
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 806.106 808.446
+
+\ref 268
+\trs Atian ha enka ninkati shipibo.
+\tx Atian    ha      enka             ninkati        shipibo.
+\mb atian    ha      en        =ka    ninkat   -i    shipibo
+\gn entonces ese(SK) 1SG:A(SK) =NAR   escuchar -IMPF shipibo
+\ps conec.   dem     pron      =clit. v.       -suf. n.
+
+\ft También ese entiendo yo, el shipibo.
+\ELANBegin 809.989
+\ELANEnd 812.989
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 809.989 812.989
+
+\ref 269
+\trs atian ea.
+\tx atian    ea.
+\mb atian    ea
+\gn entonces 1SG:S(SK)
+\ps conec.   pron.
+
+\ft también yo.
+\ELANBegin 813.510
+\ELANEnd 815.010
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 813.510 815.010
+
+\ref 270
+\trs shipibo.
+\tx shipibo.
+\mb shipibo
+\gn shipibo
+\ps n.
+
+\ft (Ininteligible) shipibo.
+\ELANBegin 814.042
+\ELANEnd 815.585
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 814.042 815.585
+
+\ref 271
+\trs Ea bana ea banaitian ka ewen bana akaka shipibo ninkayamai.
+\tx Ea        bana   ea          banaitian               ka     ewen
+\mb ea        bana   ea          bana   -i     =tian     =ka    ewen
+\gn 1SG:S(SK) lengua 1SG.ABS(SK) hablar -NOMLZ =TEMP(SK) =NAR   1SG:GEN
+\ps pron.     n.     pron.       v.intr -suf.  =clit.    =clit. pron.
+
+\tx bana   akaka                    shipibo ninkayamai.
+\mb bana   ak          -a    =ka    shipibo ninkat   -yama    -i
+\gn lengua decir(TRAN) -PERF =NAR   shipibo escuchar -NEG(SK) -IMPF
+\ps n.     v.tran.     -suf. =clit. n.      v.       -suf.    -suf.
+
+\ft Cuando yo hablo mi idioma, los shipibo no me entienden.
+\ELANBegin 815.052
+\ELANEnd 820.616
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 815.052 820.616
+
+\ref 272
+\trs Shipibo no entiende con idioma.
+\tx Shipibo no entiende con idioma.
+\ft Shipibo no entiende con idioma.
+\ELANBegin 820.605
+\ELANEnd 823.084
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 820.605 823.084
+
+\ref 273
+\trs Ninkayamai ewen bana ka ewen bana ka shipibo ninkayamai.
+\tx Ninkayamai              ewen    bana   ka     ewen    bana   ka
+\mb ninkat   -yama    -i    ewen    bana   =ka    ewen    bana   =ka
+\gn escuchar -NEG(SK) -IMPF 1SG:GEN lengua =NAR   1SG:GEN lengua =NAR
+\ps v.       -suf.    -suf. pron.   n.     =clit. pron.   n.     =clit.
+
+\tx shipibo ninkayamai.
+\mb shipibo ninkat   -yama    -i
+\gn shipibo escuchar -NEG(SK) -IMPF
+\ps n.      v.       -suf.    -suf.
+
+\ft No entienden mi idioma, los shipibo no entienden mi idioma.
+\ELANBegin 822.177
+\ELANEnd 826.077
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 822.177 826.077
+
+\ref 274
+\trs Minka hawerano kai. Haweki. Hawerano kai.
+\tx Minka        hawerano kai.         Haweki.          Hawerano kai.
+\mb min   =ka    hawerano ka     -i    hawe      =ki    hawerano ka     -i
+\gn 2SGS  =NAR   dónde   ir     -IMPF cuál(SK) =INT   dónde   ir     -IMPF
+\ps pron. =clit. pal.int. v.intr -suf. pal.int.  =clit. pal.int. v.intr -suf.
+
+\ft "¿A dónde vas? ¿Qué cosa? ¿A dónde vas?"
+\ELANBegin 826.266
+\ELANEnd 829.644
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 826.266 829.644
+
+\ref 275
+\trs Atian shipibo akai ahopaika min kai.
+\tx Atian    shipibo akai              ahopaika min   kai.
+\mb atian    shipibo ak      -ai       ahopaika min   ka     -i
+\gn entonces shipibo hacer   -IMPF(SK) dónde   2SG:A ir     -IMPF
+\ps conec.   n.      v.tran. -suf.     pal.int  pron. v.intr -suf.
+
+\ft También los shipibo dicen: "¿A dónde vas?"
+\ELANBegin 829.944
+\ELANEnd 833.566
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 829.944 833.566
+
+\ref 276
+\trs Shipibon atian noa oinai.
+\tx Shipibon       atian    noa   oinai.
+\mb shipibo =n     atian    noa   oin    -ai
+\gn shipibo =ERG   entonces 1PL.P ver    -IMPF(SK)
+\ps n.      =clit. conec.   pron. v.ambi -suf.
+
+\ft Los shipibos también nos ven.
+\ELANBegin 834.866
+\ELANEnd 837.477
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 834.866 837.477
+
+\ref 277
+\trs (Ininteligible)
+\tx (Ininteligible)
+\ft (Ininteligible)
+\ELANBegin 835.410
+\ELANEnd 836.099
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 835.410 836.099
+
+\ref 278
+\trs Ninkayamai. En ninkayamai iki.
+\tx Ninkayamai.             En        ninkayamai              iki.
+\mb ninkat   -yama    -i    en        ninkat   -yama    -i    ik         -i
+\gn escuchar -NEG(SK) -IMPF 1SG:A(SK) escuchar -NEG(SK) -IMPF decir:INTR -IMPF
+\ps v.       -suf.    -suf. pron      v.       -suf.    -suf. v.intr.    -suf.
+
+\ft "No entiendo". "No entiendo", decía yo.
+\ELANBegin 836.110
+\ELANEnd 838.199
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 836.110 838.199
+
+\ref 279
+\trs En ninka ninkayamaresai ikai shipi.
+\tx En        ninka    ninkayamaresai                         ikai                 shipi.
+\mb en        ninkat   ninkat   -yama    -res       -ai       ik         -ai       shipi
+\gn 1SG:A(SK) escuchar escuchar -NEG(SK) -solamente -IMPF(SK) decir:INTR -IMPF(SK) shipibo
+\ps pron      v.       v.       -suf.    -suf.      -suf.     v.intr.    -suf.     n.
+
+\ft Yo les decía a los shipibo: "No entiendo, no entiendo".
+\ELANBegin 838.354
+\ELANEnd 841.843
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 838.354 841.843
+
+\ref 280
+\trs En ninkai mia atian ewen hoi akai miaki hawerano kai. Akinra mia kai aka.
+\tx En        ninkai         mia         atian    ewen    hoi
+\mb en        ninkat   -i    mia         atian    ewen    hoi
+\gn 1SG:A(SK) escuchar -IMPF 2SG.ABS(SK) entonces 1SG:GEN lengua(SK)
+\ps pron      v.       -suf. pron        conec.   pron.   n.
+
+\tx akai                  miaki              hawerano kai.
+\mb ak          -ai       mia         =ki    hawerano ka     -i
+\gn decir(TRAN) -IMPF(SK) 2SG.ABS(SK) =INT   dónde   ir     -IMPF
+\ps v.tran.     -suf.     pron        =clit. pal.int. v.intr -suf.
+
+\tx Akinra                            mia         kai
+\mb ak          -kin       =ra        mia         ka     -i
+\gn decir(TRAN) -SUJ>A:SIM =EVID1(SK) 2SG.ABS(SK) ir     -IMPF
+\ps v.tran.     -suf.      =clit.     pron        v.intr -suf.
+
+\tx aka.
+\mb ak          -a
+\gn decir(TRAN) -PERF
+\ps v.tran.     -suf.
+
+\ft "Yo te entiendo", también les respondía en mi idioma. "¿A dónde vas? Así ibas tú". (¿?)
+\ELANBegin 842.910
+\ELANEnd 849.799
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 842.910 849.799
+
+\ref 281
+\trs Ehe. Haskai kairí mia iki.
+\tx Ehe.  Haskaikairi                      mia         iki.
+\mb ehe   haska    -i         =kai   =ri   mia         ik      -i
+\gn sí   así(SK) -SUJ>S:SIM =RESO  =CON  2SG.ABS(SK) copula  -IMPF
+\ps intj. adv.     -suf.      =clit. =clit pron        v.intr. -suf.
+
+\ft Sí. "Así, pues, eres tú".
+\ELANBegin 850.199
+\ELANEnd 853.125
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 850.199 853.125
+
+\ref 282
+\trs Eara iskai akai en.
+\tx Eara                 iskai           akai                  en.
+\mb ea        =ra        iska -i         ak          -ai       en
+\gn 1SG:S(SK) =EVID1(SK) así -SUJ>S:SIM decir(TRAN) -IMPF(SK) 1SG:A(SK)
+\ps pron.     =clit.     adv. -suf.      v.tran.     -suf.     pron
+
+\ft Decía: "Yo soy así". (¿?)
+\ELANBegin 853.125
+\ELANEnd 855.355
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 853.125 855.355
+
+\ref 283
+\trs Atian moa noa shipibo bakebon noa mawai. Ea iskai rabinakin ka.
+\tx Atian    moa    noa   shipibo bakebon           noa   mawai.
+\mb atian    moa    noa   shipibo bake =bo   =n     noa   mawa   -i
+\gn entonces ya(SK) 1PL.P shipibo hijo =PLU  =ERG   1PL.P imitar -IMPF
+\ps conec.   adv    pron. n.      n.   =clit =clit. pron. v.     -suf.
+
+\tx Ea        iskai           rabinakin                       ka.
+\mb ea        iska -i         rabin        ak      -kin       =ka
+\gn 1SG:S(SK) así -SUJ>S:SIM avergonzarse hacer   -SUJ>A:SIM =NAR
+\ps pron.     adv. -suf.      v.           v.tran. -suf.      =clit.
+
+\ft Además, los shipibo ya nos remedaban. Me hacían avergonzar así.
+\ELANBegin 856.288
+\ELANEnd 861.159
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 856.288 861.159
+
+\ref 284
+\trs Noa micha akin.
+\tx Noa   micha akin.
+\mb noa   micha ak      -kin
+\gn 1PL.P feo   hacer   -SUJ>A:SIM
+\ps pron. adj.  v.tran. -suf.
+
+\ft Nos trataban mal.
+\ELANBegin 861.159
+\ELANEnd 862.288
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 861.159 862.288
+
+\ref 285
+\trs Noa noa micha akin yoiki.
+\tx Noa   noa   micha akin                   yoyoiki.
+\mb noa   noa   micha ak          -kin       yoyoik     -i
+\gn 1PL.P 1PL.P feo   decir(TRAN) -SUJ>S:SIM hablar(SK) -IMPF
+\ps pron. pron. adj.  v.tran.     -suf.      v.         -suf.
+
+\ft Tratándonos mal nos decían.
+\ELANBegin 862.866
+\ELANEnd 864.644
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 862.866 864.644
+
+\ref 286
+\trs Haska akin yoyoiki.
+\tx Haska    akin               yoyoiki.
+\mb haska    ak      -kin       yoyoik     -i
+\gn así(SK) hacer   -SUJ>S:SIM hablar(SK) -IMPF
+\ps adv.     v.tran. -suf.      v.         -suf.
+
+\ft Así nos iban diciendo.
+\ELANBegin 866.611
+\ELANEnd 868.400
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 866.611 868.400
+
+\ref 287
+\trs Ha riki noa ewe wena non noa mia en eah eah eah bana.
+\tx Ha      riki    noa   ewe    wena  non   noa   mia         en
+\mb ha      riki    noa   ewe    wená non   noa   mia         en
+\gn ese(SK) COP(SK) 1PL.P vivir  nuevo 1PL:S 1PL:S 2SG.ABS(SK) 1SG:A(SK)
+\ps dem     part.   pron. v.intr adj.  pron  pron. pron        pron
+
+\tx eah   eah   eah   bana.
+\mb eah   eah   eah   bana   -a
+\gn 1SG:S 1SG:S 1SG:S hablar -PERF
+\ps pron. pron. pron. v.intr -suf.
+
+\ft Nosotros, yo te digo que yo quiero.
+\ELANBegin 868.821
+\ELANEnd 873.382
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 868.821 873.382
+
+\ref 288
+\trs Eah heriheri ikai. Eah heriheri iki motosierra. Eah heriheri iki motoro. Eah heriheri iki ma eno ewehon na na nakesá átika nakesá ati tapoati ni eweti.
+\tx Eah   heriheri ikai.         Eah   heriheri iki       motosierra. Eah
+\mb eah   heriheri ik  -ai       eah   heriheri ik  -i    motosierra  eah
+\gn 1SG:S desear.mucho -IMPF(SK) 1SG:S desear.mucho -IMPF motosierra  1SG:S
+\ps pron. v.           -suf.     pron. v.           -suf. n.          pron.
+
+\tx heriheri iki       motoro.     Eah   heriheri iki       ma  neno
+\mb heriheri ik  -i    motoro      eah   heriheri ik  -i    ma  neno
+\gn desear.mucho -IMPF motor(CAST) 1SG:S desear.mucho -IMPF ya  aquí(SK)
+\ps v.           -suf. n.          pron. v.           -suf. adv adv.
+
+\tx ewehon            na   na   nakesa      atika
+\mb ewe    -hon       na   na   na   =kesa  ak      -ti    =ka
+\gn vivir  -SUJ>A:SIM este este este =COMP  hacer   -NOMLZ =NAR
+\ps v.intr -suf.      dem. dem. dem. =clit. v.tran. -suf.  =clit.
+
+\tx nakesa      ati            tapoati ni       eweti.
+\mb na   =kesa  ak      -ti    tapoati ni       ewe    -ti
+\gn este =COMP  hacer   -NOMLZ piso    ni(CAST) vivir  -NOMLZ
+\ps dem. =clit. v.tran. -suf.  n.      conj.    v.intr -suf.
+
+\ft Quiero una motosierra. Quiero un motor. Queiro que ya vivamos como esto, hacer así como esto, hacer un piso, vivir como esto.
+\ELANBegin 873.625
+\ELANEnd 884.873
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 873.625 884.873
+
+\ref 289
+\trs Ain eweti. Ain ohati.
+\tx Ain       eweti.        Ain       ohati.
+\mb ain       ewe    -ti    ain       oha    -ti
+\gn ahí(MIX) vivir  -NOMLZ ahí(MIX) dormir -NOMLZ
+\ps adv.      v.intr -suf.  adv.      v.     -suf.
+
+\ft Vivir ahí, dormir ahí.
+\ELANBegin 885.089
+\ELANEnd 887.148
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 885.089 887.148
+
+\ref 290
+\trs Hain no ohati.
+\tx Hain     no   ohati.
+\mb hain     no   oha    -ti
+\gn ahí(SK) 1PL  dormir -NOMLZ
+\ps adv.     pron v.     -suf.
+
+\ft Dormir ahí nosotros.
+\ELANBegin 887.335
+\ELANEnd 888.723
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 887.335 888.723
+
+\ref 291
+\trs (Ininteligible)
+\tx (Ininteligible)
+\ft (Ininteligible)
+\ELANBegin 889.798
+\ELANEnd 892.395
+\ELANParticipant Isabel
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 889.798 892.395
+
+\ref 292
+\trs Atian en shinanai nato.
+\tx Atian    en        shinanai         nato.
+\mb atian    en        shinan -ai       nato
+\gn entonces 1SG:A(SK) pensar -IMPF(SK) este(SK)
+\ps conec.   pron      v.     -suf.     dem.
+
+\ft También me acuerdo esto.
+\ELANBegin 889.865
+\ELANEnd 891.965
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 889.865 891.965
+
+\ref 293
+\trs Atian non shinan shinanai ewen sobi ewen inan bakebetan yoyoike eah eah
+yoyoike.
+\tx Atian    non   shinan shinanai         ewen    sobi          ewen
+\mb atian    non   shinan shinan -ai       ewen    sobi          ewen
+\gn entonces 1PL:A pensar pensar -IMPF(SK) 1SG:GEN sobrino(CAST) 1SG:GEN
+\ps conec.   pron  v.     v.     -suf.     pron.   n.            pron.
+
+\tx inan bakebetan   yoyoike              eah   eah   yoyoike.
+\mb inan bake =betan yoyoik     -ke       eah   eah   yoyoik     -ke
+\gn sobrina   =COM   contar(SK) -PERF(SK) 1SG:S 1SG:S contar(SK) -PERF(SK)
+\ps n.        =clit. v.         -suf.     pron. pron. v.         -suf.
+
+\ft También nosotros nos acordamos. Conversaba con mi sobrino.
+\ELANBegin 891.965
+\ELANEnd 897.895
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 891.965 897.895
+
+\ref 294
+\trs Hain westiora maroka ati. Ain toristobo nokoti.
+\tx Hain     westiora maroka       ati.           Ain       toristobo
+\mb hain     westiora maroka       ak      -ti    ain       toristo       =bo
+\gn ahí(SK) uno(SK)  maloca(CAST) hacer   -NOMLZ ahí(MIX) turista(CAST) =PLU
+\ps adv.     num.     n.           v.tran. -suf.  adv.      n.            =clit
+
+\tx nokoti.
+\mb noko   -ti
+\gn llegar -NOMLZ
+\ps v.     -suf.
+
+\ft Para hacer ahí una maloca. Para cuando lleguen ahí los turistas.
+\ELANBegin 898.044
+\ELANEnd 901.908
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 898.044 901.908
+
+\ref 295
+\trs Toristobo ain noa oini ikah no oinika óhati óhati ahón kasi. Ahón kasi noa.
+\tx Toristobo           ain       noa   oin-i             ikah               no
+\mb toristo       =bo   ain       noa   oin    -i         ik      -ah        no
+\gn turista(CAST) =PLU  ahí(MIX) 1PL.P ver    -SUJ>S:SIM copula  -SUJ>S:SIM 1PL
+\ps n.            =clit adv.      pron. v.ambi -suf.      v.intr. -suf.      pron
+
+\tx oin-i            ik-a          ohati         ohati
+\mb oin    -i        ik      -a    oha    -ti    oha    -ti
+\gn ver    -SUJ>S:SIMcopula  -PERF dormir -NOMLZ dormir -NOMLZ
+\ps v.ambi -suf.     v.intr. -suf. v.     -suf.  v.     -suf.
+
+\tx ahonkasi.                 Ahonkasi                  noa.
+\mb ak      -hon  -kas  -i    ak      -hon  -kas  -i    noa
+\gn hacer   -BEN  -DES  -IMPF hacer   -BEN  -DES  -IMPF 1PL:S
+\ps v.tran. -suf. -suf. -suf. v.tran. -suf. -suf. -suf. pron.
+
+\ft Para que los turistas nos vayan a ver y para cuando quieran dormir.
+\ELANBegin 902.738
+\ELANEnd 910.454
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 902.738 910.454
+
+\ref 296
+\trs Aska askarabo riki ewen shinanka noko inanbakebetan.
+\tx Aska askarabo              riki    ewen    shinanka
+\mb aska aska =ra        =bo   riki    ewen    shinan =ka
+\gn así así =EVID1(SK) =PLU  COP(SK) 1SG:GEN pensar =NAR
+\ps adv. adv. =clit.     =clit part.   pron.   v.     =clit.
+
+\tx nokon       inan bakebetan.
+\mb nokon       inan bake =betan
+\gn 1SG.GEN(SK) sobrina   =COM
+\ps pron        n.        =clit.
+
+\ft Así yo pienso, pues, con mi sobrino.
+\ELANBegin 911.212
+\ELANEnd 916.022
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 911.212 916.022
+
+\ref 297
+\trs Noa shinankati ma agente nokon ískobi agente imai teniente imai.
+\tx Noa   shinankati          ma  agente       nokon       iskobi
+\mb noa   shinan -kati        ma  agente       nokon       isko   =bi
+\gn 1PL:A pensar -PAS.REM:HAB ya  agente(CAST) 1SG.GEN(SK) paucar =ENF
+\ps pron. v.     -suf.        adv n.           pron        n.     =clit.
+
+\tx agente       imai                 teniente imai.
+\mb agente       ik      =ma    -i    teniente ik         =ma    -i
+\gn agente(CAST) copula  =NEG   -IMPF teniente decir:INTR =NEG   -IMPF
+\ps n.           v.intr. =clit. -suf. n.       v.intr.    =clit. -suf.
+
+\ft Nosotros pensábamos ya para que mis mismos isconahuas se hagan agentes municipales, tenientes gobernadores.
+\ELANBegin 916.022
+\ELANEnd 922.431
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 916.022 922.431
+
+\ref 298
+\trs Aska ahonka moa non askarabo akasi. Ma ha ma eweparirai non
+\tx Aska ahonka                    moa    non   askarabo
+\mb aska ak      -hon       =ka    moa    non   aska =ra        =bo
+\gn así hacer   -SUJ>A:SIM =NAR   ya(SK) 1PL:S así =EVID1(SK) =PLU
+\ps adv. v.tran. -suf.      =clit. adv    pron  adv. =clit.     =clit
+
+\tx akasi.              Ma  ha      ma  eweparirai                        non
+\mb ak      -kas  -i    ma  ha      ma  ewe    =pari     =ra        -i    non
+\gn hacer   -DES  -IMPF ya  ese(SK) ya  vivir  =todavía =EVID1(SK) -IMPF 1PL:S
+\ps v.tran. -suf. -suf. adv dem     adv v.intr =clit.    =clit.     -suf. pron
+
+\ft Ya todavía no vivimos eso.
+\ELANBegin 922.431
+\ELANEnd 928.887
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 922.431 928.887
+
+\ref 299
+\trs Non iskobakebo koshi ikatibi.
+\tx Non         isko   bakebo     koshi      ikatibi.
+\mb no   =n     isko   bake =bo   koshi      ik      -kati        =bi
+\gn 1PL  =GEN   paucar hijo =PLU  fuerte(SK) copula  -PAS.REM:HAB =ENF
+\ps pron =clit. n.     n.   =clit adj.       v.intr. -suf.        =clit.
+
+\ft Tenía que haber un jefe de los isconahua.
+\ELANBegin 928.679
+\ELANEnd 931.147
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 928.679 931.147
+
+\ref 300
+\trs Iskobo noa tsinkipari.
+\tx Iskobo       noa   tsinkipari.
+\mb isko   =bo   noa   tsinki      =pari
+\gn paucar =PLU  1PL:S agrupar(SK) =todavía
+\ps n.     =clit pron. v.          =clit.
+
+\ft Todavía nos vamos a reunir.
+\ELANBegin 929.933
+\ELANEnd 931.499
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 929.933 931.499
+
+\ref 301
+\trs Tsimo koshi ikatiai.
+\tx Tsimo koshi      ikatiai.
+\mb Tsimo koshi      ik      -kati        -ai
+\gn Tsimo fuerte(SK) copula  -PAS.REM:HAB -IMPF(SK)
+\ps n.    adj.       v.intr. -suf.        -suf.
+
+\ft Tsimo había sido el jefe.
+\ELANBegin 931.985
+\ELANEnd 933.065
+\ELANParticipant Juanita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 931.985 933.065
+
+\ref 302
+\trs Askatares moa. Disculpa haa.
+\tx Askatares         moa.   Disculpa ha.
+\mb askata -res       moa    disculpa ha
+\gn así   -solamente ya(SK) disculpa ese(SK)
+\ps adv.   -suf.      adv    v.       dem
+
+\ft Así, nomás, ya. Disculpa haa.
+\ELANBegin 934.786
+\ELANEnd 937.183
+\ELANParticipant Nelita
+\sound JC.NC.IC-trabajo.Nelita-2013.wav 934.786 937.183
+
+
+\ELANMediaURL file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC.NC.IC-trabajo.Nelita-2013.wav
+\ELANMediaMIME audio/x-wav

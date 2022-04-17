@@ -1,0 +1,368 @@
+\_sh v3.0  400  text
+
+\ref 001
+\ELANBegin 0.010
+\ELANEnd 1.610
+\ELANParticipant Roberto
+\trs Ya, a ver, pero de nuevo, entonces.
+\tx Ya, a ver, pero de nuevo, entonces.
+\ft Ya, a ver, pero de nuevo, entonces.
+\sound JC.NC.IC-hualo-2013.wav 0.010 1.610
+
+\ref 002
+\ELANBegin 2.600
+\ELANEnd 3.560
+\ELANParticipant Roberto
+\trs ¿Ya está? Ahora sí.
+\tx ¿Ya está? Ahora sí.
+\ft ¿Ya está? Ahora sí.
+\sound JC.NC.IC-hualo-2013.wav 2.600 3.560
+
+\ref 003
+\ELANBegin 4.220
+\ELANEnd 7.440
+\ELANParticipant Isabel
+\trs Pani ikai choran choran en oina.
+\tx Pani     ikai              choran     choran
+\mb Pani     ik      -ai       choran     choran
+\gn huicungo copula  -IMPF(SK) sapo.hualo sapo.hualo
+\ps n.       v.intr. -suf.     n.         n.
+
+\tx en        oina.
+\mb en        oin    -a
+\gn 1SG:A(SK) ver    -PERF
+\ps pron      v.ambi -suf.
+
+\ft yo he visto que el huicungo canta como el hualo
+\sound JC.NC.IC-hualo-2013.wav 4.220 7.440
+
+\ref 004
+\ELANBegin 8.190
+\ELANEnd 11.090
+\ELANParticipant Isabel
+\trs choran ka kewi [ho ho]
+\tx choran     ka     kewi   
+\mb choran     ka     kewi
+\gn sapo.hualo ir     cantar 
+\ps n.         v.intr v.     
+
+\ft el hualo canta ho ho
+\sound JC.NC.IC-hualo-2013.wav 8.190 11.090
+
+\ref 005
+\ELANBegin 11.095
+\ELANEnd 12.065
+\ELANParticipant Nelita
+\trs (Risas)
+\tx (Risas)
+\ft (Risas)
+\sound JC.NC.IC-hualo-2013.wav 11.095 12.065
+
+\ref 006
+\ELANBegin 12.100
+\ELANEnd 16.330
+\ELANParticipant Isabel
+\trs Mohaka aka [nekai] niskai.
+\tx Mohaka        aka        [nekai] niskai.
+\mb moha   =ka    ak      -a         niskai
+\gn espina =NAR   hacer   -FACT(SK)  así(SK)
+\ps n.     =clit. v.tran. -suf.      adv.
+
+\ft las espinas cantan así
+\sound JC.NC.IC-hualo-2013.wav 12.100 16.330
+
+\ref 007
+\ELANBegin 15.620
+\ELANEnd 16.720
+\ELANParticipant Juanita
+\trs bebekin bebekin
+\tx bebekin                         bebekin
+\mb bebe                      -kin  bebe                      -kin
+\gn movimiento.de.las.espinas -ASOC movimiento.de.las.espinas -ASOC
+\ps n.                        -suf. n.                        -suf.
+
+\ft Se mueven al viento.
+\sound JC.NC.IC-hualo-2013.wav 15.620 16.720
+
+\ref 008
+\ELANBegin 16.430
+\ELANEnd 19.170
+\ELANParticipant Isabel
+\trs Beberi beberi beberi iki moha
+\tx Beberi                          beberi                          beberi                          iki           moha
+\mb bebe                      =ri   bebe                      =ri   bebe                      =ri   ik      -i    moha
+\gn movimiento.de.las.espinas =CON  movimiento.de.las.espinas =CON  movimiento.de.las.espinas =CON  copula  -IMPF espina
+\ps n.                        =clit n.                        =clit n.                        =clit v.intr. -suf. n.
+
+\ft Se mueven, se mueven las espinas...
+\sound JC.NC.IC-hualo-2013.wav 16.430 19.170
+
+\ref 009
+\ELANBegin 19.170
+\ELANEnd 20.800
+\ELANParticipant Isabel
+\trs Ho, ho aka
+\tx Ho,     ho      aka
+\mb ho      ho      ak          -a
+\gn ho      ho      decir(TRAN) -PERF
+\ps [canto] [canto] v.tran.     -suf.
+
+\ft canta ho ho
+\sound JC.NC.IC-hualo-2013.wav 19.170 20.800
+
+\ref 010
+\ELANBegin 21.570
+\ELANEnd 22.935
+\ELANParticipant Isabel
+\trs Así, mi ma... mi...
+\tx Así, mi ma... mi...
+\ft Así, mi ma(rido)... mi...
+\sound JC.NC.IC-hualo-2013.wav 21.570 22.935
+
+\ref 011
+\ELANBegin 22.935
+\ELANEnd 26.320
+\ELANParticipant Isabel
+\trs Ewen beneka choran kewi oinon kawe iki.
+\tx Ewen    beneka        choran     kewi
+\mb ewen    bene   =ka    choran     kewi
+\gn 1SG:GEN esposo =NAR   sapo.hualo cantar
+\ps pron.   n.     =clit. n.         v.
+
+\tx oinon             kawe            iki.
+\mb o     -i    -non  ka     -we      ik         -i
+\gn venir -IMPF -PROP ir     -IMP(SK) decir:INTR -IMPF
+\ps v.    -suf. -suf. v.intr -suf.    v.intr.    -suf.
+
+\ft Mi marido decía "anda a ver cantar al hualo"
+\sound JC.NC.IC-hualo-2013.wav 22.935 26.320
+
+\ref 012
+\ELANBegin 26.320
+\ELANEnd 27.515
+\ELANParticipant Isabel
+\trs Oinon kawe aka.
+\tx Oinon             kawe            aka.
+\mb o     -i    -non  ka     -we      ak          -a
+\gn venir -IMPF -PROP ir     -IMP(SK) decir(TRAN) -PERF
+\ps v.    -suf. -suf. v.intr -suf.    v.tran.     -suf.
+
+\ft "Anda a ver" me dijo
+\sound JC.NC.IC-hualo-2013.wav 26.320 27.515
+
+\ref 013
+\ELANBegin 28.010
+\ELANEnd 29.400
+\ELANParticipant Isabel
+\trs Yo [es]toy yendo.
+\tx Yo [es]toy yendo.
+\ft Yo estoy yendo.
+\sound JC.NC.IC-hualo-2013.wav 28.010 29.400
+
+\ref 014
+\ELANBegin 30.190
+\ELANEnd 31.120
+\ELANParticipant Isabel
+\trs Oini kai.
+\tx Oini              kai.
+\mb oin    -i         ka     -i
+\gn ver    -SUJ>S:SIM ir     -IMPF
+\ps v.ambi -suf.      v.intr -suf.
+
+\ft Estoy yendo a ver
+\sound JC.NC.IC-hualo-2013.wav 30.190 31.120
+
+\ref 015
+\ELANBegin 31.330
+\ELANEnd 32.420
+\ELANParticipant Isabel
+\trs Choran.
+\tx Choran.
+\mb choran
+\gn sapo.hualo
+\ps n.
+
+\ft al hualo.
+\sound JC.NC.IC-hualo-2013.wav 31.330 32.420
+
+\ref 016
+\ELANBegin 32.420
+\ELANEnd 33.310
+\ELANParticipant Isabel
+\trs Quiere chap[ar]
+\tx Quiere chap[ar]
+\ft "Quiero chapar".
+\sound JC.NC.IC-hualo-2013.wav 32.420 33.310
+
+\ref 017
+\ELANBegin 33.310
+\ELANEnd 34.530
+\ELANParticipant Isabel
+\trs Bikasi pinohon.
+\tx Bikasi              pinohon.
+\mb bi      -kas  -i    pi      -nohon
+\gn v.tran. -DES  -IMPF comer   -PROP:TRAN
+\ps v.      -suf. -suf. v.tran. -suf.
+
+\ft quería agarrar para comer
+\sound JC.NC.IC-hualo-2013.wav 33.310 34.530
+
+\ref 018
+\ELANBegin 34.530
+\ELANEnd 35.310
+\ELANParticipant Isabel
+\trs Kawahon
+\tx Kawahon
+\mb kawa             -hon
+\gn hacer.patarashca -SUJ>A:SIM
+\ps v.               -suf.
+
+\ft haciendo patarashca
+\sound JC.NC.IC-hualo-2013.wav 34.530 35.310
+
+\ref 019
+\ELANBegin 37.210
+\ELANEnd 38.490
+\ELANParticipant Isabel
+\trs [Y mi] marido mira.
+\tx [Y mi] marido mira.
+\ft Y mi marido mira.
+\sound JC.NC.IC-hualo-2013.wav 37.210 38.490
+
+\ref 020
+\ELANBegin 38.790
+\ELANEnd 40.120
+\ELANParticipant Isabel
+\trs Beneka oina.
+\tx Beneka        oina.
+\mb bene   =ka    oin    -a
+\gn esposo =NAR   ver    -PERF
+\ps n.     =clit. v.ambi -suf.
+
+\ft y mi marido ha mirado
+\sound JC.NC.IC-hualo-2013.wav 38.790 40.120
+
+\ref 021
+\ELANBegin 40.050
+\ELANEnd 41.580
+\ELANParticipant Nelita
+\trs Iskon hoi iwe!
+\tx Iskon         hoi   iwe!
+\mb isko   =n     ho -i ik         -we
+\gn paucar =GEN         decir:INTR -IMP(SK)
+\ps n.     =clit.       v.intr.    -suf.
+
+\ft ¡Habla isconahua!
+\sound JC.NC.IC-hualo-2013.wav 40.050 41.580
+
+\ref 022
+\ELANBegin 42.295
+\ELANEnd 44.780
+\ELANParticipant Isabel
+\trs Oina
+\tx Oina
+\mb oin    -a
+\gn ver    -PERF
+\ps v.ambi -suf.
+
+\ft Entonces veo
+\sound JC.NC.IC-hualo-2013.wav 42.295 44.780
+
+\ref 023
+\ELANBegin 42.295
+\ELANEnd 44.780
+\ELANParticipant Nelita
+\trs Nawan hoi iamawe. Akopi ka noa naskai.
+\tx Nawan               hoi        iamawe.
+\mb nawa         =n     hoi        ia     =ma    -we
+\gn no.indígena =ERG   lengua(SK) cargar =NEG   -IMP(SK)
+\ps n.           =clit. n.         v.     =clit. -suf.
+
+\tx A   kopi    ka     noa   niskai.
+\mb a   kopi    ka     noa   niskai
+\gn ese por eso ir     1PL.P así(SK)
+\ps dem conect. v.intr pron. adv.
+
+\ft No hables la lengua de los mestizos. Por eso estamos así.
+\sound JC.NC.IC-hualo-2013.wav 42.295 44.780
+
+\ref 024
+\ELANBegin 45.350
+\ELANEnd 47.540
+\ELANParticipant Isabel
+\trs Ewen benen oina choran.
+\tx Ewen    benen         oina         choran.
+\mb ewen    bene   =n     oin    -a    choran
+\gn 1SG:GEN esposo =ERG   ver    -PERF sapo.hualo
+\ps pron.   n.     =clit. v.ambi -suf. n.
+
+\ft Mi marido vio el hualo.
+\sound JC.NC.IC-hualo-2013.wav 45.350 47.540
+
+\ref 025
+\ELANBegin 47.540
+\ELANEnd 50.510
+\ELANParticipant Isabel
+\trs Ho, ho. Ares moha.
+\tx Ho,     ho.     Ares               moha.
+\mb ho      ho      ak      -res       moha
+\gn ho      ho      hacer   -solamente espina
+\ps [canto] [canto] v.tran. -suf.      n.
+
+\ft "ho, ho", pero eran solo espinas.
+\sound JC.NC.IC-hualo-2013.wav 47.540 50.510
+
+\ref 026
+\ELANBegin 51.800
+\ELANEnd 53.050
+\ELANParticipant Isabel
+\trs Ese nomás es.
+\tx Ese nomás es.
+\ft Ese nomás es.
+\sound JC.NC.IC-hualo-2013.wav 51.800 53.050
+
+\ref 027
+\ELANBegin 56.980
+\ELANEnd 58.140
+\ELANParticipant Isabel
+\trs Choranka.
+\tx Choranka.
+\mb choran     =ka
+\gn sapo.hualo =NAR
+\ps n.         =clit.
+
+\ft El hualo.
+\sound JC.NC.IC-hualo-2013.wav 56.980 58.140
+
+\ref 028
+\ELANBegin 58.055
+\ELANEnd 59.035
+\ELANParticipant Juanita
+\trs Choranka.
+\tx Choranka.
+\mb choran     =ka
+\gn sapo.hualo =NAR
+\ps n.         =clit.
+
+\ft El hualo.
+\sound JC.NC.IC-hualo-2013.wav 58.055 59.035
+
+\ref 029
+\ELANBegin 60.330
+\ELANEnd 61.119
+\ELANParticipant Isabel
+\trs Moha ka
+\tx Moha   ka
+\mb moha   ka
+\gn espina ir
+\ps n.     v.intr
+
+\ft Las espinas.
+\sound JC.NC.IC-hualo-2013.wav 60.330 61.119
+
+
+\ELANMediaURL file:///C:/Users/Fernando Franco/Desktop/basededatos-iskonawa procesada/data/JC.NC.IC-hualo-2013.mpg
+\ELANMediaMIME video/mpeg
+\ELANMediaExtracted file:///C:/Users/Fernando Franco/Desktop/basededatos-iskonawa procesada/data/JC.NC.IC-hualo-2013.wav
+\ELANMediaURL file:///C:/Users/Fernando Franco/Desktop/basededatos-iskonawa procesada/data/JC.NC.IC-hualo-2013.wav
+\ELANMediaMIME audio/x-wav

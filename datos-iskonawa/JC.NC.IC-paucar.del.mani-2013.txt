@@ -1,0 +1,3564 @@
+\_sh v3.0  400  text
+
+\ref 001
+\trs ma iwe
+\tx ma  iwe
+\mb ma  ik         -we
+\gn ya  decir:INTR -IMP(SK)
+\ps adv v.intr.    -suf.
+
+\ft ya cuenta
+\ELANBegin 11.780
+\ELANEnd 12.100
+\ELANParticipant Germán
+\sound JC.NC.IC-paucar.del.mani-2013.wav 11.780 12.100
+
+\ref 002
+\trs ma a iwe
+\tx ma  a   iwe
+\mb ma  a   ik         -we
+\gn ya  ese decir:INTR -IMP(SK)
+\ps adv dem v.intr.    -suf.
+
+\ft ya cuenta eso.
+\ELANBegin 12.255
+\ELANEnd 12.875
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 12.255 12.875
+
+\ref 003
+\trs ma iwe
+\tx ma  iwe
+\mb ma  ik         -we
+\gn ya  decir:INTR -IMP(SK)
+\ps adv v.intr.    -suf.
+
+\ft ya cuenta
+\ELANBegin 13.220
+\ELANEnd 13.730
+\ELANParticipant Isabel
+\sound JC.NC.IC-paucar.del.mani-2013.wav 13.220 13.730
+
+\ref 004
+\trs ikiki isconahuaki
+\tx ikiki                isconahuaki
+\mb ik      -i    =ki    isconahua =ki
+\gn copula  -IMPF =REP   iskonawa  =REP
+\ps v.intr. -suf. =clit. n.        =clit.
+
+\ft así eran dicen los isconahua
+\ELANBegin 15.060
+\ELANEnd 16.490
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 15.060 16.490
+
+\ref 005
+\trs haneboka
+\tx haneboka
+\mb hanebo  =ka
+\gn chamán =NAR
+\ps n.      =clit.
+
+\ft (estaba) hanobo (nombre propio de un chamán)
+\ELANBegin 17.200
+\ELANEnd 17.960
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 17.200 17.960
+
+\ref 006
+\trs haneboki iki
+\tx haneboki       iki
+\mb hanebo  =ki    ik      -i
+\gn chamán =REP   copula  -IMPF
+\ps n.      =clit. v.intr. -suf.
+
+\ft es hanobo
+\ELANBegin 18.685
+\ELANEnd 19.595
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 18.685 19.595
+
+\ref 007
+\trs ka aka tama ainra isko iki
+\tx ka     aka            tama  ainra                isko   iki
+\mb =ka    ak      -a     tama  ain       =ra        isko   ik      -i
+\gn =NAR   hacer   -NOMLZ maní ahí(MIX) =EVID1(SK) paucar copula  -IMPF
+\ps =clit. v.tran. -suf.  n.    adv.      =clit.     n.     v.intr. -suf.
+
+\ft (hanebo dijo:) 'ahí está el maní sembrado, ahi está un paucar'
+\ELANBegin 20.550
+\ELANEnd 23.680
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 20.550 23.680
+
+\ref 008
+\trs naya
+\tx naya
+\mb naya
+\gn tía.de.la.mujer
+\ps n.
+
+\ft tía
+\ELANBegin 23.140
+\ELANEnd 23.680
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 23.140 23.680
+
+\ref 009
+\trs yoamaipari
+\tx yoamaipari
+\mb yoama  -i    -pa   -ri
+\gn cantar -IMPF -FUT  -todavía
+\ps v.     -suf. -suf. -adv.
+
+\ft primero ha cantado (tomando tabaco)
+\ELANBegin 25.385
+\ELANEnd 26.525
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 25.385 26.525
+
+\ref 010
+\trs yoamai
+\tx yoamai
+\mb yoama  -i
+\gn cantar -IMPF
+\ps v.     -suf.
+
+\ft cantaba (después de tomar tabaco)
+\ELANBegin 26.600
+\ELANEnd 27.300
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 26.600 27.300
+
+\ref 011
+\trs yoama haneboki yoamai
+\tx yoama        haneboki       yoamai
+\mb yoama  -a    hanebo  =ki    yoama  -i
+\gn cantar -PERF chamán =REP   cantar -IMPF
+\ps v.     -suf. n.      =clit. v.     -suf.
+
+\ft hanobo cantaba (después de tomar tabaco)
+\ELANBegin 27.350
+\ELANEnd 28.980
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 27.350 28.980
+
+\ref 012
+\trs yoamai hanebo
+\tx yoamai       hanebo
+\mb yoama  -i    hanebo
+\gn cantar -IMPF chamán
+\ps v.     -suf. n.
+
+\ft hanobo cantaba (después de tomar tabaco)
+\ELANBegin 27.375
+\ELANEnd 27.995
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 27.375 27.995
+
+\ref 013
+\trs yoamai
+\tx yoamai
+\mb yoama  -i
+\gn cantar -IMPF
+\ps v.     -suf.
+
+\ft cantaba (después de tomar tabaco)
+\ELANBegin 29.040
+\ELANEnd 29.440
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 29.040 29.440
+
+\ref 014
+\trs yoamai
+\tx yoamai
+\mb yoama  -i
+\gn cantar -IMPF
+\ps v.     -suf.
+
+\ft cantaba (después de tomar tabaco)
+\ELANBegin 29.465
+\ELANEnd 30.105
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 29.465 30.105
+
+\ref 015
+\trs yoshinya
+\tx yoshinya
+\mb yoshin    =ya
+\gn espíritu =PROP
+\ps n.        =clit.
+
+\ft tenía espíritu
+\ELANBegin 31.170
+\ELANEnd 31.800
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 31.170 31.800
+
+\ref 016
+\trs yoshinya
+\tx yoshinya
+\mb yoshin    =ya
+\gn espíritu =PROP
+\ps n.        =clit.
+
+\ft tenía espíritu
+\ELANBegin 32.850
+\ELANEnd 33.480
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 32.850 33.480
+
+\ref 017
+\trs yoshin aki yoamai
+\tx yoshin    aki                    yoamai
+\mb yoshin    ak          -i         yoama  -i
+\gn espíritu decir(TRAN) -SUJ>S:SIM cantar -IMPF
+\ps n.        v.tran.     -suf.      v.     -suf.
+
+\ft cantaba llamando a su espíritu
+\ELANBegin 34.030
+\ELANEnd 35.090
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 34.030 35.090
+
+\ref 018
+\trs yoamai hanebo
+\tx yoamai       hanebo
+\mb yoama  -i    hanebo
+\gn cantar -IMPF chamán
+\ps v.     -suf. n.
+
+\ft hanebo cantaba
+\ELANBegin 35.525
+\ELANEnd 36.165
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 35.525 36.165
+
+\ref 019
+\trs hanebo rome akai
+\tx hanebo  rome   akai
+\mb hanebo  rome   ak      -ai
+\gn chamán tabaco hacer   -IMPF(SK)
+\ps n.      n.     v.tran. -suf.
+
+\ft hanebo tomaba tabaco
+\ELANBegin 36.520
+\ELANEnd 37.840
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 36.520 37.840
+
+\ref 020
+\trs rome rome xeai rome chahka rome natoti chori chori
+\tx rome   rome   xeai            rome
+\mb rome   rome   xea       -i    rome
+\gn tabaco tabaco tomar(SK) -IMPF tabaco
+\ps n.     n.     v.        -suf. n.
+
+\tx chahka                rome   natoti     chori
+\mb chahka         -a     rome   natoti     chori
+\gn cocinar.tabaco -NOMLZ tabaco varios(SK) tomar.rápido
+\ps v.             -suf.  n.     adj.       onom.
+
+\tx chori
+\mb chori
+\gn tomar.rápido
+\ps onom.
+
+\ft tomaba tabaco, tabaco bien cocinado: "chori chori"
+\ELANBegin 38.560
+\ELANEnd 43.320
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 38.560 43.320
+
+\ref 021
+\trs yoamai
+\tx yoamai
+\mb yoama  -i
+\gn cantar -IMPF
+\ps v.     -suf.
+
+\ft cantaba (después de tomar tabaco)
+\ELANBegin 45.230
+\ELANEnd 45.930
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 45.230 45.930
+
+\ref 022
+\trs yamé
+\tx yamé
+\mb yamé
+\gn noche(SK)
+\ps n.
+
+\ft de noche
+\ELANBegin 46.455
+\ELANEnd 46.885
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 46.455 46.885
+
+\ref 023
+\trs yamé yoamai
+\tx yamé     yoamai
+\mb yamé     yoama  -i
+\gn noche(SK) cantar -IMPF
+\ps n.        v.     -suf.
+
+\ft de noche cantaba
+\ELANBegin 47.155
+\ELANEnd 47.895
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 47.155 47.895
+
+\ref 024
+\trs bakebo
+\tx bakebo
+\mb bake  =bo
+\gn cría =PLU
+\ps n.    =clit
+
+\ft las crías
+\ELANBegin 48.930
+\ELANEnd 49.460
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 48.930 49.460
+
+\ref 025
+\trs bakebo
+\tx bakebo
+\mb bake  =bo
+\gn cría =PLU
+\ps n.    =clit
+
+\ft las crías
+\ELANBegin 50.320
+\ELANEnd 50.720
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 50.320 50.720
+
+\ref 026
+\trs tama yoshinka
+\tx tama  yoshinka
+\mb tama  yoshin    =ka
+\gn maní espíritu =NAR
+\ps n.    n.        =clit.
+
+\ft y el espíritu del árbol del maní
+\ELANBegin 51.725
+\ELANEnd 52.615
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 51.725 52.615
+
+\ref 027
+\trs tawa isko
+\tx tawa isko
+\mb tawa isko
+\gn pona paucar
+\ps n.   n.
+
+\ft paucar de altura
+\ELANBegin 53.745
+\ELANEnd 54.285
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 53.745 54.285
+
+\ref 028
+\trs isko bake aka
+\tx isko   bake  aka
+\mb isko   bake  ak      -a
+\gn paucar cría hacer   -NOMLZ
+\ps n.     n.    v.tran. -suf.
+
+\ft (había) (bastantes) crías de paucar
+\ELANBegin 55.280
+\ELANEnd 56.240
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 55.280 56.240
+
+\ref 029
+\trs iskonbo bakeai
+\tx iskonbo             bakeai
+\mb isko   =n     =bo   bake  -ai
+\gn paucar =ERG   =PLU  cría -IMPF(SK)
+\ps n.     =clit. =clit n.    -suf.
+
+\ft lo que había concebido los paucares
+\ELANBegin 56.935
+\ELANEnd 58.065
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 56.935 58.065
+
+\ref 030
+\trs epá ikonri ha
+\tx epá      ikonri              ha
+\mb epá      ikon       =ri      ha
+\gn papá.VOC verdad(SK) =COP.INT ese(SK)
+\ps n.        adv.       =clit    dem
+
+\ft "¿es verdad, papá?"
+\ELANBegin 59.515
+\ELANEnd 60.895
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 59.515 60.895
+
+\ref 031
+\trs mia hansoyamai
+\tx mia         hansoyamai
+\mb mia         hanso     -yama    -i
+\gn 2SG.ABS(SK) mentiroso -NEG(SK) -IMPF
+\ps pron        adj.      -suf.    -suf.
+
+\ft "¿no estás mintiendo?"
+\ELANBegin 61.730
+\ELANEnd 62.610
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 61.730 62.610
+
+\ref 032
+\trs mia kesayamai
+\tx mia         kesayamai
+\mb mia         kesa      -yama    -i
+\gn 2SG.ABS(SK) mentiroso -NEG(SK) -IMPF
+\ps pron        adj.      -suf.    -suf.
+
+\ft ¿me estás engañando?
+\ELANBegin 62.605
+\ELANEnd 63.265
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 62.605 63.265
+
+\ref 033
+\trs mia kesayamai epá
+\tx mia         kesayamai                epá
+\mb mia         kesa      -yama    -i    epá
+\gn 2SG.ABS(SK) mentiroso -NEG(SK) -IMPF papá.VOC
+\ps pron        adj.      -suf.    -suf. n.
+
+\ft no me mientas, papá
+\ELANBegin 63.100
+\ELANEnd 64.270
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 63.100 64.270
+
+\ref 034
+\trs mia kesayamai epá
+\tx mia         kesayamai                epá
+\mb mia         kesa      -yama    -i    epá
+\gn 2SG.ABS(SK) mentiroso -NEG(SK) -IMPF papá.VOC
+\ps pron        adj.      -suf.    -suf. n.
+
+\ft no me mientas, papá
+\ELANBegin 63.290
+\ELANEnd 64.240
+\ELANParticipant Isabel
+\sound JC.NC.IC-paucar.del.mani-2013.wav 63.290 64.240
+
+\ref 035
+\trs ea kesayamai hawe ea kesatiki
+\tx ea          kesayamai                hawe
+\mb ea          kesa      -yama    -i    hawe
+\gn 1SG.ABS(SK) mentiroso -NEG(SK) -IMPF cuál(SK)
+\ps pron.       adj.      -suf.    -suf. pal.int.
+
+\tx ea          kesatiki
+\mb ea          kesa      -ti    =ki
+\gn 1SG.ABS(SK) mentiroso -NOMLZ =INT
+\ps pron.       adj.      -suf.  =clit.
+
+\ft "yo no miento, ¿por qué yo mentiría?
+\ELANBegin 64.600
+\ELANEnd 66.440
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 64.600 66.440
+
+\ref 036
+\trs oin katimari epá
+\tx oin    katimari                      epá
+\mb oin    ka     -ti    =ma    =ri      epá
+\gn ver    ir     -NOMLZ =NEG   =COP.INT papá.VOC
+\ps v.ambi v.intr -suf.  =clit. =clit    n.
+
+\ft "a ver vamos a ver, papá"
+\ELANBegin 70.015
+\ELANEnd 71.345
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 70.015 71.345
+
+\ref 037
+\trs chitoma
+\tx chitoma
+\mb chitoma
+\gn lejos
+\ps adv.
+
+\ft "(es) lejos"
+\ELANBegin 74.275
+\ELANEnd 74.865
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 74.275 74.865
+
+\ref 038
+\trs chitoma, chitoma
+\tx chitoma, chitoma
+\mb chitoma  chitoma
+\gn lejos    lejos
+\ps adv.     adv.
+
+\ft "lejos, lejos"
+\ELANBegin 74.880
+\ELANEnd 76.320
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 74.880 76.320
+
+\ref 039
+\trs chitoma
+\tx chitoma
+\mb chitoma
+\gn lejos
+\ps adv.
+
+\ft "lejos"
+\ELANBegin 74.900
+\ELANEnd 75.570
+\ELANParticipant Isabel
+\sound JC.NC.IC-paucar.del.mani-2013.wav 74.900 75.570
+
+\ref 040
+\trs chitomakoinmatin ointi
+\tx chitomakoinmatin          ointi
+\mb chitoma -koin      -matin oin    -ti
+\gn lejos   -verdadero -INTF  ver    -NOMLZ
+\ps adv.    -suf.      -suf.  v.ambi -suf.
+
+\ft "es lejos para ir a ver (da flojera)"
+\ELANBegin 75.965
+\ELANEnd 77.535
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 75.965 77.535
+
+\ref 041
+\trs chitomamatin oini oini
+\tx chitomamatin   oin-i             oin-i
+\mb chitoma -matin oin    -i         oin    -i
+\gn lejos   -INTF  ver    -SUJ>S:SIM ver    -SUJ>S:SIM
+\ps adv.    -suf.  v.ambi -suf.      v.ambi -suf.
+
+\ft "es bien lejos a para ver (da flojera)"
+\ELANBegin 77.525
+\ELANEnd 79.245
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 77.525 79.245
+
+\ref 042
+\trs banei hawe bohonki oin
+\tx banei          hawe      bohonkin                oin
+\mb bane     -i    hawe      bo     -hon  -kin       oin
+\gn quedarse -IMPF cuál(SK) llevar -BEN  -SUJ>A:SIM ver
+\ps v.       -suf. pal.int.  v.ambi -suf. -suf.      v.ambi
+
+\ft "hay que regresar, qué vamos a llevar para ver?"
+\ELANBegin 79.500
+\ELANEnd 81.060
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 79.500 81.060
+
+\ref 043
+\trs roro awe, heki rorokeh
+\tx roro    ak-we,           heki  rorokeh
+\mb roro    ak      -we      heki  roro    -ke        =h
+\gn fariña hacer   -IMP(SK) maíz fariña -NOMLZ(SK) =S
+\ps n.      v.tran. -suf.    n.    n.      -suf.      =clit.
+
+\ft "haz fariña, haciendo fariña"
+\ELANBegin 83.500
+\ELANEnd 84.900
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 83.500 84.900
+
+\ref 044
+\trs maroko oinon kawe bake
+\tx maroko  oinon        kawe            bake
+\mb maroko  oin    -non  ka     -we      bake
+\gn rápido ver    -PROP ir     -IMP(SK) niño
+\ps adv.    v.ambi -suf. v.intr -suf.    n.
+
+\ft "ya ahorita vamos a ver, hijo"
+\ELANBegin 88.340
+\ELANEnd 89.510
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 88.340 89.510
+
+\ref 045
+\trs kawe papa
+\tx kawe            papa
+\mb ka     -we      papa
+\gn ir     -IMP(SK) papá(SK)
+\ps v.intr -suf.    n.
+
+\ft "anda, papá"
+\ELANBegin 90.610
+\ELANEnd 91.220
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 90.610 91.220
+
+\ref 046
+\trs awen bake
+\tx awen    bake
+\mb awen    bake
+\gn 3SG:GEN niño
+\ps pron    n.
+
+\ft su hijo
+\ELANBegin 94.670
+\ELANEnd 95.000
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 94.670 95.000
+
+\ref 047
+\trs kanoti natoti ka
+\tx kanoti   natoti     ka
+\mb kanoti   natoti     =ka
+\gn arco(SK) varios(SK) =NAR
+\ps n.       adj.       =clit.
+
+\ft arcos de este este tamaño
+\ELANBegin 95.810
+\ELANEnd 96.780
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 95.810 96.780
+
+\ref 048
+\trs kimisha oniki
+\tx kimisha  oniki
+\mb kimisha  oni     =ki
+\gn tres(SK) persona =REP
+\ps num.     n.      =clit.
+
+\ft dice tres personas
+\ELANBegin 98.050
+\ELANEnd 98.880
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 98.050 98.880
+
+\ref 049
+\trs kankan
+\tx kankan
+\mb kankan
+\gn canasta
+\ps n.
+
+\ft canasta
+\ELANBegin 99.710
+\ELANEnd 100.060
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 99.710 100.060
+
+\ref 050
+\trs kankan menahako
+\tx kankan  menahako
+\mb kankan  mená -hoko
+\gn canasta LOC   -DIM
+\ps n.      pos.  -suf
+
+\ft adentrito de la canasta
+\ELANBegin 100.230
+\ELANEnd 101.020
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 100.230 101.020
+
+\ref 051
+\trs kankan bakeheko kankan panpihiko roro papibaini
+\tx kankan  bakeheko    kankan  panpihiko roro
+\mb kankan  bake  -hoko kankan  panpihiko roro
+\gn canasta cría -DIM  canasta pequeño  fariña
+\ps n.      n.    -suf  n.      adj.      n.
+
+\tx papi-bain-i
+\mb papi       -bain       -i
+\gn cargar(SK) -yendo:TRAN -IMPF
+\ps v.         -suf.       -suf.
+
+\ft yendo, cargaban en la cabeza una canasta chiquita con la fariña
+\ELANBegin 101.285
+\ELANEnd 104.055
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 101.285 104.055
+
+\ref 052
+\trs kankan bakeheko kankan panpihiko roro papibaini
+\tx kankan  bakeheko    kankan  panpihiko roro
+\mb kankan  bake  -hoko kankan  panpihiko roro
+\gn canasta cría -DIM  canasta pequeño  fariña
+\ps n.      n.    -suf  n.      adj.      n.
+
+\tx papi-bain-i
+\mb papi       -bain       -i
+\gn cargar(SK) -yendo:TRAN -IMPF
+\ps v.         -suf.       -suf.
+
+\ft yendo, cargaban en la cabeza una canasta chiquita con la
+\ELANBegin 101.310
+\ELANEnd 104.650
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 101.310 104.650
+
+\ref 053
+\trs ka
+\tx ka
+\mb ka     -a
+\gn ir     -PERF
+\ps v.intr -suf.
+
+\ft se fueron
+\ELANBegin 105.795
+\ELANEnd 106.105
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 105.795 106.105
+
+\ref 054
+\trs oharibike
+\tx oharibike
+\mb oha    =ribi     -ke
+\gn dormir =también -PERF(SK)
+\ps v.     =clit.    -suf.
+
+\ft durmió otra vez
+\ELANBegin 107.510
+\ELANEnd 108.210
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 107.510 108.210
+
+\ref 055
+\trs rome ake
+\tx rome   ake
+\mb rome   ak      -ke
+\gn tabaco hacer   -PERF(SK)
+\ps n.     v.tran. -suf.
+
+\ft tomó tabaco
+\ELANBegin 109.475
+\ELANEnd 110.105
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 109.475 110.105
+
+\ref 056
+\trs aribake
+\tx aribake
+\mb ak      -riba     -ke
+\gn hacer   -otra.vez -PERF(SK)
+\ps v.tran. -suf.     -suf.
+
+\ft tomó otra vez (tabaco)
+\ELANBegin 111.425
+\ELANEnd 111.945
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 111.425 111.945
+
+\ref 057
+\trs rome aribake
+\tx rome   aribake
+\mb rome   ak      -riba     -ke
+\gn tabaco hacer   -otra.vez -PERF(SK)
+\ps n.     v.tran. -suf.     -suf.
+
+\ft tomó otra vez tabaco
+\ELANBegin 112.020
+\ELANEnd 112.640
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 112.020 112.640
+
+\ref 058
+\trs ointa epá, ointa epá
+\tx ointa           epá,     ointa           epá
+\mb oin    -ta      epá      oin    -ta      epá
+\gn ver    -IMP.FAM papá.VOC ver    -IMP.FAM papá.VOC
+\ps v.ambi -suf.    n.        v.ambi -suf.    n.
+
+\ft mire, papá, mire, papá (forma respetuosa)
+\ELANBegin 113.905
+\ELANEnd 115.795
+\ELANParticipant Juanita
+\sound C.NC.IC-paucar.del.mani-2013.wav 113.905 115.795
+
+\ref 059
+\trs yamé
+\tx yamé
+\mb yamé
+\gn noche(SK)
+\ps n.
+
+\ft oscureció
+\ELANBegin 118.245
+\ELANEnd 118.655
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 118.245 118.655
+
+\ref 060
+\trs bari pake itiki rome xearibike
+\tx bari pake     itiki                 rome   xearibike
+\mb bari pake     ik      -ti    =ki    rome   xea       =ribi     -ke
+\gn sol  caer(se) copula  -NOMLZ =REP   tabaco tomar(SK) =también -PERF(SK)
+\ps n.   v.ambi.  v.intr. -suf.  =clit. n.     v.        =clit.    -suf.
+
+\ft cuando caía el sol tomó tabaco también
+\ELANBegin 120.050
+\ELANEnd 122.520
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 120.050 122.520
+
+\ref 061
+\trs yoamai
+\tx yoamai
+\mb yoama  -i
+\gn cantar -IMPF
+\ps v.     -suf.
+
+\ft cantaba
+\ELANBegin 128.470
+\ELANEnd 129.760
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 128.470 129.760
+
+\ref 062
+\trs oinribike
+\tx oinribike
+\mb oin    =ribi     -ke
+\gn ver    =también -PERF(SK)
+\ps v.ambi =clit.    -suf.
+
+\ft miró otra vez
+\ELANBegin 129.870
+\ELANEnd 130.530
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 129.870 130.530
+
+\ref 063
+\trs oinribike
+\tx oinribike
+\mb oin    =ribi     -ke
+\gn ver    =también -PERF(SK)
+\ps v.ambi =clit.    -suf.
+
+\ft mira otra vez
+\ELANBegin 130.500
+\ELANEnd 131.880
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 130.500 131.880
+
+\ref 064
+\trs ma yoibainkin ma yoshin boa
+\tx ma  yoibainkin                     ma  yoshin
+\mb ma  yoi     -bain       -kin       ma  yoshin
+\gn ya  contar  -yendo:TRAN -SUJ>A:SIM ya  espíritu
+\ps adv v.tran. -suf.       -suf.      adv n.
+
+\tx boa
+\mb bo     -a
+\gn ir:PL  -PERF
+\ps v.ambi -suf.
+
+\ft el espíritu se fue después de hablarle
+\ELANBegin 133.440
+\ELANEnd 134.800
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 133.440 134.800
+
+\ref 065
+\trs kake
+\tx kake
+\mb ka     -ke
+\gn ir     -PERF(SK)
+\ps v.intr -suf.
+
+\ft se fue
+\ELANBegin 137.320
+\ELANEnd 137.570
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 137.320 137.570
+
+\ref 066
+\trs epá
+\tx epá
+\mb epá
+\gn papá.VOC
+\ps n.
+
+\ft "papá"
+\ELANBegin 138.450
+\ELANEnd 138.860
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 138.450 138.860
+
+\ref 067
+\trs ochomari epá
+\tx ochomari              epá
+\mb ocho  =ma    =ri      epá
+\gn lejos =NEG   =COP.INT papá.VOC
+\ps adv.  =clit. =clit    n.
+
+\ft "¿ya no está lejos, papá?"
+\ELANBegin 139.200
+\ELANEnd 139.990
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 139.200 139.990
+
+\ref 068
+\trs chitomapari
+\tx chitomapari
+\mb chitoma =pari
+\gn lejos   =todavía
+\ps adv.    =clit.
+
+\ft "está lejos todavía"
+\ELANBegin 140.550
+\ELANEnd 140.980
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 140.550 140.980
+
+\ref 069
+\trs chitomapari riki
+\tx chitomapari       riki
+\mb chitoma =pari     riki
+\gn lejos   =todavía COP(SK)
+\ps adv.    =clit.    part.
+
+\ft "está lejos todavía"
+\ELANBegin 141.250
+\ELANEnd 142.290
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 141.250 142.290
+
+\ref 070
+\trs chitomapari
+\tx chitomapari
+\mb chitoma =pari
+\gn lejos   =todavía
+\ps adv.    =clit.
+
+\ft "está lejos todavía"
+\ELANBegin 142.955
+\ELANEnd 143.675
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 142.955 143.675
+
+\ref 071
+\trs karestimari epá
+\tx karestimari                              epá
+\mb ka     -res       -ti    =ma    =ri      epá
+\gn ir     -solamente -NOMLZ =NEG   =COP.INT papá.VOC
+\ps v.intr -suf.      -suf.  =clit. =clit    n.
+
+\ft "vamos a caminar no más, papá"
+\ELANBegin 146.360
+\ELANEnd 147.670
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 146.360 147.670
+
+\ref 072
+\trs ka maro karesi
+\tx ka     maro    karesi
+\mb =ka    maroko  ka     -res       -i
+\gn =NAR   rápido ir     -solamente -IMPF
+\ps =clit. adv.    v.intr -suf.      -suf.
+
+\ft "ya vamos no más"
+\ELANBegin 148.850
+\ELANEnd 149.750
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 148.850 149.750
+
+\ref 073
+\trs ea metsakayamai mi ika iki kawe
+\tx ea          metsakayamai               mi
+\mb ea          metsaka{v.} -yama{suf.} -i mi
+\gn 1SG.ABS(SK) creer       -NEG(SK)       2SG:ABS
+\ps pron.                                  pron
+
+\tx ik-a              iki
+\mb ik         -a     ik         -i
+\gn decir:INTR -NOMLZ decir:INTR -NOMLZ
+\ps v.intr.    -suf.  v.intr.    -suf.
+
+\tx kawe
+\mb ka     -we
+\gn ir     -IMP(SK)
+\ps v.intr -suf.
+
+\ft "tú no me crees, vamos no más"
+\ELANBegin 150.060
+\ELANEnd 152.960
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 150.060 152.960
+
+\ref 074
+\trs karibi
+\tx karibi
+\mb ka     =ribi
+\gn ir     =también
+\ps v.intr =clit.
+
+\ft vamos también
+\ELANBegin 154.720
+\ELANEnd 155.200
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 154.720 155.200
+
+\ref 075
+\trs yantan pakeketian oharibi
+\tx yantan pakeketian                  oharibi
+\mb yantan paket      -ketian          oha    =ribi
+\gn noche  caerse(SK) -SUJ.DIF:SIM(SK) dormir =también
+\ps n.     v.         -suf             v.     =clit.
+
+\ft cuando anocheció durmieron otra vez
+\ELANBegin 157.695
+\ELANEnd 158.765
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 157.695 158.765
+
+\ref 076
+\trs narabe ohai
+\tx narabe ohai
+\mb narabe oha    -i
+\gn dos    dormir -IMPF
+\ps num.   v.     -suf.
+
+\ft (pasaron) dos (días) y durmieron
+\ELANBegin 160.730
+\ELANEnd 161.280
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 160.730 161.280
+
+\ref 077
+\trs narabe ohai kai nato ohai nato ohai nato ohai natonki nokoke
+\tx narabe ohai              kai               nato
+\mb narabe oha    -i         ka     -i         nato
+\gn        dormir -SUJ>S:SIM ir     -SUJ>S:SIM este(SK)
+\ps        v.     -suf.      v.intr -suf.      dem.
+
+\tx ohai              nato     ohai
+\mb oha    -i         nato     oha    -i
+\gn dormir -SUJ>S:SIM este(SK) dormir -SUJ>S:SIM
+\ps v.     -suf.      dem.     v.     -suf.
+
+\tx nato     ohai              natoki
+\mb nato     oha    -i         nato     =ki
+\gn este(SK) dormir -SUJ>S:SIM este(SK) =REP
+\ps dem.     v.     -suf.      dem.     =clit.
+
+\tx nokoke
+\mb noko   -ke
+\gn llegar -PERF(SK)
+\ps v.     -suf.
+
+\ft después de dormir y caminar por cinco días, llegaron
+\ELANBegin 161.540
+\ELANEnd 164.910
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 161.540 164.910
+
+\ref 078
+\trs ana ointa epá
+\tx ana      ointa           epá
+\mb ana      oin    -ta      epá
+\gn otra.vez ver    -IMP.FAM papá.VOC
+\ps adv.     v.ambi -suf.    n.
+
+\ft mire otra vez, papá (respetuoso)
+\ELANBegin 165.870
+\ELANEnd 168.280
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 165.870 168.280
+
+\ref 079
+\trs en oinbanon
+\tx en        oinbanon
+\mb en        oin    -ba    -non
+\gn 1SG:A(SK) ver    -ahora -PROP
+\ps pron      v.ambi -suf.  -suf.
+
+\ft voy a mirar
+\ELANBegin 169.810
+\ELANEnd 170.820
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 169.810 170.820
+
+\ref 080
+\trs ochomari epa
+\tx ochomari              epa
+\mb ocho  =ma    =ri      epa
+\gn lejos =NEG   =COP.INT padre
+\ps adv.  =clit. =clit    n.
+
+\ft "¿está cerca?, papá"
+\ELANBegin 175.690
+\ELANEnd 176.680
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 175.690 176.680
+
+\ref 081
+\trs mara ochoma iki
+\tx mara           ochoma       iki
+\mb ma  =ra        ocho  =ma    ik      -i
+\gn ya  =EVID1(SK) lejos =NEG   copula  -IMPF
+\ps adv =clit.     adv.  =clit. v.intr. -suf.
+
+\ft "ya no está lejos"
+\ELANBegin 177.975
+\ELANEnd 179.405
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 177.975 179.405
+
+\ref 082
+\trs inan inankoin riki ochoma riki inankoin riki
+\tx inan  inankoin         riki    ochoma
+\mb inan  inan  -koin      riki    ocho  =ma
+\gn cerca cerca -verdadero COP(SK) lejos =NEG
+\ps adv.  adv.  -suf.      part.   adv.  =clit.
+
+\tx riki    inankoin         riki
+\mb riki    inan  -koin      riki
+\gn COP(SK) cerca -verdadero COP(SK)
+\ps part.   adv.  -suf.      part.
+
+\ft "ya está cerca"
+\ELANBegin 179.990
+\ELANEnd 184.050
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 179.990 184.050
+
+\ref 083
+\trs inankoin riki
+\tx inankoin         riki
+\mb inan  -koin      riki
+\gn cerca -verdadero COP(SK)
+\ps adv.  -suf.      part.
+
+\ft "ya está cerca"
+\ELANBegin 181.895
+\ELANEnd 184.055
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 181.895 184.055
+
+\ref 084
+\trs moikainkin karibake
+\tx moikainkin                       karibake
+\mb moi         -kain     -kin       ka     -riba     -ke
+\gn despertarse -AND:INTR -SUJ>A:SIM ir     -otra.vez -PERF(SK)
+\ps v.          -suf.     -suf.      v.intr -suf.     -suf.
+
+\ft levantándose se fueron otra vez
+\ELANBegin 185.330
+\ELANEnd 186.430
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 185.330 186.430
+
+\ref 085
+\trs ana oharibike
+\tx ana      oharibike
+\mb ana      oha    =ribi     -ke
+\gn otra.vez dormir =también -PERF(SK)
+\ps adv.     v.     =clit.    -suf.
+
+\ft otra vez durmieron
+\ELANBegin 187.940
+\ELANEnd 189.810
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 187.940 189.810
+
+\ref 086
+\trs ma ochomakoin riki
+\tx ma  ochomakoin           riki
+\mb ma  ochoma    -koin      riki
+\gn ya  cerca(SK) -verdadero COP(SK)
+\ps adv adv.      -suf.      part.
+
+\ft "ya está bien cerca"
+\ELANBegin 193.970
+\ELANEnd 195.360
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 193.970 195.360
+
+\ref 087
+\trs ma chitomamakoin
+\tx ma  chitomamakoin
+\mb ma  chitoma =ma    =koin
+\gn ya  lejos   =NEG   =verdadero
+\ps adv adv.    =clit. =clit.
+
+\ft "está bien cerca"
+\ELANBegin 195.210
+\ELANEnd 196.240
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 195.210 196.240
+
+\ref 088
+\trs ma inankoin
+\tx ma  inankoin
+\mb ma  inan  =koin
+\gn ya  cerca =verdadero
+\ps adv adv.  =clit.
+
+\ft "ya está cerca"
+\ELANBegin 196.870
+\ELANEnd 197.880
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 196.870 197.880
+
+\ref 089
+\trs inankoin riki
+\tx inankoin         riki
+\mb inan  =koin      riki
+\gn cerca =verdadero COP(SK)
+\ps adv.  =clit.     part.
+
+\ft "está verdaderamente cerca"
+\ELANBegin 197.870
+\ELANEnd 198.500
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 197.870 198.500
+
+\ref 090
+\trs inanka iki
+\tx inanka       iki
+\mb inan  =ka    ik      -i
+\gn cerca =NAR   copula  -SUJ>S:SIM
+\ps adv.  =clit. v.intr. -suf.
+
+\ft "está cerca"
+\ELANBegin 199.030
+\ELANEnd 199.940
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 199.030 199.940
+
+\ref 091
+\trs inanka
+\tx inanka
+\mb inan  =ka
+\gn cerca =NAR
+\ps adv.  =clit.
+
+\ft está cerca
+\ELANBegin 199.950
+\ELANEnd 200.470
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 199.950 200.470
+
+\ref 092
+\trs ma ohakanwe
+\tx ma  ohakanwe
+\mb ma  oha    -kan  -we
+\gn ya  dormir -PLU  -IMP(SK)
+\ps adv v.     -suj. -suf.
+
+\ft ya duérmanse
+\ELANBegin 200.580
+\ELANEnd 201.290
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 200.580 201.290
+
+\ref 093
+\trs ma ointankin
+\tx ma  ointankin
+\mb ma  oin    -tan  -kin
+\gn ya  ver    -ANDA -SUJ>A:SIM
+\ps adv v.ambi -suf. -suf.
+
+\ft ya anda a ver
+\ELANBegin 202.650
+\ELANEnd 203.420
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 202.650 203.420
+
+\ref 094
+\trs ochomaki
+\tx ochomaki
+\mb ochoma    =ki
+\gn cerca(SK) =INT
+\ps adv.      =clit.
+
+\ft ¿no es lejos?
+\ELANBegin 203.810
+\ELANEnd 204.470
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 203.810 204.470
+
+\ref 095
+\trs hain hain aki iskoki
+\tx hain     hain     aki               iskoki
+\mb hain     hain     ak          -i    isko   =ki
+\gn ahí(SK) ahí(SK) decir(TRAN) -IMPF paucar =REP
+\ps adv.     adv.     v.tran.     -suf. n.     =clit.
+
+\ft ahí cantaba el paucar
+\ELANBegin 205.175
+\ELANEnd 206.945
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 205.175 206.945
+
+\ref 096
+\trs iskoki ma tokoro
+\tx iskoki        ma  tokoro
+\mb isko   =ki    ma  tokoro
+\gn paucar =REP   ya  canto.paucar
+\ps n.     =clit. adv ono.
+
+\ft el paucar (cantaba) "tokoro"
+\ELANBegin 207.285
+\ELANEnd 208.445
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 207.285 208.445
+
+\ref 097
+\trs tsitseketere
+\tx tsitseketere
+\mb tsitseketere
+\gn disparar.plumas.cola
+\ps ono
+
+\ft "vuelan las plumas de mi cola"
+\ELANBegin 209.010
+\ELANEnd 210.120
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 209.010 210.120
+
+\ref 098
+\trs ashpaketere
+\tx ashpaketere
+\mb ashpaketere
+\gn abrir.plumas.cola
+\ps ono
+
+\ft "se abren las plumas de mi cola"
+\ELANBegin 211.520
+\ELANEnd 212.890
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 211.520 212.890
+
+\ref 099
+\trs mia betsosi iki "ashpaketere"
+\tx mia         betsosi              iki
+\mb mia         be-    tsos   -i     ik      -i
+\gn 2SG.ABS(SK) cara-  lanzar -NOMLZ copula  -IMPF
+\ps pron        pref.- v.     -suf.  v.intr. -suf.
+
+\tx ashpaketere
+\mb ashpaketere
+\gn abrir.plumas.cola
+\ps ono
+
+\ft "te voy a disparar en la frente, vuelan las plumas de mis alas"
+\ELANBegin 213.010
+\ELANEnd 215.010
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 213.010 215.010
+
+\ref 100
+\trs mia rerarahakoi
+\tx mia         rerarahakoi
+\mb mia         rera   -anan -hoko -i
+\gn 2SG.ABS(SK) tumbar -MAL  -DIM  -IMPF
+\ps pron        v.     -suf  -suf  -suf.
+
+\ft "te voy a cortar bien (tu árbol)"
+\ELANBegin 215.765
+\ELANEnd 216.865
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 215.765 216.865
+
+\ref 101
+\trs choishi
+\tx choishi
+\mb choishi
+\gn golpe.cabeza
+\ps ono.
+\ft lo hirió en la cabeza
+\ELANBegin 217.080
+\ELANEnd 217.820
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 217.080 217.820
+
+\ref 102
+\trs a bake ranonka
+\tx a   bake  ranonka
+\mb a   bake  ranon        =ka
+\gn ese niño muchacho(SK) =NAR
+\ps dem n.    n.           =clit.
+
+\ft ese joven
+\ELANBegin 219.330
+\ELANEnd 220.430
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 219.330 220.430
+
+\ref 103
+\trs mahohokoka
+\tx mahohokoka
+\mb maho  -hoko =ka
+\gn joven -DIM  =NAR
+\ps n.    -suf  =clit.
+
+\ft ese joven
+\ELANBegin 221.095
+\ELANEnd 221.765
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 221.095 221.765
+
+\ref 104
+\trs mahohokoki
+\tx mahohokoki
+\mb maho  -hoko =ki
+\gn joven -DIM  =INT
+\ps n.    -suf  =clit.
+
+\ft ese joven dice
+\ELANBegin 222.365
+\ELANEnd 223.025
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 222.365 223.025
+
+\ref 105
+\trs ointanpatsi
+\tx ointanpatsi
+\mb oin    -tan  -pats -i
+\gn ver    -ANDA -PROP -IMPF
+\ps v.ambi -suf. -suf. -suf.
+
+\ft voy a ver
+\ELANBegin 223.260
+\ELANEnd 223.860
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 223.260 223.860
+
+\ref 106
+\trs hanebo oparibanon hanebo oama
+\tx hanebo  oparibanon
+\mb hanebo  o     -pa   -riba     -non
+\gn chamán venir -FUT  -otra.vez -PROP
+\ps n.      v.    -suf. -suf.     -suf.
+
+\tx hanebo  o-a-ma
+\mb hanebo  o     -a    =ma
+\gn chamán venir -PERF =NEG
+\ps n.      v.    -suf. =clit.
+
+\ft "espera que vaya hanebo todavía", hanebo no ha venido
+\ELANBegin 224.775
+\ELANEnd 226.675
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 224.775 226.675
+
+\ref 107
+\trs ena oinresi kai iskara metsaka hain iskara metsakati
+\tx ena     oinresi                      kai
+\mb ena     oin    -res       -i         ka     -i
+\gn 1SG:ERG ver    -solamente -SUJ>S:SIM ir     -IMPF
+\ps pron.   v.ambi -suf.      -suf.      v.intr -suf.
+
+\tx iskara          metsaka hain
+\mb iska =ra        metsaka hain
+\gn así =EVID1(SK) creer   ahí(SK)
+\ps adv. =clit.     v.      adv.
+
+\tx iskara          metsaka-ti
+\mb iska =ra        metsaka -ti
+\gn así =EVID1(SK) creer   -NOMLZ
+\ps adv. =clit.     v.      -suf.
+
+\ft "yo voy ir a ver no más, yo creo que no es así"
+\ELANBegin 227.760
+\ELANEnd 230.080
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 227.760 230.080
+
+\ref 108
+\trs iparibanon oi
+\tx iparibanon                    o-i
+\mb i       -pa   -riba     -non  o     -i
+\gn lamento -FUT  -otra.vez -PROP venir -SUJ>S:SIM
+\ps inter,  -suf. -suf.     -suf. v.    -suf.
+
+\ft "anda cuando llegue (hanebo)"
+\ELANBegin 230.955
+\ELANEnd 231.605
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 230.955 231.605
+
+\ref 109
+\trs tsitseketere
+\tx tsitseketere
+\mb tsitseketere
+\gn disparar.plumas.cola
+\ps ono
+
+\ft "disparo mis plumas de la cola"
+\ELANBegin 234.930
+\ELANEnd 235.800
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 234.930 235.800
+
+\ref 110
+\trs nibori
+\tx nibori
+\mb ni     -bo   =ri
+\gn lanzar -PLU  =CON
+\ps v.     -suf. =clit
+
+\ft muchas (flechas como lluvia)
+\ELANBegin 236.110
+\ELANEnd 236.890
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 236.110 236.890
+
+\ref 111
+\trs tsoats
+\tx tsoats
+\mb tsoats
+\gn lanzar
+\ps ono
+
+\ft disparó sus flechas
+\ELANBegin 237.080
+\ELANEnd 237.920
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 237.080 237.920
+
+\ref 112
+\trs mapo peh
+\tx mapo   peh
+\mb mapo   peh
+\gn cabeza sonido.golpe
+\ps n.     ono
+
+\ft le lanzó a la cara peh
+\ELANBegin 238.135
+\ELANEnd 238.875
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 238.135 238.875
+
+\ref 113
+\trs mapo peh
+\tx mapo   peh
+\mb mapo   peh
+\gn cabeza sonido.golpe
+\ps n.     ono
+
+\ft le lanzó a la cabeza peh
+\ELANBegin 239.065
+\ELANEnd 239.505
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 239.065 239.505
+
+\ref 114
+\trs mahkai peh
+\tx mahkai       peh
+\mb mahka  -i    peh
+\gn muerto -IMPF sonido.golpe
+\ps adj.   -suf. ono
+
+\ft se murió peh
+\ELANBegin 239.520
+\ELANEnd 240.320
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 239.520 240.320
+
+\ref 115
+\trs mahkai
+\tx mahkai
+\mb mahka  -i
+\gn muerto -IMPF
+\ps adj.   -suf.
+
+\ft se murió
+\ELANBegin 240.900
+\ELANEnd 241.420
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 240.900 241.420
+
+\ref 116
+\trs ma retea
+\tx ma  retea
+\mb ma  rete      -a
+\gn ya  matar(SK) -PERF
+\ps adv v.        -suf.
+
+\ft ya lo mató
+\ELANBegin 242.595
+\ELANEnd 243.115
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 242.595 243.115
+
+\ref 117
+\trs ma retea
+\tx ma  retea
+\mb ma  rete      -a
+\gn ya  matar(SK) -FACT(SK)
+\ps adv v.        -suf.
+
+\ft ya lo mató
+\ELANBegin 243.380
+\ELANEnd 243.920
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 243.380 243.920
+
+\ref 118
+\trs haneboki kamapari
+\tx haneboki       kamapari
+\mb hanebo  =ki    ka     -a    =ma    =pari
+\gn chamán =REP   ir     -PERF =NEG   =todavía
+\ps n.      =clit. v.intr -suf. =clit. =clit.
+
+\ft hanebo no se iba todavía
+\ELANBegin 245.325
+\ELANEnd 246.315
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 245.325 246.315
+
+\ref 119
+\trs ehe
+\tx ehe
+\mb ehe
+\gn semilla
+\ps n.
+
+\ft ajá
+\ELANBegin 246.505
+\ELANEnd 246.825
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 246.505 246.825
+
+\ref 120
+\trs yosi ikahbetin
+\tx yosi        ikahbetin
+\mb yosi        ik      -ah        -betin
+\gn anciano(SK) copula  -SUJ>S:SIM -por.que
+\ps n.          v.intr. -suf.      -suf.
+
+\ft porque era viejo
+\ELANBegin 247.230
+\ELANEnd 247.860
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 247.230 247.860
+
+\ref 121
+\trs ma iwahako
+\tx ma  iwahako
+\mb ma  iwa   -hoko
+\gn ya  viejo -DIM
+\ps adv adj.  -suf
+
+\ft ya (era) viejito
+\ELANBegin 248.420
+\ELANEnd 250.470
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 248.420 250.470
+
+\ref 122
+\trs ma iwahako ikah ka
+\tx ma  iwahako     ikah               ka
+\mb ma  iwa   -hoko ik      -ah        =ka
+\gn ya  viejo -DIM  copula  -SUJ>S:SIM =NAR
+\ps adv adj.  -suf  v.intr. -suf.      =clit.
+
+\ft ya (era) viejito, porque era viejito
+\ELANBegin 248.420
+\ELANEnd 250.470
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 248.420 250.470
+
+\ref 123
+\trs ma iwahako
+\tx ma  iwahako
+\mb ma  iwa   -hoko
+\gn ya  viejo -DIM
+\ps adv adj.  -suf
+
+\ft ya (era) viejito
+\ELANBegin 248.420
+\ELANEnd 250.470
+\ELANParticipant Isabel
+\sound JC.NC.IC-paucar.del.mani-2013.wav 248.420 250.470
+
+\ref 124
+\trs ain
+\tx ain
+\mb ain
+\gn entonces(MIX)
+\ps adv.
+
+\ft ahí mismo
+\ELANBegin 250.660
+\ELANEnd 251.280
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 250.660 251.280
+
+\ref 125
+\trs ain kaka
+\tx ain       kaka
+\mb ain       ka     -a    =ka
+\gn ahí(MIX) ir     -PERF =NAR
+\ps adv.      v.intr -suf. =clit.
+
+\ft ahí mismo iba yendo
+\ELANBegin 251.795
+\ELANEnd 252.135
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 251.795 252.135
+
+\ref 126
+\trs awen awin
+\tx awen    awin
+\mb awen    awin
+\gn 3SG:GEN esposa
+\ps pron    n.
+
+\ft con su esposa
+\ELANBegin 252.330
+\ELANEnd 253.020
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 252.330 253.020
+
+\ref 127
+\trs ainmahako ka ka kaini
+\tx ainmahako              ka     ka-kain-i
+\mb ain       =ma    -hoko ka     ka     -kain     -i
+\gn ahí(MIX) =NEG   -DIM  ir     ir     -AND:INTR -SUJ>S:SIM
+\ps adv.      =clit. -suf  v.intr v.intr -suf.     -suf.
+
+\ft despacito iba yendo ahí no más
+\ELANBegin 252.800
+\ELANEnd 253.910
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 252.800 253.910
+
+\ref 128
+\trs soko soko iki
+\tx soko          soko          iki
+\mb soko          soko          ik         -i
+\gn sonido.paucar sonido.paucar decir:INTR -IMPF
+\ps ono.          ono.          v.intr.    -suf.
+
+\ft estaba llorando
+\ELANBegin 256.210
+\ELANEnd 257.900
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 256.210 257.900
+
+\ref 129
+\trs awekesa
+\tx awekesa
+\mb awekesa
+\gn cómo
+\ps pal.int.
+
+\ft "¿cómo?"
+\ELANBegin 259.750
+\ELANEnd 260.240
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 259.750 260.240
+
+\ref 130
+\trs ma hohokani
+\tx ma  hoho-kan-i
+\mb ma  hoho   -kan  -i
+\gn ya  llorar -PLU  -IMPF
+\ps adv v.     -suj. -suf.
+
+\ft ya estaban llorando (porque había muerto el joven)
+\ELANBegin 260.240
+\ELANEnd 260.810
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 260.240 260.810
+
+\ref 131
+\trs moa hohokani ka
+\tx moa    hohokani               ka
+\mb moa    hoho   =ka    -ni      =ka
+\gn ya(SK) llorar =NAR   -PAS.REM =NAR
+\ps adv    v.     =clit. -suf     =clit.
+
+\ft ya estaban llorando
+\ELANBegin 260.970
+\ELANEnd 261.870
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 260.970 261.870
+
+\ref 132
+\trs isko tanameki  rakarewanke
+\tx isko   tanameki      rakarewanke
+\mb isko   taname =ki    raka  - rewan -ke
+\gn paucar al.pie =REP   echar - AUM   -PERF(SK)
+\ps n.     pos    =clit. v.    - suf.  -suf.
+
+\ft estaba bien tirando al pie del paucar
+\ELANBegin 262.755
+\ELANEnd 264.865
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 262.755 264.865
+
+\ref 133
+\trs ma mahka
+\tx ma  mahka
+\mb ma  mahka
+\gn ya  muerto
+\ps adv adj.
+
+\ft estaba muertos
+\ELANBegin 265.215
+\ELANEnd 265.905
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 265.215 265.905
+
+\ref 134
+\trs ma mahka
+\tx ma  mahka
+\mb ma  mahka
+\gn ya  muerto
+\ps adv adj.
+
+\ft estaba muertos
+\ELANBegin 265.945
+\ELANEnd 266.335
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 265.945 266.335
+
+\ref 135
+\trs iskon pianka
+\tx iskon         pianka
+\mb isko   =n     piank   -a
+\gn paucar =ERG   flechar -PERF
+\ps n.     =clit. v.tran  -suf.
+
+\ft el paucar les flecheó
+\ELANBegin 267.145
+\ELANEnd 267.765
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 267.145 267.765
+
+\ref 136
+\trs iskon pianka
+\tx iskon         pianka
+\mb isko   =n     piank   -a
+\gn paucar =ERG   flechar -PERF
+\ps n.     =clit. v.tran  -suf.
+
+\ft el paucar les flecheó
+\ELANBegin 268.070
+\ELANEnd 268.750
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 268.070 268.750
+
+\ref 137
+\trs tsitseketekai
+\tx tsitseketekai
+\mb tsitseketere         =kai
+\gn disparar.plumas.cola =RESO
+\ps ono                  =clit.
+
+\ft (el paucar les flecheó con sus plumas de la cola)
+\ELANBegin 269.115
+\ELANEnd 269.645
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 269.115 269.645
+
+\ref 138
+\trs ma reteke iskon reteai
+\tx ma  reteke               iskon
+\mb ma  rete      -ke        isko   =n
+\gn ya  matar(SK) -NOMLZ(SK) paucar =ERG
+\ps adv v.        -suf.      n.     =clit.
+
+\tx reteai
+\mb rete      -ai
+\gn matar(SK) -NOMLZ(SK)
+\ps v.        -suf.
+
+\ft ya estaban muertos, el paucar los había matado
+\ELANBegin 271.344
+\ELANEnd 273.474
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 271.344 273.474
+
+\ref 139
+\trs anka ea oyopani ka ea oyopani
+\tx anka               ea          o-yopan-i             ka     ea          o-yopan-i
+\mb a    =n     =ka    ea          o     -yopan    -i    =ka    ea          o     -yopan    -i
+\gn 3SG  =ERG   =NAR   1SG.ABS(SK) venir -todavía -IMPF =NAR   1SG.ABS(SK) venir -todavía -IMPF
+\ps pron =clit. =clit. pron.       v.    -suf.     -suf. =clit. pron.       v.    -suf.     -suf.
+
+\ft "él no me ha esperado, el no ha esperado"
+\ELANBegin 274.660
+\ELANEnd 276.750
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 274.660 276.750
+
+\ref 140
+\trs nekeriohma chani mawa micha
+\tx nekeriohma    chani       mawa       micha
+\mb nekeriohma    chani       mawa       micha
+\gn bien.travieso advertencia muerto(SK) feo
+\ps n.            n.          adj.       adj.
+
+\ft (era) malcriado, yo le avisé, (ahora) está bien muerto 
+\ELANBegin 277.170
+\ELANEnd 279.150
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 277.170 279.150
+
+\ref 141
+\trs yobeya chanchan iki tsitseketere
+\tx yobeya      chanchan iki    tsitseketere
+\mb yobeya      chanchan iki    tsitseketere
+\gn chamán(SK) hacer.ruido.uno disparar.plumas.cola
+\ps n.          v.              ono
+
+\ft el brujo hablaba mucho (y el paucar cantaba) "disparo las flechas de mi cola"
+\ELANBegin 284.090
+\ELANEnd 286.280
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 284.090 286.280
+
+\ref 142
+\trs ashpaketere
+\tx ashpaketere
+\mb ashpaketere
+\gn abrir.plumas.cola
+\ps ono
+
+\ft "disparo las flechas de mis alas"
+\ELANBegin 287.700
+\ELANEnd 289.010
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 287.700 289.010
+
+\ref 143
+\trs isko bewai
+\tx isko   bewai
+\mb isko   bewá  -i
+\gn paucar cantar -IMPF
+\ps n.     v.     -suf.
+
+\ft el paucar cantaba
+\ELANBegin 289.640
+\ELANEnd 290.440
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 289.640 290.440
+
+\ref 144
+\trs isko
+\tx isko
+\mb isko
+\gn paucar
+\ps n.
+
+\ft el paucar
+\ELANBegin 290.475
+\ELANEnd 291.105
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 290.475 291.105
+
+\ref 145
+\trs sinati
+\tx sinati
+\mb siná          -ti
+\gn molestarse(SK) -NOMLZ
+\ps v.             -suf.
+
+\ft estaba molesto
+\ELANBegin 291.235
+\ELANEnd 291.635
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 291.235 291.635
+
+\ref 146
+\trs sinati
+\tx sinati
+\mb siná          -ti
+\gn molestarse(SK) -NOMLZ
+\ps v.             -suf.
+
+\ft estaba molesto
+\ELANBegin 291.820
+\ELANEnd 292.360
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 291.820 292.360
+
+\ref 147
+\trs weneheko sinati
+\tx weneheko      sinati
+\mb wene    -hoko siná          -ti
+\gn rabioso -DIM  molestarse(SK) -NOMLZ
+\ps adj.    -suf  v.             -suf.
+
+\ft este estaba bien molesto
+\ELANBegin 292.415
+\ELANEnd 293.515
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 292.415 293.515
+
+\ref 148
+\trs a kayabo oini sinatai
+\tx a   kayabo
+\mb a   kayabo
+\gn ese pariente(SK)
+\ps dem n.
+
+\tx oin-i             sinat-ai
+\mb oin    -i         siná          -ai
+\gn ver    -SUJ>S:SIM molestarse(SK) -IMPF(SK)
+\ps v.ambi -suf.      v.             -suf.
+
+\ft cuando vio a esa gente se molestó
+\ELANBegin 293.160
+\ELANEnd 295.800
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 293.160 295.800
+
+\ref 149
+\trs haneboton
+\tx haneboton
+\mb hanebo  =n
+\gn chamán =ERG
+\ps n.      =clit.
+
+\ft hanebo
+\ELANBegin 301.535
+\ELANEnd 302.065
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 301.535 302.065
+
+\ref 150
+\trs haneboton
+\tx haneboton
+\mb hanebo  =n
+\gn chamán =ERG
+\ps n.      =clit.
+
+\ft hanebo
+\ELANBegin 302.235
+\ELANEnd 302.725
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 302.235 302.725
+
+\ref 151
+\trs xoanki
+\tx xoanki
+\mb xoank  -i
+\gn soplar -IMPF
+\ps v.     -suf.
+
+\ft soplaba
+\ELANBegin 303.080
+\ELANEnd 304.180
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 303.080 304.180
+
+\ref 152
+\trs xoanki
+\tx xoanki
+\mb xoank  -i
+\gn soplar -IMPF
+\ps v.     -suf.
+
+\ft soplaba
+\ELANBegin 303.775
+\ELANEnd 304.155
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 303.775 304.155
+
+\ref 153
+\trs xoanki
+\tx xoanki
+\mb xoank  -i
+\gn soplar -IMPF
+\ps v.     -suf.
+
+\ft sopla
+\ELANBegin 304.435
+\ELANEnd 304.955
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 304.435 304.955
+
+\ref 154
+\trs mia memani
+\tx mia         memani
+\mb mia         meman -i
+\gn 2SG.ABS(SK) pedir -IMPF
+\ps pron        v.    -suf.
+
+\ft "te pido"
+\ELANBegin 305.960
+\ELANEnd 306.550
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 305.960 306.550
+
+\ref 155
+\trs mia memani ea oa
+\tx mia         memani           ea          oa
+\mb mia         meman -i         ea          oa
+\gn 2SG.ABS(SK) pedir -SUJ>S:SIM 1SG.ABS(SK) ese
+\ps pron        v.    -suf.      pron.       dem.
+
+\ft "yo he venido a pedirte"
+\ELANBegin 307.280
+\ELANEnd 308.840
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 307.280 308.840
+
+\ref 156
+\trs ea awa aimatiri
+\tx ea    awa  aimatiri
+\mb eah   awa  ak      -i    =ma    -ti    =ri
+\gn 1SG:S qué hacer   -IMPF =NEG   -NOMLZ =CON
+\ps pron. int. v.tran. -suf. =clit. -suf.  =clit
+
+\ft "no me hagas nada"
+\ELANBegin 309.865
+\ELANEnd 310.645
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 309.865 310.945
+
+\ref 157
+\trs eah min yoa
+\tx ea          min            yoa
+\mb ea          mi      =n     yoa
+\gn 1SG.ABS(SK) 2SG:ABS =GEN   comida.vegetal
+\ps pron.       pron    =clit. n.
+
+\ft "yo (quiero) tu alimento"
+\ELANBegin 312.040
+\ELANEnd 312.910
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 312.040 312.910
+
+\ref 158
+\trs min heoh tama min heoh xeki
+\tx min            heoh tama     min
+\mb mi      =n     heoh tama     mi      =n
+\gn 2SG:ABS =GEN   especie.maní 2SG:ABS =GEN
+\ps pron    =clit. n.            pron    =clit.
+
+\tx heoh xeki
+\mb heoh xeki
+\gn especie.maíz
+\ps n.
+
+\ft "tu maní blanco, tu maiz blanco"
+\ELANBegin 313.660
+\ELANEnd 315.400
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 313.660 315.400
+
+\ref 159
+\trs oin-i ea oa
+\tx oin-i             ea          o-a
+\mb oin    -i         ea          o     -a
+\gn ver    -SUJ>S:SIM 1SG.ABS(SK) venir -PERF
+\ps v.ambi -suf.      pron.       v.    -suf.
+
+\ft "he venido a ver"
+\ELANBegin 315.830
+\ELANEnd 316.740
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 315.830 316.740
+
+\ref 160
+\trs ea awa aimatiri
+\tx ea          awa
+\mb ea          awa
+\gn 1SG.ABS(SK) qué
+\ps pron.       int.
+
+\tx aimatiri
+\mb ak      -i         =ma    -ti    =ri
+\gn hacer   -SUJ>S:SIM =NEG   -NOMLZ =CON
+\ps v.tran. -suf.      =clit. -suf.  =clit
+
+\ft "no me hagas nada"
+\ELANBegin 318.360
+\ELANEnd 318.930
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 318.360 318.930
+
+\ref 161
+\trs ea awa ayamati
+\tx ea          awa ayamati
+\mb ea          awa ak      -yama    -ti
+\gn 1SG.ABS(SK) quéhacer   -NEG(SK) -NOMLZ
+\ps pron.       int.v.tran. -suf.    -suf.
+
+\ft "no me hagas nada"
+\ELANBegin 318.850
+\ELANEnd 319.800
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 318.850 319.800
+
+\ref 162
+\trs ea awa ayamati soro soro ipaia
+\tx ea          awa  ayamati                 soro soro ipaia
+\mb ea          awa  ak      -yama    -ti    soro soro ik -pai  -a
+\gn 1SG.ABS(SK) qué hacer   -NEG(SK) -NOMLZ estar.manso  -DES  -FACT(SK)
+\ps pron.       int. v.tran. -suf.    -suf.  v.           -suf. -suf.
+\ft "no me hagas nada" (y el paucar) se quedó mansito
+\ELANBegin 319.970
+\ELANEnd 322.400
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 319.970 322.400
+
+\ref 163
+\trs rabé soro soro
+\tx rabé   soro      soro
+\mb rabé   soro      soro
+\gn dos(SK) tranquilo tranquilo
+\ps num.    ono.      ono.
+
+\ft el paucar y el brujo se quedaron mansitos
+\ELANBegin 322.880
+\ELANEnd 324.070
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 322.880 324.070
+
+\ref 164
+\trs ma notsia
+\tx ma  notsia
+\mb ma  notsi    -a
+\gn ya  calmarse -PERF
+\ps adv v.       -suf.
+
+\ft ya se ha calmado
+\ELANBegin 325.580
+\ELANEnd 326.370
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 325.580 326.370
+
+\ref 165
+\trs ma notsia
+\tx ma  notsia
+\mb ma  notsi    -a
+\gn ya  calmarse -PERF
+\ps adv v.       -suf.
+
+\ft ya se ha calmado
+\ELANBegin 326.800
+\ELANEnd 327.560
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 326.800 327.560
+
+\ref 166
+\trs ma kenpainroa
+\tx ma  kenpaniroa
+\mb ma  kenpan     -iro  -a
+\gn ya  querer(SK) -INTF -PERF
+\ps adv v.         -suf. -suf.
+
+\ft se calmaron
+\ELANBegin 327.910
+\ELANEnd 329.360
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 327.910 329.360
+
+\ref 167
+\trs kawe
+\tx kawe
+\mb ka     -we
+\gn ir     -IMP(SK)
+\ps v.intr -suf.
+
+\ft vamos
+\ELANBegin 330.990
+\ELANEnd 331.640
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 330.990 331.640
+
+\ref 168
+\trs nakesaki mearewan yamaketin
+\tx nakesaki
+\mb na   =kesa  =ki
+\gn este =COMP  =REP
+\ps dem. =clit. =clit.
+
+\tx mearewan         yamaketin
+\mb mea      - rewan 
+\gn frondoso - AUM   
+\ps adj.     - suf.
+
+\ft había ramas grandes como estas
+\ELANBegin 332.330
+\ELANEnd 333.830
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 332.330 333.830
+
+\ref 169
+\trs tama
+\tx tama
+\mb tama
+\gn maní
+\ps n.
+
+\ft maní
+\ELANBegin 334.495
+\ELANEnd 334.815
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 334.495 334.815
+
+\ref 170
+\trs tama natoti
+\tx tama  natoti
+\mb tama  natoti
+\gn maní varios(SK)
+\ps n.    adj.
+
+\ft maní como de este tamaño
+\ELANBegin 335.060
+\ELANEnd 336.020
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 335.060 336.020
+
+\ref 171
+\trs tama natoti nakesa eh eh ani manko akesa
+\tx tama  natoti     nakesa      eh    eh    ani        manko akesa
+\mb tama  natoti     na   =kesa  eh    eh    ani        manko a   =kesa
+\gn maní varios(SK) este =COMP  eh    eh    grande(SK) mango ese =COMP
+\ps n.    adj.       dem. =clit. intj. intj. adj.       n.    dem =clit.
+
+\ft maní como este, como este árbol grande de mango
+\ELANBegin 336.095
+\ELANEnd 339.345
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 336.095 339.345
+
+\ref 172
+\trs nakesa
+\tx nakesa
+\mb na   =kesa
+\gn este =COMP
+\ps dem. =clit.
+
+\ft como este
+\ELANBegin 336.385
+\ELANEnd 336.905
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 336.385 336.905
+
+\ref 173
+\trs manko nakesa
+\tx manko nakesa
+\mb manko na   =kesa
+\gn mango este =COMP
+\ps n.    dem. =clit.
+
+\ft como este mango
+\ELANBegin 337.450
+\ELANEnd 338.270
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 337.450 338.270
+
+\ref 174
+\trs isko na tepanibaina bakea
+\tx isko   na   te-pani-bain-a
+\mb isko   na   te-    pani   -bain       -a
+\gn paucar nido rama-  colgar -yendo:TRAN -NOMLZ
+\ps n.     n.   pref.- v.     -suf.       -suf.
+
+\tx bakea
+\mb bake  -a
+\gn cría -PERF
+\ps n.    -suf.
+
+\ft había muchos nidos de paucar colgados por todas partes, con crías
+\ELANBegin 342.365
+\ELANEnd 344.955
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 342.365 344.955
+
+\ref 175
+\trs bakea
+\tx bakea
+\mb bake  -a
+\gn cría -PERF
+\ps n.    -suf.
+
+\ft ya tenía cría
+\ELANBegin 346.185
+\ELANEnd 346.755
+\ELANParticipant Isabel
+\sound JC.NC.IC-paucar.del.mani-2013.wav 346.185 346.755
+
+\ref 176
+\trs ma bakea
+\tx ma  bakea
+\mb ma  bake  -a
+\gn ya  cría -PERF
+\ps adv n.    -suf.
+
+\ft ya tenía cría
+\ELANBegin 346.635
+\ELANEnd 347.115
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 346.635 347.115
+
+\ref 177
+\trs tabaranhakoi
+\tx tabaranhakoi
+\mb tabaran -hoko -i
+\gn quemar  -DIM  -IMPF
+\ps v.      -suf  -suf.
+
+\ft "yo voy a quemar (este árbol)" (dice el chamán)
+\ELANBegin 350.210
+\ELANEnd 350.930
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 350.210 350.930
+
+\ref 178
+\trs ashpaketere
+\tx ashpaketere
+\mb ashpaketere
+\gn abrir.plumas.cola
+\ps ono
+
+\ft "disparo mis plumas de las alas"
+\ELANBegin 351.735
+\ELANEnd 352.585
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 351.735 352.585
+
+\ref 179
+\trs ima imapari
+\tx ima      imapari
+\mb ima      ima      =pari
+\gn después después =todavía
+\ps adv.     adv.     =clit.
+
+\ft (el chamán) se quedó ahí todavía (esperando)
+\ELANBegin 353.795
+\ELANEnd 354.595
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 353.795 354.595
+
+\ref 180
+\trs tabaranhakoi
+\tx tabaranhakoi
+\mb tabaran -hoko -i
+\gn quemar  -DIM  -IMPF
+\ps v.      -suf  -suf.
+
+\ft "yo voy a quemar (este árbol)" dice el chamán
+\ELANBegin 356.230
+\ELANEnd 356.980
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 356.230 356.980
+
+\ref 181
+\trs tabaranhakoi ashpaketere
+\tx tabaranhakoi        ashpaketere
+\mb tabaran -hoko -i    ashpaketere
+\gn quemar  -DIM  -IMPF abrir.plumas.cola
+\ps v.      -suf  -suf. ono
+
+\ft "yo voy a quemar (este árbol)" dice el chamán, "disparo mis plumas de las alas"
+\ELANBegin 357.030
+\ELANEnd 358.030
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 357.030 358.030
+
+\ref 182
+\trs wetsis ketere
+\tx wetsis ketere
+\mb wetsis ketere
+\gn apagar onomatopeya.paucar
+\ps v.     ono.
+
+\ft "yo voy a apagar el fuego"
+\ELANBegin 358.285
+\ELANEnd 359.195
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 358.285 359.195
+
+\ref 183
+\trs wetsis ketere
+\tx wetsis ketere
+\mb wetsis ketere
+\gn apagar onomatopeya.paucar
+\ps v.     ono.
+
+\ft "yo voy a apagar (el fuego)"
+\ELANBegin 359.305
+\ELANEnd 360.115
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 359.305 360.115
+
+\ref 184
+\trs mia rerarahakoi choishi
+\tx mia         rerarahakoi              choishi
+\mb mia         rera   -anan -hoko -i    choishi
+\gn 2SG.ABS(SK) tumbar -MAL  -DIM  -IMPF golpe
+\ps pron        v.     -suf  -suf  -suf. ono.
+
+\ft "yo te voy a cortar bien, choishi"
+\ELANBegin 361.145
+\ELANEnd 362.545
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 361.145 362.545
+
+\ref 185
+\trs choishi
+\tx choishi
+\mb choishi
+\gn golpe
+\ps ono.
+
+\ft choisi (duro, rompete)
+\ELANBegin 362.800
+\ELANEnd 363.340
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 362.800 363.340
+
+\ref 186
+\trs choishi
+\tx choishi
+\mb choishi
+\gn golpe
+\ps ono.
+
+\ft choisi (duro, rompete)
+\ELANBegin 362.800
+\ELANEnd 363.340
+\ELANParticipant Isabel
+\sound JC.NC.IC-paucar.del.mani-2013.wav 362.800 363.340
+
+\ref 187
+\trs isko yoyoiki
+\tx isko   yoyoiki
+\mb isko   yoyoik     -i
+\gn paucar contar(SK) -IMPF
+\ps n.     v.         -suf.
+
+\ft el paucar decía
+\ELANBegin 365.915
+\ELANEnd 366.775
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 365.915 366.775
+
+\ref 188
+\trs mia koara
+\tx mia         koara
+\mb mia         koa    -anan
+\gn 2SG.ABS(SK) quemar -MAL
+\ps pron        v.     -suf
+
+\ft "yo te voy a quemar"
+\ELANBegin 367.770
+\ELANEnd 368.350
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 367.770 368.350
+
+\ref 189
+\trs wetsis ketere
+\tx wetsis ketere
+\mb wetsis ketere
+\gn apagar onomatopeya.paucar
+\ps v.     ono.
+
+\ft "yo voy a apagar el fuego"
+\ELANBegin 369.075
+\ELANEnd 369.805
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 369.075 369.805
+
+\ref 190
+\trs wetsis ketere
+\tx wetsis ketere
+\mb wetsis ketere
+\gn apagar onomatopeya.paucar
+\ps v.     ono.
+
+\ft "yo voy a apagar el fuego"
+\ELANBegin 369.930
+\ELANEnd 370.520
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 369.930 370.520
+
+\ref 191
+\trs koaitian wetsispai hena
+\tx koaitian                wetsispai          hena
+\mb koa    -i     -tian     wetsis -pai  -i    hena
+\gn quemar -NOMLZ -TEMP(SK) apagar -DES  -IMPF candela
+\ps v.     -suf.  -suf.     v.     -suf. -suf. n.
+
+\ft cuando quemó el chamán, el paucar quiere apagar el fuego"
+\ELANBegin 370.655
+\ELANEnd 371.815
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 370.655 371.815
+
+\ref 192
+\trs eh wetsisi kai
+\tx eh    wetsisi      kai
+\mb eh    wetsis -i    ka     -i
+\gn eh    apagar -IMPF ir     -IMPF
+\ps intj. v.     -suf. v.intr -suf.
+
+\ft ah, lo voy a apagar
+\ELANBegin 371.845
+\ELANEnd 373.095
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 371.845 373.095
+
+\ref 193
+\trs hena wetsisi kai
+\tx hena    wetsisi           kai
+\mb hena    wetsis -i         ka     -i
+\gn candela apagar -SUJ>S:SIM ir     -IMPF
+\ps n.      v.     -suf.      v.intr -suf.
+
+\ft apagaba el fuego
+\ELANBegin 374.060
+\ELANEnd 374.790
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 374.060 374.790
+
+\ref 194
+\trs hena wetsisi
+\tx hena    wetsisi
+\mb hena    wetsis -i
+\gn candela apagar -IMPF
+\ps n.      v.     -suf.
+
+\ft el fuego apagaba
+\ELANBegin 374.790
+\ELANEnd 375.380
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 374.790 375.380
+
+\ref 195
+\trs naki
+\tx naki
+\mb na   =ki
+\gn este =REP
+\ps dem. =clit.
+
+\ft este
+\ELANBegin 381.830
+\ELANEnd 382.350
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 381.830 382.350
+
+\ref 196
+\trs aweahon pitiki
+\tx aweahon    pitiki
+\mb aweahon    pi      -ti    =ki
+\gn cómo:TRAN comer   -NOMLZ =INT
+\ps pal.int    v.tran. -suf.  =clit.
+
+\ft "¿cómo se va a comer?"
+\ELANBegin 383.695
+\ELANEnd 384.735
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 383.695 384.735
+
+\ref 197
+\trs ma kai kenpan
+\tx ma  kai           kenpan
+\mb ma  ka     -i     kenpan         -a
+\gn ya  ir     -NOMLZ tranquilizarse -PERF
+\ps adv v.intr -suf.  v.             -suf.
+
+\ft ya está tranquilo
+\ELANBegin 386.160
+\ELANEnd 386.870
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 386.160 386.870
+
+\ref 198
+\trs ma kenpan
+\tx ma  kenpan
+\mb ma  kenpan         -a
+\gn ya  tranquilizarse -PERF
+\ps adv v.             -suf.
+
+\ft ya está tranquilo
+\ELANBegin 386.904
+\ELANEnd 387.633
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 386.904 387.633
+
+\ref 199
+\trs ma isko kenpan
+\tx ma  isko   kenpan
+\mb ma  isko   kenpan         -a
+\gn ya  paucar tranquilizarse -PERF
+\ps adv n.     v.             -suf.
+
+\ft ya está manso el paucar
+\ELANBegin 387.650
+\ELANEnd 388.540
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 387.650 388.540
+
+\ref 200
+\trs ma isko kenpan
+\tx ma  isko   kenpan
+\mb ma  isko   kenpan         -a
+\gn ya  paucar tranquilizarse -PERF
+\ps adv n.     v.             -suf.
+
+\ft ya está manso el paucar
+\ELANBegin 388.260
+\ELANEnd 389.100
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 388.260 389.100
+
+\ref 201
+\trs ehe
+\tx ehe
+\mb ehe
+\gn sí
+\ps intj.
+
+\ft ajá
+\ELANBegin 389.175
+\ELANEnd 389.575
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 389.175 389.575
+
+\ref 202
+\trs naki aweahon piti iki
+\tx naki        aweahon
+\mb na   =ki    aweahon
+\gn este =INT   cómo:TRAN
+\ps dem. =clit. pal.int
+
+\tx piti           iki
+\mb pi      -ti    ik      -i
+\gn comer   -NOMLZ copula  -IMPF
+\ps v.tran. -suf.  v.intr. -suf.
+
+\ft "¿cómo se va a comer este?"
+\ELANBegin 389.720
+\ELANEnd 390.560
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 389.720 390.560
+
+\ref 203
+\trs aweahon piti iki
+\tx aweahon    piti           iki
+\mb aweahon    pi      -ti    ik      -i
+\gn cómo:TRAN comer   -NOMLZ copula  -IMPF
+\ps pal.int    v.tran. -suf.  v.intr. -suf.
+
+\ft "¿cómo se va a comer?"
+\ELANBegin 390.687
+\ELANEnd 391.242
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 390.687 391.242
+
+\ref 204
+\trs mi minahon ka
+\tx mi      minahon                 ka
+\mb mi      miná        -hon       =ka
+\gn 2SG:ABS chicha.suave -SUJ>A:SIM =NAR
+\ps pron    n.           -suf.      =clit.
+
+\ft "tú haciendo chicha"
+\ELANBegin 396.245
+\ELANEnd 397.515
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 396.245 397.515
+
+\ref 205
+\trs mi minahon
+\tx mi      minahon
+\mb mi      miná        -hon
+\gn 2SG:ABS chicha.suave -SUJ>A:SIM
+\ps pron    n.           -suf.
+
+\ft "haciendo chicha"
+\ELANBegin 398.185
+\ELANEnd 399.005
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 398.185 399.005
+
+\ref 206
+\trs mi awin minamahon
+\tx mi      awin   minamahon
+\mb mi      awin   miná        -ma   -hon
+\gn 2SG:ABS esposa chicha.suave -CAUS -SUJ>A:SIM
+\ps pron    n.     n.           -suf. -suf.
+
+\ft "haciendole hacer a tu mujer chicha"
+\ELANBegin 400.000
+\ELANEnd 401.060
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 400.000 401.460
+
+\ref 207
+\trs nehpohon pitanwe
+\tx nehpohon          pitanwe
+\mb nehpo  -hon       pi      -tan  -we
+\gn verter -SUJ>A:SIM comer   -ANDA -IMP(SK)
+\ps v.     -suf.      v.tran. -suf. -suf.
+
+\ft "mezclandolo anda a comer"
+\ELANBegin 401.345
+\ELANEnd 402.375
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 401.345 402.375
+
+\ref 208
+\trs a tamabira rao
+\tx a   tamabira      rao
+\mb a   tama  =bira   rao
+\gn ese maní =nomás medicina
+\ps dem n.    =clit.  n.
+
+\ft ese maní también era medicina
+\ELANBegin 404.150
+\ELANEnd 405.020
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 404.150 405.020
+
+\ref 209
+\trs tamaki rao
+\tx tamaki       rao
+\mb tama  =ki    rao
+\gn maní =REP   medicina
+\ps n.    =clit. n.
+
+\ft ese maní también era medicina
+\ELANBegin 405.330
+\ELANEnd 406.120
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 405.330 406.120
+
+\ref 210
+\trs pitima
+\tx pitima
+\mb pi      -ti    =ma
+\gn comer   -NOMLZ =NEG
+\ps v.tran. -suf.  =clit.
+
+\ft no para comer
+\ELANBegin 406.440
+\ELANEnd 406.940
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 406.440 406.940
+
+\ref 211
+\trs reho pitima
+\tx reho  pitima
+\mb reho  pi      -ti    =ma
+\gn verde comer   -NOMLZ =NEG
+\ps adj.  v.tran. -suf.  =clit.
+
+\ft verde no se comía
+\ELANBegin 407.145
+\ELANEnd 407.825
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 407.145 407.825
+
+\ref 212
+\trs naki hawe tamaki
+\tx naki        hawe      tamaki
+\mb na   =ki    hawe      tama  =ki
+\gn este =INT   cuál(SK) maní =INT
+\ps dem. =clit. pal.int.  n.    =clit.
+
+\ft ¿este qué mani (es)?
+\ELANBegin 409.950
+\ELANEnd 410.840
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 409.950 410.840
+
+\ref 213
+\trs ara weshta tama iki
+\tx ara            weshta tama
+\mb a   =ra        weshta tama
+\gn ese =EVID1(SK) oscuro maní
+\ps dem =clit.     adj.   n.
+
+\tx iki
+\mb ik      -i
+\gn copula  -IMPF
+\ps v.intr. -suf.
+
+\ft ese el maní rojo
+\ELANBegin 411.280
+\ELANEnd 412.300
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 411.280 412.300
+
+\ref 214
+\trs weshta tama iki
+\tx weshta tama  iki
+\mb weshta tama  ik      -i
+\gn oscuro maní copula  -IMPF
+\ps adj.   n.    v.intr. -suf.
+
+\ft es maní rojo
+\ELANBegin 412.365
+\ELANEnd 413.265
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 412.365 413.265
+
+\ref 215
+\trs naka
+\tx naka
+\mb na   =ka
+\gn este =NAR
+\ps dem. =clit.
+
+\ft este
+\ELANBegin 413.805
+\ELANEnd 414.285
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 413.805 414.285
+
+\ref 216
+\trs heoh tama riki
+\tx heoh tama     riki
+\mb heoh tama     riki
+\gn especie.maní COP(SK)
+\ps n.            part.
+
+\ft es maní blanco
+\ELANBegin 415.120
+\ELANEnd 415.920
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 415.120 415.920
+
+\ref 217
+\trs heoh tama riki
+\tx heoh tama    riki
+\mb heoh tama    riki
+\gn maní blanco COP(SK)
+\ps n.           part.
+
+\ft es maní blanco
+\ELANBegin 415.930
+\ELANEnd 416.520
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 415.930 416.520
+
+\ref 218
+\trs naka
+\tx naka
+\mb na   =ka
+\gn este =NAR
+\ps dem. =clit.
+
+\ft este
+\ELANBegin 418.200
+\ELANEnd 418.690
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 418.200 418.690
+
+\ref 219
+\trs mankon tama
+\tx mankon tama
+\mb mankon tama
+\gn pelado maní
+\ps adj.   n.
+
+\ft maní pelacho
+\ELANBegin 419.000
+\ELANEnd 419.840
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 419.000 419.840
+
+\ref 220
+\trs ehe mankon tama
+\tx ehe   mankon tama
+\mb ehe   mankon tama
+\gn sí   pelado maní
+\ps intj. adj.   n.
+
+\ft ajá, maní pelacho
+\ELANBegin 422.355
+\ELANEnd 423.375
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 422.355 423.375
+
+\ref 221
+\trs witsaka iki
+\tx witsaka      iki
+\mb witsa =ka    ik      -i
+\gn otro  =NAR   copula  -IMPF
+\ps adj.  =clit. v.intr. -suf.
+
+\ft hay otro
+\ELANBegin 425.070
+\ELANEnd 425.650
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 425.070 425.650
+
+\ref 222
+\trs pachon pachonewan riki
+\tx pachon pachonewan   riki
+\mb pachon pachon -ewan riki
+\gn plano  plano  -AUM  COP(SK)
+\ps adj.   adj.   -suf. part.
+
+\ft es bien arrugadudito
+\ELANBegin 426.505
+\ELANEnd 427.395
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 426.505 427.395
+
+\ref 223
+\trs pachon pachonewan
+\tx pachon pachonewan
+\mb pachon pachon -ewan
+\gn plano  plano  -AUM
+\ps adj.   adj.   -suf.
+
+\ft arrugadito
+\ELANBegin 429.310
+\ELANEnd 429.910
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 429.310 429.910
+
+\ref 224
+\trs pachon heoh tama
+\tx pachon heoh tama
+\mb pachon heoh tama
+\gn plano  maní blanco
+\ps adj.   n.
+
+\ft maní blanco arrugadito
+\ELANBegin 429.985
+\ELANEnd 430.915
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 429.985 430.915
+
+\ref 225
+\trs heoh tama
+\tx heoh tama
+\mb heoh tama
+\gn maní blanco
+\ps n.
+
+\ft maní blanco
+\ELANBegin 431.165
+\ELANEnd 431.735
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 431.165 431.735
+
+\ref 226
+\trs heoh tama
+\tx heoh tama
+\mb heoh tama
+\gn maní blanco
+\ps n.
+
+\ft maní blanco
+\ELANBegin 431.765
+\ELANEnd 432.185
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 431.765 432.185
+
+\ref 227
+\trs mankon tama iki
+\tx mankon tama  iki
+\mb mankon tama  ik      -i
+\gn pelado maní copula  -IMPF
+\ps adj.   n.    v.intr. -suf.
+
+\ft hay maní pelacho (de cáscara lisa)
+\ELANBegin 437.040
+\ELANEnd 437.830
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 437.040 437.830
+
+\ref 228
+\trs mankon tama  iki
+\tx mankon tama  iki
+\mb mankon tama  ik      -i
+\gn pelado maní copula  -IMPF
+\ps adj.   n.    v.intr. -suf.
+
+\ft es maní de cáscara llanita
+\ELANBegin 438.000
+\ELANEnd 438.640
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 438.000 438.640
+
+\ref 229
+\trs mankon tama iki
+\tx mankon tama  iki
+\mb mankon tama  ik      -i
+\gn pelado maní copula  -IMPF
+\ps adj.   n.    v.intr. -suf.
+
+\ft es maní de cáscara llanita
+\ELANBegin 438.750
+\ELANEnd 439.450
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 438.750 439.450
+
+\ref 230
+\trs banatanwe
+\tx banatanwe
+\mb bana    -tan  -we
+\gn sembrar -ANDA -IMP(SK)
+\ps v.tran  -suf. -suf.
+
+\ft anda a sembrar
+\ELANBegin 442.205
+\ELANEnd 442.855
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 442.205 442.855
+
+\ref 231
+\trs bana
+\tx bana
+\mb bana    -a
+\gn sembrar -PERF
+\ps v.tran  -suf.
+
+\ft sembraron
+\ELANBegin 443.960
+\ELANEnd 444.540
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 443.960 444.540
+
+\ref 232
+\trs ocho kayamatanwe
+\tx ocho      kayamatanwe
+\mb ocho      ka     -yama    -tan  -we
+\gn lejos(SK) ir     -NEG(SK) -ANDA -IMP(SK)
+\ps adv.      v.intr -suf.    -suf. -suf.
+
+\ft pero no te vayas lejos
+\ELANBegin 445.595
+\ELANEnd 446.625
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 445.595 446.625
+
+\ref 233
+\trs chitoma kayamatanwe
+\tx chitoma kayamatanwe
+\mb chitoma ka     -yama    -tan  -we
+\gn lejos   ir     -NEG(SK) -ANDA -IMP(SK)
+\ps adv.    v.intr -suf.    -suf. -suf.
+
+\ft no te vayas lejos
+\ELANBegin 447.135
+\ELANEnd 448.065
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 447.135 448.065
+
+\ref 234
+\trs chitoma kayamatan
+\tx chitoma kayamatan
+\mb chitoma ka     -yama    -tan
+\gn lejos   ir     -NEG(SK) -ANDA
+\ps adv.    v.intr -suf.    -suf.
+
+\ft no te vayas lejos
+\ELANBegin 447.985
+\ELANEnd 448.975
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 447.985 448.975
+
+\ref 235
+\trs rakatinan pania
+\tx rakatinan     pania
+\mb rakati =n     pani   -a
+\gn hamaca =INST  colgar -PERF
+\ps n.     =clit. v.     -suf.
+
+\ft estaba colgado en una hamaca
+\ELANBegin 449.405
+\ELANEnd 450.995
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 449.405 450.995
+
+\ref 236
+\trs aribahon pa ahon
+\tx aribahon
+\mb ak      -riba     -hon
+\gn hacer   -otra.vez -SUJ>A:SIM
+\ps v.tran. -suf.     -suf.
+
+\tx pa                ahon
+\mb pa ak  -hon
+\gn tostar -SUJ>A:SIM
+\ps v.     -suf.
+
+\ft haciendo otra vez calentó en la candela (el maní)
+\ELANBegin 452.358
+\ELANEnd 454.236
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 452.358 454.236
+
+\ref 237
+\trs tawaka non aka tawa ahako mekohkain wio katan katanti
+\tx tawaka      non         aka                tawa
+\mb tawa =ka    no   =n     ak          -a     tawa
+\gn pona =NAR   1PL  =ERG   decir(TRAN) -NOMLZ pona
+\ps n.   =clit. pron =clit. v.tran.     -suf.  n.
+
+\tx ahako     mekohkain
+\mb a   -hoko mekoh  -kain
+\gn ese -DIM  clavar -AND:INTR
+\ps dem -suf  v.     -suf.
+
+\tx wio katan katanti
+\mb wio katan katan -ti
+\gn mecerse         -NOMLZ
+\ps v.              -suf.
+
+\ft prendiendo un palo de isana en el suelo empezó a mecerse
+\ELANBegin 454.640
+\ELANEnd 459.270
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 454.640 459.270
+
+\ref 238
+\trs wio ika wiobi
+\tx wio     ik-a           wiobi
+\mb wio     ik      -a     wio     =bi
+\gn mecerse copula  -NOMLZ mecerse =ENF
+\ps v.      v.intr. -suf.  v.      =clit.
+
+\ft se mecía
+\ELANBegin 460.195
+\ELANEnd 462.405
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 460.195 462.405
+
+\ref 239
+\trs eh
+\tx eh
+\mb eh
+\gn eh
+\ps intj.
+
+\ft ajá
+\ELANBegin 461.370
+\ELANEnd 461.730
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 461.370 461.730
+
+\ref 240
+\trs botoama
+\tx botoama
+\mb boto  -a    =ma
+\gn bajar -PERF =NEG
+\ps v.    -suf. =clit.
+
+\ft no bajó
+\ELANBegin 462.845
+\ELANEnd 463.545
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 462.845 463.545
+
+\ref 241
+\trs botoama a tama bana
+\tx botoama            a   tama  bana
+\mb boto  -a    =ma    a   tama  bana    -a
+\gn bajar -PERF =NEG   ese maní sembrar -NOMLZ
+\ps v.    -suf. =clit. dem n.    v.tran  -suf.
+
+\ft no bajó de ese palo después de sembrar el maíz
+\ELANBegin 464.070
+\ELANEnd 465.320
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 464.070 465.320
+
+\ref 242
+\trs tama bana
+\tx tama  bana
+\mb tama  bana    -a
+\gn maní sembrar -PERF
+\ps n.    v.tran  -suf.
+
+\ft después de sembrar el maiz
+\ELANBegin 465.450
+\ELANEnd 466.080
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 465.450 466.080
+
+\ref 243
+\trs katima
+\tx katima
+\mb ka     -ti    =ma
+\gn ir     -NOMLZ =NEG
+\ps v.intr -suf.  =clit.
+
+\ft no era para que se vaya
+\ELANBegin 466.880
+\ELANEnd 467.400
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 466.880 467.400
+
+\ref 244
+\trs hatian
+\tx hatian
+\mb hatian
+\gn entonces(SK)
+\ps conec.
+
+\ft entonces
+\ELANBegin 471.090
+\ELANEnd 471.680
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 471.090 471.680
+
+\ref 245
+\trs naya
+\tx naya
+\mb naya
+\gn tía.de.la.mujer
+\ps n.
+
+\ft tía
+\ELANBegin 472.560
+\ELANEnd 473.000
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 472.560 473.000
+
+\ref 246
+\trs hatian aweraton ka iki mia kena akinkin ayamaniki
+\tx hatian       aweraton ka     iki
+\mb hatian       aweraton =ka    ik      -i
+\gn entonces(SK) cuál    =NAR   copula  -IMPF
+\ps conec.       pal.int  =clit. v.intr. -suf.
+
+\tx mia         kena   akinkin
+\mb mia         kena   ak          -kin  -kin
+\gn 2SG.ABS(SK) llamar decir(TRAN) -ASOC -SUJ>A:SIM
+\ps pron        v.     v.tran.     -suf. -suf.
+
+\tx ayamaniki
+\mb ak          -yama    -ni      =ki
+\gn decir(TRAN) -NEG(SK) -PAS.REM =INT
+\ps v.tran.     -suf.    -suf     =clit.
+
+\ft entonces, ¿"a que tribu perteneces", no le había preguntado el paucar?
+\ELANBegin 474.300
+\ELANEnd 477.830
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 474.300 477.830
+
+\ref 247
+\trs a isko kena
+\tx a   isko   kena
+\mb a   isko   kena
+\gn ese paucar llamar
+\ps dem n.     v.
+
+\ft yo pertenezco al paucar
+\ELANBegin 479.080
+\ELANEnd 481.180
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 479.080 481.180
+
+\ref 248
+\trs tamaki kena ati yoipakeyamaniki iskon
+\tx tamaki       kena   ati
+\mb tama  =ki    kena   ak          -ti
+\gn maní =INT   llamar decir(TRAN) -NOMLZ
+\ps n.    =clit. v.     v.tran.     -suf.
+
+\tx yoipakeyamaniki
+\mb yoi     -pake          -yama    -ni      =ki
+\gn contar  -completamente -NEG(SK) -PAS.REM =INT
+\ps v.tran. -suf.          -suf.    -suf     =clit.
+
+\tx iskon
+\mb isko   =n
+\gn paucar =GEN
+\ps n.     =clit.
+
+\ft ¿el paucar no le había dicho ¿no eres del maní??
+\ELANBegin 481.770
+\ELANEnd 484.580
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 481.770 484.580
+
+\ref 249
+\trs ajá
+\tx ajá
+\mb ajá
+\gn ajá
+\ps inter.
+
+\ft ajá
+\ELANBegin 482.600
+\ELANEnd 482.990
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 482.600 482.990
+
+\ref 250
+\trs tawa isko iki
+\tx tawa isko   iki
+\mb tawa isko   ik      -i
+\gn pona paucar copula  -IMPF
+\ps n.   n.     v.intr. -suf.
+
+\ft yo soy del pueblo del paucar del maní
+\ELANBegin 488.780
+\ELANEnd 489.790
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 488.780 489.790
+
+\ref 251
+\trs eah tawa isko iki
+\tx eah   tawa isko   iki
+\mb eah   tawa isko   ik      -i
+\gn 1SG:S pona paucar copula  -IMPF
+\ps pron. n.   n.     v.intr. -suf.
+
+\ft yo soy del pueblo del paucar de altura
+\ELANBegin 489.910
+\ELANEnd 490.560
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 489.910 490.560
+
+\ref 252
+\trs tawa isko iki
+\tx tawa isko   iki
+\mb tawa isko   ik         -i
+\gn pona paucar decir:INTR -IMPF
+\ps n.   n.     v.intr.    -suf.
+
+\ft soy del pueblo del paucar de altura
+\ELANBegin 490.640
+\ELANEnd 491.380
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 490.640 491.380
+
+\ref 253
+\trs ehe
+\tx ehe
+\mb ehe
+\gn sí
+\ps intj.
+
+\ft ajá
+\ELANBegin 491.695
+\ELANEnd 491.995
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 491.695 491.995
+
+\ref 254
+\trs haweraton isko iki eara eara
+\tx haweraton isko   iki           eara                   eara
+\mb haweraton isko   ik      -i    ea          =ra        ea          =ra
+\gn cuál(SK) paucar copula  -IMPF 1SG.ABS(SK) =EVID1(SK) 1SG.ABS(SK) =EVID1(SK)
+\ps pal.int.  n.     v.intr. -suf. pron.       =clit.     pron.       =clit.
+
+\ft ¿cuál paucar eres? yo...
+\ELANBegin 494.200
+\ELANEnd 496.970
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 494.200 496.970
+
+\ref 255
+\trs a riki bokonewanki ka
+\tx a   riki    bokonewanki         ka
+\mb a   riki    bokon  -ewan =ki    =ka
+\gn ese COP(SK) cetico -AUM  =INT   =NAR
+\ps dem part.   n.     -suf. =clit. =clit.
+
+\ft (el paucar) estaba en un cetico muy grande
+\ELANBegin 497.950
+\ELANEnd 499.410
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 497.950 499.410
+
+\ref 256
+\trs a kenaki bokonewanribiki bake aka tawa isko bake akupi ewen papa aon kena aki
+\tx a   kenaki        bokonewanribiki
+\mb a   kena   =ki    bokon  -ewan =ribi     =ki
+\gn ese llamar =INT   cetico -AUM  =también =INT
+\ps dem v.     =clit. n.     -suf. =clit.    =clit.
+
+\tx bake  aka            tawa isko   bake  akupí
+\mb bake  ak      -a     tawa isko   bake  akupí
+\gn niño hacer   -NOMLZ pona paucar cría por.eso
+\ps n.    v.tran. -suf.  n.   n.     n.    conec.
+
+\tx ewen    papa      aon kenaki
+\mb ewen    papa      aon kenaki
+\gn 1SG:GEN papá(SK) nombre.grupo
+\ps pron.   n.        n.
+
+\ft mi papá pertenece a ese cetico grande, es hijo del paucar de alturas, de él ha recibido su nombre
+\ELANBegin 499.680
+\ELANEnd 505.850
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 499.680 505.850
+
+\ref 257
+\trs ahá
+\tx ahá
+\mb ahá
+\gn ajá
+\ps intj.
+
+\ft ajá
+\ELANBegin 503.285
+\ELANEnd 503.645
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 503.285 503.645
+
+\ref 258
+\trs tawa isko
+\tx tawa isko
+\mb tawa isko
+\gn pona paucar
+\ps n.   n.
+
+\ft el pueblo del paucar de la altura
+\ELANBegin 505.950
+\ELANEnd 506.560
+\ELANParticipant Nelita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 505.950 506.560
+
+\ref 259
+\trs tawa isko
+\tx tawa isko
+\mb tawa isko
+\gn pona paucar
+\ps n.   n.
+
+\ft el pueblo del paucar de la altura
+\ELANBegin 505.950
+\ELANEnd 506.560
+\ELANParticipant Isabel
+\sound JC.NC.IC-paucar.del.mani-2013.wav 505.950 506.560
+
+\ref 260
+\trs tawa isko
+\tx tawa isko
+\mb tawa isko
+\gn pona paucar
+\ps n.   n.
+
+\ft el pueblo del paucar de la altura
+\ELANBegin 506.640
+\ELANEnd 507.270
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 506.640 507.270
+
+\ref 261
+\trs kenakoina tawa isko nawa isko
+\tx kena-koin-a              tawa isko   nawa         isko
+\mb kena   =koin      -a     tawa isko   nawa         isko
+\gn llamar =verdadero -NOMLZ pona paucar no.indígena paucar
+\ps v.     =clit.     -suf.  n.   n.     n.           n.
+
+\ft yo soy legítima del pueblo del paucar del maní y de las alturas
+\ELANBegin 523.330
+\ELANEnd 525.370
+\ELANParticipant Juanita
+\sound JC.NC.IC-paucar.del.mani-2013.wav 523.330 525.370
+
+
+\ELANMediaURL file:///D:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC.NC.IC-paucar.del.mani-2013.wav
+\ELANMediaMIME video/mpeg
+\ELANMediaURL file:///D:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC.NC.IC-paucar.del.mani-2013.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaExtracted file:///D:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC.NC.IC-paucar.del.mani-2013.wav

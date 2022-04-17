@@ -1,0 +1,481 @@
+\_sh v3.0  400  text
+
+\ref 001
+\ELANBegin 3.220
+\ELANEnd 4.660
+\ELANParticipant Roberto
+\trs bueno vamos a empezar a grabar
+\tx bueno vamos a empezar a grabar
+\ft bueno vamos a empezar a grabar
+\sound IC-narracion.vida-2013.wav 3.220 4.660
+
+\ref 002
+\ELANBegin 5.490
+\ELANEnd 9.410
+\ELANParticipant Roberto
+\trs hoy día es veintiseis de enero del dos mil doce
+\tx hoy día es veintiseis de enero del dos mil doce
+\ft hoy día es veintiseis de enero del dos mil doce
+\sound IC-narracion.vida-2013.wav 5.490 9.410
+
+\ref 003
+\ELANBegin 9.860
+\ELANEnd 12.210
+\ELANParticipant Roberto
+\trs estamos con la señora Isabel
+\tx estamos con la señora Isabel
+\ft estamos con la señora Isabel
+\sound IC-narracion.vida-2013.wav 9.860 12.210
+
+\ref 004
+\ELANBegin 12.790
+\ELANEnd 17.300
+\ELANParticipant Roberto
+\trs que nos va a contar de cómo preparaba comida
+\tx que nos va a contar de cómo preparaba comida
+\ft que nos va a contar de cómo preparaba comida
+\sound IC-narracion.vida-2013.wav 12.790 17.300
+
+\ref 005
+\ELANBegin 18.150
+\ELANEnd 21.210
+\ELANParticipant Roberto
+\trs los antiguos ¿cierto? los antiguos iskonawas
+\tx los antiguos ¿cierto? los antiguos iskonawas
+\ft los antiguos ¿cierto? los antiguos iskonawas
+\sound IC-narracion.vida-2013.wav 18.150 21.210
+
+\ref 006
+\ELANBegin 22.580
+\ELANEnd 24.370
+\ELANParticipant Roberto
+\trs entonces ya puedes empezar isabel
+\tx entonces ya puedes empezar isabel
+\ft entonces ya puedes empezar isabel
+\sound IC-narracion.vida-2013.wav 22.580 24.370
+
+\ref 007
+\ELANBegin 23.980
+\ELANEnd 24.530
+\ELANParticipant Isabel
+\trs ya
+\tx ya
+\ft ya
+\sound IC-narracion.vida-2013.wav 23.980 24.530
+
+\ref 008
+\ELANBegin 29.330
+\ELANEnd 31.050
+\ELANParticipant Isabel
+\trs nanehonka pimis
+\tx nanehonka                pimis
+\mb nanui  -hon       =ka    pi      -mis
+\gn ahumar -SUJ>A:SIM =NAR   comer   -PAS.HAB.
+\ps v.     -suf.      =clit. v.tran. -suf.
+
+\ft ahumando comíamos
+\sound IC-narracion.vida-2013.wav 29.330 31.050
+
+\ref 009
+\ELANBegin 31.695
+\ELANEnd 32.695
+\ELANParticipant Isabel
+\trs nanehon
+\tx nanehon
+\mb nanui  -hon
+\gn ahumar -SUJ>A:SIM
+\ps v.     -suf.
+
+\ft ahumando
+\sound IC-narracion.vida-2013.wav 31.695 32.695
+
+\ref 010
+\ELANBegin 34.580
+\ELANEnd 35.850
+\ELANParticipant Isabel
+\trs yawa nanehon
+\tx yawa     nanehon
+\mb yawa     nanui  -hon
+\gn huangana ahumar -SUJ>A:SIM
+\ps n.       v.     -suf.
+
+\ft ahumando huangana
+\sound IC-narracion.vida-2013.wav 34.580 35.850
+
+\ref 011
+\ELANBegin 37.000
+\ELANEnd 38.320
+\ELANParticipant Isabel
+\trs atsa hoaia
+\tx atsa hoaia
+\mb atsa hoai                  -a
+\gn yuca cocinar.vegetales(SK) -FACT(SK)
+\ps n.   v.                    -suf.
+
+\ft cocinábamos yuca
+\sound IC-narracion.vida-2013.wav 37.000 38.320
+
+\ref 012
+\ELANBegin 39.515
+\ELANEnd 41.810
+\ELANParticipant Isabel
+\trs atsa bobaya kai atsa bobaya
+\tx atsa bobaya        kai           atsa bobaya
+\mb atsa boba   =ya    ka     -i     atsa boba   =ya
+\gn yuca coposo =PROP  ir     -NOMLZ yuca coposo =PROP
+\ps n.   adj.   =clit. v.intr -suf.  n.   adj.   =clit.
+
+\ft yuca cocinada, yuca cocinada
+\sound IC-narracion.vida-2013.wav 39.515 41.810
+
+\ref 013
+\ELANBegin 42.967
+\ELANEnd 44.010
+\ELANParticipant Isabel
+\trs pimis non
+\tx pimis             non
+\mb pi      -mis      no   =n
+\gn comer   -PAS.HAB. 1PL  =ERG
+\ps v.tran. -suf.     pron =clit.
+
+\ft nosotros comíamos
+\sound IC-narracion.vida-2013.wav 42.967 44.010
+
+\ref 014
+\ELANBegin 45.900
+\ELANEnd 48.540
+\ELANParticipant Isabel
+\trs iso yonahonribi pimis non
+\tx iso       yonahonribi                        pimis             non
+\mb iso       yoi     -anan -hon       =ribi     pi      -mis      no   =n
+\gn maquisapa contar  -MAL  -SUJ>A:SIM =también comer   -PAS.HAB. 1PL  =ERG
+\ps n.        v.tran. -suf  -suf.      =clit.    v.tran. -suf.     pron =clit.
+
+\ft también ahumando maquisapa, nosotros comíamos
+\sound IC-narracion.vida-2013.wav 45.900 48.540
+
+\ref 015
+\ELANBegin 50.700
+\ELANEnd 51.870
+\ELANParticipant Isabel
+\trs misi ahon
+\tx misi   ahon
+\mb misi   ak      -hon
+\gn humita hacer   -SUJ>A:SIM
+\ps n.     v.tran. -suf.
+
+\ft haciendo humitas
+\sound IC-narracion.vida-2013.wav 50.700 51.870
+
+\ref 016
+\ELANBegin 54.040
+\ELANEnd 56.670
+\ELANParticipant Isabel
+\trs misi ahon misi bobahon non pimis
+\tx misi   ahon               misi   bobahon            non         pimis
+\mb misi   ak      -hon       misi   bobai   -hon       no   =n     pi      -mis
+\gn humita hacer   -SUJ>A:SIM humita cocinar -SUJ>A:SIM 1PL  =ERG   comer   -PAS.HAB.
+\ps n.     v.tran. -suf.      n.     v.      -suf.      pron =clit. v.tran. -suf.
+
+\ft cocinando humitas, cocinando humitas, nosotros comíamos
+\sound IC-narracion.vida-2013.wav 54.040 56.670
+
+\ref 017
+\ELANBegin 59.200
+\ELANEnd 60.140
+\ELANParticipant Isabel
+\trs ansi
+\tx ansi
+\mb ansi
+\gn paujil
+\ps n.
+
+\ft paujil
+\sound IC-narracion.vida-2013.wav 59.200 60.140
+
+\ref 018
+\ELANBegin 60.755
+\ELANEnd 62.495
+\ELANParticipant Isabel
+\trs abo non pimis yonahon
+\tx abo       non         pimis             yonahon
+\mb a   =bo   no   =n     pi      -mis      yoi     -anan -hon
+\gn ese =PLU  1PL  =ERG   comer   -PAS.HAB. contar  -MAL  -SUJ>A:SIM
+\ps dem =clit pron =clit. v.tran. -suf.     v.tran. -suf  -suf.
+
+\ft esos nosotros comíamos ahumando
+\sound IC-narracion.vida-2013.wav 60.755 62.495
+
+\ref 019
+\ELANBegin 63.380
+\ELANEnd 66.410
+\ELANParticipant Isabel
+\trs kobin akanma yonahonres este nanehon
+\tx kobin   akanma              yonahonres                          este       nanehon
+\mb kobin   ak      -kan  -ma   yoi     -anan -hon       -res       este       nane    -hon
+\gn hervir  hacer   -PLU  -CAUS contar  -MAL  -SUJ>A:SIM -solamente este       hermana -SUJ>A:SIM
+\ps v.ambi. v.tran. -suj. -suf. v.tran. -suf  -suf.      -suf.      muletilla. n.      -suf.
+
+\ft no cocinábamos, solo ahumando, solo ahumando
+\sound IC-narracion.vida-2013.wav 63.380 66.410
+
+\ref 020
+\ELANBegin 71.550
+\ELANEnd 74.390
+\ELANParticipant Isabel
+\trs nanehon no pimis poa bobahon
+\tx nanehon            no   pimis             poa
+\mb nane    -hon       no   pi      -mis
+\gn hermana -SUJ>A:SIM 1PL  comer   -PAS.HAB.
+\ps n.      -suf.      pron v.tran. -suf.
+
+\tx bobahon
+\mb bobai   -hon
+\gn cocinar -SUJ>A:SIM
+\ps v.      -suf.
+
+\ft ahumando nosotros comíamos, cocinando sachapapa
+\sound IC-narracion.vida-2013.wav 71.550 74.390
+
+\ref 021
+\ELANBegin 75.415
+\ELANEnd 76.725
+\ELANParticipant Isabel
+\trs atsa bobahon
+\tx atsa bobahon
+\mb atsa bobai   -hon
+\gn yuca cocinar -SUJ>A:SIM
+\ps n.   v.      -suf.
+
+\ft cocinando yuca
+\sound IC-narracion.vida-2013.wav 75.415 76.725
+
+\ref 022
+\ELANBegin 77.720
+\ELANEnd 78.770
+\ELANParticipant Isabel
+\trs piti nami
+\tx piti           nami
+\mb pi      -ti    nami
+\gn comer   -NOMLZ carne
+\ps v.tran. -suf.  n.
+
+\ft carne para comer (para comer carne?)
+\sound IC-narracion.vida-2013.wav 77.720 78.770
+
+\ref 023
+\ELANBegin 79.395
+\ELANEnd 81.455
+\ELANParticipant Isabel
+\trs piti nami non pimis yonahon
+\tx piti           nami  non         pimis
+\mb pi      -ti    nami  no   =n     pi      -mis
+\gn comer   -NOMLZ carne 1PL  =ERG   comer   -PAS.HAB.
+\ps v.tran. -suf.  n.    pron =clit. v.tran. -suf.
+
+\tx yonahon
+\mb yoi     -anan -hon
+\gn contar  -MAL  -SUJ>A:SIM
+\ps v.tran. -suf  -suf.
+
+\ft carne para comer nosotros comíamos ahumando
+\sound IC-narracion.vida-2013.wav 79.395 81.455
+
+\ref 024
+\ELANBegin 83.900
+\ELANEnd 85.460
+\ELANParticipant Isabel
+\trs choran kawahonbo
+\tx choran     kawahonbo
+\mb choran     kawa             -hon       -bo
+\gn sapo.hualo hacer.patarashca -SUJ>A:SIM -PLU
+\ps n.         n.               -suf.      -suf.
+
+\ft haciendo patarashca de sapo hualo
+\sound IC-narracion.vida-2013.wav 83.900 85.460
+
+\ref 025
+\ELANBegin 85.980
+\ELANEnd 87.620
+\ELANParticipant Isabel
+\trs habo non pimis imahon
+\tx habo          non         pimis
+\mb ha      =bo   no   =n     pi      -mis
+\gn ese(SK) =PLU  1PL  =ERG   comer   -PAS.HAB.
+\ps dem     =clit pron =clit. v.tran. -suf.
+
+\tx imahon
+\mb imai                   -hon
+\gn cocinar en la parrilla -SUJ>A:SIM
+\ps v.                     -suf.
+
+\ft esas cosas comíamos nosotros cocinando en la parrilla
+\sound IC-narracion.vida-2013.wav 85.980 87.620
+
+\ref 026
+\ELANBegin 93.250
+\ELANEnd 95.610
+\ELANParticipant Isabel
+\trs awá retehon non yonahon pimis
+\tx awá      retehon              non         yonahon                  pimis
+\mb awá      rete      -hon       no   =n     yoi     -anan -hon       pi      -mis
+\gn sachavaca matar(SK) -SUJ>A:SIM 1PL  =ERG   contar  -MAL  -SUJ>A:SIM comer   -PAS.HAB.
+\ps n.        v.        -suf.      pron =clit. v.tran. -suf  -suf.      v.tran. -suf.
+
+\ft matando sachavaca, ahumando nosotros comíamos
+\sound IC-narracion.vida-2013.wav 93.250 95.610
+
+\ref 027
+\ELANBegin 102.185
+\ELANEnd 104.425
+\ELANParticipant Roberto
+\trs ¿Ya? ¿Y qué has contado, Isabel?
+\tx ¿Ya?   ¿Y qué has contado, Isabel?
+\mb ya
+\gn ya(CAS)
+\ps adv
+
+\ft ¿Ya? ¿Y qué has contado, Isabel?
+\sound IC-narracion.vida-2013.wav 102.185 104.425
+
+\ref 028
+\ELANBegin 104.490
+\ELANEnd 106.220
+\ELANParticipant Roberto
+\trs ¿Podrías decirnos en español?
+\tx ¿Podrías decirnos en español?
+\ft ¿Podrías decirnos en español?
+\sound IC-narracion.vida-2013.wav 104.490 106.220
+
+\ref 029
+\ELANBegin 106.290
+\ELANEnd 111.380
+\ELANParticipant Isabel
+\trs Yo he contado lo que hacía mi antiguo iskonawa
+\tx Yo he contado lo que hacía mi antiguo iskonawa
+\ft Yo he contado lo que hacía mi antiguo iskonawa
+\sound IC-narracion.vida-2013.wav 106.290 111.380
+
+\ref 030
+\ELANBegin 111.570
+\ELANEnd 112.490
+\ELANParticipant Isabel
+\trs comía
+\tx comía
+\ft comía
+\sound IC-narracion.vida-2013.wav 111.570 112.490
+
+\ref 031
+\ELANBegin 112.785
+\ELANEnd 119.410
+\ELANParticipant Isabel
+\trs este ahumado así con ahumado así enroscado ahumado amarrado con soga ahumaba
+\tx este ahumado así con ahumado así enroscado ahumado amarrado con soga ahumaba
+\ft este ahumado así con ahumado así enroscado ahumado amarrado con soga ahumaba
+\sound IC-narracion.vida-2013.wav 112.785 119.410
+
+\ref 032
+\ELANBegin 119.500
+\ELANEnd 120.420
+\ELANParticipant Isabel
+\trs mi familia
+\tx mi familia
+\ft mi familia
+\sound IC-narracion.vida-2013.wav 119.500 120.420
+
+\ref 033
+\ELANBegin 121.120
+\ELANEnd 126.350
+\ELANParticipant Isabel
+\trs estoy contando eso comía con así con plato pues sapa
+\tx estoy contando eso comía con así con plato pues sapa
+\ft estoy contando eso comía con así con plato pues sapa
+\sound IC-narracion.vida-2013.wav 121.120 126.350
+
+\ref 034
+\ELANBegin 126.420
+\ELANEnd 127.170
+\ELANParticipant Isabel
+\trs sapa
+\tx sapa
+\ft sapa
+\sound IC-narracion.vida-2013.wav 126.420 127.170
+
+\ref 035
+\ELANBegin 129.235
+\ELANEnd 130.535
+\ELANParticipant Isabel
+\trs sapa ponía
+\tx sapa ponía
+\ft sapa ponía
+\sound IC-narracion.vida-2013.wav 129.235 130.535
+
+\ref 036
+\ELANBegin 130.880
+\ELANEnd 133.400
+\ELANParticipant Isabel
+\trs ahí comía amontonado familia
+\tx ahí comía amontonado familia
+\ft ahí comía amontonado familia
+\sound IC-narracion.vida-2013.wav 130.880 133.400
+
+\ref 037
+\ELANBegin 134.420
+\ELANEnd 135.680
+\ELANParticipant Isabel
+\trs Así estoy contando
+\tx Así estoy contando
+\ft Así estoy contando
+\sound IC-narracion.vida-2013.wav 134.420 135.680
+
+\ref 038
+\ELANBegin 136.180
+\ELANEnd 136.790
+\ELANParticipant Isabel
+\trs umhum
+\tx umhum
+\ft umhum
+\sound IC-narracion.vida-2013.wav 136.180 136.790
+
+\ref 039
+\ELANBegin 137.410
+\ELANEnd 139.510
+\ELANParticipant Isabel
+\trs y mataba paujil
+\tx y mataba paujil
+\ft y mataba paujil
+\sound IC-narracion.vida-2013.wav 137.410 139.510
+
+\ref 040
+\ELANBegin 140.545
+\ELANEnd 146.460
+\ELANParticipant Isabel
+\trs venado así nomás comía ahumado puro ahumado no comía cocinado
+\tx venado así nomás comía ahumado puro ahumado no comía cocinado
+\ft venado así nomás comía ahumado puro ahumado no comía cocinado
+\sound IC-narracion.vida-2013.wav 140.545 146.460
+
+\ref 041
+\ELANBegin 149.180
+\ELANEnd 150.610
+\ELANParticipant Isabel
+\trs Así estoy contando
+\tx Así estoy contando
+\ft Así estoy contando
+\sound IC-narracion.vida-2013.wav 149.180 150.610
+
+\ref 042
+\ELANBegin 150.470
+\ELANEnd 151.060
+\ELANParticipant Roberto
+\trs ya
+\tx ya
+\ft ya
+\sound IC-narracion.vida-2013.wav 150.470 151.060
+
+
+\ELANMediaURL file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/IC-narracion.vida-2013.mpg
+\ELANMediaMIME video/mpeg
+\ELANMediaURL file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/IC-narracion.vida-2013.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaExtracted file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/IC-narracion.vida-2013.mpg

@@ -1,0 +1,2984 @@
+\_sh v3.0  400  text
+
+\ref 001
+\ELANBegin 1.180
+\ELANEnd 1.950
+\ELANParticipant Juanita
+\trs yoishi bakebo
+\tx yoishi   bakebo
+\mb yoishi   bake  =bo
+\gn mezquino cría =PLU
+\ps n.       n.    =clit
+
+\ft grupo de indígenas miserables
+\sound JC.NC.IC-los.mezquinos-2013.wav 1.180 1.950
+
+\ref 002
+\ELANBegin 2.830
+\ELANEnd 3.080
+\ELANParticipant Germán
+\trs mi
+\tx mi
+\mb mi
+\gn 2SG:ABS
+\ps pron
+
+\ft tu
+\sound JC.NC.IC-los.mezquinos-2013.wav 2.830 3.080
+
+\ref 003
+\ELANBegin 3.610
+\ELANEnd 4.280
+\ELANParticipant Germán
+\trs mi unana cuento
+\tx mi      unana cuento
+\mb mi      unana cuento
+\gn 2SG:ABS sabio cuento
+\ps pron    n.    n.
+
+\ft tu cuento del sabio
+\sound JC.NC.IC-los.mezquinos-2013.wav 3.610 4.280
+
+\ref 004
+\ELANBegin 5.740
+\ELANEnd 7.035
+\ELANParticipant Nelita
+\trs yoishi bakebo
+\tx yoishi   bakebo
+\mb yoishi   bake  =bo
+\gn mezquino cría =PLU
+\ps n.       n.    =clit
+
+\ft yo sé (el cuento) del grupo de indígenas miserables
+\sound JC.NC.IC-los.mezquinos-2013.wav 5.740 7.035
+
+\ref 005
+\ELANBegin 5.740
+\ELANEnd 7.100
+\ELANParticipant Juanita
+\trs yoishi bakebo ena onan
+\tx yoishi   bakebo      ena     onan
+\mb yoishi   bake  =bo   ena     onan
+\gn mezquino niño =PLU  1SG:ERG saber
+\ps n.       n.    =clit pron.   v.tran
+
+\ft grupo de indígenas miserables
+\sound JC.NC.IC-los.mezquinos-2013.wav 5.740 7.100
+
+\ref 006
+\ELANBegin 9.770
+\ELANEnd 10.740
+\ELANParticipant Juanita
+\trs yoishi bakebo ka iki
+\tx yoishi   bakebo      ka     iki
+\mb yoishi   bake  =bo   ka     ik      -i
+\gn mezquino cría =PLU  ir     copula  -IMPF
+\ps n.       n.    =clit v.intr v.intr. -suf.
+
+\ft el grupo de indígenas miserables  son
+\sound JC.NC.IC-los.mezquinos-2013.wav 9.770 10.740
+
+\ref 007
+\ELANBegin 13.720
+\ELANEnd 14.530
+\ELANParticipant Juanita
+\trs awen chaika
+\tx awen    chaika
+\mb awen    chai    =ka
+\gn 3SG:GEN cuñado =NAR
+\ps pron    n.      =clit.
+
+\ft su cuñado
+\sound JC.NC.IC-los.mezquinos-2013.wav 13.720 14.530
+
+\ref 008
+\ELANBegin 15.210
+\ELANEnd 16.400
+\ELANParticipant Juanita
+\trs awen chaipa iki
+\tx awen    chaipa        iki
+\mb awen    chai    -pa   ik      -i
+\gn 3SG:GEN cuñado -FUT  copula  -IMPF
+\ps pron    n.      -suf. v.intr. -suf.
+
+\ft su cuñado
+\sound JC.NC.IC-los.mezquinos-2013.wav 15.210 16.400
+
+\ref 009
+\ELANBegin 18.360
+\ELANEnd 18.880
+\ELANParticipant Juanita
+\trs chaipaki
+\tx chaipaki
+\mb chai    -pa   =ki
+\gn cuñado -FUT  =CON
+\ps n.      -suf. =clit.
+
+\ft su cuñado
+\sound JC.NC.IC-los.mezquinos-2013.wav 18.360 18.880
+
+\ref 010
+\ELANBegin 19.910
+\ELANEnd 20.620
+\ELANParticipant Juanita
+\trs kake
+\tx kake
+\mb ka     -ke
+\gn ir     -PERF(SK)
+\ps v.intr -suf.
+
+\ft se fue
+\sound JC.NC.IC-los.mezquinos-2013.wav 19.910 20.620
+
+\ref 011
+\ELANBegin 22.475
+\ELANEnd 22.845
+\ELANParticipant Juanita
+\trs nokon
+\tx nokon
+\mb nokon
+\gn 1SG.GEN(SK)
+\ps pron
+
+\ft mi
+\sound JC.NC.IC-los.mezquinos-2013.wav 22.475 22.845
+
+\ref 012
+\ELANBegin 23.550
+\ELANEnd 24.550
+\ELANParticipant Juanita
+\trs nokon nanera
+\tx nokon       nanera
+\mb nokon       nane    =ra
+\gn 1SG.GEN(SK) hermana =EVID1(SK)
+\ps pron        n.      =clit.
+
+\ft (a) mi hermana
+\sound JC.NC.IC-los.mezquinos-2013.wav 23.550 24.550
+
+\ref 013
+\ELANBegin 26.510
+\ELANEnd 27.830
+\ELANParticipant Juanita
+\trs awin ahon nokon chai
+\tx awin   ahon          nokon       chai
+\mb awin   ak      -hon  nokon       chai
+\gn esposa hacer   -BEN  1SG.GEN(SK) cuñado
+\ps n.     v.tran. -suf. pron        n.
+
+\ft la haz hecho tu mujer, mi cuñado
+\sound JC.NC.IC-los.mezquinos-2013.wav 26.510 27.830
+
+\ref 014
+\ELANBegin 28.475
+\ELANEnd 30.845
+\ELANParticipant Juanita
+\trs bana iki heki pinohon anon kawe
+\tx bana    iki            heki
+\mb bana    ik{v.intr.} -i heki
+\gn sembrar decir:INTR     maíz
+\ps v.tran                 n.
+
+\tx pinohon            anon
+\mb pi      -nohon     ak      -non
+\gn comer   -PROP:TRAN hacer   -PROP
+\ps v.tran. -suf.      v.tran. -suf.
+
+\tx kawe
+\mb ka     -we
+\gn ir     -IMP(SK)
+\ps v.intr -suf.
+
+\ft "vamos a sembrar mazís para comer con eso"
+\sound JC.NC.IC-los.mezquinos-2013.wav 28.475 30.845
+
+\ref 015
+\ELANBegin 31.505
+\ELANEnd 32.225
+\ELANParticipant Juanita
+\trs kake
+\tx kake
+\mb ka     -ke
+\gn ir     -PERF(SK)
+\ps v.intr -suf.
+
+\ft se fue
+\sound JC.NC.IC-los.mezquinos-2013.wav 31.505 32.225
+
+\ref 016
+\ELANBegin 37.130
+\ELANEnd 37.930
+\ELANParticipant Juanita
+\trs kahonki
+\tx kahonki
+\mb ka     -hon       =ki
+\gn ir     -SUJ>A:SIM =CON
+\ps v.intr -suf.      =clit.
+
+\ft yendose
+\sound JC.NC.IC-los.mezquinos-2013.wav 37.130 37.930
+
+\ref 017
+\ELANBegin 38.970
+\ELANEnd 41.790
+\ELANParticipant Juanita
+\trs moa mi moa mi heki ikari
+\tx moa    mi      moa    mi
+\mb moa    mi      moa    mi
+\gn ya(SK) 2SG:ABS ya(SK) 2SG:ABS
+\ps adv    pron    adv    pron
+
+\tx heki  ikari
+\mb heki  ik      =ka    -ri
+\gn maíz copula  =NAR   -todavía
+\ps n.    v.intr. =clit. -adv.
+
+\ft "ya tu... ¿tu maíz ya está?"
+\sound JC.NC.IC-los.mezquinos-2013.wav 38.970 41.790
+
+\ref 018
+\ELANBegin 42.390
+\ELANEnd 42.880
+\ELANParticipant Juanita
+\trs chichó
+\tx chichó
+\mb chicho
+\gn hermana.mayor
+\ps n.
+
+\ft "hermana"
+\sound JC.NC.IC-los.mezquinos-2013.wav 42.390 42.880
+
+\ref 019
+\ELANBegin 44.050
+\ELANEnd 44.960
+\ELANParticipant Juanita
+\trs ma ika riki
+\tx ma  ika               riki
+\mb ma  ik         =ka    riki
+\gn ya  decir:INTR =NAR   COP(SK)
+\ps adv v.intr.    =clit. part.
+
+\ft "ya está"
+\sound JC.NC.IC-los.mezquinos-2013.wav 44.050 44.960
+
+\ref 020
+\ELANBegin 45.620
+\ELANEnd 46.330
+\ELANParticipant Juanita
+\trs ma ika riki
+\tx ma  ika               riki
+\mb ma  ik         =ka    riki
+\gn ya  decir:INTR =NAR   COP(SK)
+\ps adv v.intr.    =clit. part.
+
+\ft "ya está"
+\sound JC.NC.IC-los.mezquinos-2013.wav 45.620 46.330
+
+\ref 021
+\ELANBegin 48.530
+\ELANEnd 51.260
+\ELANParticipant Juanita
+\trs en bananon westiorahoko inawe michahako
+\tx en        bananon       westiorahoko
+\mb en        bana    -non  westiora -hoko
+\gn 1SG:A(SK) sembrar -PROP uno(SK)  -DIM
+\ps pron      v.tran  -suf. num.     -suf
+
+\tx inawe         michahako
+\mb inan -we      micha -hoko
+\gn dar  -IMP(SK) feo   -DIM
+\ps v.   -suf.    adj.  -suf
+
+\ft "dame unito malogradito, para que yo siembre."
+\sound JC.NC.IC-los.mezquinos-2013.wav 48.530 51.260
+
+\ref 022
+\ELANBegin 51.890
+\ELANEnd 52.960
+\ELANParticipant Juanita
+\trs ehkohoko inanwe
+\tx ehkohoko         inanwe
+\mb ehko       -hoko inan -we
+\gn mazorquita -DIM  dar  -IMP(SK)
+\ps n.         -suf  v.   -suf.
+
+\ft "dame una mazorquita"
+\sound JC.NC.IC-los.mezquinos-2013.wav 51.890 52.960
+
+\ref 023
+\ELANBegin 54.332
+\ELANEnd 54.827
+\ELANParticipant Juanita
+\trs iyá
+\tx iyá
+\mb iyá
+\gn cocha
+\ps n.
+
+\ft ya
+\sound JC.NC.IC-los.mezquinos-2013.wav 54.332 54.827
+
+\ref 024
+\ELANBegin 57.230
+\ELANEnd 58.020
+\ELANParticipant Juanita
+\trs manapariwe
+\tx manapariwe
+\mb manai   -pai  -ri       -we
+\gn esperar -DES  -todavía -IMP(SK)
+\ps v.      -suf. -adv.     -suf.
+
+\ft "espera todavía"
+\sound JC.NC.IC-los.mezquinos-2013.wav 57.230 58.020
+
+\ref 025
+\ELANBegin 59.750
+\ELANEnd 61.630
+\ELANParticipant Juanita
+\trs heki heki tobanke
+\tx heki  heki  tobanke
+\mb heki  heki  toban  -ke
+\gn maíz maíz tostar -PERF(SK)
+\ps n.    n.    v.     -suf.
+
+\ft tostó mucho maíz
+\sound JC.NC.IC-los.mezquinos-2013.wav 59.750 61.630
+
+\ref 026
+\ELANBegin 62.315
+\ELANEnd 65.940
+\ELANParticipant Juanita
+\trs tobanhoki toban toban
+\tx tobanhoki                 toban  toban
+\mb toban  - ho        =ki    toban  toban
+\gn tostar - venir(SK) =CON   tostar tostar
+\ps v.     - v.        =clit. v.     v.
+
+\ft tostando tostó tostó
+\sound JC.NC.IC-los.mezquinos-2013.wav 62.315 65.940
+
+\ref 027
+\ELANBegin 66.830
+\ELANEnd 67.750
+\ELANParticipant Juanita
+\trs nato riki, ochí
+\tx nato     riki,   ochí
+\mb nato     riki    ochí
+\gn este(SK) COP(SK) hermano.de.la.mujer
+\ps dem.     part.   n.
+
+\ft "este es, hermano"
+\sound JC.NC.IC-los.mezquinos-2013.wav 66.830 67.750
+
+\ref 028
+\ELANBegin 68.775
+\ELANEnd 69.495
+\ELANParticipant Juanita
+\trs banatanwen
+\tx banatanwen
+\mb bana{v.tran} -tan{suf.} -we{suf.} =n
+\gn sembrar      -ANDA      -IMP(SK)
+\ps 
+
+\ft "anda a sembrar"
+\sound JC.NC.IC-los.mezquinos-2013.wav 68.775 69.495
+
+\ref 029
+\ELANBegin 71.610
+\ELANEnd 74.700
+\ELANParticipant Juanita
+\trs no aka heki wishai heki wishai wishatanwe
+\tx no   aka                heki  wishai    heki
+\mb no   ak          -a     heki  wishai    heki
+\gn 1PL  decir(TRAN) -NOMLZ maíz tacarpear maíz
+\ps pron v.tran.     -suf.  n.    n.        n.
+
+\tx wishai    wishatanwe
+\mb wishai    wishai    -tan  -we
+\gn tacarpear tacarpear -ANDA -IMP(SK)
+\ps n.        n.        -suf. -suf.
+
+\ft nosotros decimos siembra maíz, siembra maíz "ve a sembrar"
+\sound JC.NC.IC-los.mezquinos-2013.wav 71.610 74.700
+
+\ref 030
+\ELANBegin 75.270
+\ELANEnd 75.950
+\ELANParticipant Juanita
+\trs ochí
+\tx ochí
+\mb ochí
+\gn hermano.de.la.mujer
+\ps n.
+
+\ft "hermano"
+\sound JC.NC.IC-los.mezquinos-2013.wav 75.270 75.950
+
+\ref 031
+\ELANBegin 76.850
+\ELANEnd 77.865
+\ELANParticipant Juanita
+\trs wishaki iyamai
+\tx wishaki          iyamai
+\mb wishai    =ki    ik         -yama    -i
+\gn tacarpear =CON   decir:INTR -NEG(SK) -SUJ>S:SIM
+\ps n.        =clit. v.intr.    -suf.    -suf.
+
+\ft "no puedo sembrar maiz"
+\sound JC.NC.IC-los.mezquinos-2013.wav 76.850 77.865
+
+\ref 032
+\ELANBegin 79.525
+\ELANEnd 80.725
+\ELANParticipant Juanita
+\trs onkonbirake oinba
+\tx onkonbirake               oinba
+\mb onko    =bira   -ke       oin    -ba
+\gn crecido =nomás -PERF(SK) ver    -ahora
+\ps v.      =clit.  -suf.     v.ambi -suf.
+
+\ft "voy a ver si ha crecido"
+\sound JC.NC.IC-los.mezquinos-2013.wav 79.525 80.725
+
+\ref 033
+\ELANBegin 81.390
+\ELANEnd 81.935
+\ELANParticipant Juanita
+\trs iyamai
+\tx iyamai
+\mb ik      -yama    -i
+\gn copula  -NEG(SK) -NOMLZ
+\ps v.intr. -suf.    -suf.
+
+\ft "no ha crecido"
+\sound JC.NC.IC-los.mezquinos-2013.wav 81.390 81.935
+
+\ref 034
+\ELANBegin 88.345
+\ELANEnd 88.685
+\ELANParticipant Juanita
+\trs chichó
+\tx chichó
+\mb chichó
+\gn hermana.mayor
+\ps n.
+
+\ft "hermana"
+\sound JC.NC.IC-los.mezquinos-2013.wav 88.345 88.685
+
+\ref 035
+\ELANBegin 90.020
+\ELANEnd 91.160
+\ELANParticipant Juanita
+\trs onkonyamarai
+\tx onkonyamarai
+\mb onko  -yama    -a    -ra       -i
+\gn salir -NEG(SK) -PERF -EVID(SK) -NOMLZ
+\ps v.    -suf.    -suf. -suf.     -suf.
+
+\ft no ha crecido otra vez
+\sound JC.NC.IC-los.mezquinos-2013.wav 90.020 91.160
+
+\ref 036
+\ELANBegin 92.235
+\ELANEnd 94.665
+\ELANParticipant Juanita
+\trs onkoinbi riki abi banatanwe wishatawen
+\tx onkoinbi             riki    abi
+\mb onkon  -i     =bi    riki    a   =bi
+\gn brotar -NOMLZ =ENF   COP(SK) ese =ENF
+\ps v.     -suf.  =clit. part.   dem =clit.
+
+\tx banatanwe
+\mb bana    -tan  -we
+\gn sembrar -ANDA -IMP(SK)
+\ps v.tran  -suf. -suf.
+
+\tx wishatanwen
+\mb wishai    -tan  -we
+\gn tacarpear -ANDA -IMP(SK)
+\ps n.        -suf. -suf.
+
+\ft va a crecer también, eso mismo anda a sembrar, anda a sembrar
+\sound JC.NC.IC-los.mezquinos-2013.wav 92.235 94.665
+
+\ref 037
+\ELANBegin 99.705
+\ELANEnd 102.860
+\ELANParticipant Juanita
+\trs ea paranti takohoko ea meniwe
+\tx ea          paranti  takohoko
+\mb ea          paranti  tako              -hoko
+\gn 1SG.ABS(SK) plátano tallo.de.plátano -DIM
+\ps pron.       n.       n.                -suf
+
+\tx ea          meniwe
+\mb ea          meni -we
+\gn 1SG.ABS(SK) dar  -IMP(SK)
+\ps pron.       v.   -suf.
+
+\ft dame un tallo pequeño de plátano
+\sound JC.NC.IC-los.mezquinos-2013.wav 99.705 102.860
+
+\ref 038
+\ELANBegin 106.820
+\ELANEnd 107.450
+\ELANParticipant Juanita
+\trs mia meninon
+\tx mia         meninon
+\mb mia         meni -non
+\gn 2SG.ABS(SK) dar  -PROP
+\ps pron        v.   -suf.
+
+\ft te voy a dar
+\sound JC.NC.IC-los.mezquinos-2013.wav 106.820 107.450
+
+\ref 039
+\ELANBegin 111.242
+\ELANEnd 113.292
+\ELANParticipant Juanita
+\trs awen tapon tsekapake
+\tx awen    tapon      tsekapake
+\mb awen    tapon      tseka    -pake
+\gn 3SG:GEN tubérculo cosechar -completamente
+\ps pron    n.         v.tran   -suf.
+
+\ft secó su raíz varias veces
+\sound JC.NC.IC-los.mezquinos-2013.wav 111.242 113.292
+
+\ref 040
+\ELANBegin 113.710
+\ELANEnd 114.470
+\ELANParticipant Juanita
+\trs xoxoyamai
+\tx xoxoyamai
+\mb xoxo        -yama    -i
+\gn crecido(SK) -NEG(SK) -NOMLZ
+\ps adj.        -suf.    -suf.
+
+\ft "no crece"
+\sound JC.NC.IC-los.mezquinos-2013.wav 113.710 114.470
+
+\ref 041
+\ELANBegin 115.890
+\ELANEnd 116.640
+\ELANParticipant Juanita
+\trs onkonyamasi riki
+\tx onkonyamasi                 riki
+\mb onkon  -yama    -s    -i    riki
+\gn brotar -NEG(SK) -VERB -IMPF COP(SK)
+\ps v.     -suf.    -suf. -suf. part.
+
+\ft "no crece"
+\sound JC.NC.IC-los.mezquinos-2013.wav 115.890 116.640
+
+\ref 042
+\ELANBegin 117.710
+\ELANEnd 120.860
+\ELANParticipant Juanita
+\trs hawe keskatiki mi ea mi boma
+\tx hawe     keskatiki
+\mb hawe     *   -ke       -s    -kati        =ki
+\gn cuál    *** -PERF(SK) -VERB -PAS.REM:HAB =REP
+\ps pal.int. *** -suf.     -suf. -suf.        =clit.
+
+\tx mi      ea          mi      boma
+\mb mi      ea          mi      bo     -ma
+\gn 2SG:ABS 1SG.ABS(SK) 2SG:ABS llevar -CAUS
+\ps pron    pron.       pron    v.ambi -suf.
+
+\ft "¿qué cosa me has dado?"
+\sound JC.NC.IC-los.mezquinos-2013.wav 117.710 120.860
+
+\ref 043
+\ELANBegin 121.145
+\ELANEnd 122.090
+\ELANParticipant Juanita
+\trs onkonyama iki
+\tx onkonyama      iki
+\mb onko  -yama    ik      -i
+\gn salir -NEG(SK) copula  -NOMLZ
+\ps v.    -suf.    v.intr. -suf.
+
+\ft "no crece"
+\sound JC.NC.IC-los.mezquinos-2013.wav 121.145 122.090
+
+\ref 044
+\ELANBegin 122.350
+\ELANEnd 122.870
+\ELANParticipant Juanita
+\trs chichó
+\tx chichó
+\mb chichó
+\gn hermana.mayor
+\ps n.
+
+\ft "hermana"
+\sound JC.NC.IC-los.mezquinos-2013.wav 122.350 122.870
+
+\ref 045
+\ELANBegin 124.475
+\ELANEnd 125.665
+\ELANParticipant Juanita
+\trs onkoinbi riki
+\tx onkoinbi                  riki
+\mb onko    -i    =n     =bi  riki
+\gn crecido -IMPF =ERG   =ENF COP(SK)
+\ps adj.    -suf. =clit. =clitpart.
+
+\ft va a crecer también
+\sound JC.NC.IC-los.mezquinos-2013.wav 124.475 125.665
+
+\ref 046
+\ELANBegin 126.595
+\ELANEnd 129.045
+\ELANParticipant Juanita
+\trs mi mi mi hakonmaki mi micha bana riki
+\tx mi      mi      mi
+\mb mi      mi      mi
+\gn 2SG:ABS 2SG:ABS 2SG:ABS
+\ps pron    pron    pron
+
+\tx hakonmaki               mi      micha
+\mb hakon     =ma    =ki    mi      micha
+\gn bueno(SK) =NEG   =CON   2SG:ABS feo
+\ps adj.      =clit. =clit. pron    adj.
+
+\tx bana    riki
+\mb bana    riki
+\gn sembrar COP(SK)
+\ps v.tran  part.
+
+\ft tu no has hecho bien, tu has sembrado mal
+\sound JC.NC.IC-los.mezquinos-2013.wav 126.595 129.045
+
+\ref 047
+\ELANBegin 130.235
+\ELANEnd 131.205
+\ELANParticipant Juanita
+\trs en micha banamai
+\tx en        micha banamai
+\mb en        micha bana    =ma    -i
+\gn 1SG:A(SK) feo   sembrar =NEG   -NOMLZ
+\ps pron      adj.  v.tran  =clit. -suf.
+
+\ft yo no he sembrado mal
+\sound JC.NC.IC-los.mezquinos-2013.wav 130.235 131.205
+
+\ref 048
+\ELANBegin 131.815
+\ELANEnd 133.085
+\ELANParticipant Juanita
+\trs banabi onkonyamai
+\tx banabi         onkonyamai
+\mb bana    =bi    onko  -yama    -i
+\gn sembrar =ENF   salir -NEG(SK) -IMPF
+\ps v.tran  =clit. v.    -suf.    -suf.
+
+\ft aunque siembre, no crece
+\sound JC.NC.IC-los.mezquinos-2013.wav 131.815 133.085
+
+\ref 049
+\ELANBegin 138.845
+\ELANEnd 139.685
+\ELANParticipant Juanita
+\trs non aka poa
+\tx non         aka               poa
+\mb no   =n     ak          -a    poa
+\gn 1PL  =ERG   decir(TRAN) -PERF sachapapa
+\ps pron =clit. v.tran.     -suf. n.
+
+\ft nosotros decimos "sachapapa"
+\sound JC.NC.IC-los.mezquinos-2013.wav 138.845 139.685
+
+\ref 050
+\ELANBegin 140.490
+\ELANEnd 141.090
+\ELANParticipant Juanita
+\trs poa hawiribi
+\tx poa       hawiribi
+\mb poa       hawi             =ribi
+\gn sachapapa caña.de.azúcar =también
+\ps n.        n.               =clit.
+
+\ft sachapapa y caña
+\sound JC.NC.IC-los.mezquinos-2013.wav 140.490 141.090
+
+\ref 051
+\ELANBegin 141.815
+\ELANEnd 142.725
+\ELANParticipant Juanita
+\trs poa niborewan
+\tx poa       niborewan
+\mb poa       niborewan
+\gn sachapapa amontonado
+\ps n.        adj.
+
+\ft ,mucha sachapapa amontonada
+\sound JC.NC.IC-los.mezquinos-2013.wav 141.815 142.725
+
+\ref 052
+\ELANBegin 144.215
+\ELANEnd 145.125
+\ELANParticipant Juanita
+\trs na banatanon
+\tx na   banatanon
+\mb na   bana    -tan  -non
+\gn este sembrar -ANDA -PROP
+\ps dem. v.tran  -suf. -suf.
+
+\ft yo voy a sembrar esto
+\sound JC.NC.IC-los.mezquinos-2013.wav 144.215 145.125
+
+\ref 053
+\ELANBegin 145.990
+\ELANEnd 146.920
+\ELANParticipant Juanita
+\trs tson en en
+\tx tson                       en        en
+\mb tso                 =n     en        en
+\gn ideófono:agua.caer =ERG   1SG:A(SK) 1SG:A(SK)
+\ps ideo                =clit. pron      pron
+
+\ft (onomatopeia)
+\sound JC.NC.IC-los.mezquinos-2013.wav 145.990 146.920
+
+\ref 054
+\ELANBegin 147.080
+\ELANEnd 147.450
+\ELANParticipant Juanita
+\trs ena
+\tx ena
+\mb ena
+\gn 1SG:ERG
+\ps pron.
+
+\ft yo
+\sound JC.NC.IC-los.mezquinos-2013.wav 147.080 147.450
+
+\ref 055
+\ELANBegin 148.220
+\ELANEnd 148.670
+\ELANParticipant Juanita
+\trs ma
+\tx ma
+\mb ma
+\gn ya
+\ps adv
+
+\ft ya
+\sound JC.NC.IC-los.mezquinos-2013.wav 148.220 148.670
+
+\ref 056
+\ELANBegin 149.420
+\ELANEnd 150.620
+\ELANParticipant Juanita
+\trs hoa hoabanon
+\tx hoa                 hoabanon
+\mb ho        -a        ho        -a        -ba    -non
+\gn venir(SK) -FACT(SK) venir(SK) -FACT(SK) -ahora -PROP
+\ps v.        -suf.     v.        -suf.     -suf.  -suf.
+
+\ft voy a cocinar
+\sound JC.NC.IC-los.mezquinos-2013.wav 149.420 150.620
+
+\ref 057
+\ELANBegin 151.985
+\ELANEnd 153.015
+\ELANParticipant Juanita
+\trs choran mapo choran
+\tx choran     mapo   choran
+\mb choran     mapo   choran
+\gn sapo.hualo cabeza sapo.hualo
+\ps n.         n.     n.
+
+\ft puso en la olla
+\sound JC.NC.IC-los.mezquinos-2013.wav 151.985 153.015
+
+\ref 058
+\ELANBegin 159.765
+\ELANEnd 160.805
+\ELANParticipant Juanita
+\trs nato riki ochí
+\tx nato     riki    ochí
+\mb nato     riki    ochí
+\gn este(SK) COP(SK) hermano.de.la.mujer
+\ps dem.     part.   n.
+
+\ft "esto es hermano"
+\sound JC.NC.IC-los.mezquinos-2013.wav 159.765 160.805
+
+\ref 059
+\ELANBegin 161.460
+\ELANEnd 161.990
+\ELANParticipant Juanita
+\trs botanwe
+\tx botanwe
+\mb bo     -tan  -we
+\gn llevar -ANDA -IMP(SK)
+\ps v.ambi -suf. -suf.
+
+\ft "anda lleva"
+\sound JC.NC.IC-los.mezquinos-2013.wav 161.460 161.990
+
+\ref 060
+\ELANBegin 162.920
+\ELANEnd 163.340
+\ELANParticipant Juanita
+\trs banake
+\tx banake
+\mb bana    -ke
+\gn sembrar -PERF(SK)
+\ps v.tran  -suf.
+
+\ft sembró
+\sound JC.NC.IC-los.mezquinos-2013.wav 162.920 163.340
+
+\ref 061
+\ELANBegin 163.800
+\ELANEnd 165.010
+\ELANParticipant Juanita
+\trs moa poa basika
+\tx moa    poa       basika
+\mb moa    poa       basika
+\gn ya(SK) sachapapa podrida
+\ps adv    n.        adj.
+
+\ft ya estaba podrida la sachapapa
+\sound JC.NC.IC-los.mezquinos-2013.wav 163.800 165.010
+
+\ref 062
+\ELANBegin 166.650
+\ELANEnd 169.890
+\ELANParticipant Juanita
+\trs ainoah ka iki ma ha awen poi sináke
+\tx ainoah                           ka     iki   ma
+\mb ain       -no   -a        =h     ka     ik -i ma
+\gn ahí(MIX) -LOC  -FACT(SK) =S     ir           ya
+\ps adv.      -suf. -suf.     =clit. v.intr       adv
+
+\tx ha      awen    poi                   sináke
+\mb ha      awen    poi                   siná      -ke
+\gn 3SG(SK) 3SG:GEN hermano.de.hombre(SK) molestarse -PERF(SK)
+\ps pron    pron    n.                    v.         -suf.
+
+\ft de ahí se molestó su hermano
+\sound JC.NC.IC-los.mezquinos-2013.wav 166.650 169.890
+
+\ref 063
+\ELANBegin 171.460
+\ELANEnd 171.910
+\ELANParticipant Juanita
+\trs sinahon
+\tx sinahon
+\mb siná      -hon
+\gn molestarse -SUJ>A:SIM
+\ps v.         -suf.
+
+\ft molestándose
+\sound JC.NC.IC-los.mezquinos-2013.wav 171.460 171.910
+
+\ref 064
+\ELANBegin 173.000
+\ELANEnd 178.080
+\ELANParticipant Juanita
+\trs awekesatiki eki nokon chai eki yoishi
+\tx awekesatiki                           eki
+\mb ak      -we      =kesa  -ti    =ki    e     =ki
+\gn hacer   -IMP(SK) =COMP  -NOMLZ =INT   1SG   =ALA
+\ps v.tran. -suf.    =clit. -suf.  =clit. pron. =clit.
+
+\tx nokon       chai    eki          yoishi
+\mb nokon       chai    e     =ki    yoishi
+\gn 1SG.GEN(SK) cuñado 1SG   =ALA   mezquinar
+\ps pron        n.      pron. =clit. v.
+
+\ft ¿por qué mi cuñado me mezquina?
+\sound JC.NC.IC-los.mezquinos-2013.wav 173.000 178.080
+
+\ref 065
+\ELANBegin 178.675
+\ELANEnd 182.270
+\ELANParticipant Juanita
+\trs haokesa ea menia iki kia
+\tx haokesa
+\mb haokesa
+\gn cómo
+\ps int.
+
+\tx ea          menia       iki           kia
+\mb ea          meni -a     ik      -i    
+\gn 1SG.ABS(SK) dar  -NOMLZ copula  -IMPF 
+\ps pron.       v.   -suf.  v.intr. -suf.
+
+\ft ¿cómo me estás dando a mi? se dijo
+\sound JC.NC.IC-los.mezquinos-2013.wav 178.675 182.270
+
+\ref 066
+\ELANBegin 182.825
+\ELANEnd 183.895
+\ELANParticipant Juanita
+\trs i i iaka
+\tx i       i       iaka
+\mb i       i       i       -a    =ka
+\gn lamento lamento lamento -PERF =NAR
+\ps inter,  inter,  inter,  -suf. =clit.
+
+\ft se lamentó
+\sound JC.NC.IC-los.mezquinos-2013.wav 182.825 183.895
+
+\ref 067
+\ELANBegin 186.290
+\ELANEnd 186.970
+\ELANParticipant Juanita
+\trs kahe aniki
+\tx kahe aniki
+\mb kahe ani        =ki
+\gn casa grande(SK) =CON
+\ps n.   adj.       =clit.
+
+\ft la casa es grande
+\sound JC.NC.IC-los.mezquinos-2013.wav 186.290 186.970
+
+\ref 068
+\ELANBegin 187.211
+\ELANEnd 188.181
+\ELANParticipant Juanita
+\trs kahe aniki
+\tx kahe aniki
+\mb kahe ani        =ki
+\gn casa grande(SK) =CON
+\ps n.   adj.       =clit.
+
+\ft la casa es grande
+\sound JC.NC.IC-los.mezquinos-2013.wav 187.211 188.181
+
+\ref 069
+\ELANBegin 188.655
+\ELANEnd 189.235
+\ELANParticipant Juanita
+\trs karo akai
+\tx karo  akai
+\mb karo  ak      -ai
+\gn leña hacer   -IMPF(SK)
+\ps n.    v.tran. -suf.
+
+\ft hacía leña
+\sound JC.NC.IC-los.mezquinos-2013.wav 188.655 189.235
+
+\ref 070
+\ELANBegin 189.700
+\ELANEnd 190.130
+\ELANParticipant Juanita
+\trs karo akai
+\tx karo  akai
+\mb karo  ak      -ai
+\gn leña hacer   -IMPF(SK)
+\ps n.    v.tran. -suf.
+
+\ft hacía leña
+\sound JC.NC.IC-los.mezquinos-2013.wav 189.700 190.130
+
+\ref 071
+\ELANBegin 192.580
+\ELANEnd 193.290
+\ELANParticipant Juanita
+\trs chonchonhoko ka
+\tx chonchonhoko   ka
+\mb chonchon -hoko ka
+\gn pájaro  -DIM  ir
+\ps n.       -suf  v.intr
+
+\ft (había) pajarito
+\sound JC.NC.IC-los.mezquinos-2013.wav 192.580 193.290
+
+\ref 072
+\ELANBegin 193.710
+\ELANEnd 195.520
+\ELANParticipant Juanita
+\trs ain iska ewekebi chonchonhoko
+\tx ain       iska
+\mb ain       ik      -s    =ka
+\gn ahí(MIX) copula  -VERB =NAR
+\ps adv.      v.intr. -suf. =clit.
+
+\tx ewekebi                  chonchonhoko
+\mb ewe    -ke        =bi    chonchon -hoko
+\gn vivir  -NOMLZ(SK) =ENF   pájaro  -DIM
+\ps v.intr -suf.      =clit. n.       -suf
+
+\ft ahí mismo donde vivía el mezquino, había un pajarito
+\sound JC.NC.IC-los.mezquinos-2013.wav 193.710 195.520
+
+\ref 073
+\ELANBegin 196.530
+\ELANEnd 197.890
+\ELANParticipant Juanita
+\trs chonchonhoko ka
+\tx chonchonhoko   ka
+\mb chonchon -hoko ka
+\gn pájaro  -DIM  ir
+\ps n.       -suf  v.intr
+
+\ft pajarito ??
+\sound JC.NC.IC-los.mezquinos-2013.wav 196.530 197.890
+
+\ref 074
+\ELANBegin 199.290
+\ELANEnd 201.230
+\ELANParticipant Juanita
+\trs ea ea atsa taho bihontanwen
+\tx ea          ea          atsa taho
+\mb ea          ea          atsa taho
+\gn 1SG.ABS(SK) 1SG.ABS(SK) yuca palo.de.yuca
+\ps pron.       pron.       n.   n.
+
+\tx bihontanwen
+\mb bi{v.}  -hon{suf.} -tan{suf.} -we{suf.} =n
+\gn v.tran. -BEN       -ANDA      -IMP(SK)
+\ps 
+
+\ft anda consígueme palo de yuca,
+\sound JC.NC.IC-los.mezquinos-2013.wav 199.290 201.230
+
+\ref 075
+\ELANBegin 201.790
+\ELANEnd 202.230
+\ELANParticipant Juanita
+\trs chonchonman
+\tx chonchonman
+\mb chonchon -man
+\gn pájaro  -ERG
+\ps n.       -suf.
+
+\ft pajarito
+\sound JC.NC.IC-los.mezquinos-2013.wav 201.790 202.230
+
+\ref 076
+\ELANBegin 202.730
+\ELANEnd 203.840
+\ELANParticipant Juanita
+\trs atsa tahon bihontanwe
+\tx atsa tahon
+\mb atsa taho         =n
+\gn yuca palo.de.yuca =INST
+\ps n.   n.           =clit.
+
+\tx bihontanwe
+\mb bi      -hon  -tan  -we
+\gn v.tran. -BEN  -ANDA -IMP(SK)
+\ps v.      -suf. -suf. -suf.
+
+\ft coge palo de yuca para mí
+\sound JC.NC.IC-los.mezquinos-2013.wav 202.730 203.840
+
+\ref 077
+\ELANBegin 204.100
+\ELANEnd 206.440
+\ELANParticipant Juanita
+\trs bananon ea atsa taho bihontanwen chonchon
+\tx bananon       ea          atsa
+\mb bana    -non  ea          atsa
+\gn sembrar -PROP 1SG.ABS(SK) yuca
+\ps v.tran  -suf. pron.       n.
+
+\tx taho         bihontanwen
+\mb taho         bi{v.}  -hon{suf.} -tan{suf.} -we{suf.} =n
+\gn palo.de.yuca v.tran. -BEN       -ANDA      -IMP(SK)
+\ps n.
+
+\tx chonchon
+\mb chonchon
+\gn pájaro
+\ps n.
+
+\ft siembra para mí, coge palo de yuca para mi
+\sound JC.NC.IC-los.mezquinos-2013.wav 204.100 206.440
+
+\ref 078
+\ELANBegin 208.403
+\ELANEnd 209.817
+\ELANParticipant Juanita
+\trs chonchon pokoma
+\tx chonchon pokoma
+\mb chonchon pokoma
+\gn pájaro  canto.pajarito
+\ps n.       ide.
+
+\ft (onomatopeya del canto del pajarito)
+\sound JC.NC.IC-los.mezquinos-2013.wav 208.403 209.817
+
+\ref 079
+\ELANBegin 214.525
+\ELANEnd 215.805
+\ELANParticipant Juanita
+\trs chonchon pokoma
+\tx chonchon pokoma
+\mb chonchon pokoma
+\gn pájaro  canto.pajarito
+\ps n.       ide.
+
+\ft (onomatopeya del canto del pajarito)
+\sound JC.NC.IC-los.mezquinos-2013.wav 214.525 215.805
+
+\ref 080
+\ELANBegin 218.020
+\ELANEnd 218.780
+\ELANParticipant Juanita
+\trs chonchon pokoma
+\tx chonchon pokoma
+\mb chonchon pokoma
+\gn pájaro  canto.pajarito
+\ps n.       ide.
+
+\ft (onomatopeya del canto del pajarito)
+\sound JC.NC.IC-los.mezquinos-2013.wav 218.020 218.780
+
+\ref 081
+\ELANBegin 220.485
+\ELANEnd 221.195
+\ELANParticipant Juanita
+\trs chonchon pokoma
+\tx chonchon pokoma
+\mb chonchon pokoma
+\gn pájaro  canto.pajarito
+\ps n.       ide.
+
+\ft (onomatopeya del canto del pajarito)
+\sound JC.NC.IC-los.mezquinos-2013.wav 220.485 221.195
+
+\ref 082
+\ELANBegin 222.165
+\ELANEnd 223.585
+\ELANParticipant Juanita
+\trs awa aki chonchon pokoma iki marehekoi
+\tx awa     aki chonchon
+\mb awa aki     chonchon
+\gn por.qué    pájaro
+\ps int.        n.
+
+\tx pokoma
+\mb pokoma
+\gn canto.pajarito
+\ps ide.
+
+\tx iki                marehekoi
+\mb ik      -i         mare  -hoko -i
+\gn copula  -SUJ>S:SIM matar -DIM  -IMPF
+\ps v.intr. -suf.      v.    -suf  -suf.
+
+\ft ¿por qué está cantando ese pajarito? lo voy a matar
+\sound JC.NC.IC-los.mezquinos-2013.wav 222.165 223.585
+
+\ref 083
+\ELANBegin 226.690
+\ELANEnd 227.320
+\ELANParticipant Juanita
+\trs pake toshi
+\tx pake     toshi
+\mb pake     toshi
+\gn caer(se) pajarito
+\ps v.ambi.  n.
+
+\ft atterizó el pajarito
+\sound JC.NC.IC-los.mezquinos-2013.wav 226.690 227.320
+
+\ref 084
+\ELANBegin 228.305
+\ELANEnd 229.045
+\ELANParticipant Juanita
+\trs chonchon pokoma
+\tx chonchon pokoma
+\mb chonchon pokoma
+\gn pájaro  canto.pajarito
+\ps n.       ide.
+
+\ft (onomatopeya del canto del pajarito)
+\sound JC.NC.IC-los.mezquinos-2013.wav 228.305 229.045
+
+\ref 085
+\ELANBegin 230.500
+\ELANEnd 231.140
+\ELANParticipant Juanita
+\trs chonchon pokoma
+\tx chonchon pokoma
+\mb chonchon pokoma
+\gn pájaro  canto.pajarito
+\ps n.       ide.
+
+\ft (onomatopeya del canto del pajarito)
+\sound JC.NC.IC-los.mezquinos-2013.wav 230.500 231.140
+
+\ref 086
+\ELANBegin 232.060
+\ELANEnd 233.870
+\ELANParticipant Juanita
+\trs awa aki chonchon pokoma ikai
+\tx awa aki  chonchon pokoma         ikai
+\mb awa aki  chonchon pokoma         ik      -ai
+\gn por.qué pájaro  canto.pajarito copula  -NOMLZ(SK)
+\ps int.     n.       ide.           v.intr. -suf.
+
+\ft ¿por qué canta?
+\sound JC.NC.IC-los.mezquinos-2013.wav 232.060 233.870
+
+\ref 087
+\ELANBegin 234.342
+\ELANEnd 237.039
+\ELANParticipant Juanita
+\trs atsa mebihiko
+\tx atsa mebihiko
+\mb atsa mebi -hoko
+\gn yuca rama -DIM
+\ps n.   n.   -suf
+
+\ft palito de yuca (le arrojó)
+\sound JC.NC.IC-los.mezquinos-2013.wav 234.342 237.039
+
+\ref 088
+\ELANBegin 237.980
+\ELANEnd 253.190
+\ELANParticipant Juanita
+\trs chonchonmanchonchonman moa atsa taho boai paro palo ribi iwiribi 
+chonchonman moa atsa taho boai chonchonman moa atsa taho boai 
+iwitibi chonchonman chonchonman atsa taho boai atsa taho boai 
+baokiki baokiki chan chanki iki
+\tx chonchonman     chonchonman     moa    atsa
+\mb chonchon =n     chonchon =n     moa    atsa
+\gn pájaro  =ERG   pájaro  =ERG   ya(SK) yuca
+\ps n.       =clit. n.       =clit. adv    n.
+
+\tx taho         boai             paro            palo
+\mb taho         bo     -ai       paro            palo
+\gn palo.de.yuca llevar -IMPF(SK) río.grande(SK) palo
+\ps n.           v.ambi -suf.     n.              n.
+
+\tx ribi          iwiribi          chonchonman
+\mb *   =ribi     iwi    =ribi     chonchon =n
+\gn *** =también árbol =también pájaro  =ERG
+\ps *** =clit.    n.     =clit.    n.       =clit.
+
+\tx moa    atsa taho         boai
+\mb moa    atsa taho         bo     -ai
+\gn ya(SK) yuca palo.de.yuca llevar -NOMLZ(SK)
+\ps adv    n.   n.           v.ambi -suf.
+
+\tx chonchonman     moa    atsa taho
+\mb chonchon =n     moa    atsa taho
+\gn pájaro  =ERG   ya(SK) yuca palo.de.yuca
+\ps n.       =clit. adv    n.   n.
+
+\tx boai              iwitibi
+\mb bo     -ai        iwi    -ti    =bi
+\gn llevar -NOMLZ(SK) árbol -NOMLZ =ENF
+\ps v.ambi -suf.      n.     -suf.  =clit.
+
+\tx chonchonman     chonchonman     atsa
+\mb chonchon =n     chonchon =n     atsa
+\gn pájaro  =ERG   pájaro  =ERG   yuca
+\ps n.       =clit. n.       =clit. n.
+
+\tx taho         boai              atsa taho
+\mb taho         bo     -ai        atsa taho
+\gn palo.de.yuca llevar -NOMLZ(SK) yuca palo.de.yuca
+\ps n.           v.ambi -suf.      n.   n.
+
+\tx boai              baokiki         baokiki
+\mb bo     -ai        baokiki         baokiki
+\gn llevar -NOMLZ(SK) hacer.bulla(SK) hacer.bulla(SK)
+\ps v.ambi -suf.      v.              v.
+
+\tx chanchankiki
+\mb chanchankiki
+\gn ruido.entre.varios
+\ps v.
+
+\ft el pajarito se lleva el palo de yuca, el pajarito se lleva el 
+palo, todos hablaban hasta los árboles todos gritaban el pajarito 
+se lleva el palo de yuca
+\sound JC.NC.IC-los.mezquinos-2013.wav 237.980 253.190
+
+\ref 089
+\ELANBegin 254.120
+\ELANEnd 255.320
+\ELANParticipant Juanita
+\trs ibi
+\tx ibi
+\mb ibi
+\gn palo
+\ps n.
+
+\ft palo
+\sound JC.NC.IC-los.mezquinos-2013.wav 254.120 255.320
+
+\ref 090
+\ELANBegin 256.415
+\ELANEnd 257.575
+\ELANParticipant Isabel
+\trs iwikai banai
+\tx iwikai        banai
+\mb iwi    =kai   banai
+\gn árbol =RESO  hablar
+\ps n.     =clit. v.
+
+\ft ¿hablaban los árboles?
+\sound JC.NC.IC-los.mezquinos-2013.wav 256.415 257.575
+
+\ref 091
+\ELANBegin 257.780
+\ELANEnd 261.780
+\ELANParticipant Juanita
+\trs iwiki banaya ma iwiki banaya yoweyaton koshoni iki banayamai
+\tx iwiki         banaya        ma  iwiki
+\mb iwi    =ki    bana   =ya    ma  iwi    =ki
+\gn árbol =INT   hablar =PROP  ya  árbol =REP
+\ps n.     =clit. v.tran =clit. adv n.     =clit.
+
+\tx banaya        yoweyaton
+\mb bana   =ya    yoweya     =n
+\gn hablar =PROP  shaman(SK) =ERG
+\ps v.tran =clit. n.         =clit.
+
+\tx koshoni         iki
+\mb koshoi -ni      ik      -i
+\gn soplar -PAS.REM copula  -IMPF
+\ps v.     -suf     v.intr. -suf.
+
+\tx banayamai
+\mb banai  -yama    -i
+\gn hablar -NEG(SK) -NOMLZ
+\ps v.tran -suf.    -suf.
+
+\ft los àrboles hablaban, los árboles hablaban, cuando los sopló el 
+brujo dejaron de hablar
+\sound JC.NC.IC-los.mezquinos-2013.wav 257.780 261.780
+
+\ref 092
+\ELANBegin 264.160
+\ELANEnd 271.330
+\ELANParticipant Juanita
+\trs non paiaki ayó mika kate tekeai  ea mi kate tekei iwi
+\tx non         paiaki                        ayó   mika           kate    tekeai            ea          mi      kate    tekei         iwi
+\mb no   =n     pai              -a    =ki    ayó   mi      =ka    kate    teke    -ai       ea          mi      kate    teke    -i    iwi
+\gn 1PL  =ERG   pisar.con.el.pie -PERF =REP   dolor  2SG:ABS =NAR   espalda quebrar -IMPF(SK) 1SG.ABS(SK) 2SG:ABS espalda quebrar -IMPF árbol
+\ps pron =clit. v.               -suf. =clit. inter. pron    =clit. n.      v.      -suf.     pron.       pron    n.      v.      -suf. n.
+
+\ft los árboles se quejaban cuando los pisabamos: "me estás quebrando 
+la espalda, me estás quebrando la espalda".
+\sound JC.NC.IC-los.mezquinos-2013.wav 264.160 271.330
+
+\ref 093
+\ELANBegin 272.140
+\ELANEnd 273.180
+\ELANParticipant Juanita
+\trs na paro
+\tx na   paro
+\mb na   palo
+\gn este palo
+\ps dem. n.
+
+\ft este palo
+\sound JC.NC.IC-los.mezquinos-2013.wav 272.140 273.180
+
+\ref 094
+\ELANBegin 274.390
+\ELANEnd 280.250
+\ELANParticipant Juanita
+\trs ainka iki banakin atsa banai nato kai chonchonma atsa taho 
+behoanki oinkin
+\tx ainka                iki           banakin            atsa banai              nato     kai               chonchonma      atsa taho         behoanki                  oinkin
+\mb ain           =ka    ik      -i    bana    -kin       atsa bana    -i         nato     ka     -i         chonchon =n     atsa taho         be     -hon  -a    =ki    oin    -kin
+\gn entonces(MIX) =NAR   copula  -IMPF sembrar -SUJ>A:SIM yuca sembrar -SUJ>S:SIM este(SK) ir     -SUJ>S:SIM pájaro  =ERG   yuca palo.de.yuca traer  -BEN  -PERF =REP   ver    -SUJ>A:SIM
+\ps conec.        =clit. v.intr. -suf. v.tran  -suf.      n.   v.tran  -suf.      dem.     v.intr -suf.      n.       =clit. n.   n.           v.tran -suf. -suf. =clit. v.ambi -suf.
+
+\ft mira, el pájarito ha traído ese palo de yuca, vamos a sembrar
+\sound JC.NC.IC-los.mezquinos-2013.wav 274.390 280.250
+
+\ref 095
+\ELANBegin 281.250
+\ELANEnd 283.450
+\ELANParticipant Juanita
+\trs chinihikobain chibibi ka
+\tx chinihikobain
+\mb chini     -hoko -bain
+\gn hueco(SK) -DIM  -yendo:TRAN
+\ps n.        -suf  -suf.
+
+\tx chibibi      ka
+\mb chibi =bi    ka
+\gn patio =ENF   ir
+\ps n.    =clit. v.intr
+
+\ft hizo un huequito en su patio mismo
+\sound JC.NC.IC-los.mezquinos-2013.wav 281.250 283.450
+
+\ref 096
+\ELANBegin 283.749
+\ELANEnd 284.557
+\ELANParticipant Juanita
+\trs ainka aka
+\tx ainka            aka
+\mb ain       =ka    ak      -a
+\gn ahí(MIX) =NAR   hacer   -PERF
+\ps adv.      =clit. v.tran. -suf.
+
+\ft ahi mismo lo hizo
+\sound JC.NC.IC-los.mezquinos-2013.wav 283.749 284.557
+
+\ref 097
+\ELANBegin 285.015
+\ELANEnd 286.045
+\ELANParticipant Juanita
+\trs kahe chibi bana
+\tx kahe chibi bana
+\mb kahe chibi bana    -a
+\gn casa patio sembrar -PERF
+\ps n.   n.    v.tran  -suf.
+
+\ft sembró en el patio de la casa
+\sound JC.NC.IC-los.mezquinos-2013.wav 285.015 286.045
+
+\ref 098
+\ELANBegin 288.009
+\ELANEnd 291.636
+\ELANParticipant Juanita
+\trs hara onkonbirai oinon
+\tx hara
+\mb ha      =ra
+\gn ese(SK) =EVID1(SK)
+\ps dem     =clit.
+
+\tx onkonbirai                oinon
+\mb onkon  =bira   -i         oin    -non
+\gn brotar =nomás -SUJ>S:SIM ver    -PROP
+\ps v.     =clit.  -suf.      v.ambi -suf.
+
+\ft vamos a ver a crecido un poco
+\sound JC.NC.IC-los.mezquinos-2013.wav 288.009 291.636
+
+\ref 099
+\ELANBegin 291.909
+\ELANEnd 297.414
+\ELANParticipant Juanita
+\trs moara onkonbira mara ikai xoxoai moara onkon riki
+\tx moara             onkonbira      mara
+\mb moa    =ra        onkon  =bira   ma  =ra
+\gn ya(SK) =EVID1(SK) brotar =nomás ya  =EVID1(SK)
+\ps adv    =clit.     v.     =clit.  adv =clit.
+
+\tx ikai              xoxoai
+\mb ik      -ai       xoxo       -ai
+\gn copula  -IMPF(SK) brotar(SK) -IMPF(SK)
+\ps v.intr. -suf.     v.         -suf.
+
+\tx moara             onkon  riki
+\mb moa    =ra        onkon  riki
+\gn ya(SK) =EVID1(SK) brotar COP(SK)
+\ps adv    =clit.     v.     part.
+
+\ft ya está creciendo, ya esta creciendo
+\sound JC.NC.IC-los.mezquinos-2013.wav 291.909 297.414
+
+\ref 100
+\ELANBegin 298.302
+\ELANEnd 300.180
+\ELANParticipant Juanita
+\trs maspoai maspoai
+\tx maspoai       maspoai
+\mb maspoa  -i    maspoa  -i
+\gn ocultar -IMPF ocultar -IMPF
+\ps v.      -suf. v.      -suf.
+
+\ft lo enterraba, lo enterraba
+\sound JC.NC.IC-los.mezquinos-2013.wav 298.302 300.180
+
+\ref 101
+\ELANBegin 303.029
+\ELANEnd 313.202
+\ELANParticipant Juanita
+\trs kimisha nete oina natoti ma ani mara atsa xoxoa iki moara onkonke 
+taho ma banahonki
+\tx kimisha  nete oina         natoti          ma
+\mb kimisha  nete oin    -a    nato     -ti    ma
+\gn tres(SK) dia  ver    -PERF este(SK) -NOMLZ ya
+\ps num.     n.   v.ambi -suf. dem.     -suf.  adv
+
+\tx ani        mara           atsa xoxoa
+\mb ani        ma  =ra        atsa xoxo       -a
+\gn grande(SK) ya  =EVID1(SK) yuca brotar(SK) -PERF
+\ps adj.       adv =clit.     n.   v.         -suf.
+
+\tx iki           moara
+\mb ik      -i    moa    =ra
+\gn copula  -IMPF ya(SK) =EVID1(SK)
+\ps v.intr. -suf. adv    =clit.
+
+\tx onkonke           taho
+\mb onkon  -ke        taho
+\gn brotar -NOMLZ(SK) palo.de.yuca
+\ps v.     -suf.      n.
+
+\tx ma  banahonki
+\mb ma  bana    -hon       =ki
+\gn ya  sembrar -SUJ>A:SIM =REP
+\ps adv v.tran  -suf.      =clit.
+
+\ft después de tres días lo volvió a ver y ya estaba crecido, el 
+tallo ya estaba crecido después de que lo habían sembrado.
+\sound JC.NC.IC-los.mezquinos-2013.wav 303.029 313.202
+
+\ref 102
+\ELANBegin 313.570
+\ELANEnd 316.140
+\ELANParticipant Juanita
+\trs wetsahako taho yoashi iboki yoashi
+\tx wetsahako      taho         yoashi                   iboki         yoashi
+\mb wetsa    -hoko taho         yoashi        -i         ibo    =ki    yoashi        -i
+\gn otro(SK) -DIM  palo.de.yuca mezquinar(SK) -SUJ>S:SIM dueño =REP   mezquinar(SK) -SUJ>S:SIM
+\ps adj.     -suf  n.           v.            -suf.      n.     =clit. v.            -suf.
+
+\ft el dueño le mezquina otra ramita.
+\sound JC.NC.IC-los.mezquinos-2013.wav 313.570 316.140
+
+\ref 103
+\ELANBegin 319.250
+\ELANEnd 322.750
+\ELANParticipant Juanita
+\trs eahka ibo iki eahka ibo mato meninon
+\tx eahka        ibo    iki           eahka        ibo
+\mb eah   =ka    ibo    ik      -i    eah   =ka    ibo
+\gn 1SG:S =NAR   dueño copula  -IMPF 1SG:S =NAR   dueño
+\ps pron. =clit. n.     v.intr. -suf. pron. =clit. n.
+
+\tx mato    meninon
+\mb mato    meni -non
+\gn 2PL(SK) dar  -PROP
+\ps pron.   v.   -suf.
+
+\ft "yo soy el dueño (de la yuca) y vamos a repartir con ustedes
+\sound JC.NC.IC-los.mezquinos-2013.wav 319.250 322.750
+
+\ref 104
+\ELANBegin 323.454
+\ELANEnd 326.494
+\ELANParticipant Juanita
+\trs atsa rabé atsa taho meninon banake
+\tx atsa rabé   atsa taho         meninon
+\mb atsa rabé   atsa taho         meni -non
+\gn yuca dos(SK) yuca palo.de.yuca dar  -PROP
+\ps n.   num.    n.   n.           v.   -suf.
+
+\tx banake
+\mb bana    -ke
+\gn sembrar -PERF(SK)
+\ps v.tran  -suf.
+
+\ft "vamos a repartir de dos en dos" y sembró
+\sound JC.NC.IC-los.mezquinos-2013.wav 323.454 326.494
+
+\ref 105
+\ELANBegin 330.540
+\ELANEnd 334.590
+\ELANParticipant Juanita
+\trs banake pishina ma ana mas kainma atsa kainma
+\tx banake            pishina             ma  ana
+\mb bana    -ke       pi      -shina      ma  ana
+\gn sembrar -PERF(SK) comer   -PAS.semana ya  otra.vez
+\ps v.tran  -suf.     v.tran. -suf.       adv adv.
+
+\tx ma  kainma                   atsa
+\mb ma  kain         -ma   -a    atsa
+\gn ya  aumentar(SK) -CAUS -PERF yuca
+\ps adv v.           -suf. -suf. n.
+
+\tx kainma
+\mb kain         -ma   -a
+\gn aumentar(SK) -CAUS -PERF
+\ps v.           -suf. -suf.
+
+\ft comieron lo que habían sembrado y después volvieron a sembrar y 
+aumentó mucho la yuca.
+\sound JC.NC.IC-los.mezquinos-2013.wav 330.540 334.590
+
+\ref 106
+\ELANBegin 335.590
+\ELANEnd 336.400
+\ELANParticipant Juanita
+\trs atsa kainmahon
+\tx atsa kainmahon
+\mb atsa kain         -ma   -hon
+\gn yuca aumentar(SK) -CAUS -SUJ>A:SIM
+\ps n.   v.           -suf. -suf.
+
+\ft le hicieron aumentar mucho
+\sound JC.NC.IC-los.mezquinos-2013.wav 335.590 336.400
+
+\ref 107
+\ELANBegin 336.410
+\ELANEnd 336.980
+\ELANParticipant Isabel
+\trs ma peka
+\tx ma  peka
+\mb ma  peka     -a
+\gn ya  aumentar -PERF
+\ps adv v.       -suf.
+
+\ft ya era bastante
+\sound JC.NC.IC-los.mezquinos-2013.wav 336.410 336.980
+
+\ref 108
+\ELANBegin 337.210
+\ELANEnd 346.090
+\ELANParticipant Juanita
+\trs atsa peka atsa peka atsa peka aki wetsaribi wai aka iki wai aka iki 
+atsa bana taho korosikibaina
+\tx atsa peka           atsa peka           atsa peka           aki                    wetsaribi          wai    aka            iki           wai    aka            iki           atsa bana          taho         korosikibaina
+\mb atsa peka     -a    atsa peka     -a    atsa peka     -a    ak          -i         wetsa    =ribi     wai    ak      -a     ik      -i    wai    ak      -a     ik      -i    atsa bana    -a    taho         korosiki                         -bain       -a
+\gn yuca aumentar -PERF yuca aumentar -PERF yuca aumentar -PERF decir(TRAN) -SUJ>S:SIM otro(SK) =también chacra hacer   -NOMLZ copula  -IMPF chacra hacer   -NOMLZ copula  -IMPF yuca sembrar -PERF palo.de.yuca plantar.muchos.arboles.en.línea -yendo:TRAN -PERF
+\ps n.   v.       -suf. n.   v.       -suf. n.   v.       -suf. v.tran.     -suf.      adj.     =clit.    n.     v.tran. -suf.  v.intr. -suf. n.     v.tran. -suf.  v.intr. -suf. n.   v.tran  -suf. n.           v.                               -suf.       -suf.
+
+\ft hicieron aumentar la yuca, también hicieron más chacras, ya había 
+un montón de . palo de yuca
+\sound JC.NC.IC-los.mezquinos-2013.wav 337.210 346.090
+
+\ref 109
+\ELANBegin 337.420
+\ELANEnd 338.730
+\ELANParticipant Isabel
+\trs pekake kaiman
+\tx pekake              kaiman
+\mb peka     -ke        kai{v.}      =ma{clit.} =n
+\gn aumentar -NOMLZ(SK) aumentar(SK) =NEG
+\ps v.       -suf.
+
+\ft aumentar, no aumentar (discusión de la palabra isconahua)
+\sound JC.NC.IC-los.mezquinos-2013.wav 337.420 338.730
+
+\ref 110
+\ELANBegin 346.940
+\ELANEnd 349.260
+\ELANParticipant Juanita
+\trs chonchonma noa yoa pekamaki
+\tx chonchonma      noa   yoa
+\mb chonchon =n     noa   yoa
+\gn pájaro  =ERG   1PL.P comida.vegetal(SK)
+\ps n.       =clit. pron. n.
+
+\tx pekamaki
+\mb peka     -ma   =ki
+\gn aumentar -CAUS =REP
+\ps v.       -suf. =clit.
+
+\ft el chonchon hizo aumentar nuestro alimento
+\sound JC.NC.IC-los.mezquinos-2013.wav 346.940 349.260
+
+\ref 111
+\ELANBegin 350.065
+\ELANEnd 351.305
+\ELANParticipant Juanita
+\trs nonki awa atiki
+\tx nonki
+\mb no   =n     =ki
+\gn 1PL  =ERG   =INT
+\ps pron =clit. =clit.
+
+\tx awa  atiki
+\mb awa  ak      -ti    =ki
+\gn qué hacer   -NOMLZ =ALA
+\ps int. v.tran. -suf.  =clit.
+
+\ft ¿qué vamos a hacer nosotros?
+\sound JC.NC.IC-los.mezquinos-2013.wav 350.065 351.305
+
+\ref 112
+\ELANBegin 352.300
+\ELANEnd 353.340
+\ELANParticipant Juanita
+\trs retetimari
+\tx retetimari
+\mb rete      -ti    ma  =ri
+\gn matar(SK) -NOMLZ ya  =COP.INT
+\ps v.        -suf.  adv =clit
+
+\ft ¿lo mataremos?
+\sound JC.NC.IC-los.mezquinos-2013.wav 352.300 353.340
+
+\ref 113
+\ELANBegin 354.110
+\ELANEnd 356.520
+\ELANParticipant Juanita
+\trs ato animaribo kenamatimari
+\tx ato   animaribo     kenamatimari
+\mb ato   animari =bo   kena   -ma   -ti    ma  =ri
+\gn 3PL   animal  =PLU  llamar -CAUS -NOMLZ ya  =COP.INT
+\ps pron. n.      =clit v.     -suf. -suf.  adv =clit
+
+\ft ¿haremos llamar a los animales?
+\sound JC.NC.IC-los.mezquinos-2013.wav 354.110 356.520
+
+\ref 114
+\ELANBegin 357.410
+\ELANEnd 358.350
+\ELANParticipant Juanita
+\trs kena yoweyatonki
+\tx kena   yoweyatonki
+\mb kena   yoweya     =n     =ki
+\gn llamar shaman(SK) =ERG   =REP
+\ps v.     n.         =clit. =clit.
+
+\ft El brujo los llamó
+\sound JC.NC.IC-los.mezquinos-2013.wav 357.410 358.350
+
+\ref 115
+\ELANBegin 362.345
+\ELANEnd 362.805
+\ELANParticipant Isabel
+\trs yoshian
+\tx yoshian
+\mb yoshian
+\gn brujo
+\ps n.
+
+\ft brujo
+\sound JC.NC.IC-los.mezquinos-2013.wav 362.345 362.805
+
+\ref 116
+\ELANBegin 362.530
+\ELANEnd 366.590
+\ELANParticipant Juanita
+\trs amen kenamahontawe amen amen yoi amen yoi
+\tx amen    kenamahontawe                     amen    amen    yoi        amen    yoi
+\mb amen    kena   -ma   -hon  -tan  -we      amen    amen    yoi        amen    yoi
+\gn ronsoco llamar -CAUS -BEN  -ANDA -IMP(SK) ronsoco ronsoco llamar(SK) ronsoco llamar(SK)
+\ps n.      v.     -suf. -suf. -suf. -suf.    n.      n.      v.tran.    n.      v.tran.
+
+\ft anda haz llamar al ronsoco, llama al ronsoco, llama al ronsoco
+\sound JC.NC.IC-los.mezquinos-2013.wav 362.530 366.590
+
+\ref 117
+\ELANBegin 367.620
+\ELANEnd 370.350
+\ELANParticipant Juanita
+\trs amen res res res akin
+\tx amen    res    res    res
+\mb amen    res    res    res
+\gn ronsoco cortar cortar cortar
+\ps n.      ideo.  ideo.  ideo.
+
+\tx akin
+\mb ak      -kin
+\gn hacer   -SUJ>A:SIM
+\ps v.tran. -suf.
+
+\ft el ronsoco hizo camino cortando las ramas (del monte de la casa 
+del mezquino)
+\sound JC.NC.IC-los.mezquinos-2013.wav 367.620 370.350
+
+\ref 118
+\ELANBegin 373.798
+\ELANEnd 376.970
+\ELANParticipant Juanita
+\trs ea wakamarina yoihontanwe
+\tx ea          wakamarina  yoihontanwe
+\mb ea          wakamarina  yoi        -hon  -tan  -we
+\gn 1SG.ABS(SK) vaca.marina llamar(SK) -BEN  -ANDA -IMP(SK)
+\ps pron.       n.          v.tran.    -suf. -suf. -suf.
+
+\ft a mi hazmela llamar al manatí (vaca marina)
+\sound JC.NC.IC-los.mezquinos-2013.wav 373.798 376.970
+
+\ref 119
+\ELANBegin 377.538
+\ELANEnd 378.427
+\ELANParticipant Juanita
+\trs wakamarina
+\tx wakamarina
+\mb wakamarina
+\gn vaca.marina
+\ps n.
+
+\ft manatí
+\sound JC.NC.IC-los.mezquinos-2013.wav 377.538 378.427
+
+\ref 120
+\ELANBegin 379.160
+\ELANEnd 380.710
+\ELANParticipant Juanita
+\trs ayama res ayama res
+\tx ayama                  res
+\mb ak      -yama    -a    res
+\gn hacer   -NEG(SK) -PERF cortar
+\ps v.tran. -suf.    -suf. ideo.
+
+\tx ayama                  res
+\mb ak      -yama    -a    res
+\gn hacer   -NEG(SK) -PERF cortar
+\ps v.tran. -suf.    -suf. ideo.
+
+\ft no puede, no puede (hacer trocha)
+\sound JC.NC.IC-los.mezquinos-2013.wav 379.160 380.710
+
+\ref 121
+\ELANBegin 381.990
+\ELANEnd 383.450
+\ELANParticipant Juanita
+\trs ea ene shirinwa yoihontanwen
+\tx ea
+\mb ea
+\gn 1SG.ABS(SK)
+\ps pron.
+
+\tx ene shirinwa   yoihontanwen
+\mb ene shirinwa   yoi{v.tran.} -hon{suf.} -tan{suf.} -we{suf.} =n
+\gn animal.mágico llamar(SK)   -BEN       -ANDA      -IMP(SK)
+\ps n.
+
+\ft llamame al enershirinwa (animal mágico)
+\sound JC.NC.IC-los.mezquinos-2013.wav 381.990 383.450
+
+\ref 122
+\ELANBegin 384.600
+\ELANEnd 394.840
+\ELANParticipant Juanita
+\trs ene shirinwa oke akari res res res res neke res res res res neke 
+res res res res kahe pekao res res res res manishki ma moha
+\tx ene shirinwa   oke             akari
+\mb ene shirinwa   o     -ke       a   =ka    =ri
+\gn animal.mágico venir -PERF(SK) ese =NAR   =CON
+\ps n.             v.    -suf.     dem =clit. =clit
+
+\tx res    res    res    res    neke         res    res
+\mb res    res    res    res    neke         res    res
+\gn cortar cortar cortar cortar de.este.lado cortar cortar
+\ps ideo.  ideo.  ideo.  ideo.  adv.         ideo.  ideo.
+
+\tx res    res    neke         res    res    res    res
+\mb res    res    neke         res    res    res    res
+\gn cortar cortar de.este.lado cortar cortar cortar cortar
+\ps ideo.  ideo.  adv.         ideo.  ideo.  ideo.  ideo.
+
+\tx kahe pekao       res    res    res    res    manishki
+\mb kahe pekao       res    res    res    res    manish =ki
+\gn casa detrás(SK) cortar cortar cortar cortar monte  =REP
+\ps n.   post.       ideo.  ideo.  ideo.  ideo.  n.     =clit.
+
+\tx ma  moha
+\mb ma  moha
+\gn ya  espina
+\ps adv n.
+
+\ft él sí vino a cortar acá res res res res res res res res res, 
+hasta detrás de la casa, el monte tenía muchas espinas
+\sound JC.NC.IC-los.mezquinos-2013.wav 384.600 394.840
+
+\ref 123
+\ELANBegin 396.560
+\ELANEnd 397.460
+\ELANParticipant Juanita
+\trs poro mohabires
+\tx poro mohabires
+\mb poro moha   =bi    -res
+\gn pura espina =ENF   -solamente
+\ps n.   n.     =clit. -suf.
+
+\ft pura espina
+\sound JC.NC.IC-los.mezquinos-2013.wav 396.560 397.460
+
+\ref 124
+\ELANBegin 399.580
+\ELANEnd 401.420
+\ELANParticipant Juanita
+\trs hetimana moha hetimana
+\tx hetimana         moha   hetimana
+\mb heti   ma  -anan moha   heti   ma  -anan
+\gn cerrar ya  -MAL  espina cerrar ya  -MAL
+\ps v.     adv -suf  n.     v.     adv -suf
+
+\ft bien cerrado de espinas, bien cerrado
+\sound JC.NC.IC-los.mezquinos-2013.wav 399.580 401.420
+
+\ref 125
+\ELANBegin 403.403
+\ELANEnd 404.756
+\ELANParticipant Juanita
+\trs nete xaba
+\tx nete xaba
+\mb nete xaba
+\gn dia  libre(SK)
+\ps n.   adj.
+
+\ft al amanecer
+\sound JC.NC.IC-los.mezquinos-2013.wav 403.403 404.756
+
+\ref 126
+\ELANBegin 405.680
+\ELANEnd 409.700
+\ELANParticipant Juanita
+\trs nete xaba iti pehnebeitiki kake
+\tx nete xaba      iti            pehnebeitiki                  kake
+\mb nete xaba      ik      -ti    pehnebe   -i    -ti    =ki    ka     -ke
+\gn dia  libre(SK) copula  -NOMLZ amanecer. -IMPF -NOMLZ =REP   ir     -PERF(SK)
+\ps n.   adj.      v.intr. -suf.  v.intr.   -suf. -suf.  =clit. v.intr -suf.
+
+\ft al día siguiente, al día siguiente fueron
+\sound JC.NC.IC-los.mezquinos-2013.wav 405.680 409.700
+
+\ref 127
+\ELANBegin 410.545
+\ELANEnd 411.175
+\ELANParticipant Juanita
+\trs oinon kawe
+\tx oinon        kawe
+\mb oin    -non  ka     -we
+\gn ver    -PROP ir     -IMP(SK)
+\ps v.ambi -suf. v.intr -suf.
+
+\ft "vamos a ver"
+\sound JC.NC.IC-los.mezquinos-2013.wav 410.545 411.175
+
+\ref 128
+\ELANBegin 411.735
+\ELANEnd 412.195
+\ELANParticipant Juanita
+\trs oinon katan
+\tx oinon        katan
+\mb oin    -non  ka     -tan
+\gn ver    -PROP ir     -ANDA
+\ps v.ambi -suf. v.intr -suf.
+
+\ft "vamos a ver"
+\sound JC.NC.IC-los.mezquinos-2013.wav 411.735 412.195
+
+\ref 129
+\ELANBegin 413.220
+\ELANEnd 414.355
+\ELANParticipant Juanita
+\trs naton miah katanwe
+\tx naton       miah
+\mb na   =n     miah
+\gn este =LOC   2SG:S
+\ps dem. =clit. pron.
+
+\tx katanwe
+\mb ka     -tan  -we
+\gn ir     -ANDA -IMP(SK)
+\ps v.intr -suf. -suf.
+
+\ft "por allá anda tú"
+\sound JC.NC.IC-los.mezquinos-2013.wav 413.220 414.355
+
+\ref 130
+\ELANBegin 414.885
+\ELANEnd 416.095
+\ELANParticipant Juanita
+\trs neke eah kawantanon miah kawe
+\tx neke         eah   kawantanon
+\mb neke         eah   ka     -wan  -tan  -non
+\gn de.este.lado 1SG:S ir     -INT  -ANDA -PROP
+\ps adv.         pron. v.intr -suf. -suf. -suf.
+
+\tx miah  kawe
+\mb miah  ka     -we
+\gn 2SG:S ir     -IMP(SK)
+\ps pron. v.intr -suf.
+
+\ft por acá iré yo, tú anda por allá
+\sound JC.NC.IC-los.mezquinos-2013.wav 414.885 416.095
+
+\ref 131
+\ELANBegin 417.980
+\ELANEnd 422.710
+\ELANParticipant Juanita
+\trs awen poibo ka iki oke witsa keheke
+\tx awen    poibo                       ka
+\mb awen    poi                   =bo   ka     -a
+\gn 3SG:GEN hermano.de.hombre(SK) =PLU  ir     -NOMLZ
+\ps pron    n.                    =clit v.intr -suf.
+
+\tx iki                oke               witsa
+\mb ik      -i         oke               witsa
+\gn copula  -SUJ>S:SIM por.otro.lado(SK) otro
+\ps v.intr. -suf.      adv.              adj.
+
+\tx keheke
+\mb kehe     -ke
+\gn escuchar -PERF(SK)
+\ps v.ambi   -suf.
+
+\ft era los hermanos legítimos de la dueña, llegaron y se escondieron 
+entre varios
+\sound JC.NC.IC-los.mezquinos-2013.wav 417.980 422.710
+
+\ref 132
+\ELANBegin 424.735
+\ELANEnd 427.010
+\ELANParticipant Juanita
+\trs awe akin ea ea maton parain
+\tx awe    akin ea
+\mb awe akin    ea
+\gn por.qué    1SG.ABS(SK)
+\ps int.        pron.
+
+\tx ea          maton   parain
+\mb ea          maton   paran    -i
+\gn 1SG.ABS(SK) 2SG:ERG engañar -IMPF
+\ps pron.       pron.   v.       -suf.
+
+\ft ¿por qué ustedes me han engañado?
+\sound JC.NC.IC-los.mezquinos-2013.wav 424.735 427.010
+
+\ref 133
+\ELANBegin 427.445
+\ELANEnd 428.585
+\ELANParticipant Juanita
+\trs nokon poi awin ahonbi
+\tx nokon       poi                   awin
+\mb nokon       poi                   awin
+\gn 1SG.GEN(SK) hermano.de.hombre(SK) esposa
+\ps pron        n.                    n.
+
+\tx ahonbi
+\mb ak      -hon  =bi
+\gn hacer   -BEN  =ENF
+\ps v.tran. -suf. =clit.
+
+\ft aunque te has casado con mi hermana
+\sound JC.NC.IC-los.mezquinos-2013.wav 427.445 428.585
+
+\ref 134
+\ELANBegin 429.150
+\ELANEnd 431.770
+\ELANParticipant Juanita
+\trs nokon nane awin ahonbi ea mi parain chain
+\tx nokon       nane    awin   ahonbi
+\mb nokon       nane    awin   ak      -hon  =bi
+\gn 1SG.GEN(SK) hermana esposa hacer   -BEN  =ENF
+\ps pron        n.      n.     v.tran. -suf. =clit.
+
+\tx ea          mi      parain         chain
+\mb ea          mi      paran    -i    chai    =n
+\gn 1SG.ABS(SK) 2SG:ABS engañar -IMPF cuñado =VOC
+\ps pron.       pron    v.       -suf. n.      =clit.
+
+\ft 
+
+\ft el pajarito se lleva el palo de yuca, tú me has engañado, cuñado.
+
+\sound JC.NC.IC-los.mezquinos-2013.wav 429.150 431.770
+
+\ref 135
+\ELANBegin 432.095
+\ELANEnd 433.825
+\ELANParticipant Juanita
+\trs ea mi parain ka ea mispain
+\tx ea          mi      parain         ka
+\mb ea          mi      paran    -i    ka     -a
+\gn 1SG.ABS(SK) 2SG:ABS engañar -IMPF ir     -PERF
+\ps pron.       pron    v.       -suf. v.intr -suf.
+
+\tx ea          mispain
+\mb ea          mi      -s    -pain
+\gn 1SG.ABS(SK) 2SG:ABS -VERB -todavía
+\ps pron.       pron    -suf. -suf.
+
+\ft tú me has engañado, me has faltado al respeto
+\sound JC.NC.IC-los.mezquinos-2013.wav 432.095 433.825
+
+\ref 136
+\ELANBegin 437.330
+\ELANEnd 441.140
+\ELANParticipant Juanita
+\trs witsa chao bitsa chao awen poi iki to
+\tx witsa chao  witsa chao  awen    poi                   iki           to
+\mb witsa chao  witsa chao  awen    poi                   ik      -i    *to
+\gn otro  golpe otro  golpe 3SG:GEN hermano.de.hombre(SK) copula  -IMPF ***
+\ps adj.  ideo. adj.  ideo. pron    n.                    v.intr. -suf. ***
+
+\ft (otro golpe)(otro golpe) a su hermana la golpeó
+\sound JC.NC.IC-los.mezquinos-2013.wav 437.330 441.140
+
+\ref 137
+\ELANBegin 443.930
+\ELANEnd 444.240
+\ELANParticipant Isabel
+\trs marepake
+\tx marepake
+\mb mare  -pake
+\gn matar -completamente
+\ps v.    -suf.
+
+\ft la mató
+\sound JC.NC.IC-los.mezquinos-2013.wav 443.930 444.240
+
+\ref 138
+\ELANBegin 444.710
+\ELANEnd 449.620
+\ELANParticipant Juanita
+\trs marepakeki marepake ati kiskesaka ma kiskesa
+\tx marepakeki                  marepake
+\mb mare  -pake          =ki    mare  -pake
+\gn matar -completamente =REP   matar -completamente
+\ps v.    -suf.          =clit. v.    -suf.
+
+\tx ati            kiskesaka                   ma
+\mb ak      -ti    kiske    -s    -a    =ka    ma
+\gn hacer   -NOMLZ eliminar -VERB -PERF =NAR   ya
+\ps v.tran. -suf.  v.       -suf. -suf. =clit. adv
+
+\tx kiskesa
+\mb kiske    -s    -a
+\gn eliminar -VERB -PERF
+\ps v.       -suf. -suf.
+
+\ft los mató a todos, los eliminó
+\sound JC.NC.IC-los.mezquinos-2013.wav 444.710 449.620
+
+\ref 139
+\ELANBegin 445.030
+\ELANEnd 445.570
+\ELANParticipant Nelita
+\trs marepake
+\tx marepake
+\mb mare  -pake
+\gn matar -completamente
+\ps v.    -suf.
+
+\ft los mató
+\sound JC.NC.IC-los.mezquinos-2013.wav 445.030 445.570
+
+\ref 140
+\ELANBegin 448.200
+\ELANEnd 448.860
+\ELANParticipant Isabel
+\trs ma kiskesa
+\tx ma  kiskesa
+\mb ma  kiske    -s    -a
+\gn ya  eliminar -VERB -PERF
+\ps adv v.       -suf. -suf.
+
+\ft los eliminó a todos
+\sound JC.NC.IC-los.mezquinos-2013.wav 448.200 448.860
+
+\ref 141
+\ELANBegin 450.135
+\ELANEnd 451.885
+\ELANParticipant Juanita
+\trs akopika yoa pekahon pimis
+\tx akopika                   yoa
+\mb ako      - pi      =ka    yoa
+\gn ishpingo - comer   =NAR   comida.vegetal(SK)
+\ps n.       - v.tran. =clit. n.
+
+\tx pekahon              pimis
+\mb peka     -a    -hon  pi      -i    -mis
+\gn aumentar -PERF -BEN  comer   -IMPF -PAS.HAB.
+\ps v.       -suf. -suf. v.tran. -suf. -suf.
+
+\ft por eso, aumentando la comida, comieron
+\sound JC.NC.IC-los.mezquinos-2013.wav 450.135 451.885
+
+\ref 142
+\ELANBegin 454.670
+\ELANEnd 457.210
+\ELANParticipant Juanita
+\trs yoa omaki eweah betin yoa omaki eweah betin
+\tx yoa                omaki
+\mb yoa                oma           =ki
+\gn comida.vegetal(SK) chicha.fuerte =REP
+\ps n.                 n.            =clit.
+
+\tx eweah             betin
+\mb ewe    -ah        be{v.tran} -ti{suf.} =n
+\gn vivir  -SUJ>S:SIM traer      -NOMLZ
+\ps v.intr -suf.
+
+\tx yoa                omaki
+\mb yoa                oma           =ki
+\gn comida.vegetal(SK) chicha.fuerte =REP
+\ps n.                 n.            =clit.
+
+\tx eweah             betin
+\mb ewe    -ah        be{v.tran} -ti{suf.} =n
+\gn vivir  -SUJ>S:SIM traer      -NOMLZ
+\ps v.intr -suf.
+
+\ft los iskonawas no tenían comida, los iskonawa no tenían comida
+\sound JC.NC.IC-los.mezquinos-2013.wav 454.670 457.210
+
+\ref 143
+\ELANBegin 458.450
+\ELANEnd 459.920
+\ELANParticipant Juanita
+\trs mareaki rakabotana
+\tx mareaki             rakabotana
+\mb mare  -a     =ki    raka  -botan               -a
+\gn matar -NOMLZ =REP   echar -por.aquí.por.allá -PERF
+\ps v.    -suf.  =clit. v.    -suf.                -suf.
+
+\ft los muertos estaban echados
+\sound JC.NC.IC-los.mezquinos-2013.wav 458.450 459.920
+
+\ref 144
+\ELANBegin 462.310
+\ELANEnd 463.110
+\ELANParticipant Isabel
+\trs kankan banai
+\tx kankan banai
+\mb kankan bana    -i
+\gn piña  sembrar -IMPF
+\ps n.     v.tran  -suf.
+
+\ft sembraban piña
+\sound JC.NC.IC-los.mezquinos-2013.wav 462.310 463.110
+
+\ref 145
+\ELANBegin 463.375
+\ELANEnd 464.075
+\ELANParticipant Nelita
+\trs awen nanebi
+\tx awen    nanebi
+\mb awen    nane    =bi
+\gn 3SG:GEN hermana =ENF
+\ps pron    n.      =clit.
+
+\ft su hermano mismo
+\sound JC.NC.IC-los.mezquinos-2013.wav 463.375 464.075
+
+\ref 146
+\ELANBegin 463.375
+\ELANEnd 464.075
+\ELANParticipant Juanita
+\trs awen nanebi
+\tx awen    nanebi
+\mb awen    nane    =bi
+\gn 3SG:GEN hermana =ENF
+\ps pron    n.      =clit.
+
+\ft su hermano mismo
+\sound JC.NC.IC-los.mezquinos-2013.wav 463.375 464.075
+
+\ref 147
+\ELANBegin 464.370
+\ELANEnd 464.660
+\ELANParticipant Nelita
+\trs teh
+\tx teh
+\ft teh
+\sound JC.NC.IC-los.mezquinos-2013.wav 464.370 464.660
+
+\ref 148
+\ELANBegin 470.460
+\ELANEnd 471.890
+\ELANParticipant Juanita
+\trs awen nanebiki mareke
+\tx awen    nanebiki              mareke
+\mb awen    nane    =bi    =ki    mare  -ke
+\gn 3SG:GEN hermana =ENF   =REP   matar -PERF(SK)
+\ps pron    n.      =clit. =clit. v.    -suf.
+
+\ft mató a su hermana misma
+\sound JC.NC.IC-los.mezquinos-2013.wav 470.460 471.890
+
+\ref 149
+\ELANBegin 473.750
+\ELANEnd 474.410
+\ELANParticipant Juanita
+\trs awen chai
+\tx awen    chai
+\mb awen    chai
+\gn 3SG:GEN cuñado
+\ps pron    n.
+
+\ft su cuñado
+\sound JC.NC.IC-los.mezquinos-2013.wav 473.750 474.410
+
+\ref 150
+\ELANBegin 475.595
+\ELANEnd 476.315
+\ELANParticipant Juanita
+\trs a kiyoke
+\tx a       kiyoke
+\mb ak      kiyo     -ke
+\gn hacer   terminar -PERF(SK)
+\ps v.tran. v.tran.  -suf.
+
+\ft los exterminó
+\sound JC.NC.IC-los.mezquinos-2013.wav 475.595 476.315
+
+\ref 151
+\ELANBegin 480.200
+\ELANEnd 480.730
+\ELANParticipant Nelita
+\trs ainres
+\tx ainres
+\mb ain       -res
+\gn ahí(MIX) -solamente
+\ps adv.      -suf.
+
+\ft ahí nomás
+\sound JC.NC.IC-los.mezquinos-2013.wav 480.200 480.730
+
+\ref 152
+\ELANBegin 481.541
+\ELANEnd 482.834
+\ELANParticipant Juanita
+\trs ainres a kiyoke
+\tx ainres               a       kiyoke
+\mb ain       -res       ak      kiyo     -ke
+\gn ahí(MIX) -solamente hacer   terminar -PERF(SK)
+\ps adv.      -suf.      v.tran. v.tran.  -suf.
+
+\ft ahi nomás los acabó
+\sound JC.NC.IC-los.mezquinos-2013.wav 481.541 482.834
+
+\ref 153
+\ELANBegin 483.430
+\ELANEnd 488.690
+\ELANParticipant Juanita
+\trs abirokoki ma a yoa a a yoishi bakebo ma yoa boika
+\tx abirokoki      ma  a   yoa            a   a
+\mb abiroko =ki    ma  a   yoa            a   a
+\gn ahora   =REP   ya  ese comida.vegetal ese ese
+\ps adv.    =clit. adv dem n.             dem dem
+
+\tx yoishi   bakebo      ma  yoa
+\mb yoishi   bake  =bo   ma  yoa
+\gn mezquino niño =PLU  ya  comida.vegetal
+\ps n.       n.    =clit adv n.
+
+\tx boika
+\mb bo     -i    =ka
+\gn llevar -IMPF =NAR
+\ps v.ambi -suf. =clit.
+
+\ft toda la comida del mezquino se la llevaron
+\sound JC.NC.IC-los.mezquinos-2013.wav 483.430 488.690
+
+\ref 154
+\ELANBegin 489.140
+\ELANEnd 490.320
+\ELANParticipant Juanita
+\trs ma tiki aki
+\tx ma  tiki            aki
+\mb ma  tiki      -i    ak      -i
+\gn ya  trasladar -IMPF hacer   -IMPF
+\ps adv v.        -suf. v.tran. -suf.
+
+\ft lo trasladaron
+\sound JC.NC.IC-los.mezquinos-2013.wav 489.140 490.320
+
+\ref 155
+\ELANBegin 490.665
+\ELANEnd 491.325
+\ELANParticipant Nelita
+\trs tiki aki
+\tx tiki            aki
+\mb tiki      -i    ak      -i
+\gn trasladar -IMPF hacer   -IMPF
+\ps v.        -suf. v.tran. -suf.
+
+\ft lo trasladaron
+\sound JC.NC.IC-los.mezquinos-2013.wav 490.665 491.325
+
+\ref 156
+\ELANBegin 490.685
+\ELANEnd 491.685
+\ELANParticipant Juanita
+\trs tiki aki
+\tx tiki            aki
+\mb tiki      -i    ak      -i
+\gn trasladar -IMPF hacer   -IMPF
+\ps v.        -suf. v.tran. -suf.
+
+\ft lo trasladaron
+\sound JC.NC.IC-los.mezquinos-2013.wav 490.685 491.685
+
+\ref 157
+\ELANBegin 492.310
+\ELANEnd 493.760
+\ELANParticipant Juanita
+\trs awen kaheka ma ma boi
+\tx awen    kaheka      ma  ma  boi
+\mb awen    kahe =ka    ma  ma  bo     -i
+\gn 3SG:GEN casa =NAR   ya  ya  llevar -IMPF
+\ps pron    n.   =clit. adv adv v.ambi -suf.
+
+\ft se llevaron todo a su casa
+\sound JC.NC.IC-los.mezquinos-2013.wav 492.310 493.760
+
+\ref 158
+\ELANBegin 496.231
+\ELANEnd 496.898
+\ELANParticipant Juanita
+\trs poabo
+\tx poabo
+\mb poa       =bo
+\gn sachapapa =PLU
+\ps n.        =clit
+
+\ft sachapapa
+\sound JC.NC.IC-los.mezquinos-2013.wav 496.231 496.898
+
+\ref 159
+\ELANBegin 497.360
+\ELANEnd 497.690
+\ELANParticipant Juanita
+\trs hawi
+\tx hawi
+\mb hawi
+\gn caña.de.azúcar
+\ps n.
+
+\ft caña
+\sound JC.NC.IC-los.mezquinos-2013.wav 497.360 497.690
+
+\ref 160
+\ELANBegin 501.350
+\ELANEnd 501.790
+\ELANParticipant Nelita
+\trs ainreskai
+\tx ainreskai
+\mb ain       -res       =kai
+\gn ahí(MIX) -solamente =RESO
+\ps adv.      -suf.      =clit.
+
+\ft ahí nomás
+\sound JC.NC.IC-los.mezquinos-2013.wav 501.350 501.790
+
+\ref 161
+\ELANBegin 505.070
+\ELANEnd 505.500
+\ELANParticipant Juanita
+\trs wetsaki
+\tx wetsaki
+\mb wetsa    =ki
+\gn otro(SK) =REP
+\ps adj.     =clit.
+
+\ft otro
+\sound JC.NC.IC-los.mezquinos-2013.wav 505.070 505.500
+
+\ref 162
+\ELANBegin 505.920
+\ELANEnd 508.830
+\ELANParticipant Juanita
+\trs anan peweaki ma toshike
+\tx anan       peweaki              ma  toshike
+\mb a    -anan pewe    -a    =ki    ma  toshi    -ke
+\gn 3SG  -MAL  empezar -PERF =REP   ya  pajarito -PERF(SK)
+\ps pron -suf  v.      -suf. =clit. adv n.       -suf.
+
+\ft el que empezó todo se convirtió en loro
+\sound JC.NC.IC-los.mezquinos-2013.wav 505.920 508.830
+
+\ref 163
+\ELANBegin 510.828
+\ELANEnd 511.717
+\ELANParticipant Juanita
+\trs ma yoinai ka
+\tx ma  yoinaika
+\mb ma  yoina  -i    =ka
+\gn ya  animal -IMPF =NAR
+\ps adv n.     -suf. =clit.
+
+\ft se conviertió en animal
+\sound JC.NC.IC-los.mezquinos-2013.wav 510.828 511.717
+
+\ref 164
+\ELANBegin 513.105
+\ELANEnd 513.974
+\ELANParticipant Juanita
+\trs yoina
+\tx yoina
+\mb yoina
+\gn animal
+\ps n.
+
+\ft animal
+\sound JC.NC.IC-los.mezquinos-2013.wav 513.105 513.974
+
+\ref 165
+\ELANBegin 514.065
+\ELANEnd 514.625
+\ELANParticipant Nelita
+\trs yoina
+\tx yoina
+\mb yoina
+\gn animal
+\ps n.
+
+\ft animal
+\sound JC.NC.IC-los.mezquinos-2013.wav 514.065 514.625
+
+\ref 166
+\ELANBegin 515.350
+\ELANEnd 516.150
+\ELANParticipant Nelita
+\trs kastiko aka
+\tx kastiko aka
+\mb kastiko ak      -a
+\gn castigo hacer   -PERF
+\ps n.      v.tran. -suf.
+
+\ft hizo castigar
+\sound JC.NC.IC-los.mezquinos-2013.wav 515.350 516.150
+
+\ref 167
+\ELANBegin 517.514
+\ELANEnd 518.282
+\ELANParticipant Juanita
+\trs kastiko aka
+\tx kastiko aka
+\mb kastiko ak      -a
+\gn castigo hacer   -PERF
+\ps n.      v.tran. -suf.
+
+\ft hizo castigar
+\sound JC.NC.IC-los.mezquinos-2013.wav 517.514 518.282
+
+\ref 168
+\ELANBegin 524.145
+\ELANEnd 524.565
+\ELANParticipant Isabel
+\trs retika
+\tx retika
+\mb reti    =ka
+\gn agachar =NAR
+\ps v.      =clit.
+
+\ft agachado
+\sound JC.NC.IC-los.mezquinos-2013.wav 524.145 524.565
+
+\ref 169
+\ELANBegin 525.160
+\ELANEnd 525.710
+\ELANParticipant Nelita
+\trs wewa
+\tx wewa
+\mb we     - w   -a
+\gn sentar - *** -NOMLZ
+\ps v. ;   - *** -suf.
+
+\ft sentado
+\sound JC.NC.IC-los.mezquinos-2013.wav 525.160 525.710
+
+\ref 170
+\ELANBegin 526.750
+\ELANEnd 527.340
+\ELANParticipant Nelita
+\trs retika wewa
+\tx retika                wewa
+\mb reti    -i     =ka    we     - w   -a
+\gn agachar -NOMLZ =NAR   sentar - *** -NOMLZ
+\ps v.      -suf.  =clit. v. ;   - *** -suf.
+
+\ft agachado y sentado
+\sound JC.NC.IC-los.mezquinos-2013.wav 526.750 527.340
+
+\ref 171
+\ELANBegin 529.220
+\ELANEnd 530.280
+\ELANParticipant Juanita
+\trs toish toish toish
+\tx toish             toish             toish
+\mb toish             toish             toish
+\gn canto.del.pájaro canto.del.pájaro canto.del.pájaro
+\ps ideo.             ideo.             ideo.
+
+\ft (onomatopeya) se fue volando
+\sound JC.NC.IC-los.mezquinos-2013.wav 529.220 530.280
+
+\ref 172
+\ELANBegin 530.985
+\ELANEnd 531.325
+\ELANParticipant Juanita
+\trs kai
+\tx kai
+\mb kai -i
+\gn ir  -IMPF
+\ps v.  -suf.
+
+\ft se fue
+\sound JC.NC.IC-los.mezquinos-2013.wav 530.985 531.325
+
+\ref 173
+\ELANBegin 532.300
+\ELANEnd 532.920
+\ELANParticipant Nelita
+\trs ma yoinai
+\tx ma  yoinai
+\mb ma  yoina  -i
+\gn ya  animal -IMPF
+\ps adv n.     -suf.
+
+\ft ya era animal
+\sound JC.NC.IC-los.mezquinos-2013.wav 532.300 532.920
+
+\ref 174
+\ELANBegin 532.300
+\ELANEnd 532.920
+\ELANParticipant Isabel
+\trs ma yoinai
+\tx ma  yoinai
+\mb ma  yoina  -i
+\gn ya  animal -NOMLZ
+\ps adv n.     -suf.
+
+\ft ya era animal
+\sound JC.NC.IC-los.mezquinos-2013.wav 532.300 532.920
+
+\ref 175
+\ELANBegin 533.055
+\ELANEnd 534.655
+\ELANParticipant Juanita
+\trs ma yonakaini ka
+\tx ma  yonakaini             ka
+\mb ma  yona  =kai   -ni      ka     -a
+\gn ya  volar =RESO  -PAS.REM ir     -PERF
+\ps adv v.    =clit. -suf     v.intr -suf.
+
+\ft se fue volando
+\sound JC.NC.IC-los.mezquinos-2013.wav 533.055 534.655
+
+\ref 176
+\ELANBegin 534.710
+\ELANEnd 535.770
+\ELANParticipant Isabel
+\trs ma yonakaini
+\tx ma  yonakaini
+\mb ma  yona{v.} -k   -ai -ni
+\gn ya  volar    -***
+\ps adv
+
+\ft se fue volando
+\sound JC.NC.IC-los.mezquinos-2013.wav 534.710 535.770
+
+\ref 177
+\ELANBegin 535.755
+\ELANEnd 538.850
+\ELANParticipant Juanita
+\trs akopi yoishi bakebo retea toshini ika
+\tx akopi   yoishi   bakebo      retea           toshini         ika
+\mb akopi   yoishi   bake  =bo   rete      -a    toshi  -ni      ik      =ka
+\gn por.eso mezquino niño =PLU  matar(SK) -PERF lorito -PAS.REM copula  =NAR
+\ps conec.  n.       n.    =clit v.        -suf. n.     -suf     v.intr. =clit.
+
+\ft por matar a los mezquinos se convirtió en loro
+\sound JC.NC.IC-los.mezquinos-2013.wav 535.755 538.850
+
+\ref 178
+\ELANBegin 539.095
+\ELANEnd 539.695
+\ELANParticipant Nelita
+\trs toshi
+\tx toshi
+\mb toshi
+\gn lorito
+\ps n.
+
+\ft loro
+\sound JC.NC.IC-los.mezquinos-2013.wav 539.095 539.695
+
+\ref 179
+\ELANBegin 539.865
+\ELANEnd 540.235
+\ELANParticipant Juanita
+\trs toshi
+\tx toshi
+\mb toshi
+\gn lorito
+\ps n.
+
+\ft loro
+\sound JC.NC.IC-los.mezquinos-2013.wav 539.865 540.235
+
+\ref 180
+\ELANBegin 540.615
+\ELANEnd 541.775
+\ELANParticipant Isabel
+\trs akopi toshibo ikon
+\tx akopi   toshibo       ikon
+\mb akopi   toshi  =bo    ikon
+\gn por.eso lorito =PLU   ciertamente
+\ps conec.  n.     =clit  adv.
+
+\ft ¿por eso se volvieron loros, verdad?
+\sound JC.NC.IC-los.mezquinos-2013.wav 540.615 541.775
+
+\ref 181
+\ELANBegin 541.820
+\ELANEnd 544.260
+\ELANParticipant Juanita
+\trs a kopiki yoishi bakebo retea toshia
+\tx a   kopiki         yoishi   bakebo
+\mb a   kopi    =ki    yoishi   bake  =bo
+\gn ese por eso =REP   mezquino niño =PLU
+\ps dem conect. =clit. n.       n.    =clit
+
+\tx retea            toshia
+\mb rete      -a     toshi  -a
+\gn matar(SK) -NOMLZ lorito -PERF
+\ps v.        -suf.  n.     -suf.
+
+\ft por eso, por matar a los mestizos se volvieron loros.
+\sound JC.NC.IC-los.mezquinos-2013.wav 541.820 544.260
+
+\ref 182
+\ELANBegin 547.040
+\ELANEnd 547.600
+\ELANParticipant Nelita
+\trs abiraka
+\tx abiraka
+\mb a   =bira   =ka
+\gn ese =nomás =NAR
+\ps dem =clit.  =clit.
+
+\ft por eso mismo
+\sound JC.NC.IC-los.mezquinos-2013.wav 547.040 547.600
+
+\ref 183
+\ELANBegin 548.915
+\ELANEnd 549.465
+\ELANParticipant Isabel
+\trs ma ika ikon
+\tx ma  ika            ikon
+\mb ma  ik      =ka    ikon
+\gn ya  copula  =NAR   ciertamente
+\ps adv v.intr. =clit. adv.
+
+\ft ¿así ha sido, verdad?
+\sound JC.NC.IC-los.mezquinos-2013.wav 548.915 549.465
+
+\ref 184
+\ELANBegin 549.875
+\ELANEnd 551.275
+\ELANParticipant Juanita
+\trs ma ika arana ainres
+\tx ma  ika            arana
+\mb ma  ik      =ka    a   -ra       -anan
+\gn ya  copula  =NAR   ese -EVID(SK) -MAL
+\ps adv v.intr. =clit. dem -suf.     -suf
+
+\tx ainres
+\mb ain       -res
+\gn ahí(MIX) -solamente
+\ps adv.      -suf.
+
+\ft eso ha sido hasta ahí no más
+\sound JC.NC.IC-los.mezquinos-2013.wav 549.875 551.275
+
+\ref 185
+\ELANBegin 552.500
+\ELANEnd 552.730
+\ELANParticipant Germán
+\trs bawa
+\tx bawa
+\mb bawa
+\gn loro
+\ps n.
+
+\ft loro
+\sound JC.NC.IC-los.mezquinos-2013.wav 552.500 552.730
+
+\ref 186
+\ELANBegin 554.170
+\ELANEnd 554.450
+\ELANParticipant Juanita
+\trs bawa
+\tx bawa
+\mb bawa
+\gn loro
+\ps n.
+
+\ft loro
+\sound JC.NC.IC-los.mezquinos-2013.wav 554.170 554.450
+
+\ref 187
+\ELANBegin 554.625
+\ELANEnd 556.195
+\ELANParticipant Nelita
+\trs ati haweribi abicho
+\tx ati        haeribi                  abicho
+\mb a   -ti    hae            =ribi     a   =bicho
+\gn ese -NOMLZ oso.hormiguero =también ese =solamente
+\ps dem -suf.  n.             =clit.    dem =suf.
+
+\ft tambien en oso hormiguero, o eso no más
+\sound JC.NC.IC-los.mezquinos-2013.wav 554.625 556.195
+
+\ref 188
+\ELANBegin 556.455
+\ELANEnd 556.865
+\ELANParticipant Nelita
+\trs haeribi
+\tx haeribi
+\mb hae            =ribi
+\gn oso.hormiguero =también
+\ps n.             =clit.
+
+\ft oso hormiguero también
+\sound JC.NC.IC-los.mezquinos-2013.wav 556.455 556.865
+
+\ref 189
+\ELANBegin 557.105
+\ELANEnd 558.025
+\ELANParticipant Isabel
+\trs haeribi
+\tx haeribi
+\mb hae            =ribi
+\gn oso.hormiguero =también
+\ps n.             =clit.
+
+\ft oso hormiguero también
+\sound JC.NC.IC-los.mezquinos-2013.wav 557.105 558.025
+
+\ref 190
+\ELANBegin 558.300
+\ELANEnd 558.690
+\ELANParticipant Nelita
+\trs hawe
+\tx hawe
+\mb hawe
+\gn tortuga.motelo
+\ps n.
+
+\ft motelo
+\sound JC.NC.IC-los.mezquinos-2013.wav 558.300 558.690
+
+\ref 191
+\ELANBegin 561.260
+\ELANEnd 563.180
+\ELANParticipant Juanita
+\trs yawa yawa ika bachi pishina iki
+\tx yawa              yawa              ika               bachi
+\mb yawa              yawa              ik         =ka    bachi
+\gn sonido.de.pájaro sonido.de.pájaro decir:INTR =NAR   huevo
+\ps ideo.             ideo.             v.intr.    =clit. n.
+
+\tx pishina             iki
+\mb pi      -shina      ik         -i
+\gn comer   -PAS.semana decir:INTR -IMPF
+\ps v.tran. -suf.       v.intr.    -suf.
+
+\ft la gente comía el huevo del pájaro que canta yawa yawa
+\sound JC.NC.IC-los.mezquinos-2013.wav 561.260 563.180
+
+\ref 192
+\ELANBegin 565.830
+\ELANEnd 566.660
+\ELANParticipant Nelita
+\trs yawa yawa ika bachi piai
+\tx yawa              yawa     ika            bachi
+\mb yawa              yawa     ik      =ka    bachi
+\gn sonido.de.pájaro huangana copula  =NAR   huevo
+\ps ideo.             n.       v.intr. =clit. n.
+
+\tx piai
+\mb pi      -ai
+\gn comer   -IMPF(SK)
+\ps v.tran. -suf.
+
+\ft la gente comía el huevo del pájaro que canta yawa yawa
+\sound JC.NC.IC-los.mezquinos-2013.wav 565.830 566.660
+
+\ref 193
+\ELANBegin 567.230
+\ELANEnd 567.880
+\ELANParticipant Nelita
+\trs ma aires awe
+\tx ma  aires                 awe
+\mb ma  a   -i     -res       a   -we
+\gn ya  ese -NOMLZ -solamente ese -IMP(SK)
+\ps adv dem -suf.  -suf.      dem -suf.
+
+\ft ya, hasta ahí nomás
+\sound JC.NC.IC-los.mezquinos-2013.wav 567.230 567.880
+
+\ref 194
+\ELANBegin 572.385
+\ELANEnd 573.005
+\ELANParticipant Nelita
+\trs ya está todo
+\tx ya está todo
+\ft ya está todo
+\sound JC.NC.IC-los.mezquinos-2013.wav 572.385 573.005
+
+\ref 195
+\ELANBegin 576.494
+\ELANEnd 577.504
+\ELANParticipant Roberto
+\trs Ahí termina
+\tx Ahí termina
+\ft Ahí termina
+\sound JC.NC.IC-los.mezquinos-2013.wav 576.494 577.504
+
+\ref 196
+\ELANBegin 577.519
+\ELANEnd 578.267
+\ELANParticipant Nelita
+\trs Ahí termina
+\tx Ahí termina
+\ft Ahí termina
+\sound JC.NC.IC-los.mezquinos-2013.wav 577.519 578.267
+
+\ref 197
+\ELANBegin 579.271
+\ELANEnd 581.554
+\ELANParticipant Roberto
+\trs Entonces, de qué trata
+\tx Entonces, de qué trata
+\ft Entonces, de qué trata
+\sound JC.NC.IC-los.mezquinos-2013.wav 579.271 581.554
+
+\ref 198
+\ELANBegin 581.848
+\ELANEnd 585.171
+\ELANParticipant Roberto
+\trs Es como del inka mezquino. ¿no?
+\tx Es como del inka mezquino. ¿no?
+\ft Es como del inka mezquino. ¿no?
+\sound JC.NC.IC-los.mezquinos-2013.wav 581.848 585.171
+
+\ref 199
+\ELANBegin 585.110
+\ELANEnd 586.211
+\ELANParticipant Nelita
+\trs ah, mezquinaba ese
+\tx ah, mezquinaba ese
+\ft ah, mezquinaba ese
+\sound JC.NC.IC-los.mezquinos-2013.wav 585.110 586.211
+
+\ref 200
+\ELANBegin 586.655
+\ELANEnd 588.059
+\ELANParticipant Nelita
+\trs inka mezquinaba
+\tx inka mezquinaba
+\ft inka mezquinaba
+\sound JC.NC.IC-los.mezquinos-2013.wav 586.655 588.059
+
+\ref 201
+\ELANBegin 587.413
+\ELANEnd 589.029
+\ELANParticipant Germán
+\trs el inka mezquino pues
+\tx el inka mezquino pues
+\ft el inka mezquino pues
+\sound JC.NC.IC-los.mezquinos-2013.wav 587.413 589.029
+
+\ref 202
+\ELANBegin 589.226
+\ELANEnd 590.903
+\ELANParticipant Germán
+\trs claro pues. Yoashi
+\tx claro pues. Yoashi
+\ft claro pues. Yoashi
+\sound JC.NC.IC-los.mezquinos-2013.wav 589.226 590.903
+
+
+\ELANMediaURL file:///C:/Users/Fernando Franco/Desktop/basededatos-iskonawa procesada/data/JC.NC.IC-los.mezquinos-2013.mpg
+\ELANMediaMIME video/mpeg
+\ELANMediaURL file:///C:/Users/Fernando Franco/Desktop/basededatos-iskonawa procesada/data/JC.NC.IC-los.mezquinos-2013.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaExtracted file:///C:/Users/Fernando Franco/Desktop/basededatos-iskonawa procesada/data/JC.NC.IC-los.mezquinos-2013.mpg

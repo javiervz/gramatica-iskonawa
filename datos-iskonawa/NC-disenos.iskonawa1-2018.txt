@@ -1,0 +1,2297 @@
+\_sh v3.0  400  text
+
+\ref 001
+\trs neno oinwe
+\tx neno      oinwe
+\mb neno      oin   -we
+\gn aquí(SK) ver   -IMP(SK)
+\ps adv.      v.tr. -suf.
+
+\ft mira acà
+\ELANBegin 30.173
+\ELANEnd 32.021
+\ELANParticipant Roberto
+\sound NC-diseños.iskonawa1-2018.wav 30.173 32.021
+
+\ref 002
+\trs tsoaki
+\tx tsoaki
+\mb tsoa   =ki
+\gn quién =INT
+\ps prom   =clit.
+
+\ft ¿quién?
+\ELANBegin 40.999
+\ELANEnd 41.891
+\ELANParticipant Roberto
+\sound NC-diseños.iskonawa1-2018.wav 40.999 41.891
+
+\ref 003
+\trs tsoanki iskonawa kené onanmapaoni
+\tx tsoanki              iskonawa kené              onanmapaoni
+\mb tsoa   =n     =ki    iskonawa kené              onan  =ma    -paoni
+\gn quién =ERG   =INT   iskonawa diseño.artístico saber =NEG   -PAS.REM:IMPF
+\ps prom   =clit. =clit. n.       n.                 v.tr  =clit. -suf.
+
+\ft ¿quién te ha enseñado los diseños iskonawa?
+\ELANBegin 42.521
+\ELANEnd 46.304
+\ELANParticipant Roberto
+\sound NC-diseños.iskonawa1-2018.wav 42.521 46.304
+
+\ref 004
+\trs kené onama
+\tx kené              onama
+\mb kené              onan  -ma   -a
+\gn diseño.artístico saber -CAUS -PERF
+\ps n.                 v.tr  -suf. -suf.
+
+\ft me enseñó los diseños
+\ELANBegin 47.716
+\ELANEnd 49.542
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 47.716 49.542
+
+\ref 005
+\trs kené onama hanebonin
+\tx kené              onama             hanebonin
+\mb kené              onan  -ma   -a    hanebo  =n
+\gn diseño.artístico saber -CAUS -PERF chamán =ERG
+\ps n.                 v.tr  -suf. -suf. n.      =clit.
+
+\ft el chamán me ha enseñado los diseños
+\ELANBegin 50.508
+\ELANEnd 53.848
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 50.508 53.848
+
+\ref 006
+\trs haneboninki oina iki rome ayahon
+\tx haneboninki           oina         iki
+\mb hanebo  =n     =ki    oin   -a     ik     -i
+\gn chamán =ERG   =REP   ver   -NOMLZ copula -IMPF
+\ps n.      =clit. =clit. v.tr. -suf.  v.int  -suf.
+
+\tx rome   ayahon
+\mb rome   aya   -hon
+\gn tabaco tomar -SUJ>A:SIM
+\ps n.     v.tr  -suf.
+
+\ft el chamán veía los diseños cuando tomaba tabaco
+\ELANBegin 54.187
+\ELANEnd 57.885
+\ELANParticipant Nelita
+\sound NC-disenos.iskonawa1-2018.wav 54.187 57.885
+
+\ref 007
+\trs rome ayahon oinaki kené iro
+\tx rome   ayahon           oinaki
+\mb rome   aya   -hon       oin   -a    =ki
+\gn tabaco tomar -SUJ>A:SIM ver   -PERF =REP
+\ps n.     v.tr  -suf.      v.tr. -suf. =clit.
+
+\tx kené              iro
+\mb kené              iro
+\gn diseño.artístico bueno
+\ps n.                 adj.
+
+\ft tomando tabaco, veía diseños bonitos
+\ELANBegin 58.402
+\ELANEnd 61.735
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 58.402 61.735
+
+\ref 008
+\trs kené irapairobo irapairobo oinhon akai
+\tx kené              irapairobo     irapairobo
+\mb kené              irapairo =bo   irapairo =bo
+\gn diseño.artístico bonito   =PLU  bonito   =PLU
+\ps n.                 adj.     =clit adj.     =clit
+
+\tx oinhon           akai
+\mb oin   -hon       ak    -ai
+\gn ver   -SUJ>A:SIM hacer -IMPF(SK)
+\ps v.tr. -suf.      v.tr  -suf.
+
+\ft viendo diseños bonitos, el chamán los hacía
+\ELANBegin 61.971
+\ELANEnd 65.726
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 61.971 65.726
+
+\ref 009
+\trs ma nete pehnebeitiki awin yoia
+\tx ma  nete pehnebeitiki      awin   yoia
+\mb ma  nete pehnebeiti =ki    awin   yoi    -a
+\gn ya  dia  amanecer   =REP   esposa contar -PERF
+\ps adv n.   n.         =clit. n.     v.tr   -suf.
+
+\ft entonces de madrugada el chamán le contaba a su esposa
+\ELANBegin 66.199
+\ELANEnd 71.266
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 66.199 71.266
+
+\ref 010
+\trs kene irapairora ena oinke
+\tx kene              irapairora          ena
+\mb kene              irapairo =ra        ena
+\gn dejar.escapar(SK) bonito   =EVID1(SK) 1SG:ERG
+\ps v.tr              adj.     =clit.     pron.
+
+\tx oinke
+\mb oin   -ke
+\gn ver   -PERF(SK)
+\ps v.tr. -suf.
+
+\ft "he visto diseños bonitos"
+\ELANBegin 71.332
+\ELANEnd 73.865
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 71.332 73.865
+
+\ref 011
+\trs akesatimari paka kenekin
+\tx akesatimari                 paka
+\mb a   =kesa  -ti    ma  =ri   paka
+\gn ese =COMP  -NOMLZ ya  =CON  bambú
+\ps dem =clit. -suf.  adv =clit n.
+
+\tx kenekin
+\mb kene              -kin
+\gn dejar.escapar(SK) -SUJ>A:SIM
+\ps v.tr              -suf.
+
+\ft "vamos a dibujar así sobre nuestras flechas"
+\ELANBegin 74.312
+\ELANEnd 76.937
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 74.312 76.937
+
+\ref 012
+\trs paka kenenoa
+\tx paka   kenenoa
+\mb paka   kene              =no    =a
+\gn bambú dejar.escapar(SK) =LOC   =P
+\ps n.     v.tr              =clit. =clit
+
+\ft los diseños que estaban en las flechas
+\ELANBegin 77.281
+\ELANEnd 78.531
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 77.281 78.531
+
+\ref 013
+\trs akanwe
+\tx akanwe
+\mb ak    -kan  -we
+\gn hacer -PLU  -IMP(SK)
+\ps v.tr  -suj. -suf.
+
+\ft hay que hacer
+\ELANBegin 78.953
+\ELANEnd 79.859
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 78.953 79.859
+
+\ref 014
+\trs ahon ka iki
+\tx ahon             ka           iki
+\mb ak    -hon       ka    -a     ik     -i
+\gn hacer -SUJ>A:SIM ir    -NOMLZ copula -IMPF
+\ps v.tr  -suf.      v.int -suf.  v.int  -suf.
+
+\ft anda a hacerme
+\ELANBegin 80.171
+\ELANEnd 81.703
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 80.171 81.703
+
+\ref 015
+\trs paka kenekin ete bimi motsahon ete bimi motsahon
+\tx paka   kenekin                  ete    bimi motsahon           ete bimi motsahon
+\mb paka   kené              -kin  ete bimi    motsa   -hon       ete bimi motsa   -hon
+\gn bambú diseño.artístico -IMP  achiote     chapear -SUJ>A:SIM achiote  chapear -SUJ>A:SIM
+\ps n.     n.                 -suf. n.          v.tr    -suf.      n.       v.tr    -suf.
+
+\ft haz los diseños de la flecha chapeando el achote
+\ELANBegin 81.921
+\ELANEnd 86.734
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 81.921 86.734
+
+\ref 016
+\trs paka keneke a paka kene aki
+\tx paka   keneke                       a   paka
+\mb paka   kené              -ke       a   paka
+\gn bambú diseño.artístico -PERF(SK) ese bambú
+\ps n.     n.                 -suf.     dem n.
+
+\tx kene               aki
+\mb kené              ak    -i
+\gn diseño.artístico hacer -IMPF
+\ps n.                 v.tr  -suf.
+
+\ft pintaban los diseños en las flechas
+\ELANBegin 86.780
+\ELANEnd 89.405
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 86.780 89.405
+
+\ref 017
+\trs iro iro baneke atianka paka kenepaoti
+\tx iro   iro   baneke             atianka
+\mb iro   iro   bane     -ke       atian    =ka
+\gn bueno bueno quedarse -PERF(SK) entonces =NAR
+\ps adj.  adj.  v.amb    -suf.     conec.   =clit.
+
+\tx paka   kenepaoti
+\mb paka   kené              -paoti
+\gn bambú diseño.artístico -PAS.REM
+\ps n.     n.                 -suf.
+
+\ft "ya ha quedado bien", asì hacían las flechas
+\ELANBegin 89.717
+\ELANEnd 93.499
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 89.717 93.499
+
+\ref 018
+\trs anakin wetsa ana pehnebeiti
+\tx anakin              wetsa    ana      pehnebeiti
+\mb ana      -kin       wetsa    ana      pehnebeiti
+\gn otra.vez -SUJ>A:SIM otro(SK) otra.vez amanecer
+\ps adv.     -suf.      adj.     adv.     n.
+
+\ft y los dibujaron otra vez al amanecer
+\ELANBegin 93.561
+\ELANEnd 98.624
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 93.561 98.624
+
+\ref 019
+\trs bakish paketiki rome ayaribike
+\tx bakish paketiki               rome
+\mb bakish pake     -ti    =ki    rome
+\gn noche  caer(se) -NOMLZ =REP   tabaco
+\ps n.     v.amb    -suf.  =clit. n.
+
+\tx ayaribike
+\mb aya   =ribi     -ke
+\gn tomar =también -PERF(SK)
+\ps v.tr  =clit.    -suf.
+
+\ft al anochecer tomaba tabaco de nuevo
+\ELANBegin 98.951
+\ELANEnd 102.795
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 98.951 102.795
+
+\ref 020
+\trs ayaribihon oinaki
+\tx ayaribihon                 oinaki
+\mb aya   =ribi     -hon       oin   -a    =ki
+\gn tomar =también -SUJ>A:SIM ver   -PERF =REP
+\ps v.tr  =clit.    -suf.      v.tr. -suf. =clit.
+
+\ft tomando otra vez, volvió a ver los diseños
+\ELANBegin 102.920
+\ELANEnd 104.857
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 102.920 104.857
+
+\ref 021
+\trs a wetsa kene wetsa keneki oinribike hanebonin
+\tx a   wetsa    kene               wetsa
+\mb a   wetsa    kené              wetsa
+\gn ese otro(SK) diseño.artístico otro(SK)
+\ps dem adj.     n.                 adj.
+
+\tx keneki                    oinribike
+\mb kené              =ki    oin   =ribi     -ke
+\gn diseño.artístico =REP   ver   =también -PERF(SK)
+\ps n.                 =clit. v.tr. =clit.    -suf.
+
+\tx hanebonin
+\mb hanebo  =n
+\gn chamán =ERG
+\ps n.      =clit.
+
+\ft otros diseños ha visto el chamán
+\ELANBegin 105.107
+\ELANEnd 108.836
+\ELANParticipant Nelita
+\sound NC-disenos.iskonawa1-2018.wav 105.107 108.836
+
+\ref 022
+\trs hanebonin oinke wensan kene oinribike
+\tx hanebonin      oinke           wensan
+\mb hanebo  =n     oin   -ke       wensan
+\gn chamán =ERG   ver   -PERF(SK) afaninga
+\ps n.      =clit. v.tr. -suf.     n.
+
+\tx kene               oinribike
+\mb kené              oin   =ribi     -ke
+\gn diseño.artístico ver   =también -PERF(SK)
+\ps n.                 v.tr. =clit.    -suf.
+
+\ft el chamán  vio diseños otra vez, ahora el diseño de la afaninga 
+wesan
+\ELANBegin 109.153
+\ELANEnd 113.685
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 109.153 113.685
+
+\ref 023
+\trs hatian awerano keneti iro
+\tx hatian       awerano     keneti                    iro
+\mb hatian       awerano     kené              -ti    iro
+\gn entonces(SK) dónde(MIX) diseño.artístico -NOMLZ bueno
+\ps conec.       pal.int.    n.                 -suf.  adj.
+
+\ft ahora a dónde vamos a hacer el diseño bonito
+\ELANBegin 114.360
+\ELANEnd 116.247
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 114.360 116.247
+
+\ref 024
+\trs pakaki tankiki
+\tx pakaki        tankiki
+\mb paka   =ki    tanki          =ki
+\gn bambú =INT   tipo.de.flecha =INT
+\ps n.     =clit. n.             =clit.
+
+\ft ¿en flecha de tipo paka o en la flecha de tipo tanki?
+\ELANBegin 117.074
+\ELANEnd 118.637
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 117.074 118.637
+
+\ref 025
+\trs tanki ati tankiki kenekin
+\tx tanki          ati          tankiki
+\mb tanki          ak    -ti    tanki          =ki
+\gn tipo.de.flecha hacer -NOMLZ tipo.de.flecha =ALA
+\ps n.             v.tr  -suf.  n.             =clit.
+
+\tx kenekin
+\mb kené              -kin
+\gn diseño.artístico -IMP
+\ps n.                 -suf.
+
+\ft es para hacer es la flecha tanki, ahí dibuja
+\ELANBegin 119.168
+\ELANEnd 121.543
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 119.168 121.543
+
+\ref 026
+\trs tanki kenekin
+\tx tanki          kenekin
+\mb tanki          kené              -kin
+\gn tipo.de.flecha diseño.artístico -IMP
+\ps n.             n.                 -suf.
+
+\ft dibuja en la flecha
+\ELANBegin 122.714
+\ELANEnd 123.870
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 122.714 123.870
+
+\ref 027
+\trs a oinribike oinaki hea mitsa kene irapairo
+\tx a   oinribike                 oinaki
+\mb a   oin   =ribi     -ke       oin   -a    =ki
+\gn ese ver   =también -PERF(SK) ver   -PERF =REP
+\ps dem v.tr. =clit.    -suf.     v.tr. -suf. =clit.
+
+\tx hea mitsa kene               irapairo
+\mb hea mitsa kené              irapairo
+\gn boa       diseño.artístico bonito
+\ps n.        n.                 adj.
+
+\ft y después el chamán volvió a ver diseños, esta vez el diseño de 
+la boa, que era muy hermoso
+\ELANBegin 124.620
+\ELANEnd 128.714
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 124.620 128.714
+
+\ref 028
+\trs hea mitsa kene atimari
+\tx hea mitsa kene               atimari
+\mb hea mitsa kené              ak    -ti    ma  =ri
+\gn boa       diseño.artístico hacer -NOMLZ ya  =CON
+\ps n.        n.                 v.tr  -suf.  adv =clit
+
+\ft vamos a hacer diseño de boa
+\ELANBegin 128.870
+\ELANEnd 130.464
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 128.870 130.464
+
+\ref 029
+\trs toro kene
+\tx toro kene
+\mb toro kené
+\gn huso diseño.artístico
+\ps n.   n.
+
+\ft y también diseños para los tazones
+\ELANBegin 130.714
+\ELANEnd 131.901
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 130.714 131.901
+
+\ref 030
+\trs toroki ati
+\tx toroki               ati
+\mb toró         =ki    ak    -ti
+\gn tazón.grande =ALA   hacer -NOMLZ
+\ps n.            =clit. v.tr  -suf.
+
+\ft vamos a hacer diseños en los tazones
+\ELANBegin 132.214
+\ELANEnd 133.510
+\ELANParticipant Nelita
+\sound NC-disenos.iskonawa1-2018.wav 132.214 133.510
+
+\ref 031
+\trs toroki ake akaki iro
+\tx toroki               ake
+\mb toró         =ki    ak    -ke
+\gn tazón.grande =ALA   hacer -PERF(SK)
+\ps n.            =clit. v.tr  -suf.
+
+\tx akaki               iro
+\mb ak    -a     =ki    iro
+\gn hacer -NOMLZ =REP   bueno
+\ps v.tr  -suf.  =clit. adj.
+
+\ft el diseño de los tazones queda bien bonito
+\ELANBegin 133.510
+\ELANEnd 136.260
+\ELANParticipant Nelita
+\sound NC-disenos.iskonawa1-2018.wav 133.510 136.260
+
+\ref 032
+\trs iro pikoke
+\tx iro   pikoke
+\mb iro   piko  -ke
+\gn bueno salir -PERF(SK)
+\ps adj.  v.int -suf.
+
+\ft queda bien
+\ELANBegin 137.323
+\ELANEnd 138.667
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 137.323 138.667
+
+\ref 033
+\trs aka atitibi ayaribike
+\tx aka          atitibi
+\mb ak    -a     ak    -ti    =tibi
+\gn hacer -NOMLZ hacer -NOMLZ =DIST(SK)
+\ps v.tr  -suf.  v.tr  -suf.  =suf.
+
+\tx ayaribike
+\mb aya   =ribi     -ke
+\gn tomar =también -PERF(SK)
+\ps v.tr  =clit.    -suf.
+
+\ft y tomó otra vez para hacer otros diseños
+\ELANBegin 139.369
+\ELANEnd 141.494
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 139.369 141.494
+
+\ref 034
+\trs oinri oinaki nato
+\tx oinri       oinaki             nato
+\mb oin   =ri   oin   -a    =ki    nato
+\gn ver   =CON  ver   -PERF =REP   este(SK)
+\ps v.tr. =clit v.tr. -suf. =clit. dem.
+
+\ft ha visto otro diseño
+\ELANBegin 142.042
+\ELANEnd 144.729
+\ELANParticipant Nelita
+\sound NC-disenos.iskonawa1-2018.wav 142.042 144.729
+
+\ref 035
+\trs ichoron kene irapairori
+\tx ichoron   kene               irapairori
+\mb ichoron   kené              irapairo =ri
+\gn naca.naca diseño.artístico bonito   =CON
+\ps n.        n.                 adj.     =clit
+
+\ft el diseño de afaninga ichoron es muy bonito
+\ELANBegin 145.071
+\ELANEnd 147.353
+\ELANParticipant Nelita
+\sound NC-disenos.iskonawa1-2018.wav 145.071 147.353
+
+\ref 036
+\trs popokiribetan a popokiriki
+\tx popokiribetan   a   popokiriki
+\mb popokiri =betan a   popokiri =ki
+\gn mariposa =COM   ese mariposa =REP
+\ps n.       =clit. dem n.       =clit.
+
+\ft con el diseño de la mariposa
+\ELANBegin 148.807
+\ELANEnd 151.088
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 148.807 151.088
+
+\ref 037
+\trs bemanai bemanai a
+\tx bemanai      bemanai      a
+\mb bemana -i    bemana -i    a
+\gn cara   -IMPF cara   -IMPF ese
+\ps n.     -suf. n.     -suf. dem
+
+\ft ese se pintaba en la cara
+\ELANBegin 151.338
+\ELANEnd 153.557
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 151.338 153.557
+
+\ref 038
+\trs keneti riki oni oni bemanai awe aronki keneke
+\tx keneti                   riki    oni     oni
+\mb kene              -ti    riki    oni     oni
+\gn dejar.escapar(SK) -NOMLZ COP(SK) persona persona
+\ps v.tr              -suf.  part.   n.      n.
+
+\tx bemanai      awe            aronki
+\mb bemana -i    ak    -we      ak    =ronki
+\gn cara   -IMPF hacer -IMP(SK) hacer =REP(SK)
+\ps n.     -suf. v.tr  -suf.    v.tr  =clit.
+
+\tx keneke
+\mb kene              -ke
+\gn dejar.escapar(SK) -PERF(SK)
+\ps v.tr              -suf.
+
+\ft ese diseño es para que la gente se pinte en la cara, decía y 
+dibujaba
+\ELANBegin 153.655
+\ELANEnd 158.245
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 153.655 158.245
+
+\ref 039
+\trs oinaki iro
+\tx oinaki              iro
+\mb oin   -a     =ki    iro
+\gn ver   -NOMLZ =REP   bueno
+\ps v.tr. -suf.  =clit. adj.
+
+\ft mirándolo era bonito
+\ELANBegin 158.245
+\ELANEnd 159.508
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 158.245 159.508
+
+\ref 040
+\trs iroribi
+\tx iroribi
+\mb iro   =ribi
+\gn bueno =también
+\ps adj.  =clit.
+
+\ft también era bonito
+\ELANBegin 159.901
+\ELANEnd 160.883
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 159.901 160.883
+
+\ref 041
+\trs irapairo riki a kene anno a ma akin arasitabi a kene
+ati riki  arasitabi a kene ano aka paka
+\tx irapairo riki    a   kene               anon
+\mb irapairo riki    a   kené              ak    -non
+\gn bonito   COP(SK) ese diseño.artístico hacer -PROP
+\ps adj.     part.   dem n.                 v.tr  -suf.
+
+\tx a   ma  akin             arasitabi a
+\mb a   ma  ak    -kin       arasitabi a
+\gn ese ya  hacer -SUJ>A:SIM todos     ese
+\ps dem adv v.tr  -suf.      adv.      dem
+
+\tx kene               ati          riki    arasitabi a
+\mb kené              ak    -ti    riki    arasitabi a
+\gn diseño.artístico hacer -NOMLZ COP(SK) todos     ese
+\ps n.                 v.tr  -suf.  part.   adv.      dem
+
+\tx kene               anon        aka         paka
+\mb kené              ak    -non  ak    -a    paka
+\gn diseño.artístico hacer -PROP hacer -PERF bambú
+\ps n.                 v.tr  -suf. v.tr  -suf. n.
+
+\ft era bonito y la gente decía vamos a hacer entre todos ese diseño 
+vamos a hacer entre todos el diseño del bambú
+\ELANBegin 161.992
+\ELANEnd 169.328
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 161.992 169.328
+
+\ref 042
+\trs paka keneka atian bemana bemanaia bemanaia ati riki a
+\tx paka   keneka                    atian    bemana
+\mb paka   kené              =ka    atian    bemana
+\gn bambú diseño.artístico =NAR   entonces cara
+\ps n.     n.                 =clit. conec.   n.
+
+\tx bemanai      a        bemanai      a
+\mb bemana -i    a        bemana -i    a
+\gn cara   -IMPF ese      cara   -IMPF ese
+\ps n.     -suf. dem      n.     -suf. dem
+
+\tx ati          riki    a
+\mb ak    -ti    riki    a
+\gn hacer -NOMLZ COP(SK) ese
+\ps v.tr  -suf.  part.   dem
+
+\ft el diseño del bambú no es para hacérselo en la cara
+\ELANBegin 169.459
+\ELANEnd 173.580
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 169.459 173.580
+
+\ref 043
+\trs a nato ete bimi motsahon
+\tx a     nato     ete bimi motsahon
+\mb ak    nato     ete bimi motsa   -hon
+\gn hacer este(SK) achiote  chapear -SUJ>A:SIM
+\ps v.tr  dem.     n.       v.tr    -suf.
+
+\ft ese se hacía machando el achiote.
+\ELANBegin 173.950
+\ELANEnd 176.455
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 173.950 176.455
+
+\ref 044
+\trs ete bimi motsahon motsahon motsakanwe
+\tx ete bimi motsahon           motsahon
+\mb ete bimi motsa   -hon       motsa   -hon
+\gn achiote  chapear -SUJ>A:SIM chapear -SUJ>A:SIM
+\ps n.       v.tr    -suf.      v.tr    -suf.
+
+\tx motsakanwe
+\mb motsa   -kan  -we
+\gn chapear -PLU  -IMP(SK)
+\ps v.tr    -suj. -suf.
+
+\ft machacando varias veces lo hacían y (decían) " vamos a chapear"
+\ELANBegin 176.874
+\ELANEnd 179.816
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 176.874 179.816
+
+\ref 045
+\trs no tananon
+\tx no   tananon
+\mb no   tana   -non
+\gn 1PL  probar -PROP
+\ps pron v.tr   -suf.
+
+\ft vamos a probar
+\ELANBegin 180.117
+\ELANEnd 181.508
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 180.117 181.508
+
+\ref 046
+\trs ete bimi motsahon tanake bemana iki kenekin
+\tx ete bimi motsahon           tanake
+\mb ete bimi motsa   -hon       tana   -ke
+\gn achiote  chapear -SUJ>A:SIM probar -PERF(SK)
+\ps n.       v.tr    -suf.      v.tr   -suf.
+
+\tx bemana iki          kenekin
+\mb bemana ik     -i    kené              -kin
+\gn cara   copula -IMPF diseño.artístico -SUJ>A:SIM
+\ps n.     v.int  -suf. n.                 -suf.
+
+\ft machacando el achiote, probaban y se lo dibujaban en la cara
+\ELANBegin 181.693
+\ELANEnd 184.871
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 181.693 184.871
+
+\ref 047
+\trs keneka iki irapairo
+\tx keneka                    iki          irapairo
+\mb kené              =ka    ik     -i    irapairo
+\gn diseño.artístico =NAR   copula -IMPF bonito
+\ps n.                 =clit. v.int  -suf. adj.
+
+\ft ese diseño era bien bonito
+\ELANBegin 185.393
+\ELANEnd 186.858
+\ELANParticipant Nelita
+\sound NC-disenos.iskonawa1-2018.wav 185.393 186.858
+
+\ref 048
+\trs maho ati maho
+\tx maho  ati          maho
+\mb maho  ak    -ti    maho
+\gn joven hacer -NOMLZ joven
+\ps n.    v.tr  -suf.  n.
+
+\ft para que se lo hagan los jóvenes
+\ELANBegin 187.360
+\ELANEnd 189.118
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 187.360 189.118
+
+\ref 049
+\trs maho
+\tx maho
+\mb maho
+\gn joven
+\ps n.
+
+\ft los jóvenes
+\ELANBegin 189.590
+\ELANEnd 190.496
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 189.590 190.496
+
+\ref 050
+\trs mahobo ati
+\tx mahobo      ati
+\mb maho  =bo   ak    -ti
+\gn joven =PLU  hacer -NOMLZ
+\ps n.    =clit v.tr  -suf.
+
+\ft para que se lo hagan los jóvenes
+\ELANBegin 190.853
+\ELANEnd 192.101
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 190.853 192.101
+
+\ref 051
+\trs haneboton yoike
+\tx haneboton      yoike
+\mb hanebo  =n     yoi    -ke
+\gn chamán =ERG   contar -PERF(SK)
+\ps n.      =clit. v.tr   -suf.
+
+\ft el chamán les dijo
+\ELANBegin 192.428
+\ELANEnd 195.783
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 192.428 195.783
+
+\ref 052
+\trs bohka awe
+\tx bohka  awe
+\mb bohka  ak    -we
+\gn cabeza hacer -IMP(SK)
+\ps n.     v.tr  -suf.
+
+\ft "cortate el cerquillo"
+\ELANBegin 196.168
+\ELANEnd 197.591
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 196.168 197.591
+
+\ref 053
+\trs bohka awe
+\tx bohka  awe
+\mb bohka  ak    -we
+\gn cabeza hacer -IMP(SK)
+\ps n.     v.tr  -suf.
+
+\ft "cortate el cerquillo"
+\ELANBegin 197.950
+\ELANEnd 199.192
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 197.950 199.192
+
+\ref 054
+\trs a bohka ahon popokiri kene awe
+\tx a   bohka  ahon             popokiri
+\mb a   bohka  ak    -hon       popokiri
+\gn ese cabeza hacer -SUJ>A:SIM mariposa
+\ps dem n.     v.tr  -suf.      n.
+
+\tx kene               awe
+\mb kené              ak    -we
+\gn diseño.artístico hacer -IMP(SK)
+\ps n.                 v.tr  -suf.
+
+\ft "después de cortarte el cerquillo, dibujate el diseño de la 
+mariposa"
+\ELANBegin 199.770
+\ELANEnd 203.309
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 199.770 203.309
+
+\ref 055
+\trs yoshinmara
+\tx yoshinmara
+\mb yoshin    =ma    =ra
+\gn espíritu =NEG   =EVID1(SK)
+\ps n.        =clit. =clit.
+
+\ft para que no te lleve el espíritu
+\ELANBegin 203.622
+\ELANEnd 204.719
+\ELANParticipant Nelita
+\sound NC-disenos.iskonawa1-2018.wav 203.622 204.719
+
+\ref 056
+\trs yoshinma nihon binake
+\tx yoshinma         nihon
+\mb yoshin    =ma    niho   =n
+\gn espíritu =NEG   diablo =ERG
+\ps n.        =clit. n.     =clit.
+
+\tx binake
+\mb bi      -nake
+\gn agarrar -APREHEN
+\ps v.tr    -suf.
+
+\ft para que no te lleve el niho
+\ELANBegin 205.119
+\ELANEnd 207.078
+\ELANParticipant Nelita
+\sound NC-disenos.iskonawa1-2018.wav 205.119 207.078
+
+\ref 057
+\trs nihon binake nihon binake
+\tx nihon         binake           nihon         binake
+\mb niho   =n     bi      -nake    niho   =n     bi      -nake
+\gn diablo =ERG   agarrar -APREHEN diablo =ERG   agarrar -APREHEN
+\ps n.     =clit. v.tr    -suf.    n.     =clit. v.tr    -suf.
+
+\ft para que no te lleve el niho
+\ELANBegin 207.188
+\ELANEnd 208.795
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 207.188 208.795
+
+\ref 058
+\trs awea hatianki tanake atianki
+\tx awea        hatianki            tanake
+\mb awe    -a   hatian       =ki    tana   -ke
+\gn hembra -ABL entonces(SK) =REP   probar -PERF(SK)
+\ps adj.   -suf conec.       =clit. v.tr   -suf.
+
+\tx atianki
+\mb atian    =ki
+\gn entonces =REP
+\ps conec.   =clit.
+
+\ft por eso vamos a probar
+\ELANBegin 209.123
+\ELANEnd 213.085
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 209.123 213.085
+
+\ref 059
+\trs ipaoni ato rebopakekibi
+\tx ipaoni               ato   rebopakekibi
+\mb ik     -paoni        ato   rebo   pake  =ki    =bi
+\gn copula -PAS.REM:IMPF 3PL   sobrar caer  =REP   =ENF
+\ps v.int  -suf.         pron. v.     v.amb =clit. =clit.
+
+\ft así era antes y lo mismo pasa con los quedamos ahora
+\ELANBegin 213.282
+\ELANEnd 215.520
+\ELANParticipant Nelita
+\sound NC-disenos.iskonawa1-2018.wav 213.282 215.520
+
+\ref 060
+\trs akai ramaka
+\tx akai            ramaka
+\mb ak    -ai       rama            =ka
+\gn hacer -IMPF(SK) actualmente(SK) =NAR
+\ps v.tr  -suf.     adv.            =clit.
+
+\ft hacen hasta ahora
+\ELANBegin 217.228
+\ELANEnd 218.920
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 217.228 218.920
+
+\ref 061
+\trs noa nawan
+\tx noa   nawan
+\mb noa   nawa         =n
+\gn 1PL.P no.indígena =ERG
+\ps pron. n.           =clit.
+
+\ft a nosotros los mestizos
+\ELANBegin 219.220
+\ELANEnd 221.153
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 219.220 221.153
+
+\ref 062
+\trs nawan
+\tx nawan
+\mb nawa         =n
+\gn no.indígena =ERG
+\ps n.           =clit.
+
+\ft los mestizos
+\ELANBegin 221.606
+\ELANEnd 222.439
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 221.606 222.439
+
+\ref 063
+\trs nawan noa raeaniketian
+\tx nawan               noa
+\mb nawa         =n     noa
+\gn no.indígena =ERG   1PL.P
+\ps n.           =clit. pron.
+
+\tx raeaniketian
+\mb rae           -a     -ni      -ketian
+\gn civilizar(SK) -NOMLZ -PAS.REM -SUJ.DIF:SIM(SK)
+\ps v.tr          -suf.  -suf     -suf
+
+\ft los mestizos nos han civilizado hace tiempo
+\ELANBegin 222.899
+\ELANEnd 224.867
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 222.899 224.867
+
+\ref 064
+\trs nawan noa raeaniketian misionerobaon raeaniketian
+\tx nawan               noa
+\mb nawa         =n     noa
+\gn no.indígena =ERG   1PL.P
+\ps n.           =clit. pron.
+
+\tx raeaniketian
+\mb rae           -a     -ni      -ketian
+\gn civilizar(SK) -NOMLZ -PAS.REM -SUJ.DIF:SIM(SK)
+\ps v.tr          -suf.  -suf     -suf
+
+\tx misionerobaon
+\mb misionero       =bo   =n
+\gn misionero(CAST) =PLU  =ERG
+\ps n.              =clit =clit.
+
+\tx raeaniketian
+\mb rae           -a     -ni      -ketian
+\gn civilizar(SK) -NOMLZ -PAS.REM -SUJ.DIF:SIM(SK)
+\ps v.tr          -suf.  -suf     -suf
+
+\ft los mestizos nos han civilizado, los misioneros nos han civilizado
+\ELANBegin 225.122
+\ELANEnd 228.427
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 225.122 228.427
+
+\ref 065
+\trs ramaka no
+\tx ramaka                 no
+\mb rama            =ka    no
+\gn actualmente(SK) =NAR   1PL
+\ps adv.            =clit. pron
+
+\ft ahora nosotros
+\ELANBegin 228.862
+\ELANEnd 229.906
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 228.862 229.906
+
+\ref 066
+\trs wensan kenebo tanain
+\tx wensan   kenebo                   tanai
+\mb wensan   kené              =bo   tana   -i
+\gn afaninga diseño.artístico =PLU  probar -IMPF
+\ps n.       n.                 =clit v.tr   -suf.
+
+\ft estamos probando el diseño de la afaninga
+\ELANBegin 232.811
+\ELANEnd 234.849
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 232.811 234.849
+
+\ref 067
+\trs tanai ma
+\tx tanai        ma
+\mb tana   -i    ma
+\gn probar -IMPF ya
+\ps v.tr   -suf. adv
+
+\ft estamos probando ahora
+\ELANBegin 235.037
+\ELANEnd 236.404
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 235.037 236.404
+
+\ref 068
+\trs aka iro pikoi
+\tx aka        iro   pikoi
+\mb a   =ka    iro   piko  -i
+\gn ese =NAR   bueno salir -IMPF
+\ps dem =clit. adj.  v.int -suf.
+
+\ft ese sale bonito
+\ELANBegin 236.708
+\ELANEnd 238.132
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 236.708 238.132
+
+\ref 069
+\trs ajá
+\tx ajá
+\ft ajá
+\ELANBegin 238.335
+\ELANEnd 239.530
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 238.335 239.530
+
+\ref 070
+\trs arasires ikima
+\tx arasires ikima
+\mb arasires ik     -i    =ma
+\gn todos    copula -IMPF =NEG
+\ps adv.     v.int  -suf. =clit.
+
+\ft ya no hacemos todos los diseños
+\ELANBegin 239.800
+\ELANEnd 242.125
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 239.800 242.125
+
+\ref 071
+\trs kene onanpaoti
+\tx kene               onanpaoti
+\mb kené              onan  -paoti
+\gn diseño.artístico saber -PAS.REM
+\ps n.                 v.tr  -suf.
+
+\ft los diseños que conocíamos antes
+\ELANBegin 242.300
+\ELANEnd 244.013
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 242.300 244.013
+
+\ref 072
+\trs ipaoti moa moatian
+\tx ipaoti          moa    moatian
+\mb ik     -paoti   moa    moa    -tian
+\gn copula -PAS.REM ya(SK) ya(SK) -TEMP(SK)
+\ps v.int  -suf.    adv    adv    -suf.
+
+\ft los que había antes
+\ELANBegin 244.200
+\ELANEnd 247.115
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 244.200 247.115
+
+\ref 073
+\trs moatian kene onana ramakama
+\tx moatian          kene               onana
+\mb moa    -tian     kené              onan  -a
+\gn ya(SK) -TEMP(SK) diseño.artístico saber -PERF
+\ps adv    -suf.     n.                 v.tr  -suf.
+
+\tx ramakama
+\mb rama            =kama
+\gn actualmente(SK) =LIM
+\ps adv.            =clit.
+
+\ft hasta ahora sabemos los diseños
+\ELANBegin 247.323
+\ELANEnd 250.509
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 247.323 250.509
+
+\ref 074
+\trs rama hontokoboton
+\tx rama            hontokoboton
+\mb rama            hontoko  =bo   =n
+\gn actualmente(SK) muchacha =PLU  =ERG
+\ps adv.            n.       =clit =clit.
+
+\ft las señoritas de ahora (saben)
+\ELANBegin 250.701
+\ELANEnd 252.581
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 250.701 252.581
+
+\ref 075
+\trs onanke rama hontokoboton onana
+\tx onanke          rama
+\mb onan  -ke       rama
+\gn saber -PERF(SK) actualmente(SK)
+\ps v.tr  -suf.     adv.
+
+\tx hontokoboton          onana
+\mb hontoko  =bo   =n     onan  -a
+\gn muchacha =PLU  =ERG   saber -PERF
+\ps n.       =clit =clit. v.tr  -suf.
+
+\ft las señoritas de ahora saben
+\ELANBegin 252.757
+\ELANEnd 255.633
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 252.757 255.633
+
+\ref 076
+\trs ma iwaboboka ma a onankati iwabobo ma yama
+\tx ma  iwaboboka                ma  a
+\mb ma  iwa   =bo   =bo   =ka    ma  a
+\gn ya  vieja =PLU  =PLU  =NAR   ya  ese
+\ps adv adj.  =clit =clit =clit. adv dem
+
+\tx onankati           iwabobo           ma  yama
+\mb onan  -kati        iwa   =bo   =bo   ma  yama
+\gn saber -PAS.REM:HAB viejo =PLU  =PLU  ya  NEG
+\ps v.tr  -suf.        adj.  =clit =clit adv adv
+
+\ft las viejas que sabían ya no estàn
+\ELANBegin 255.813
+\ELANEnd 259.747
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 255.813 259.747
+
+\ref 077
+\trs eah emenkiri ewea
+\tx eah   emenkiri ewea
+\mb eah   emenkiri ewe   -a
+\gn 1SG:S yo.solo  vivir -EST
+\ps pron. pron.    v.int -suf
+
+\ft yo vivo solita
+\ELANBegin 259.921
+\ELANEnd 263.471
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 259.921 263.471
+
+\ref 078
+\trs iwa
+\tx iwa
+\mb iwa
+\gn viejo
+\ps adj.
+
+\ft vieja
+\ELANBegin 263.661
+\ELANEnd 264.499
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 263.661 264.499
+
+\ref 079
+\trs nato narana iwa riki a
+\tx nato     narana iwa   riki    a
+\mb nato     narana iwa   riki    a
+\gn este(SK) cinco  viejo COP(SK) ese
+\ps dem.     num.   adj.  part.   dem
+
+\ft ahora hay cinco ancianos no más
+\ELANBegin 265.294
+\ELANEnd 267.526
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 265.294 267.526
+
+\ref 080
+\trs ikahbi
+\tx ikahbi
+\mb ik     =ah        =bi
+\gn copula =SUJ>S:SIM =ENF
+\ps v.int  =suf.      =clit.
+
+\ft sin embargo
+\ELANBegin 267.721
+\ELANEnd 268.868
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 267.721 268.868
+
+\ref 081
+\trs ha iyamai
+\tx ha      iyamai
+\mb ha      ik     -yama    -i
+\gn ese(SK) copula -NEG(SK) -IMPF
+\ps dem     v.int  -suf.    -suf.
+
+\ft pero ellos no están acá
+\ELANBegin 269.000
+\ELANEnd 270.882
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 269.000 270.882
+
+\ref 082
+\trs eah emenkiribi eah banai ewen bana nato yoihon
+\tx eah   emenkiribi      eah   banai
+\mb eah   emenkiri =bi    eah   bana    -i
+\gn 1SG:S yo.solo  =ENF   1SG:S sembrar -IMPF
+\ps pron. pron.    =clit. pron. v.tr    -suf.
+
+\tx ewen    bana   nato     yoihon
+\mb ewen    bana   nato     yoi    -hon
+\gn 1SG:GEN lengua este(SK) contar -SUJ>A:SIM
+\ps pron.   n.     dem.     v.tr   -suf.
+
+\ft solo yo estoy hablando mi lengua para poder contarles esto
+\ELANBegin 270.983
+\ELANEnd 277.255
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 270.983 277.255
+
+\ref 083
+\trs eah
+\tx eah
+\mb eah
+\gn 1SG:S
+\ps pron.
+
+\ft yo
+\ELANBegin 277.983
+\ELANEnd 278.777
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 277.983 278.777
+
+\ref 084
+\trs a arasires ikema kene onana wensan kene yora kenebo ati
+\tx a   arasires ikema                   kene
+\mb a   arasires ik     -ke       =ma    kené
+\gn ese todos    copula -PERF(SK) =NEG   diseño.artístico
+\ps dem adv.     v.int  -suf.     =clit. n.
+
+\tx onana       wensan   kene               yora
+\mb onan  -a    wensan   kené              yora
+\gn saber -PERF afaninga diseño.artístico cuerpo
+\ps v.tr  -suf. n.       n.                 n.
+
+\tx kenebo                   ati
+\mb kené              =bo   a   -ti
+\gn diseño.artístico =PLU  ese -NOMLZ
+\ps n.                 =clit dem -suf.
+
+\ft solo nosotros sabemos los diseños de la afaninga wensan y los 
+diseños corporales
+\ELANBegin 278.958
+\ELANEnd 283.964
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 278.958 283.964
+
+\ref 085
+\trs chehe bimi
+\tx chehe bimi
+\mb chehe bimi
+\gn huito
+\ps n.
+
+\ft huito
+\ELANBegin 284.134
+\ELANEnd 285.213
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 284.134 285.213
+
+\ref 086
+\trs a yora keneti
+\tx a   yora   keneti
+\mb a   yora   kené              -ti
+\gn ese cuerpo diseño.artístico -NOMLZ
+\ps dem n.     n.                 -suf.
+
+\ft ese es para pintarse el cuerpo
+\ELANBegin 285.402
+\ELANEnd 286.974
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 285.402 286.974
+
+\ref 087
+\trs ete bimibo riki a
+\tx ete bimi -bo   riki    a
+\mb ete bimi -bo   riki    a
+\ps n.       -suf. part.   dem
+\gn achiote  -PLU  COP(SK) ese
+
+\ft el achiote era
+\ELANBegin 287.704
+\ELANEnd 289.058
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 287.704 289.058
+
+\ref 088
+\trs kabitibo ati
+\tx kabitibo     ati
+\mb kabiti =bo   ak    -ti
+\gn flecha =PLU  hacer -NOMLZ
+\ps n.     =clit v.tr  -suf.
+
+\ft para pintar las flechas
+\ELANBegin 289.209
+\ELANEnd 290.604
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 289.209 290.604
+
+\ref 089
+\trs kabitibo keneti
+\tx kabitibo     keneti
+\mb kabiti =bo   kene              -ti
+\gn flecha =PLU  dejar.escapar(SK) -NOMLZ
+\ps n.     =clit v.tr              -suf.
+
+\ft para pintar las flechas
+\ELANBegin 290.793
+\ELANEnd 292.584
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 290.793 292.584
+
+\ref 090
+\trs nato areskira
+\tx nato     areskira
+\mb nato     a   -res       =ki    =ra
+\gn este(SK) ese -solamente =REP   =EVID1(SK)
+\ps dem.     dem -suf.      =clit. =clit.
+
+\ft esto es todo
+\ELANBegin 294.114
+\ELANEnd 295.933
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 294.114 295.933
+
+\ref 091
+\trs keneyamakanai nato
+\tx keneyamakanai                               nato
+\mb kené              -yama    -kan  -ai       nato
+\gn diseño.artístico -NEG(SK) -PLU  -IMPF(SK) este(SK)
+\ps n.                 -suf.    -suj. -suf.     dem.
+
+\ft ya no hacemos estos diseños
+\ELANBegin 296.192
+\ELANEnd 297.768
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 296.192 297.768
+
+\ref 092
+\trs hanebon no yoiketian kenekin peokani
+\tx hanebon        no   yoiketian
+\mb hanebo  =n     no   yoi    -ketian
+\gn chamán =ERG   1PL  contar -SUJ.DIF:SIM(SK)
+\ps n.      =clit. pron v.tr   -suf
+
+\tx kenekin                      peokani
+\mb kene              -kin       peo         -kan  -i
+\gn dejar.escapar(SK) -SUJ>A:SIM empezar(SK) -PLU  -IMPF
+\ps v.tr              -suf.      v.tr        -suj. -suf.
+
+\ft Cuando Hanebo nos enseño hemos empezado a dibujar
+\ELANBegin 298.049
+\ELANEnd 300.910
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 298.049 300.910
+
+\ref 093
+\trs peokati peokani
+\tx peokati                 peokani
+\mb peo         -kat  -i    peo         -kan  -i
+\gn empezar(SK) -REFL -IMPF empezar(SK) -PLU  -IMPF
+\ps v.tr        -suf. -suf. v.tr        -suj. -suf.
+
+\ft hemos empezado
+\ELANBegin 301.110
+\ELANEnd 303.081
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 301.110 303.081
+
+\ref 094
+\trs moa iwaboton
+\tx moa    iwaboton
+\mb moa    iwa   =bo   =n
+\gn ya(SK) viejo =PLU  =ERG
+\ps adv    adj.  =clit =clit.
+
+\ft las mujeres viejas
+\ELANBegin 303.843
+\ELANEnd 305.178
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 303.843 305.178
+
+\ref 095
+\trs noa iwaboton peokani
+\tx noa   iwaboton           peokani
+\mb noa   iwa   =bo   =n     peo         -kan  -i
+\gn 1PL:A viejo =PLU  =ERG   empezar(SK) -PLU  -IMPF
+\ps pron. adj.  =clit =clit. v.tr        -suj. -suf.
+
+\ft nosotras las viejas hemos empezado
+\ELANBegin 305.409
+\ELANEnd 307.262
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 305.409 307.262
+
+\ref 096
+\trs kabiti atira awahon peweabira
+\tx kabiti atira                   awahon
+\mb kabiti ak    -ti    =ra        aweahon
+\gn flecha hacer -NOMLZ =EVID1(SK) cómo:TRAN
+\ps n.     v.tr  -suf.  =clit.     pal.int
+
+\tx peweabira
+\mb pewe    -a    =bira
+\gn empezar -PERF =infer
+\ps v.tr    -suf. =clit.
+
+\ft ¿cómo habrán empezado a hacer flechas?
+\ELANBegin 308.213
+\ELANEnd 311.006
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 308.213 311.006
+
+\ref 097
+\trs aka moa iwabotonki  pewea yoishi bakebonki
+\tx aka         moa    iwabotonki
+\mb ak    -a    moa    iwa   =bo   =n     =ki
+\gn hacer -PERF ya(SK) viejo =PLU  =ERG   =REP
+\ps v.tr  -suf. adv    adj.  =clit =clit. =clit.
+
+\tx pewea         yoishi   bakebonki
+\mb pewe    -a    yoishi   bake =bo   =n     =ki
+\gn empezar -PERF mezquino hijo =PLU  =ERG   =REP
+\ps v.tr    -suf. n.       n.   =clit =clit. =clit.
+
+\ft los viejos o los "mezquinos"  habrán empezado
+\ELANBegin 311.377
+\ELANEnd 314.692
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 311.377 314.692
+
+\ref 098
+\trs peomanika kabiti ati
+\tx peomanika
+\mb peo         - man      -i         =ka
+\gn empezar(SK) - fabricar -SUJ>A:SIM =NAR
+\ps v.tr        - v.tr     -suf.      =clit.
+
+\tx kabiti ati
+\mb kabiti ak    -ti
+\gn flecha hacer -NOMLZ
+\ps n.     v.tr  -suf.
+
+\ft nos hicieron empezar a hacer flechas
+\ELANBegin 315.098
+\ELANEnd 317.192
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 315.098 317.192
+
+\ref 099
+\trs kabitimaronki ipaoni
+\tx kabitimaronki          ipaoni
+\mb kabiti =ma    =ronki   ik     -paoni
+\gn flecha =NEG   =REP(SK) copula -PAS.REM:IMPF
+\ps n.     =clit. =clit.   v.int  -suf.
+
+\ft dicen que los iskonawa no tenían flechas
+\ELANBegin 317.511
+\ELANEnd 319.394
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 317.511 319.394
+
+\ref 100
+\trs bari hanahon bari hanahonreski
+\tx bari hanahon             bari
+\mb bari hana     -hon       bari
+\gn sol  caliente -SUJ>A:SIM sol
+\ps n.   adj.     -suf.      n.
+
+\tx hanahonreski
+\mb hana     -hon       -res       =ki
+\gn caliente -SUJ>A:SIM -solamente =REP
+\ps adj.     -suf.      -suf.      =clit.
+
+\ft soleando los alimentos varias veces (comían los alimentos)
+\ELANBegin 319.622
+\ELANEnd 322.538
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 319.622 322.538
+
+\ref 101
+\trs yoina yosima yoina yosimahako iketianki
+\tx yoina  yosima yoina
+\mb yoina  yosima yoina
+\gn animal manso  animal
+\ps n.     adj.   n.
+
+\tx yosimahako   iketianki
+\mb yosima -hoko ik     -ketian          =ki
+\gn manso  -DIM  copula -SUJ.DIF:SIM(SK) =INT
+\ps adj.   -suf  v.int  -suf             =clit.
+
+\ft solo (comían) animales que eran mansitos
+\ELANBegin 323.271
+\ELANEnd 326.507
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 323.271 326.507
+
+\ref 102
+\trs bari hanahon marehon bari hanahonres
+\tx bari hanahon             marehon          bari
+\mb bari hana     -hon       mare  -hon       bari
+\gn sol  caliente -SUJ>A:SIM matar -SUJ>A:SIM sol
+\ps n.   adj.     -suf.      v.tr  -suf.      n.
+
+\tx hanahonres
+\mb hana     -hon       -res
+\gn caliente -SUJ>A:SIM -solamente
+\ps adj.     -suf.      -suf.
+
+\ft poniendo al sol, cazando, poniendo al sol nomás
+\ELANBegin 326.839
+\ELANEnd 330.517
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 326.839 330.517
+
+\ref 103
+\trs pipaotiki pipaoti iwaboton
+\tx pipaotiki             pipaoti
+\mb pi    -paoti   =ki    pi    -paoti
+\gn comer -PAS.REM =REP   comer -PAS.REM
+\ps v.tr  -suf.    =clit. v.tr  -suf.
+
+\tx iwaboton
+\mb iwa   =bo   =n
+\gn viejo =PLU  =ERG
+\ps adj.  =clit =clit.
+
+\ft así comían los viejos
+\ELANBegin 330.822
+\ELANEnd 334.636
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 330.822 334.636
+
+\ref 104
+\trs a iwabotonki yoashi bakebo
+\tx a   iwabotonki                yoashi        bakebo
+\mb a   iwa   =bo   =n     =ki    yoashi        bake  =bo
+\gn ese viejo =PLU  =ERG   =REP   mezquino(SK)  niño =PLU
+\ps dem adj.  =clit =clit. =clit. n.            n.    =clit
+
+\ft los ancianos que eran los "mezquinos"
+\ELANBegin 334.851
+\ELANEnd 336.971
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 334.851 336.971
+
+\ref 105
+\trs neskahon pian akanwe
+\tx neskahon         pian
+\mb neska -hon       pia        =n
+\gn así  -SUJ>A:SIM flecha(SK) =INST
+\ps adv.  -suf.      n.         =clit.
+
+\tx akanwe
+\mb ak    -kan  -we
+\gn hacer -PLU  -IMP(SK)
+\ps v.tr  -suj. -suf.
+
+\ft "así, maten con flecha" (nos dijeron)
+\ELANBegin 337.143
+\ELANEnd 339.540
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 337.143 339.540
+
+\ref 106
+\trs iskahon iskahon pian ati
+\tx iskahon         iskahon         pian
+\mb iska -hon       iska -hon       pia        =n
+\gn así -SUJ>A:SIM así -SUJ>A:SIM flecha(SK) =INST
+\ps adv. -suf.      adv. -suf.      n.         =clit.
+
+\tx ati
+\mb ak    -ti
+\gn hacer -NOMLZ
+\ps v.tr  -suf.
+
+\ft "así, maten con flecha"
+\ELANBegin 339.926
+\ELANEnd 341.885
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 339.926 341.885
+
+\ref 107
+\trs aki onamai
+\tx aki         onamai
+\mb ak    -i    onan  -ma   -i
+\gn hacer -IMPF saber -CAUS -IMPF
+\ps v.tr  -suf. v.tr  -suf. -suf.
+
+\ft decían así y nos enseñaron
+\ELANBegin 342.016
+\ELANEnd 344.501
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 342.016 344.501
+
+\ref 108
+\trs haskaki ka iki non iwaboton
+\tx haskaki         ka     iki          non
+\mb haska    =ki    =ka    ik     -i    no   =n
+\gn así(SK) =REP   =NAR   copula -IMPF 1PL  =GEN
+\ps adv.     =clit. =clit. v.int  -suf. pron =clit.
+
+\tx iwaboton
+\mb iwa   =bo   =n
+\gn viejo =PLU  =ERG
+\ps adj.  =clit =clit.
+
+\ft así hicieron nuestras madres
+\ELANBegin 344.606
+\ELANEnd 348.165
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 344.606 348.165
+
+\ref 109
+\trs kabiti akin pewenike
+\tx kabiti akin             pewenike
+\mb kabiti ak    -kin       pewe    -ni      -ke
+\gn flecha hacer -SUJ>A:SIM empezar -PAS.REM -PERF(SK)
+\ps n.     v.tr  -suf.      v.tr    -suf     -suf.
+
+\ft ahí empezaron a hacer flechas los iskonawa
+\ELANBegin 348.229
+\ELANEnd 349.819
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 348.229 349.819
+
+\ref 110
+\trs kabiti akin
+\tx kabiti akin
+\mb kabiti ak    -kin
+\gn flecha hacer -SUJ>A:SIM
+\ps n.     v.tr  -suf.
+
+\ft haciendo flechas
+\ELANBegin 350.000
+\ELANEnd 351.027
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 350.000 351.027
+
+\ref 111
+\trs kabiti akin peoke
+\tx kabiti akin             peoke
+\mb kabiti ak    -kin       peo         -ke
+\gn flecha hacer -SUJ>A:SIM empezar(SK) -PERF(SK)
+\ps n.     v.tr  -suf.      v.tr        -suf.
+
+\ft empezaron a hacer flechas
+\ELANBegin 351.551
+\ELANEnd 353.038
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 351.551 353.038
+
+\ref 112
+\trs atian peokebika nato
+\tx atian    peokebika                           nato
+\mb atian    peo         -ke       =bi    =ka    nato
+\gn entonces empezar(SK) -PERF(SK) =ENF   =NAR   este(SK)
+\ps conec.   v.tr        -suf.     =clit. =clit. dem.
+
+\ft entonces así empezaron
+\ELANBegin 353.393
+\ELANEnd 356.061
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 353.393 356.061
+
+\ref 113
+\trs hanebonin oinke kenebo kenemabo
+\tx hanebonin      oinke           kenebo
+\mb hanebo  =n     oin   -ke       kené              =bo
+\gn chamán =ERG   ver   -PERF(SK) diseño.artístico =PLU
+\ps n.      =clit. v.tr. -suf.     n.                 =clit
+
+\tx kenemabo
+\mb kené              -ma   =bo
+\gn diseño.artístico -CAUS =PLU
+\ps n.                 -suf. =clit
+
+\ft Haneno nos enseñó los diseños que vió en sus sueños de tabaco
+\ELANBegin 356.327
+\ELANEnd 359.319
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 356.327 359.319
+
+\ref 114
+\trs piake kene oinma
+\tx piake                kene
+\mb pia        -ke       kené
+\gn flecha(SK) -PERF(SK) diseño.artístico
+\ps n.         -suf.     n.
+
+\tx oinma
+\mb oin   -ma
+\gn ver   -CAUS
+\ps v.tr. -suf.
+
+\ft ya hecho el diseño (los iskonawa)  han visto
+\ELANBegin 359.498
+\ELANEnd 361.557
+\ELANParticipant Nelita
+\sound NC-disenos.iskonawa1-2018.wav 359.498 361.557
+
+\ref 115
+\trs iska aketian kenebo
+\tx iska aketian                kenebo
+\mb iska ak    -ketian          kené              =bo
+\gn así hacer -SUJ.DIF:SIM(SK) diseño.artístico =PLU
+\ps adv. v.tr  -suf             n.                 =clit
+
+\ft ya están listos los diseños
+\ELANBegin 362.147
+\ELANEnd 364.677
+\ELANParticipant Nelita
+\sound NC-disenos.iskonawa1-2018.wav 362.147 364.677
+
+\ref 116
+\trs peokatiki peohon
+\tx peokatiki
+\mb peo         -kati        =ki
+\gn empezar(SK) -PAS.REM:HAB =INT
+\ps v.tr        -suf.        =clit.
+
+\tx peohon
+\mb peo         -hon
+\gn empezar(SK) -SUJ>A:SIM
+\ps v.tr        -suf.
+
+\ft así empezaron a hacer
+\ELANBegin 364.863
+\ELANEnd 367.089
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 364.863 367.089
+
+\ref 117
+\trs ramakamabira
+\tx ramakamabira
+\mb rama            =kama  =bi    =ra
+\gn actualmente(SK) =LIM   =ENF   =EVID1(SK)
+\ps adv.            =clit. =clit. =clit.
+
+\ft hasta ahorita
+\ELANBegin 367.264
+\ELANEnd 368.642
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 367.264 368.642
+
+\ref 118
+\trs a kenebo eah shinanbenoyamai eah shinanai
+\tx a   kenebo                   eah
+\mb a   kené              =bo   eah
+\gn ese diseño.artístico =PLU  1SG:S
+\ps dem n.                 =clit pron.
+
+\tx shinanbenoyamai                eah
+\mb shinan beno     -yama    -i    eah
+\gn pensar perderse -NEG(SK) -IMPF 1SG:S
+\ps v.tr   v.int    -suf.    -suf. pron.
+
+\tx shinanai
+\mb shinan -ai
+\gn pensar -IMPF(SK)
+\ps v.tr   -suf.
+
+\ft esos diseños yo no olvido, yo me acuerdo
+\ELANBegin 368.799
+\ELANEnd 373.048
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 368.799 373.048
+
+\ref 119
+\trs eara keneyamapaoniki
+\tx eara
+\mb ea          =ra
+\gn 1SG.ABS(SK) =EVID1(SK)
+\ps pron.       =clit.
+
+\tx keneyamapaonike
+\mb kene              -yama    -paoni        -ke
+\gn dejar.escapar(SK) -NEG(SK) -PAS.REM:IMPF -PERF(SK)
+\ps v.tr              -suf.    -suf.         -suf.
+
+\ft yo no hacía esos diseños antes
+\ELANBegin 373.218
+\ELANEnd 375.189
+\ELANParticipant Nelita
+\sound NC-disenos.iskonawa1-2018.wav 373.218 375.189
+
+\ref 120
+\trs eara bake oa iki
+\tx eara                   bake  oa
+\mb ea          =ra        bake  o     -a
+\gn 1SG.ABS(SK) =EVID1(SK) niño venir -NOMLZ
+\ps pron.       =clit.     n.    v.int -suf.
+
+\tx iki
+\mb ik     -i
+\gn copula -IMPF
+\ps v.int  -suf.
+
+\ft yo he venido de niña
+\ELANBegin 375.361
+\ELANEnd 377.055
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 375.361 377.055
+
+\ref 121
+\trs nato shipibonin paron waka yoran eah oa iki bake
+\tx nato     shipibonin     paron                  waka
+\mb nato     shipibo =n     paro            =n     waka
+\gn este(SK) shipibo =ERG   río.grande(SK) =LOC   río
+\ps dem.     n.      =clit. n.              =clit. n.
+
+\tx yoran         eah   oa           iki          bake
+\mb yora   =n     eah   o     -a     ik     -i    bake
+\gn cuerpo =LOC   1SG:S venir -NOMLZ copula -IMPF niño
+\ps n.     =clit. pron. v.int -suf.  v.int  -suf. n.
+
+\ft yo vine de jovencita al río Ucayali, al que los shipibos le dicen 
+"paro"
+\ELANBegin 377.218
+\ELANEnd 383.676
+\ELANParticipant Nelita
+\sound NC-disenos.iskonawa1-2018.wav 377.218 383.676
+
+\ref 122
+\trs bake eah oke abi en shinanai ewen hotabo ipaoni
+\tx bake  eah   oke             abi        en
+\mb bake  eah   o     -ke       a   =bi    en
+\gn niño 1SG:S venir -PERF(SK) ese =ENF   1SG:A(SK)
+\ps n.    pron. v.int -suf.     dem =clit. pron
+
+\tx shinanai         ewen    hotabo
+\mb shinan -ai       ewen    hota   =bo
+\gn pensar -IMPF(SK) 1SG:GEN abuela =PLU
+\ps v.tr   -suf.     pron.   n.     =clit
+
+\tx ipaoni
+\mb ik     -paoni
+\gn copula -PAS.REM:IMPF
+\ps v.int  -suf.
+
+\ft aunque yo vine de niña, yo conozco lo que eran mis abuelas
+\ELANBegin 383.856
+\ELANEnd 389.047
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 383.856 389.047
+
+\ref 123
+\trs ewen hanobo ipaoni en shinanai ewen hanobo apaoni en shinanai
+\tx ewen    hanobo               ipaoni
+\mb ewen    hano           =bo   ik     -paoni
+\gn 1SG:GEN abuelo.materno =PLU  copula -PAS.REM:IMPF
+\ps pron.   n.             =clit v.int  -suf.
+
+\tx en        shinanai         ewen
+\mb en        shinan -ai       ewen
+\gn 1SG:A(SK) pensar -IMPF(SK) 1SG:GEN
+\ps pron      v.tr   -suf.     pron.
+
+\tx hanobo               apaoni              en
+\mb hano           =bo   ak    -paoni        en
+\gn abuelo.materno =PLU  hacer -PAS.REM:IMPF 1SG:A(SK)
+\ps n.             =clit v.tr  -suf.         pron
+
+\tx shinanai
+\mb shinan -ai
+\gn pensar -IMPF(SK)
+\ps v.tr   -suf.
+
+\ft yo conozco lo que eran mis abuelos (maternos), lo que eran mis 
+abuelos (maternos) yo sé
+\ELANBegin 390.295
+\ELANEnd 394.915
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 390.295 394.915
+
+\ref 124
+\trs a ares iki ena mato ena yoya moa
+\tx a   ares           iki          ena     mato
+\mb a   a   -res       ik     -i    ena     mato
+\gn ese ese -solamente copula -IMPF 1SG:ERG 2PL:P(SK)
+\ps dem dem -suf.      v.int  -suf. pron.   pron.
+
+\tx ena     yoya  moa
+\mb ena     yoya  moa
+\gn 1SG:ERG decir ya(SK)
+\ps pron.   v.tr  adv
+
+\ft eso es todo lo que yo puedo contar ahora
+\ELANBegin 395.491
+\ELANEnd 399.911
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 395.491 399.911
+
+\ref 125
+\trs ea riki ewea nokon ane riki Nelita Rodríguez Campos
+\tx ea          riki    ewea       nokon
+\mb ea          riki    ewe   -a   nokon
+\gn 1SG.ABS(SK) COP(SK) vivir -EST 1SG.GEN(SK)
+\ps pron.       part.   v.int -suf pron
+
+\tx ane    riki    Nelita Rodríguez      Campos
+\mb ane    riki    Nelita Rodríguez      Campos
+\gn nombre COP(SK) Nelita Rodriguez(CAST) Campos
+\ps n.     part.   n.     n.              n.
+
+\ft Yo vivo... mi nombre es Nelita Rodríguez Campos
+\ELANBegin 399.983
+\ELANEnd 405.961
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 399.983 405.961
+
+\ref 126
+\trs Comunidad Nativa Calleria riki eah ewea
+\tx Comunidad       Nativa Calleria       riki
+\mb comunidad       Nativa calleria       riki
+\gn comunidad(CAST) nativa Calleria(CAST) COP(SK)
+\ps n.              adj.   n.             part.
+
+\tx eah   ewea
+\mb eah   ewe   -a
+\gn 1SG:S vivir -PERF
+\ps pron. v.int -suf.
+
+\ft La Comunidad Nativa Callería es donde yo vivo.
+\ELANBegin 406.639
+\ELANEnd 409.539
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 406.639 409.539
+
+\ref 127
+\trs ea riki nato ministro de culturanin ea iskariba Liman katanshina
+\tx ea          riki    nato     ministro
+\mb ea          riki    nato     ministro
+\gn 1SG.ABS(SK) COP(SK) este(SK) ministro(CAST)
+\ps pron.       part.   dem.     n.
+
+\tx de       culturanin     ea          iskariba
+\mb de       cultura =n     ea          iska =riba
+\gn de(CAST) cultura =ERG   1SG.ABS(SK) así =otra.vez
+\ps prep.    n.      =clit. pron.       adv. =clit.
+
+\tx Liman       katanshina
+\mb lima =n     ka    -tan  -shina
+\gn Lima =LOC   ir    -ANDA -PAS.semana
+\ps n.   =clit. v.int -suf. -suf.
+
+\ft El ministro de cultura me ha invitado para que vaya a Lima.
+\ELANBegin 410.459
+\ELANEnd 416.572
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 410.459 416.572
+
+\ref 128
+\trs katani
+\tx katani
+\mb ka    -tan  -i
+\gn ir    -ANDA -IMPF
+\ps v.int -suf. -suf.
+
+\ft yendo
+\ELANBegin 417.295
+\ELANEnd 418.163
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 417.295 418.163
+
+\ref 129
+\trs a atires iki eah bana
+\tx a   atires                  iki          eah
+\mb a   ak    -ti    -res       ik     -i    eah
+\gn ese hacer -NOMLZ -solamente copula -IMPF 1SG:S
+\ps dem v.tr  -suf.  -suf.      v.int  -suf. pron.
+
+\tx bana
+\mb bana   -a
+\gn hablar -PERF
+\ps v.int  -suf.
+
+\ft yo he hablado
+\ELANBegin 419.213
+\ELANEnd 421.803
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 419.213 421.803
+
+\ref 130
+\trs arana arasires moa ewen bana
+\tx arana    arasires moa    ewen    bana
+\mb arana    arasires moa    ewen    bana
+\gn completo todos    ya(SK) 1SG:GEN lengua
+\ps adv.     adv.     adv    pron.   n.
+
+\ft yo he hablado de todo
+\ELANBegin 424.147
+\ELANEnd 427.278
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 424.147 427.278
+
+\ref 131
+\trs eabicho riki banai banai ea banai ea abe banati
+ikahbi
+\tx eabicho                riki    banai
+\mb ea          =bicho     riki    bana   -i
+\gn 1SG.ABS(SK) =solamente COP(SK) hablar -IMPF
+\ps pron.       =suf.      part.   v.int  -suf.
+
+\tx banai        ea          banai
+\mb bana   -i    ea          bana   -i
+\gn hablar -IMPF 1SG.ABS(SK) hablar -IMPF
+\ps v.int  -suf. pron.       v.int  -suf.
+
+\tx ea          abe        banati
+\mb ea          a   =betan bana    -ti
+\gn 1SG.ABS(SK) ese =COM   sembrar -NOMLZ
+\ps pron.       dem =clit. v.tr    -suf.
+
+\tx ikahbi
+\mb ik     =ah        =bi
+\gn copula =SUJ>S:SIM =ENF
+\ps v.int  =suf.      =clit.
+
+\ft solamente yo he hablado con ellos pero
+\ELANBegin 428.016
+\ELANEnd 432.950
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 428.016 432.950
+
+\ref 132
+\trs ewen witsa ewen witsa
+\tx ewen    witsa ewen    witsa
+\mb ewen    witsa ewen    witsa
+\gn 1SG:GEN otro  1SG:GEN otro
+\ps pron.   adj.  pron.   adj.
+
+\ft mi hermana
+\ELANBegin 433.125
+\ELANEnd 435.213
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 433.125 435.213
+
+\ref 133
+\trs dnioma
+\tx dnioma
+\mb dni =oma
+\gn dni =PROP.NEG
+\ps n.  =clit.
+
+\ft no tiene dni
+\ELANBegin 435.387
+\ELANEnd 436.928
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 435.387 436.928
+
+\ref 134
+\trs akopi riki eah emenkirikeska ea
+\tx akopi   riki    eah   emenkirikeska   ea
+\mb akopi   riki    eah   emenkiri =keska ea
+\gn por.eso COP(SK) 1SG:S yo.solo  =COMP  1SG.ABS(SK)
+\ps conect. part.   pron. pron.    =suf.  pron.
+
+\ft por eso yo me siento como solita
+\ELANBegin 437.100
+\ELANEnd 440.211
+\ELANParticipant Nelita
+\sound NC-disenos.iskonawa1-2018.wav 437.100 440.211
+
+\ref 135
+\trs eah neska emenkirihiko emenkirihiko eah neno beba
+\tx eah   neska emenkirihiko   emenkirihiko
+\mb eah   neska emenkiri -hoko emenkiri -hoko
+\gn 1SG:S así  yo.solo  -DIM  yo.solo  -DIM
+\ps pron. adv.  pron.    -suf  pron.    -suf
+
+\tx eah   neno      beba
+\mb eah   neno      beba
+\gn 1SG:S aquí(SK) sentarse
+\ps pron. adv.      v.int
+
+\ft por eso yo llegué solita
+\ELANBegin 440.377
+\ELANEnd 444.590
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 440.377 444.590
+
+\ref 136
+\trs a yoi oi yoi
+\tx a   yoi    oi         yoi
+\mb a   yoi    oi         yoi
+\gn ese contar idioma(MX) contar
+\ps dem v.tr   n.         v.tr
+
+\ft a contarles mi lengua
+\ELANBegin 444.769
+\ELANEnd 446.926
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 444.769 446.926
+
+\ref 137
+\trs bana yoi
+\tx bana   yoi
+\mb bana   yoi
+\gn lengua contar
+\ps n.     v.tr
+
+\ft a contarles de mi lengua
+\ELANBegin 447.088
+\ELANEnd 448.620
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 447.088 448.620
+
+\ref 138
+\trs neno ewen bana yoi
+\tx neno      ewen    bana   yoi
+\mb neno      ewen    bana   yoi
+\gn aquí(SK) 1SG:GEN lengua contar
+\ps adv.      pron.   n.     v.tr
+
+\ft por eso acá les cuento sobre mi lengua
+\ELANBegin 448.779
+\ELANEnd 450.693
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 448.779 450.693
+
+\ref 139
+\trs atires iki moa
+\tx atires                  iki          moa
+\mb ak    -ti    -res       ik     -i    moa
+\gn hacer -NOMLZ -solamente copula -IMPF ya(SK)
+\ps v.tr  -suf.  -suf.      v.int  -suf. adv
+
+\ft eso no más es ahora
+\ELANBegin 451.098
+\ELANEnd 452.967
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 451.098 452.967
+
+\ref 140
+\trs ea yoya ma
+\tx ea          yoya  ma
+\mb ea          yoya  ma
+\gn 1SG.ABS(SK) decir ya
+\ps pron.       v.tr  adv
+
+\ft ya les conté
+\ELANBegin 454.131
+\ELANEnd 455.229
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 454.131 455.229
+
+\ref 141
+\trs aranares moa
+\tx aranares    moa
+\mb aranares    moa
+\gn ahi.no.más ya(SK)
+\ps adv.        adv
+
+\ft eso no más es ahora
+\ELANBegin 458.393
+\ELANEnd 459.819
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 458.393 459.819
+
+\ref 142
+\trs yoya moa
+\tx yoya  moa
+\mb yoya  moa
+\gn decir ya(SK)
+\ps v.tr  adv
+
+\ft lo que voy a contar ahora
+\ELANBegin 460.983
+\ELANEnd 462.524
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 460.983 462.524
+
+\ref 143
+\trs ain riki
+\tx ain       riki
+\mb ain       riki
+\gn ahí(MIX) COP(SK)
+\ps adv.      part.
+
+\ft ahí es
+\ELANBegin 463.907
+\ELANEnd 465.174
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 463.907 465.174
+
+\ref 144
+\trs a comunidad Callerianko riki ewen kahe
+\tx a   comunidad       Callerianko
+\mb a   comunidad       calleria       =nko
+\gn ese comunidad(CAST) Calleria(CAST) =LOC(SK)
+\ps dem n.              n.             =clit.
+
+\tx riki    ewen    kahe
+\mb riki    ewen    kahe
+\gn COP(SK) 1SG:GEN casa
+\ps part.   pron.   n.
+
+\ft En la comunidad de Callería está mi casa
+\ELANBegin 465.473
+\ELANEnd 469.311
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 465.473 469.311
+
+\ref 145
+\trs neno eah oa Pucallpa eah oa ewen bake eweketian ewen bake oini
+\tx neno      eah   oa          Pucallpa eah
+\mb neno      eah   o     -a    Pucallpa eah
+\gn aquí(SK) 1SG:S venir -PERF Pucallpa 1SG:S
+\ps adv.      pron. v.int -suf. n.       pron.
+
+\tx oa          ewen    bake eweketian
+\mb o     -a    ewen    bake ewe   -ketian
+\gn venir -PERF 1SG:GEN hijo vivir -SUJ.DIF:SIM(SK)
+\ps v.int -suf. pron.   n.   v.int -suf
+
+\tx ewen    bake oini
+\mb ewen    bake oin   -i
+\gn 1SG:GEN hijo ver   -IMPF
+\ps pron.   n.   v.tr. -suf.
+
+\ft yo he venido acá para vivir con mi hijo y verlo
+\ELANBegin 470.382
+\ELANEnd 475.475
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 470.382 475.475
+
+\ref 146
+\trs eah nenoma
+\tx eah   nenoma
+\mb eah   neno      =ma
+\gn 1SG:S aquí(SK) =NEG
+\ps pron. adv.      =clit.
+
+\ft yo no soy de acá
+\ELANBegin 476.557
+\ELANEnd 478.650
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 476.557 478.650
+
+\ref 147
+\trs iti yoiribia ea neno iska iskai
+\tx iti           yoiribia               ea
+\mb ik     -ti    yoi    =ribi     =a    ea
+\gn copula -NOMLZ contar =también =P    1SG.ABS(SK)
+\ps v.int  -suf.  v.tr   =clit.    =clit pron.
+
+\tx neno      iska iskai
+\mb neno      iska iska -i
+\gn aquí(SK) así así -IMPF
+\ps adv.      adv. adv. -suf.
+
+\ft yo estoy aquí por que ellos me dijeron para trabajar
+\ELANBegin 479.156
+\ELANEnd 483.868
+\ELANParticipant Nelita
+\sound NC-diseños.iskonawa1-2018.wav 479.156 483.868
+
+
+\ELANMediaURL file:///C:/Users/Usuario/Documents/iskonawa/basededatos-iskonawa procesada/data/NC-diseños.iskonawa1-2018.wav
+\ELANMediaMIME audio/x-wav

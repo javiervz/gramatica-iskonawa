@@ -1,0 +1,803 @@
+\_sh v3.0  400  text
+
+\ref 001
+\ELANBegin 0.905
+\ELANEnd 1.797
+\ELANParticipant Elías
+\trs Pen pen kobiri
+\tx Pen pen kobiri
+\ft "Pen pen kobiri" (nombre del cuento).
+\sound EC-Cuento.penpenkobiri-2013.wav 0.905 1.797
+
+\ref 002
+\ELANBegin 1.810
+\ELANEnd 4.364
+\ELANParticipant Roberto
+\trs Ya, entonces el cuento se llama "Pen pen kobiri"
+\tx Ya, entonces el cuento se llama "Pen pen kobiri"
+\ft Ya, entonces el cuento se llama "Pen pen kobiri".
+\sound EC-Cuento.penpenkobiri-2013.wav 1.810 4.364
+
+\ref 003
+\ELANBegin 4.405
+\ELANEnd 5.810
+\ELANParticipant Elías
+\trs Ajá.
+\tx Ajá.
+\ft Ajá.
+\sound EC-Cuento.penpenkobiri-2013.wav 4.405 5.810
+
+\ref 004
+\ELANBegin 6.875
+\ELANEnd 7.267
+\ELANParticipant Elías
+\trs Ya
+\tx Ya
+\ft Ya.
+\sound EC-Cuento.penpenkobiri-2013.wav 6.875 7.267
+
+\ref 005
+\ELANBegin 7.753
+\ELANEnd 8.537
+\ELANParticipant Roberto
+\trs Ya está grabando.
+\tx Ya está grabando.
+\ft Ya está grabando.
+\sound EC-Cuento.penpenkobiri-2013.wav 7.753 8.537
+
+\ref 006
+\ELANBegin 8.695
+\ELANEnd 11.617
+\ELANParticipant Elías
+\trs westiora westiora oniki
+\tx westiora westiora oniki
+\mb westiora westiora oni     =ki
+\gn uno(SK)  uno(SK)  persona =REP
+\ps num.     num.     n.      =clit.
+
+\ft una persona
+\sound EC-Cuento.penpenkobiri-2013.wav 8.695 11.617
+
+\ref 007
+\ELANBegin 11.948
+\ELANEnd 13.477
+\ELANParticipant Elías
+\trs ika iki
+\tx ika            iki
+\mb ik      -a     ik      -i
+\gn copula  -NOMLZ copula  -IMPF
+\ps v.intr. -suf.  v.intr. -suf.
+
+\ft había
+\sound EC-Cuento.penpenkobiri-2013.wav 11.948 13.477
+
+\ref 008
+\ELANBegin 13.796
+\ELANEnd 15.201
+\ELANParticipant Elías
+\trs hobo aka
+\tx hobo            aka
+\mb hobo            ak      -a
+\gn refugio.de.caza hacer   -PERF
+\ps n.              v.tran. -suf.
+
+\ft (que) hizo un refugio de caza
+\sound EC-Cuento.penpenkobiri-2013.wav 13.796 15.201
+
+\ref 009
+\ELANBegin 15.619
+\ELANEnd 19.930
+\ELANParticipant Elías
+\trs ano pimaika atsa ano pimai
+\tx ano        pimaika                    atsa
+\mb ano        pi      -ma   -i    =ka    atsa
+\gn majás(SK) comer   -CAUS -IMPF =NAR   yuca
+\ps n.         v.tran. -suf. -suf. =clit. n.
+
+\tx ano        pimai
+\mb ano        pi      -ma   -i
+\gn majás(SK) comer   -CAUS -IMPF
+\ps n.         v.tran. -suf. -suf.
+
+\ft le hacía comer yuca al majaz
+\sound EC-Cuento.penpenkobiri-2013.wav 15.619 19.930
+
+\ref 010
+\ELANBegin 21.434
+\ELANEnd 22.770
+\ELANParticipant Elías
+\trs pimahonki
+\tx pimahonki
+\mb pi      -ma   -hon       =ki
+\gn comer   -CAUS -SUJ>A:SIM =REP
+\ps v.tran. -suf. -suf.      =clit.
+
+\ft haciéndole comer
+\sound EC-Cuento.penpenkobiri-2013.wav 21.434 22.770
+
+\ref 011
+\ELANBegin 23.669
+\ELANEnd 25.825
+\ELANParticipant Elías
+\trs yamé keheke
+\tx yamé     keheke
+\mb yamé     kehe     -ke
+\gn noche(SK) escuchar -PERF(SK)
+\ps n.        v.ambi   -suf.
+
+\ft en la noche escuchó
+\sound EC-Cuento.penpenkobiri-2013.wav 23.669 25.825
+
+\ref 012
+\ELANBegin 26.072
+\ELANEnd 27.522
+\ELANParticipant Elías
+\trs yamé keheke
+\tx yamé     keheke
+\mb yamé     kehe     -ke
+\gn noche(SK) escuchar -PERF(SK)
+\ps n.        v.ambi   -suf.
+
+\ft en la noche escuchó
+\sound EC-Cuento.penpenkobiri-2013.wav 26.072 27.522
+
+\ref 013
+\ELANBegin 28.061
+\ELANEnd 29.095
+\ELANParticipant Elías
+\trs kehehon
+\tx kehehon
+\mb kehe     -hon
+\gn escuchar -SUJ>A:SIM
+\ps v.ambi   -suf.
+
+\ft escuchando
+\sound EC-Cuento.penpenkobiri-2013.wav 28.061 29.095
+
+\ref 014
+\ELANBegin 31.537
+\ELANEnd 32.889
+\ELANParticipant Elías
+\trs hobo aka hobo
+\tx hobo            aka           hobo
+\mb hobo            ak      -a    hobo
+\gn refugio.de.caza hacer   -PERF refugio.de.caza
+\ps n.              v.tran. -suf. n.
+
+\ft hacía su refugio de caza
+\sound EC-Cuento.penpenkobiri-2013.wav 31.537 32.889
+
+\ref 015
+\ELANBegin 33.423
+\ELANEnd 35.855
+\ELANParticipant Elías
+\trs hobo ahon ainhon senpa
+\tx hobo            ahon               ainhon
+\mb hobo            ak      -hon       ain       -hon
+\gn refugio.de.caza hacer   -SUJ>A:SIM ahí(MIX) -SUJ>A:SIM
+\ps n.              v.tran. -suf.      adv.      -suf.
+
+\tx senpa
+\mb senpa
+\gn copal(SK)
+\ps n.
+
+\ft Tambo hacía y de ahí copal.
+\sound EC-Cuento.penpenkobiri-2013.wav 33.423 35.855
+
+\ref 016
+\ELANBegin 36.379
+\ELANEnd 37.936
+\ELANParticipant Elías
+\trs senpa otake senpa
+\tx senpa     otake                   senpa
+\mb senpa     ota           -ke       senpa
+\gn copal(SK) encender.cera -PERF(SK) copal(SK)
+\ps n.        v.ambi.       -suf.     n.
+
+\ft Prendió fuego a un trozo de copal (para usarlo como una vela)
+\sound EC-Cuento.penpenkobiri-2013.wav 36.379 37.936
+
+\ref 017
+\ELANBegin 39.156
+\ELANEnd 40.721
+\ELANParticipant Elías
+\trs senpa otahonki
+\tx senpa     otahonki
+\mb senpa     ota           -hon       =ki
+\gn copal(SK) encender.cera -SUJ>A:SIM =REP
+\ps n.        v.ambi.       -suf.      =clit.
+
+\ft encendiendo copal
+\sound EC-Cuento.penpenkobiri-2013.wav 39.156 40.721
+
+\ref 018
+\ELANBegin 41.419
+\ELANEnd 43.408
+\ELANParticipant Elías
+\trs yamé sotanke
+\tx yamé     sotanke
+\mb yamé     sotan        -ke
+\gn noche(SK) escuchar(SK) -PERF(SK)
+\ps n.        v.tr         -suf.
+
+\ft escuchó en la noche
+\sound EC-Cuento.penpenkobiri-2013.wav 41.419 43.408
+
+\ref 019
+\ELANBegin 43.505
+\ELANEnd 46.802
+\ELANParticipant Elías
+\trs sotanke moa pia anohon menko menko pia anohon
+\tx sotanke                moa    pia
+\mb sotan        -ke       moa    pia
+\gn escuchar(SK) -PERF(SK) ya(SK) flecha(SK)
+\ps v.tr         -suf.     adv    n.
+
+\tx anohon             menko  menko  pia
+\mb ak      -nohon     menko  menko  pia
+\gn hacer   -PROP:TRAN majás majás flecha(SK)
+\ps v.tran. -suf.      n.     n.     n.
+
+\tx anohon
+\mb ak      -nohon
+\gn hacer   -PROP:TRAN
+\ps v.tran. -suf.
+
+\ft escuchó para flechar al majaz
+\sound EC-Cuento.penpenkobiri-2013.wav 43.505 46.802
+
+\ref 020
+\ELANBegin 47.472
+\ELANEnd 51.243
+\ELANParticipant Elías
+\trs ain senpa rabe narabe narabe otahon
+\tx ain           senpa     rabé   narabé narabe  otahon
+\mb ain           senpa     rabé   narabé narabé ota           -hon
+\gn entonces(MIX) copal(SK) dos(SK) dos     dos     encender.cera -SUJ>A:SIM
+\ps adv.          n.        num.    num     num     v.ambi.       -suf.
+
+\ft De ahí prendió dos copales (como velas)
+\sound EC-Cuento.penpenkobiri-2013.wav 47.472 51.243
+
+\ref 021
+\ELANBegin 51.642
+\ELANEnd 58.844
+\ELANParticipant Elías
+\trs ainhon sotana senpa chi bihon keteke ketea senpa
+\tx ainhon               sotana             senpa
+\mb ain       -hon       sotan        -a    senpa
+\gn ahí(MIX) -SUJ>A:SIM escuchar(SK) -PERF copal(SK)
+\ps adv.      -suf.      v.tr         -suf. n.
+
+\tx chi         bihon
+\mb chi         bi      -hon
+\gn candela(SK) agarrar -SUJ>A:SIM
+\ps n           v.      -suf.
+
+\tx keteke                       ketea
+\mb kete               -ke       kete               -a
+\gn endencer.fuego(SK) -PERF(SK) endencer.fuego(SK) -PERF
+\ps v.                 -suf.     v.                 -suf.
+
+\tx senpa
+\mb senpa
+\gn copal(SK)
+\ps n.
+
+\ft De ahí, escuchó cogiendo candela encendió el copal
+\sound EC-Cuento.penpenkobiri-2013.wav 51.642 58.844
+
+\ref 022
+\ELANBegin 59.397
+\ELANEnd 61.769
+\ELANParticipant Elías
+\trs senpaki a menko oa itian
+\tx senpaki          a   menko  oa
+\mb senpa     =ki    a   menko  o     -a
+\gn copal(SK) =REP   ese majás venir -NOMLZ
+\ps n.        =clit. dem n.     v.    -suf.
+
+\tx itian
+\mb ik      =tian
+\gn copula  =TEMP(SK)
+\ps v.intr. =clit.
+
+\ft mientras encendía el copal, vino un majaz
+\sound EC-Cuento.penpenkobiri-2013.wav 59.397 61.769
+
+\ref 023
+\ELANBegin 62.932
+\ELANEnd 65.959
+\ELANParticipant Elías
+\trs ee ee ee ee
+\tx ee          ee          ee          ee
+\mb ee          ee          ee          ee
+\gn goteo.copal goteo.copal goteo.copal goteo.copal
+\ps ono         ono         ono         ono
+
+\ft (Goteo del copal cuando se acerca un animal).
+\sound EC-Cuento.penpenkobiri-2013.wav 62.932 65.959
+
+\ref 024
+\ELANBegin 66.477
+\ELANEnd 70.341
+\ELANParticipant Elías
+\trs hatian askake oinaki menko
+\tx hatian       askake    oinaki            menko
+\mb hatian       askake    oin  -a    =ki    menko
+\gn entonces(SK) así(MIX) ver  -PERF =REP   majás
+\ps conec.       adv.      v.tr -suf. =clit. n.
+
+\ft Así, pues, vio al majaz
+\sound EC-Cuento.penpenkobiri-2013.wav 66.477 70.341
+
+\ref 025
+\ELANBegin 71.276
+\ELANEnd 72.411
+\ELANParticipant Elías
+\trs atsa pi
+\tx atsa pi
+\mb atsa pi      -i
+\gn yuca comer   -SUJ>S:SIM
+\ps n.   v.tran. -suf.
+
+\ft (que) estaba comiendo yuca
+\sound EC-Cuento.penpenkobiri-2013.wav 71.276 72.411
+
+\ref 026
+\ELANBegin 73.722
+\ELANEnd 76.357
+\ELANParticipant Elías
+\trs tenkoti bia tenkoti pia bihon
+\tx tenkoti bia           tenkoti pia
+\mb tenkoti bi      -a    tenkoti pia
+\gn arco    agarrar -PERF arco    flecha(SK)
+\ps n.      v.      -suf. n.      n.
+
+\tx bihon
+\mb bi      -hon
+\gn agarrar -BEN
+\ps v.      -suf.
+
+\ft agarró su arco agarrando también su flecha
+\sound EC-Cuento.penpenkobiri-2013.wav 73.722 76.357
+
+\ref 027
+\ELANBegin 77.538
+\ELANEnd 80.187
+\ELANParticipant Elías
+\trs tsakai tsakake
+\tx tsakai                 tsakake
+\mb tsaka       -i         tsaka       -ke
+\gn flechar(SK) -SUJ>S:SIM flechar(SK) -PERF(SK)
+\ps v.tran      -suf.      v.tran      -suf.
+
+\ft flechando lo flechó
+\sound EC-Cuento.penpenkobiri-2013.wav 77.538 80.187
+
+\ref 028
+\ELANBegin 80.862
+\ELANEnd 82.930
+\ELANParticipant Elías
+\trs choronke choron choron
+\tx choronke          choron  choron
+\mb choron  -ke       choron  choron
+\gn correr  -PERF(SK) correr  correr
+\ps v.intr. -suf.     v.intr. v.intr.
+
+\ft el majaz se corrió
+\sound EC-Cuento.penpenkobiri-2013.wav 80.862 82.930
+
+\ref 029
+\ELANBegin 83.884
+\ELANEnd 87.749
+\ELANParticipant Elías
+\trs pikohon benake benake yamasa yamasa
+\tx pikohon              benake
+\mb piko      -hon       bena   -ke
+\gn salir(SK) -SUJ>A:SIM buscar -PERF(SK)
+\ps v.intr.   -suf.      v.intr -suf.
+
+\tx benake           yamasa
+\mb bena   -ke       yama -s    -a
+\gn buscar -PERF(SK) NEG  -VERB -FACT(SK)
+\ps v.intr -suf.     adv  -suf. -suf.
+
+\tx yamasa
+\mb yama -s    -a
+\gn NEG  -VERB -FACT(SK)
+\ps adv  -suf. -suf.
+
+\ft Entonces, saliendo lo buscó, pero no encontró nada.
+\sound EC-Cuento.penpenkobiri-2013.wav 83.884 87.749
+
+\ref 030
+\ELANBegin 89.412
+\ELANEnd 93.601
+\ELANParticipant Elías
+\trs ya kake ohake
+\tx ya      kake             ohake
+\mb ya      ka     -ke       oha    -ke
+\gn ya(CAS) ir     -PERF(SK) dormir -PERF(SK)
+\ps adv     v.intr -suf.     v.     -suf.
+
+\ft ya, se fue, se durmió
+\sound EC-Cuento.penpenkobiri-2013.wav 89.412 93.601
+
+\ref 031
+\ELANBegin 94.694
+\ELANEnd 96.221
+\ELANParticipant Elías
+\trs pehnebeitian oribake
+\tx pehnebeitian               oribake
+\mb pehnebe   -i     -tian     o     -riba     -ke
+\gn amanecer. -NOMLZ -TEMP(SK) venir -otra.vez -PERF(SK)
+\ps v.intr.   -suf.  -suf.     v.    -suf.     -suf.
+
+\ft Al otro día al amanecer, vino otra vez.
+\sound EC-Cuento.penpenkobiri-2013.wav 94.694 96.221
+
+\ref 032
+\ELANBegin 96.559
+\ELANEnd 99.302
+\ELANParticipant Elías
+\trs a menko benai a tsakawana menko benai
+\tx a   menko  benai             a
+\mb a   menko  bena   -i         a
+\gn ese majás buscar -SUJ>S:SIM ese
+\ps dem n.     v.intr -suf.      dem
+
+\tx tsakawana                    menko
+\mb tsaka       -wan      -a     menko
+\gn flechar(SK) -PAS.ayer -NOMLZ majás
+\ps v.tran      -suf.     -suf.  n.
+
+\tx benai
+\mb bena   -i
+\gn buscar -SUJ>S:SIM
+\ps v.intr -suf.
+
+\ft buscando al majaz que había flechado el día anterior
+\sound EC-Cuento.penpenkobiri-2013.wav 96.559 99.302
+
+\ref 033
+\ELANBegin 100.377
+\ELANEnd 103.539
+\ELANParticipant Elías
+\trs oke ohonki benai benai
+\tx oke             ohonki             benai
+\mb o     -ke       o     -hon  =ki    bena   -i
+\gn venir -PERF(SK) venir -BEN  =REP   buscar -SUJ>S:SIM
+\ps v.    -suf.     v.    -suf. =clit. v.intr -suf.
+
+\tx benai
+\mb bena   -i
+\gn buscar -SUJ>S:SIM
+\ps v.intr -suf.
+
+\ft Vino, viniendo lo buscaba
+\sound EC-Cuento.penpenkobiri-2013.wav 100.377 103.539
+
+\ref 034
+\ELANBegin 104.322
+\ELANEnd 108.038
+\ELANParticipant Elías
+\trs yama yamasa yamaketian
+\tx yama yamasa
+\mb yama yama -s    -a
+\gn NEG  NEG  -VERB -FACT(SK)
+\ps adv  adv  -suf. -suf.
+
+\tx yamaketian
+\mb yama -ketian
+\gn NEG  -SUJ.DIF:SIM(SK)
+\ps adv  -suf
+
+\ft pero no había nada, cuando no había nada
+\sound EC-Cuento.penpenkobiri-2013.wav 104.322 108.038
+
+\ref 035
+\ELANBegin 109.232
+\ELANEnd 112.139
+\ELANParticipant Elías
+\trs ainki ibi poho aniosi ibi poho
+\tx ainki            ibi     poho   aniosi
+\mb ain       =ki    ibi     poho   ani        -osi
+\gn ahí(MIX) =REP   escapar caído grande(SK) -AUM
+\ps adv.      =clit. v.      adj.   adj.       -suf.
+
+\tx ibi     poho
+\mb ibi     poho
+\gn escapar caído
+\ps v.      adj.
+
+\ft pero había un palo muy grande caído .
+\sound EC-Cuento.penpenkobiri-2013.wav 109.232 112.139
+
+\ref 036
+\ELANBegin 112.683
+\ELANEnd 114.965
+\ELANParticipant Elías
+\trs ain oinaki koin koin eh koin koin
+\tx ain           oinaki            koin koin eh
+\mb ain           oin  -a    =ki    koin koin eh
+\gn entonces(MIX) ver  -PERF =REP   humo humo eh
+\ps adv.          v.tr -suf. =clit. n.   n.   intj.
+
+\tx koin koin
+\mb koin koin
+\gn humo humo
+\ps n.   n.
+
+\ft vio que salía bastante humo
+\sound EC-Cuento.penpenkobiri-2013.wav 112.683 114.965
+
+\ref 037
+\ELANBegin 115.473
+\ELANEnd 118.271
+\ELANParticipant Elías
+\trs koin onkoi onkoi kahon oinaki
+\tx koin onkoi          onkoi          kahon
+\mb koin onko  -i       onko  -i       ka     -hon
+\gn humo salir -SUJ.DIF salir -SUJ.DIF ir     -SUJ>A:SIM
+\ps n.   v.    -suf.    v.    -suf.    v.intr -suf.
+
+\tx oinaki
+\mb oin  -a    =ki
+\gn ver  -PERF =REP
+\ps v.tr -suf. =clit.
+
+\ft el humo salía y salía, yendo el hombre lo vio
+\sound EC-Cuento.penpenkobiri-2013.wav 115.473 118.271
+
+\ref 038
+\ELANBegin 119.319
+\ELANEnd 123.401
+\ELANParticipant Elías
+\trs yoshinki hain yoshinma kaibira menko boa
+\tx yoshinki         hain     yoshiman         kaibira                  menko  boa
+\mb yoshin    =ki    hain     yoshin    =n     ka     -i         =bira  menko  bo     -a
+\gn espíritu =REP   ahí(SK) espíritu =ERG   ir     -SUJ>A:SIM =infer majás llevar -PERF
+\ps n.        =clit. adv.     n.        =clit. v.intr -suf.      =clit. n.     v.ambi -suf.
+\ft había un espíritu, el espíritu se había llevado el majaz, yendose
+\sound EC-Cuento.penpenkobiri-2013.wav 119.319 123.401
+
+\ref 039
+\ELANBegin 124.481
+\ELANEnd 127.148
+\ELANParticipant Elías
+\trs bohonki a menko yoa aki
+\tx bohonki                  a   menko
+\mb bo     -hon       =ki    a   menko
+\gn llevar -SUJ>A:SIM =REP   ese majás
+\ps v.ambi -suf.      =clit. dem n.
+
+\tx yoa                aki
+\mb yoa                ak      -i
+\gn comida.vegetal(SK) hacer   -IMPF
+\ps n.                 v.tran. -suf.
+
+\ft llevándoselo, el espíritu estaba cocinando el majaz
+\sound EC-Cuento.penpenkobiri-2013.wav 124.481 127.148
+
+\ref 040
+\ELANBegin 127.464
+\ELANEnd 130.599
+\ELANParticipant Elías
+\trs menko pichan menko pichan
+\tx menko pichan              menko
+\mb menko pichan        -a    menko
+\gn majáscocinar.carne -PERF majás
+\ps n.    v.tran.       -suf. n.
+
+\tx pichan
+\mb pichan        -a
+\gn cocinar.carne -PERF
+\ps v.tran.       -suf.
+
+\ft Cocinó al majaz, cocinó al majaz.
+\sound EC-Cuento.penpenkobiri-2013.wav 127.464 130.599
+
+\ref 041
+\ELANBegin 130.899
+\ELANEnd 132.793
+\ELANParticipant Elías
+\trs pichan ika iki a yoshin ika iki
+\tx pichan              ika               iki           a   yoshin    ika               iki
+\mb pichan        -a    ik         -a     ik      -i    a   yoshin    ik         -a     ik      -i
+\gn cocinar.carne -PERF decir:INTR -NOMLZ copula  -IMPF ese espíritu decir:INTR -NOMLZ copula  -IMPF
+\ps v.tran.       -suf. v.intr.    -suf.  v.intr. -suf. dem n.        v.intr.    -suf.  v.intr. -suf.
+
+\ft lo había cocinado y estaba diciendo
+\sound EC-Cuento.penpenkobiri-2013.wav 130.899 132.793
+
+\ref 042
+\ELANBegin 133.014
+\ELANEnd 136.970
+\ELANParticipant Elías
+\trs pen pen kobiri pen pen kobiri pen pen kobiri pen pen kobiri ikai
+\tx pen                      pen
+\mb pen                      pen
+\gn ideófono.agua.al.hervir ideófono.agua.al.hervir
+\ps ideo.                    ideo.
+
+\tx kobiri               pen
+\mb kobin      -ri       pen
+\gn cocido(SK) -todavía ideófono.agua.al.hervir
+\ps adj.       -adv.     ideo.
+
+\tx pen                      kobiri
+\mb pen                      kobin      -ri
+\gn ideófono.agua.al.hervir cocido(SK) -todavía
+\ps ideo.                    adj.       -adv.
+
+\tx pen                      pen
+\mb pen                      pen
+\gn ideófono.agua.al.hervir ideófono.agua.al.hervir
+\ps ideo.                    ideo.
+
+\tx kobiri               pen
+\mb kobin      -ri       pen
+\gn cocido(SK) -todavía ideófono.agua.al.hervir
+\ps adj.       -adv.     ideo.
+
+\tx pen                      kobiri
+\mb pen                      kobin      -ri
+\gn ideófono.agua.al.hervir cocido(SK) -todavía
+\ps ideo.                    adj.       -adv.
+
+\tx ikai
+\mb ik         -ai
+\gn decir:INTR -IMPF(SK)
+\ps v.intr.    -suf.
+
+\ft Cantaba "hierve, hierve, hierve, hierve" ("pen, pen", onomatopeya 
+del abanico).
+\sound EC-Cuento.penpenkobiri-2013.wav 133.014 136.970
+
+\ref 043
+\ELANBegin 137.318
+\ELANEnd 139.708
+\ELANParticipant Elías
+\trs ishton kobinon ika
+\tx ishton  kobinon          ika
+\mb ishton  kobin      -non  ik         -a
+\gn rápido cocido(SK) -PROP decir:INTR -NOMLZ
+\ps adv.    adj.       -suf. v.intr.    -suf.
+
+\ft Así decía para que hierva rápido.
+\sound EC-Cuento.penpenkobiri-2013.wav 137.318 139.708
+
+\ref 044
+\ELANBegin 140.809
+\ELANEnd 143.071
+\ELANParticipant Elías
+\trs aki oni oniki ha yaka
+\tx aki        oni  oniki        ha    yaka
+\mb a   =ki    oni  oni     =ki  ha    yaka   -a
+\gn ese =ALA   persopersona =REP ese(SKsentar -FACT(SK)
+\ps dem =clit. n.   n.      =clitdem   v.ambi -suf.
+
+\tx yaka
+\mb yaka   -a
+\gn sentar -PERF
+\ps v.ambi -suf.
+
+\ft El hombre se sentó junto al espíritu
+\sound EC-Cuento.penpenkobiri-2013.wav 140.809 143.071
+
+\ref 045
+\ELANBegin 143.304
+\ELANEnd 144.140
+\ELANParticipant Elías
+\trs ake yoshima
+\tx ake                   yoshima
+\mb ak          -ke       yoshin    =n
+\gn decir(TRAN) -PERF(SK) espíritu =ERG
+\ps v.tran.     -suf.     n.        =clit.
+
+\ft el espíritu le dijo
+\sound EC-Cuento.penpenkobiri-2013.wav 143.304 144.140
+
+\ref 046
+\ELANBegin 145.122
+\ELANEnd 146.874
+\ELANParticipant Elías
+\trs askake oni ain
+\tx askake    oni     ain
+\mb askake    oni     ain
+\gn así(MIX) persona ahí(MIX)
+\ps adv.      n.      adv.
+
+\ft así hizo el hombre
+\sound EC-Cuento.penpenkobiri-2013.wav 145.122 146.874
+
+\ref 047
+\ELANBegin 148.034
+\ELANEnd 152.005
+\ELANParticipant Elías
+\trs nato mapó kentikai mapó kenti anin ewa keshto
+keshton ewa
+\tx nato     mapó kentikai     mapó kenti
+\mb nato     mapó kenti =kai   mapó kenti
+\gn este(SK) barro olla  =RESO  barro olla
+\ps dem.     n.    n.    =clit. n.    n.
+
+\tx anin              ewa   keshto  keshton        ewa
+\mb ani        =n     ewa   keshtó keshtó =n     ewa
+\gn grande(SK) =GEN   madre grueso  grueso  =GEN   e
+\ps adj.       =clit. n.    adj.    adj.    =clit. . n.
+
+\ft En una olla de barro muy muy grande y muy muy gruesa.
+\sound EC-Cuento.penpenkobiri-2013.wav 148.034 152.005
+
+\ref 048
+\ELANBegin 152.563
+\ELANEnd 153.761
+\ELANParticipant Elías
+\trs a aki moa
+\tx a   aki              moa
+\mb a   ak      -i       moa
+\gn ese hacer   -SUJ.DIF ya(SK)
+\ps dem v.tran. -suf.    adv
+
+\ft ya lo había hecho
+\sound EC-Cuento.penpenkobiri-2013.wav 152.563 153.761
+
+\ref 049
+\ELANBegin 154.918
+\ELANEnd 158.803
+\ELANParticipant Elías
+\trs kobini picha kobinaitian mapo wakehon kai
+\tx kobini              picha         kobinaitian                     mapó wakehon             kai
+\mb kobin      -i       pichan        kobin      -ai        -tian     mapó waket    -hon       ka     -i
+\gn cocido(SK) -SUJ.DIF cocinar.carne cocido(SK) -NOMLZ(SK) -TEMP(SK) barro levantar -SUJ>S:SIM ir     -IMPF
+\ps adj.       -suf.    v.tran.       adj.       -suf.      -suf.     n.    v        -suf.      v.intr -suf.
+
+\ft Cuando ya estaba hirviendo y estaba cocinado, se fue a levantar 
+la olla (del fuego)
+\sound EC-Cuento.penpenkobiri-2013.wav 154.918 158.803
+
+\ref 050
+\ELANBegin 159.506
+\ELANEnd 161.043
+\ELANParticipant Elías
+\trs tso
+\tx tso
+\mb tso
+\gn ideófono:agua.caer
+\ps ideo
+
+\ft Onomatopeya derramar (el hombre le echa el agua hirviendo al 
+espíritu).
+\sound EC-Cuento.penpenkobiri-2013.wav 159.506 161.043
+
+\ref 051
+\ELANBegin 161.937
+\ELANEnd 163.093
+\ELANParticipant Elías
+\trs a kobinaitian
+\tx a   kobinaitian
+\mb a   kobin      -ai        -tian
+\gn ese cocido(SK) -NOMLZ(SK) -TEMP(SK)
+\ps dem adj.       -suf.      -suf.
+
+\ft cuando estaba hirviendo
+\sound EC-Cuento.penpenkobiri-2013.wav 161.937 163.093
+
+\ref 052
+\ELANBegin 164.786
+\ELANEnd 168.785
+\ELANParticipant Elías
+\trs Ya, así es nomás es hasta ahí no más. Ajá.
+\tx Ya, así es nomás es hasta ahí no más. Ajá.
+\ft Ya, así es nomás es hasta ahí no más. Ajá.
+\sound EC-Cuento.penpenkobiri-2013.wav 164.786 168.785
+
+
+\ELANMediaURL file:///E:/documentos/iskonawa/basededatos-iskonawa procesada/data/EC-Cuento.penpenkobiri-2013.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaExtracted file:///E:/documentos/iskonawa/basededatos-iskonawa procesada/data/EC-Cuento.penpenkobiri-2013.mpg
+\ELANMediaURL file:///E:/documentos/iskonawa/basededatos-iskonawa procesada/data/EC-Cuento.penpenkobiri-2013.mpg
+\ELANMediaMIME video/mpeg

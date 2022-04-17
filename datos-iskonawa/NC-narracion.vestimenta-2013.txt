@@ -1,0 +1,552 @@
+\_sh v3.0  400  text
+
+\ref 001
+\ELANBegin 4.590
+\ELANEnd 6.400
+\ELANParticipant Jaime
+\trs Nelita nos va a contar acá
+\tx Nelita nos va a contar acá
+\ft Nelita nos va a contar acá
+\sound NC-narracion.vestimenta-2013.wav 4.590 6.400
+
+\ref 002
+\ELANBegin 6.630
+\ELANEnd 9.840
+\ELANParticipant Jaime
+\trs eh cómo se vestían los antiguos iskonawa ¿si?
+\tx eh cómo se vestían los antiguos iskonawa ¿si?
+\ft eh cómo se vestían los antiguos iskonawa ¿si?
+\sound NC-narracion.vestimenta-2013.wav 6.630 9.840
+
+\ref 003
+\ELANBegin 10.460
+\ELANEnd 11.760
+\ELANParticipant Jaime
+\trs un poquito de iskonawa
+\tx un poquito de iskonawa
+\ft un poquito de iskonawa
+\sound NC-narracion.vestimenta-2013.wav 10.460 11.760
+
+\ref 004
+\ELANBegin 12.770
+\ELANEnd 14.190
+\ELANParticipant Jaime
+\trs sus adornos
+\tx sus adornos
+\ft sus adornos
+\sound NC-narracion.vestimenta-2013.wav 12.770 14.190
+
+\ref 005
+\ELANBegin 15.110
+\ELANEnd 18.260
+\ELANParticipant Jaime
+\trs sus joyas sus ropas
+\tx sus joyas sus ropas
+\ft sus joyas sus ropas
+\sound NC-narracion.vestimenta-2013.wav 15.110 18.260
+
+\ref 006
+\ELANBegin 23.270
+\ELANEnd 24.100
+\ELANParticipant Nelita
+\trs mato
+\tx mato
+\mb mato
+\gn 2PL(SK)
+\ps pron.
+
+\ft nosotros
+\sound NC-narracion.vestimenta-2013.wav 23.270 24.100
+
+\ref 007
+\ELANBegin 24.610
+\ELANEnd 26.430
+\ELANParticipant Nelita
+\trs moa non epabo ipaonike
+\tx moa non         epabo
+\mb moa no   =n     epa   =bo
+\gn ya  1PL  =GEN   padre =PLU
+\ps adv pron =clit. n.    =clit
+
+\tx ipaonike
+\mb ik      -paoni        -ke
+\gn ser     -PAS.REM:IMPF -NOMLZ(SK)
+\ps v.intr. -suf.         -suf.
+
+\ft cuando nosotros mis papás ya existíamos
+\sound NC-narracion.vestimenta-2013.wav 24.610 26.430
+
+\ref 008
+\ELANBegin 27.180
+\ELANEnd 28.640
+\ELANParticipant Nelita
+\trs rehpí sawei
+\tx rehpí       sawei
+\mb rehpí       sawe   -i
+\gn adorno.nasal vestir -IMPF
+\ps n.           v.     -suf.
+
+\ft vestíamos nariguera
+\sound NC-narracion.vestimenta-2013.wav 27.180 28.640
+
+\ref 009
+\ELANBegin 29.740
+\ELANEnd 33.420
+\ELANParticipant Nelita
+\trs nato rome akin rome apaonike isko iná
+\tx nato     rome   akin               rome
+\mb nato     rome   ak      -kin       rome
+\gn este(SK) tabaco hacer   -SUJ>A:SIM tabaco
+\ps dem.     n.     v.tran. -suf.      n.
+
+\tx apaonike                         isko   ina
+\mb ak      -paoni        -ke        isko   ina
+\gn hacer   -PAS.REM:IMPF -NOMLZ(SK) paucar cola
+\ps v.tran. -suf.         -suf.      n.     n.
+
+\ft estos palitos hacíamos de pluma del paucar
+\sound NC-narracion.vestimenta-2013.wav 29.740 33.420
+
+\ref 010
+\ELANBegin 35.780
+\ELANEnd 39.440
+\ELANParticipant Nelita
+\trs rehpíra apaonike non pao ahon sawepaoni
+\tx rehpíra
+\mb rehpí       =ra
+\gn adorno.nasal =EVID1(SK)
+\ps n.           =clit.
+
+\tx apaonike                         non
+\mb ak      -paoni        -ke        no   =n
+\gn hacer   -PAS.REM:IMPF -NOMLZ(SK) 1PL  =GEN
+\ps v.tran. -suf.         -suf.      pron =clit.
+
+\tx pao    ahon               sawepaoni
+\mb pao    ak      -hon       sawe   -paoni
+\gn concha hacer   -SUJ>A:SIM vestir -PAS.REM:IMPF
+\ps n.     v.tran. -suf.      v.     -suf.
+
+\ft después  de hacer la nariguera de concha, nosotros (lo) usábamos
+\sound NC-narracion.vestimenta-2013.wav 35.780 39.440
+
+\ref 011
+\ELANBegin 40.470
+\ELANEnd 44.040
+\ELANParticipant Nelita
+\trs pao ahon sawepaonike moa epan
+\tx pao    ahon
+\mb pao    ak      -hon
+\gn concha hacer   -SUJ>A:SIM
+\ps n.     v.tran. -suf.
+
+\tx sawepaonike                     moa epan
+\mb sawe   -paoni        -ke        moa epa   =n
+\gn vestir -PAS.REM:IMPF -NOMLZ(SK) ya  padre =VOC
+\ps v.     -suf.         -suf.      adv n.    =clit.
+
+\ft cuando hacía las conchas mi papá ya usaba
+\sound NC-narracion.vestimenta-2013.wav 40.470 44.040
+
+\ref 012
+\ELANBegin 46.660
+\ELANEnd 47.580
+\ELANParticipant Nelita
+\trs rome
+\tx rome
+\mb rome
+\gn tabaco
+\ps n.
+
+\ft tabaco
+\sound NC-narracion.vestimenta-2013.wav 46.660 47.580
+
+\ref 013
+\ELANBegin 49.530
+\ELANEnd 50.900
+\ELANParticipant Nelita
+\trs ma shinayamai
+\tx ma     shinayamai
+\mb ma     shinan -yama    -i
+\gn ya(SK) pensar -NEG(SK) -IMPF
+\ps adv    v.     -suf.    -suf.
+
+\ft ya no me acuerdo
+\sound NC-narracion.vestimenta-2013.wav 49.530 50.900
+
+\ref 014
+\ELANBegin 52.510
+\ELANEnd 55.670
+\ELANParticipant Nelita
+\trs hain ares moa más orin shinanshamayamai
+\tx hain     ares           moa más       orin
+\mb hain     a   -res       moa más       orin
+\gn ahí(SK) ese -solamente ya  más(CAST) lejos
+\ps adv.     dem -suf.      adv adv        adv.
+
+\tx shinanshamayamai
+\mb shinan -shaman -yama    -i
+\gn pensar -INTF   -NEG(SK) -IMPF
+\ps v.     -suf.   -suf.    -suf.
+
+\ft hasta ahí nomás más allá no me acuerdo
+\sound NC-narracion.vestimenta-2013.wav 52.510 55.670
+
+\ref 015
+\ELANBegin 56.260
+\ELANEnd 57.720
+\ELANParticipant Nelita
+\trs en nato hopo
+\tx en        nato     hopo
+\mb en        nato     hopo
+\gn 1SG:A(SK) este(SK) vestimenta.yanchama
+\ps pron      dem.     n.
+
+\ft yo (usaba) esa vestimenta tradicional hecha de yanchama
+\sound NC-narracion.vestimenta-2013.wav 56.260 57.720
+
+\ref 016
+\ELANBegin 58.600
+\ELANEnd 61.590
+\ELANParticipant Nelita
+\trs hopora non apaonike sawekin ponyanhe aki
+\tx hopora                         non
+\mb hopo                =ra        no   =n
+\gn vestimenta.yanchama =EVID1(SK) 1PL  =ERG
+\ps n.                  =clit.     pron =clit.
+
+\tx apaonike
+\mb ak      -paoni        -ke
+\gn hacer   -PAS.REM:IMPF -NOMLZ(SK)
+\ps v.tran. -suf.         -suf.
+
+\tx sawekin           ponyanhe              aki
+\mb sawe   -kin       ponyanhe              ak      -i
+\gn vestir -SUJ>A:SIM adorno.amarrado.brazo hacer   -IMPF
+\ps v.     -suf.      n.                    v.tran. -suf.
+
+\ft nosotros usábamos esta vestimenta de yanchama y amarrábamos en el 
+brazo
+\sound NC-narracion.vestimenta-2013.wav 58.600 61.590
+
+\ref 017
+\ELANBegin 62.110
+\ELANEnd 63.220
+\ELANParticipant Nelita
+\trs ohe aki
+\tx ohe                         aki
+\mb ohe                         ak      -i
+\gn adorno.amarrado.pantorrilla hacer   -IMPF
+\ps n.                          v.tran. -suf.
+
+\ft amarrábamos en la pierna
+\sound NC-narracion.vestimenta-2013.wav 62.110 63.220
+
+\ref 018
+\ELANBegin 63.890
+\ELANEnd 66.320
+\ELANParticipant Nelita
+\trs nato neno teweti akin
+\tx nato     neno  teweti                  akin
+\mb nato     neno  tewe             -ti    ak      -kin
+\gn este(SK) aquí colgar.en.cuello -NOMLZ hacer   -SUJ>A:SIM
+\ps dem.     adv.  v.               -suf.  v.tran. -suf.
+
+\ft este aquí usaban collar
+\sound NC-narracion.vestimenta-2013.wav 63.890 66.320
+
+\ref 019
+\ELANBegin 66.700
+\ELANEnd 68.030
+\ELANParticipant Nelita
+\trs hapanati akin
+\tx hapanati   akin
+\mb hapanati   ak      -kin
+\gn tapa.rabos hacer   -SUJ>A:SIM
+\ps n.         v.tran. -suf.
+
+\ft taparrabo hacían
+\sound NC-narracion.vestimenta-2013.wav 66.700 68.030
+
+\ref 020
+\ELANBegin 68.410
+\ELANEnd 69.180
+\ELANParticipant Nelita
+\trs natoka
+\tx natoka
+\mb nato     =ka
+\gn este(SK) =NAR
+\ps dem.     =clit.
+
+\ft este
+\sound NC-narracion.vestimenta-2013.wav 68.410 69.180
+
+\ref 021
+\ELANBegin 69.360
+\ELANEnd 72.030
+\ELANParticipant Nelita
+\trs nenoribi hapanati akin
+\tx nenoribi        hapanati   akin
+\mb neno  =ribi     hapanati   ak      -kin
+\gn aquí =también tapa.rabos hacer   -SUJ>A:SIM
+\ps adv.  =clit.    n.         v.tran. -suf.
+
+\ft acá también hacían taparrabo
+\sound NC-narracion.vestimenta-2013.wav 69.360 72.030
+
+\ref 022
+\ELANBegin 72.260
+\ELANEnd 73.070
+\ELANParticipant Nelita
+\trs hopo
+\tx hopo
+\mb hopo
+\gn vestimenta.yanchama
+\ps n.
+
+\ft de yanchama
+\sound NC-narracion.vestimenta-2013.wav 72.260 73.070
+
+\ref 023
+\ELANBegin 73.720
+\ELANEnd 76.640
+\ELANParticipant Nelita
+\trs ha non osanpaoni moa nato
+\tx ha      non         osanpaoni                   moa nato
+\mb ha      no   =n     osan          -paoni        moa nato
+\gn ese(SK) 1PL  =ERG   usar(CAST>SK) -PAS.REM:IMPF ya  este(SK)
+\ps dem     pron =clit. v.tran        -suf.         adv dem.
+
+\ft ese nosotros usábamos ya este
+\sound NC-narracion.vestimenta-2013.wav 73.720 76.640
+
+\ref 024
+\ELANBegin 76.875
+\ELANEnd 78.355
+\ELANParticipant Nelita
+\trs moatian epabo
+\tx moatian       epabo
+\mb moa =tian     epa   =bo
+\gn ya  =TEMP(SK) padre =PLU
+\ps adv =clit.    n.    =clit
+
+\ft antes los papás
+\sound NC-narracion.vestimenta-2013.wav 76.875 78.355
+
+\ref 025
+\ELANBegin 79.070
+\ELANEnd 82.160
+\ELANParticipant Nelita
+\trs nenobon ponyan akin neno ohe akai
+\tx nenobon            ponyan akin               neno
+\mb neno  =bo   =n     poyan  ak      -kin       neno
+\gn aquí =PLU  =LOC   brazo  hacer   -SUJ>A:SIM aquí
+\ps adv.  =clit =clit. n.     v.tran. -suf.      adv.
+
+\tx ohe                         akai
+\mb ohe                         ak      -ai
+\gn adorno.amarrado.pantorrilla hacer   -IMPF(SK)
+\ps n.                          v.tran. -suf.
+
+\ft acán en el brazo hacían acá amarrar
+\sound NC-narracion.vestimenta-2013.wav 79.070 82.160
+
+\ref 026
+\ELANBegin 82.770
+\ELANEnd 85.350
+\ELANParticipant Nelita
+\trs askarabo ipaoni en nokon epa
+\tx askarabo              ipaoni
+\mb aska =ra        =bo   ik      -paoni
+\gn así =EVID1(SK) =PLU  ser     -PAS.REM:IMPF
+\ps adv. =clit.     =clit v.intr. -suf.
+
+\tx en        nokon       epa
+\mb en        nokon       epa
+\gn 1SG:A(SK) 1SG.GEN(SK) padre
+\ps pron      pron        n.
+
+\ft esas cosas así teníamos yo mi papá
+\sound NC-narracion.vestimenta-2013.wav 82.770 85.350
+
+\ref 027
+\ELANBegin 86.060
+\ELANEnd 87.170
+\ELANParticipant Nelita
+\trs ares moa
+\tx ares           moa
+\mb a   -res       moa
+\gn ese -solamente ya
+\ps dem -suf.      adv
+
+\ft ya está
+\sound NC-narracion.vestimenta-2013.wav 86.060 87.170
+
+\ref 028
+\ELANBegin 99.250
+\ELANEnd 100.200
+\ELANParticipant Jaime
+\trs ya Nelita
+\tx ya Nelita
+\ft ya Nelita
+\sound NC-narracion.vestimenta-2013.wav 99.250 100.200
+
+\ref 029
+\ELANBegin 100.760
+\ELANEnd 104.110
+\ELANParticipant Jaime
+\trs ¿y nos puedes contar un poquito lo mismo también en castellano?
+\tx ¿y nos puedes contar un poquito lo mismo también en castellano?
+\ft ¿y nos puedes contar un poquito lo mismo también en castellano?
+\sound NC-narracion.vestimenta-2013.wav 100.760 104.110
+
+\ref 030
+\ELANBegin 104.580
+\ELANEnd 106.040
+\ELANParticipant Nelita
+\trs onayamai castellanoitian
+\tx onayamai castellanoitian
+\ft no sé castellano
+\sound NC-narracion.vestimenta-2013.wav 104.580 106.040
+
+\ref 031
+\ELANBegin 107.010
+\ELANEnd 109.430
+\ELANParticipant Nelita
+\trs
+\tx
+\ft ???
+\sound NC-narracion.vestimenta-2013.wav 107.010 109.430
+
+\ref 032
+\ELANBegin 115.630
+\ELANEnd 117.300
+\ELANParticipant Jaime
+\trs pero descríbelo un poquito
+\tx pero descríbelo un poquito
+\ft pero descríbelo un poquito
+\sound NC-narracion.vestimenta-2013.wav 115.630 117.300
+
+\ref 033
+\ELANBegin 119.820
+\ELANEnd 121.130
+\ELANParticipant Jaime
+\trs ¿cómo era?
+\tx ¿cómo era?
+\ft ¿cómo era?
+\sound NC-narracion.vestimenta-2013.wav 119.820 121.130
+
+\ref 034
+\ELANBegin 122.140
+\ELANEnd 125.430
+\ELANParticipant Jaime
+\trs ¿cómo era cada uno puedes acordarte?
+\tx ¿cómo era cada uno puedes acordarte?
+\ft ¿cómo era cada uno puedes acordarte?
+\sound NC-narracion.vestimenta-2013.wav 122.140 125.430
+
+\ref 035
+\ELANBegin 126.580
+\ELANEnd 132.490
+\ELANParticipant Nelita
+\trs cada uno le usaba su vestido de vestimenta de nosotros
+\tx cada uno le usaba su vestido de vestimenta de nosotros
+\ft cada uno le usaba su vestido de vestimenta de nosotros
+\sound NC-narracion.vestimenta-2013.wav 126.580 132.490
+
+\ref 036
+\ELANBegin 133.000
+\ELANEnd 134.430
+\ELANParticipant Nelita
+\trs se llamaba hopo
+\tx se llamaba hopo
+\ft se llamaba hopo
+\sound NC-narracion.vestimenta-2013.wav 133.000 134.430
+
+\ref 037
+\ELANBegin 135.810
+\ELANEnd 137.600
+\ELANParticipant Nelita
+\trs también en su brazo
+\tx también en su brazo
+\ft también en su brazo
+\sound NC-narracion.vestimenta-2013.wav 135.810 137.600
+
+\ref 038
+\ELANBegin 138.730
+\ELANEnd 141.440
+\ELANParticipant Nelita
+\trs en su pierna también era usaba
+\tx en su pierna también era usaba
+\ft en su pierna también era usaba
+\sound NC-narracion.vestimenta-2013.wav 138.730 141.440
+
+\ref 039
+\ELANBegin 141.740
+\ELANEnd 143.190
+\ELANParticipant Nelita
+\trs su cuello también
+\tx su cuello también
+\ft su cuello también
+\sound NC-narracion.vestimenta-2013.wav 141.740 143.190
+
+\ref 040
+\ELANBegin 144.130
+\ELANEnd 148.390
+\ELANParticipant Nelita
+\trs en su nariz también usaba paucar su pluma
+\tx en su nariz también usaba paucar su pluma
+\ft en su nariz también usaba paucar su pluma
+\sound NC-narracion.vestimenta-2013.wav 144.130 148.390
+
+\ref 041
+\ELANBegin 150.790
+\ELANEnd 153.050
+\ELANParticipant Nelita
+\trs y también usaba su nariz
+\tx y también usaba su nariz
+\ft y también usaba su nariz
+\sound NC-narracion.vestimenta-2013.wav 150.790 153.050
+
+\ref 042
+\ELANBegin 153.620
+\ELANEnd 155.540
+\ELANParticipant Nelita
+\trs eso se llama concha
+\tx eso se llama concha
+\ft eso se llama concha
+\sound NC-narracion.vestimenta-2013.wav 153.620 155.540
+
+\ref 043
+\ELANBegin 155.930
+\ELANEnd 157.310
+\ELANParticipant Nelita
+\trs eso también usaba
+\tx eso también usaba
+\ft eso también usaba
+\sound NC-narracion.vestimenta-2013.wav 155.930 157.310
+
+\ref 044
+\ELANBegin 157.710
+\ELANEnd 159.130
+\ELANParticipant Nelita
+\trs eso es todo eso
+\tx eso es todo eso
+\ft eso es todo eso
+\sound NC-narracion.vestimenta-2013.wav 157.710 159.130
+
+\ref 045
+\ELANBegin 159.725
+\ELANEnd 160.685
+\ELANParticipant Jaime
+\trs gracias
+\tx gracias
+\ft gracias
+\sound NC-narracion.vestimenta-2013.wav 159.725 160.685
+
+
+\ELANMediaURL file:///E:/documentos/iskonawa/basededatos-iskonawa procesada/data/NC-Narración.Vestimenta-2013.mpg
+\ELANMediaMIME video/mpeg
+\ELANMediaURL file:///E:/documentos/iskonawa/basededatos-iskonawa procesada/data/NC-narracion.vestimenta-2013.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaExtracted file:///E:/documentos/iskonawa/basededatos-iskonawa procesada/data/NC-Narración.Vestimenta-2013.mpg

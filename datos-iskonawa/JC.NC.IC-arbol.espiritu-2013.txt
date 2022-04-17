@@ -1,0 +1,901 @@
+\_sh v3.0  400  text
+
+\ref 
+001
+\ELANBegin 0.590
+\ELANEnd 4.220
+\ELANParticipant Nelita
+\trs anehonpakekinka iwi iwi anehonpake
+\tx anehonpakekinka                                   iwi
+\mb ane        -hon  -pake          -kin       =ka    iwi
+\gn dar.nombre -BEN  -completamente -SUJ>A:SIM =NAR   árbol
+\ps v.         -suf. -suf.          -suf.      =clit. n.
+
+\tx iwi    anehonpake
+\mb iwi    ane        -hon  -pake
+\gn árbol dar.nombre -BEN  -completamente
+\ps n.     v.         -suf. -suf.
+
+\ft cada árbol tiene su nombre
+\sound JC.NC.IC-arbol.espiritu-2013.wav 0.590 4.220
+
+\ref 002
+\ELANBegin 6.310
+\ELANEnd 7.080
+\ELANParticipant Juanita
+\trs yoshin iki
+\tx yoshin    iki
+\mb yoshin    ik      -i
+\gn espíritu copula  -IMPF
+\ps n.        v.intr. -suf.
+
+\ft tiene espíritu
+\sound JC.NC.IC-arbol.espiritu-2013.wav 6.310 7.080
+
+\ref 003
+\ELANBegin 7.710
+\ELANEnd 9.750
+\ELANParticipant Juanita
+\trs aton yoshinya iki [Ininteligible]
+\tx aton         yoshinya         iki
+\mb ato   =n     yoshin    =ya    ik      -i
+\gn 3PL   =GEN   espíritu =PROP  copula  -IMPF
+\ps pron. =clit. n.        =clit. v.intr. -suf.
+
+\tx
+\mb 
+
+\ft tiene su espíritu propio
+\sound JC.NC.IC-arbol.espiritu-2013.wav 7.710 9.750
+
+\ref 004
+\ELANBegin 10.145
+\ELANEnd 10.865
+\ELANParticipant Juanita
+\trs ayaa
+\tx ayaa
+\ft eh..
+\sound JC.NC.IC-arbol.espiritu-2013.wav 10.145 10.865
+
+\ref 005
+\ELANBegin 13.000
+\ELANEnd 13.430
+\ELANParticipant Juanita
+\trs koman
+\tx koman
+\mb koman
+\gn shihuahuaco
+\ps n.
+
+\ft shihuahuaco
+\sound JC.NC.IC-arbol.espiritu-2013.wav 13.000 13.430
+
+\ref 006
+\ELANBegin 13.750
+\ELANEnd 14.740
+\ELANParticipant Juanita
+\trs komán yoshinya iki
+\tx komán      yoshinya         iki
+\mb koman       yoshin    =ya    ik      -i
+\gn shihuahuaco espíritu =PROP  copula  -IMPF
+\ps n.          n.        =clit. v.intr. -suf.
+
+\ft el shihuahuaco tiene su espíritu
+\sound JC.NC.IC-arbol.espiritu-2013.wav 13.750 14.740
+
+\ref 007
+\ELANBegin 16.830
+\ELANEnd 17.462
+\ELANParticipant Juanita
+\trs hono
+\tx hono
+\mb hono
+\gn lupuna
+\ps n.
+
+\ft lupuna
+\sound JC.NC.IC-arbol.espiritu-2013.wav 16.830 17.462
+
+\ref 008
+\ELANBegin 18.330
+\ELANEnd 19.350
+\ELANParticipant Juanita
+\trs hono yoshinyaribi
+\tx hono   yoshinyaribi
+\mb hono   yoshin    =ya    =ribi
+\gn lupuna espíritu =PROP  =también
+\ps n.     n.        =clit. =clit.
+
+\ft la lupuna tambien tiene espíritu
+\sound JC.NC.IC-arbol.espiritu-2013.wav 18.330 19.350
+
+\ref 009
+\ELANBegin 20.725
+\ELANEnd 21.055
+\ELANParticipant Juanita
+\trs aha
+\tx aha
+\ft ajá
+\sound JC.NC.IC-arbol.espiritu-2013.wav 20.725 21.055
+
+\ref 010
+\ELANBegin 24.660
+\ELANEnd 25.795
+\ELANParticipant Juanita
+\trs hono yoshinya iki
+\tx hono   yoshinya         iki
+\mb hono   yoshin    =ya    ik      -i
+\gn lupuna espíritu =PROP  copula  -IMPF
+\ps n.     n.        =clit. v.intr. -suf.
+
+\ft la lupuna tiene su  espíritu
+\sound JC.NC.IC-arbol.espiritu-2013.wav 24.660 25.795
+
+\ref 011
+\ELANBegin 26.915
+\ELANEnd 27.665
+\ELANParticipant Juanita
+\trs bushish
+\tx bushish
+\mb bushish
+\gn copaiba
+\ps n.
+
+\ft copaiba
+\sound JC.NC.IC-arbol.espiritu-2013.wav 26.915 27.665
+
+\ref 012
+\ELANBegin 26.915
+\ELANEnd 27.665
+\ELANParticipant Isabel
+\trs bushish
+\tx bushish
+\mb bushish
+\gn copaiba
+\ps n.
+
+\ft copaiba
+\sound JC.NC.IC-arbol.espiritu-2013.wav 26.915 27.665
+
+\ref 013
+\ELANBegin 28.205
+\ELANEnd 29.445
+\ELANParticipant Juanita
+\trs a yoshinyaribi
+\tx a   yoshinyaribi
+\mb a   yoshin    =ya    =ribi
+\gn ese espíritu =PROP  =también
+\ps dem n.        =clit. =clit.
+
+\ft ese también tiene espíritu
+\sound JC.NC.IC-arbol.espiritu-2013.wav 28.205 29.445
+
+\ref 014
+\ELANBegin 30.265
+\ELANEnd 30.645
+\ELANParticipant Nelita
+\trs ako
+\tx ako
+\mb ak - o
+\gn 
+
+\ft ishpingo
+\sound JC.NC.IC-arbol.espiritu-2013.wav 30.265 30.645
+
+\ref 015
+\ELANBegin 31.300
+\ELANEnd 31.780
+\ELANParticipant Juanita
+\trs ako
+\tx ako
+\mb ako
+\gn ishpingo
+\ps n.
+
+\ft ishpingo
+\sound JC.NC.IC-arbol.espiritu-2013.wav 31.300 31.780
+
+\ref 016
+\ELANBegin 32.455
+\ELANEnd 34.485
+\ELANParticipant Juanita
+\trs aka yoshinya yoyoipaoti
+\tx aka        yoshinya         yoyoipaoti
+\mb a   =ka    yoshin    =ya    yoyoi      -paoti
+\gn ese =NAR   espíritu =PROP  contar(SK) -PAS.REM
+\ps dem =clit. n.        =clit. v.         -suf.
+
+\ft contaban que ese tenía espíritu
+\sound JC.NC.IC-arbol.espiritu-2013.wav 32.455 34.485
+
+\ref 017
+\ELANBegin 38.830
+\ELANEnd 40.240
+\ELANParticipant Juanita
+\trs yoshinya banaya iki
+\tx yoshinya         banaya         iki
+\mb yoshin    =ya    bana    =ya    ik      -i
+\gn espíritu =PROP  sembrar =PROP  copula  -IMPF
+\ps n.        =clit. v.tran  =clit. v.intr. -suf.
+
+\ft tenía un espíritu que hablaba
+\sound JC.NC.IC-arbol.espiritu-2013.wav 38.830 40.240
+
+\ref 018
+\ELANBegin 43.720
+\ELANEnd 45.400
+\ELANParticipant Roberto
+\trs y  se saben cómo son
+\tx y  se saben cómo son
+\ft y  se saben cómo son
+\sound JC.NC.IC-arbol.espiritu-2013.wav 43.720 45.400
+
+\ref 019
+\ELANBegin 45.605
+\ELANEnd 47.235
+\ELANParticipant Juanita
+\trs chonchonpokama chonchonpokama
+\tx chonchonpokama chonchonpokama
+\ft chonchon pokama chonchon pokama
+\sound JC.NC.IC-arbol.espiritu-2013.wav 45.605 47.235
+
+\ref 020
+\ELANBegin 47.285
+\ELANEnd 57.555
+\ELANParticipant Juanita
+\trs ketihiko biriri / ketihiko biriri / ketihiko biriri / chonchon 
+pokama / chonchon pokama / paexonpa biribi / paexonpa biribi / 
+paexonpa biribi / paexonpa biribi  / chonchon pokama / chonchon 
+pokama
+\tx ketihiko            biriri              /   ketihiko            biriri          /   ketihiko            biriri          /   chonchon pokoma         /   chonchon pokoma         /   paexonpa biribi            /   paexonpa biribi            /   paexonpa biribi            /   paexonpa biribi            /   chonchon pokama     /   chonchon pokama
+\mb keti          -hoko biri      -ri
+\gn olla.de.barro -DIM  brillante -todavía
+\ps n.            -suf  adj.      -adv.
+
+\ft ollita brillante / ollita brillante / ollita brillante /  
+chonchon pokama /  chonchon pokama / con lo que nos mareamos 
+brillante / con lo que nos mareamos brillante / con lo que nos 
+mareamos brillante / chonchon pokama / chonchon pokama
+\sound JC.NC.IC-arbol.espiritu-2013.wav 47.285 57.555
+
+\ref 021
+\ELANBegin 47.315
+\ELANEnd 48.765
+\ELANParticipant Nelita
+\trs ese es el canto del ako
+\tx ese         es el          canto  del  ako
+\mb 
+
+\ft ese es el canto del ishpingo
+\sound JC.NC.IC-arbol.espiritu-2013.wav 47.315 48.765
+
+\ref 022
+\ELANBegin 58.805
+\ELANEnd 59.315
+\ELANParticipant Juanita
+\trs ako
+\tx ako
+\mb ako
+\gn ishpingo
+\ps n.
+
+\ft ishpingo
+\sound JC.NC.IC-arbol.espiritu-2013.wav 58.805 59.315
+
+\ref 023
+\ELANBegin 59.475
+\ELANEnd 60.265
+\ELANParticipant Nelita
+\trs ako
+\tx ako
+\mb ako
+\gn ishpingo
+\ps n.
+
+\ft ishpingo
+\sound JC.NC.IC-arbol.espiritu-2013.wav 59.475 60.265
+
+\ref 024
+\ELANBegin 62.010
+\ELANEnd 62.920
+\ELANParticipant Nelita
+\trs ara ikon yoshinya
+\tx ara           ikon        yoshinya
+\mb a   -ra       ikon        yoshin    =ya
+\gn ese -EVID(SK) ciertamente espíritu =PROP
+\ps dem -suf.     adv.        n.        =clit.
+
+\ft ese ciertamente tiene espiritu
+\sound JC.NC.IC-arbol.espiritu-2013.wav 62.010 62.920
+
+\ref 025
+\ELANBegin 62.920
+\ELANEnd 64.280
+\ELANParticipant Juanita
+\trs akara ikon yoshinya ako
+\tx akara                 ikon        yoshinya         ako
+\mb a   =ka    =ra        ikon        yoshin    =ya    ako
+\gn ese =NAR   =EVID1(SK) ciertamente espíritu =PROP  ishpingo
+\ps dem =clit. =clit.     adv.        n.        =clit. n.
+
+\ft ese ishpingo tenía un espíritu en verdad
+\sound JC.NC.IC-arbol.espiritu-2013.wav 62.920 64.280
+
+\ref 026
+\ELANBegin 65.445
+\ELANEnd 66.915
+\ELANParticipant Juanita
+\trs kentihiko biriri
+\tx kentihiko   biriri
+\mb kenti -hoko biri      =ri
+\gn olla  -DIM  brillante =CON
+\ps n.    -suf  adj.      =clit
+
+\ft ollita de barro brillante
+\sound JC.NC.IC-arbol.espiritu-2013.wav 65.445 66.915
+
+\ref 027
+\ELANBegin 68.850
+\ELANEnd 69.840
+\ELANParticipant Juanita
+\trs tintin akaka
+\tx tintin akaka
+\mb tintin ak      -a    =ka
+\gn sonido hacer   -PERF =NAR
+\ps ideo.  v.tran. -suf. =clit.
+
+\ft hacían sonar tin tin
+\sound JC.NC.IC-arbol.espiritu-2013.wav 68.850 69.840
+
+\ref 028
+\ELANBegin 70.700
+\ELANEnd 71.490
+\ELANParticipant Juanita
+\trs hankin ahon aka
+\tx hankin ahon          aka
+\mb hankin ak      -hon  ak      -a
+\gn hueco  hacer   -BEN  hacer   -PERF
+\ps n.     v.tran. -suf. v.tran. -suf.
+
+\ft hacían hueco
+\sound JC.NC.IC-arbol.espiritu-2013.wav 70.700 71.490
+
+\ref 029
+\ELANBegin 72.470
+\ELANEnd 73.470
+\ELANParticipant Juanita
+\trs muntikesa ahon aka
+\tx muntikesa    ahon          aka
+\mb munti =kesa  ak      -hon  ak      -a
+\gn canoa =COMP  hacer   -BEN  hacer   -PERF
+\ps n.    =clit. v.tran. -suf. v.tran. -suf.
+
+\ft hacían como una canoa
+\sound JC.NC.IC-arbol.espiritu-2013.wav 72.470 73.470
+
+\ref 030
+\ELANBegin 73.490
+\ELANEnd 73.980
+\ELANParticipant Nelita
+\trs ehe
+\tx ehe
+\ft ajá
+\sound JC.NC.IC-arbol.espiritu-2013.wav 73.490 73.980
+
+\ref 031
+\ELANBegin 79.760
+\ELANEnd 82.150
+\ELANParticipant Nelita
+\trs witsa anohon
+\tx witsa anohon
+\mb witsa ak      -nohon
+\gn otro  hacer   -PROP:TRAN
+\ps adj.  v.tran. -suf.
+
+\ft para hacer otro
+\sound JC.NC.IC-arbol.espiritu-2013.wav 79.760 82.150
+
+\ref 032
+\ELANBegin 81.270
+\ELANEnd 82.150
+\ELANParticipant Isabel
+\trs witsa ahon shinan
+\tx witsa ahon          shinan
+\mb witsa ak      -hon  shinan
+\gn otro  hacer   -BEN  pensar
+\ps adj.  v.tran. -suf. v.
+
+\ft había pensado para hacer otro
+\sound JC.NC.IC-arbol.espiritu-2013.wav 81.270 82.150
+
+\ref 033
+\ELANBegin 82.975
+\ELANEnd 84.095
+\ELANParticipant Nelita
+\trs ma shinanpariri
+\tx ma  shinanpariri
+\mb ma  shinan -pa   -ri       =ri
+\gn ya  pensar -FUT  -todavía =COP.INT
+\ps adv v.     -suf. -adv.     =clit
+
+\ft todavía voy a pensar en otro (árbol)
+\sound JC.NC.IC-arbol.espiritu-2013.wav 82.975 84.095
+
+\ref 034
+\ELANBegin 89.285
+\ELANEnd 90.325
+\ELANParticipant Nelita
+\trs abira yoipake
+\tx abira       yoipake
+\mb a   =bira   yoi     -pake
+\gn ese =nomás contar  -completamente
+\ps dem =clit.  v.tran. -suf.
+
+\ft ese mismo para contar
+\sound JC.NC.IC-arbol.espiritu-2013.wav 89.285 90.325
+
+\ref 035
+\ELANBegin 93.010
+\ELANEnd 93.640
+\ELANParticipant Isabel
+\trs kená aka
+\tx kená aka
+\mb kená a   =ka
+\gn palo  ese =NAR
+\ps n.    dem =clit.
+
+\ft llamar así
+\sound JC.NC.IC-arbol.espiritu-2013.wav 93.010 93.640
+
+\ref 036
+\ELANBegin 94.925
+\ELANEnd 95.435
+\ELANParticipant Isabel
+\trs kená
+\tx kená
+\mb kená
+\gn palo
+\ps n.
+
+\ft llamar
+\sound JC.NC.IC-arbol.espiritu-2013.wav 94.925 95.435
+
+\ref 037
+\ELANBegin 95.585
+\ELANEnd 95.975
+\ELANParticipant Nelita
+\trs kená
+\tx kená
+\mb kená
+\gn palo
+\ps n.
+
+\ft llamar
+\sound JC.NC.IC-arbol.espiritu-2013.wav 95.585 95.975
+
+\ref 038
+\ELANBegin 96.225
+\ELANEnd 97.595
+\ELANParticipant Juanita
+\trs kená aribiki yoshinya iki
+\tx kená aribiki              yoshinya         iki
+\mb kená a   =ribi     =ki    yoshin    =ya    ik      -i
+\gn palo  ese =también =REP   espíritu =PROP  copula  -IMPF
+\ps n.    dem =clit.    =clit. n.        =clit. v.intr. -suf.
+
+\ft llamar también tiene espíritu
+\sound JC.NC.IC-arbol.espiritu-2013.wav 96.225 97.595
+
+\ref 039
+\ELANBegin 97.755
+\ELANEnd 98.785
+\ELANParticipant Nelita
+\trs yoshinya iki
+\tx yoshinya         iki
+\mb yoshin    =ya    ik      -i
+\gn espíritu =PROP  copula  -IMPF
+\ps n.        =clit. v.intr. -suf.
+
+\ft tiene espíritu
+\sound JC.NC.IC-arbol.espiritu-2013.wav 97.755 98.785
+
+\ref 040
+\ELANBegin 99.145
+\ELANEnd 99.405
+\ELANParticipant Nelita
+\trs nato
+\tx nato
+\mb nato
+\gn este(SK)
+\ps dem.
+
+\ft este
+\sound JC.NC.IC-arbol.espiritu-2013.wav 99.145 99.405
+
+\ref 041
+\ELANBegin 101.060
+\ELANEnd 101.669
+\ELANParticipant Isabel
+\trs kená
+\tx kená
+\mb kená
+\gn palo
+\ps n.
+
+\ft llamar
+\sound JC.NC.IC-arbol.espiritu-2013.wav 101.060 101.669
+
+\ref 042
+\ELANBegin 102.310
+\ELANEnd 102.620
+\ELANParticipant Nelita
+\trs kená
+\tx kená
+\mb kená
+\gn palo
+\ps n.
+
+\ft el peine de mono
+\sound JC.NC.IC-arbol.espiritu-2013.wav 102.310 102.620
+
+\ref 043
+\ELANBegin 102.950
+\ELANEnd 103.560
+\ELANParticipant Nelita
+\trs nakabi
+\tx nakabi
+\mb nakabi
+\gn parinari
+\ps n.
+
+\ft parinari
+\sound JC.NC.IC-arbol.espiritu-2013.wav 102.950 103.560
+
+\ref 044
+\ELANBegin 103.810
+\ELANEnd 104.546
+\ELANParticipant Isabel
+\trs nakabi
+\tx nakabi
+\mb nakabi
+\gn parinari
+\ps n.
+
+\ft parinari
+\sound JC.NC.IC-arbol.espiritu-2013.wav 103.810 104.546
+
+\ref 045
+\ELANBegin 103.810
+\ELANEnd 104.552
+\ELANParticipant Juanita
+\trs nakabi
+\tx nakabi
+\mb nakabi
+\gn parinari
+\ps n.
+
+\ft parinari
+\sound JC.NC.IC-arbol.espiritu-2013.wav 103.810 104.552
+
+\ref 046
+\ELANBegin 105.125
+\ELANEnd 105.845
+\ELANParticipant Juanita
+\trs a yoshiyan
+\tx a   yoshiyan
+\mb a   yoshin    =ya
+\gn ese espíritu =PROP
+\ps dem n.        =clit.
+
+\ft ese (es) con espíritu
+\sound JC.NC.IC-arbol.espiritu-2013.wav 105.125 105.845
+
+\ref 047
+\ELANBegin 111.585
+\ELANEnd 112.025
+\ELANParticipant Nelita
+\trs hehon
+\tx hehon
+\mb hehon
+\gn ubos
+\ps n.
+
+\ft ubos
+\sound JC.NC.IC-arbol.espiritu-2013.wav 111.585 112.025
+
+\ref 048
+\ELANBegin 112.200
+\ELANEnd 112.610
+\ELANParticipant Isabel
+\trs hehon
+\tx hehon
+\mb hehon
+\gn ubos
+\ps n.
+
+\ft ubos
+\sound JC.NC.IC-arbol.espiritu-2013.wav 112.200 112.610
+
+\ref 049
+\ELANBegin 112.790
+\ELANEnd 113.240
+\ELANParticipant Juanita
+\trs hehon
+\tx hehon
+\mb hehon
+\gn ubos
+\ps n.
+
+\ft ubos
+\sound JC.NC.IC-arbol.espiritu-2013.wav 112.790 113.240
+
+\ref 050
+\ELANBegin 113.390
+\ELANEnd 114.160
+\ELANParticipant Isabel
+\trs a yoshiyan
+\tx a   yoshiyan
+\mb a   yoshin    =ya
+\gn ese espíritu =PROP
+\ps dem n.        =clit.
+
+\ft ese (es) con espíritu
+\sound JC.NC.IC-arbol.espiritu-2013.wav 113.390 114.160
+
+\ref 051
+\ELANBegin 114.320
+\ELANEnd 114.930
+\ELANParticipant Juanita
+\trs a yoshinya
+\tx a   yoshinya
+\mb a   yoshin    =ya
+\gn ese espíritu =PROP
+\ps dem n.        =clit.
+
+\ft ese (es) con espíritu
+\sound JC.NC.IC-arbol.espiritu-2013.wav 114.320 114.930
+
+\ref 052
+\ELANBegin 116.100
+\ELANEnd 116.480
+\ELANParticipant Juanita
+\trs yae
+\tx yae
+\mb yae
+\gn lúcuma
+\ps n.
+
+\ft lúcuma de monte
+\sound JC.NC.IC-arbol.espiritu-2013.wav 116.100 116.480
+
+\ref 053
+\ELANBegin 116.935
+\ELANEnd 117.215
+\ELANParticipant Nelita
+\trs yae
+\tx yae
+\mb yae
+\gn lúcuma
+\ps n.
+
+\ft lúcuma de monte
+\sound JC.NC.IC-arbol.espiritu-2013.wav 116.935 117.215
+
+\ref 054
+\ELANBegin 120.160
+\ELANEnd 121.043
+\ELANParticipant Juanita
+\trs yae yoshiyanribi
+\tx yae     yoshiyanribi
+\mb yae     yoshin    =ya    =ribi
+\gn lúcuma espíritu =PROP  =también
+\ps n.      n.        =clit. =clit.
+
+\ft la lúcuma de monte (tien) espíritu también
+\sound JC.NC.IC-arbol.espiritu-2013.wav 120.160 121.043
+
+\ref 055
+\ELANBegin 122.290
+\ELANEnd 122.660
+\ELANParticipant Nelita
+\trs bion
+\tx bion
+\mb bion
+\gn ubos.blanco
+\ps n.
+
+\ft ubos blanco
+\sound JC.NC.IC-arbol.espiritu-2013.wav 122.290 122.660
+
+\ref 056
+\ELANBegin 122.990
+\ELANEnd 123.390
+\ELANParticipant Juanita
+\trs bion
+\tx bion
+\mb bion
+\gn ubos.blanco
+\ps n.
+
+\ft ubos blanco
+\sound JC.NC.IC-arbol.espiritu-2013.wav 122.990 123.390
+
+\ref 057
+\ELANBegin 125.175
+\ELANEnd 125.745
+\ELANParticipant Juanita
+\trs ichabi
+\tx ichabi
+\mb ichabi
+\gn zapote
+\ps n.
+
+\ft zapote
+\sound JC.NC.IC-arbol.espiritu-2013.wav 125.175 125.745
+
+\ref 058
+\ELANBegin 127.595
+\ELANEnd 128.405
+\ELANParticipant Nelita
+\trs yoshiyanribi
+\tx yoshiyanribi
+\mb yoshin    =ya    =ribi
+\gn espíritu =PROP  =también
+\ps n.        =clit. =clit.
+
+\ft también (tiene) espíritu
+\sound JC.NC.IC-arbol.espiritu-2013.wav 127.595 128.405
+
+\ref 059
+\ELANBegin 127.595
+\ELANEnd 128.405
+\ELANParticipant Isabel
+\trs yoshiyanribi
+\tx yoshiyanribi
+\mb yoshin    =ya    =ribi
+\gn espíritu =PROP  =también
+\ps n.        =clit. =clit.
+
+\ft también (tiene) espíritu
+\sound JC.NC.IC-arbol.espiritu-2013.wav 127.595 128.405
+
+\ref 060
+\ELANBegin 133.915
+\ELANEnd 135.425
+\ELANParticipant Juanita
+\trs pia ati iwika yoshinya
+\tx pia        ati            iwika         yoshinya
+\mb pia        ak      -ti    iwi    =ka    yoshin    =ya
+\gn flecha(SK) hacer   -NOMLZ árbol =NAR   espíritu =PROP
+\ps n.         v.tran. -suf.  n.     =clit. n.        =clit.
+
+\ft el árbol para hacer flechas (tiene) espíritu
+\sound JC.NC.IC-arbol.espiritu-2013.wav 133.915 135.425
+
+\ref 061
+\ELANBegin 142.005
+\ELANEnd 143.455
+\ELANParticipant Isabel
+\trs ha ikon wishtininti
+\tx ha      ikon        wishtininti
+\mb ha      ikon        wishtininti
+\gn 3SG(SK) ciertamente caoba
+\ps pron    adv.        n.
+
+\ft ese, ciertamente, (es) caoba
+\sound JC.NC.IC-arbol.espiritu-2013.wav 142.005 143.455
+
+\ref 062
+\ELANBegin 143.685
+\ELANEnd 144.615
+\ELANParticipant Juanita
+\trs wishtininti
+\tx wishtininti
+\mb wishtininti
+\gn caoba
+\ps n.
+
+\ft caoba
+\sound JC.NC.IC-arbol.espiritu-2013.wav 143.685 144.615
+
+\ref 063
+\ELANBegin 145.145
+\ELANEnd 146.385
+\ELANParticipant Isabel
+\trs a wisti hawe riki
+\tx a wisti hawe     riki
+
+\ft cómo era el de la caoba
+\sound JC.NC.IC-arbol.espiritu-2013.wav 145.145 146.385
+
+\ref 064
+\ELANBegin 148.390
+\ELANEnd 148.960
+\ELANParticipant Juanita
+\trs non aka
+\tx non         aka
+\mb no   =n     ak          -a
+\gn 1PL  =ERG   decir(TRAN) -PERF
+\ps pron =clit. v.tran.     -suf.
+
+\ft nosotros le decíamos
+\sound JC.NC.IC-arbol.espiritu-2013.wav 148.390 148.960
+
+\ref 065
+\ELANBegin 149.160
+\ELANEnd 149.860
+\ELANParticipant Nelita
+\trs wishtinintiribi
+\tx wishtinintiribi
+\mb wishtininti =ribi
+\gn caoba       =también
+\ps n.          =clit.
+
+\ft caoba (pero el nombre iskonawa era bachikiti)
+\sound JC.NC.IC-arbol.espiritu-2013.wav 149.160 149.860
+
+\ref 066
+\ELANBegin 150.025
+\ELANEnd 150.786
+\ELANParticipant Isabel
+\trs ama riki
+\tx ama        riki
+\mb a   =ma    riki
+\gn ese =NEG   COP(SK)
+\ps dem =clit. part.
+
+\ft no es eso
+\sound JC.NC.IC-arbol.espiritu-2013.wav 150.025 150.786
+
+\ref 067
+\ELANBegin 152.110
+\ELANEnd 152.670
+\ELANParticipant Juanita
+\trs niwan
+\tx niwan
+\mb niwan
+\gn árbol
+\ps n.
+
+\ft árbol no identificado
+\sound JC.NC.IC-arbol.espiritu-2013.wav 152.110 152.670
+
+\ref 068
+\ELANBegin 153.315
+\ELANEnd 154.975
+\ELANParticipant Isabel
+\trs niwan ahi ta yoshinya
+\tx niwan  ahi ta yoshinya
+\mb niwan  ahí   yoshin    =ya
+\gn árbol ahí   espíritu =PROP
+\ps n.     adv.   n.        =clit.
+
+\ft ese árbol no identificado también tenía espíritu
+\sound JC.NC.IC-arbol.espiritu-2013.wav 153.315 154.975
+
+\ref 069
+\ELANBegin 156.665
+\ELANEnd 157.255
+\ELANParticipant Nelita
+\trs ninoa
+\tx ninoa
+\mb 
+
+\ft lo que está en el monte
+\sound JC.NC.IC-arbol.espiritu-2013.wav 156.665 157.255
+
+\ref 070
+\ELANBegin 159.716
+\ELANEnd 161.857
+\ELANParticipant Roberto
+\trs un ratito, ¿ya? porque está...
+\tx un ratito, ¿ya? porque está...
+\ft un ratito, ¿ya? porque está...
+\sound JC.NC.IC-arbol.espiritu-2013.wav 159.716 161.857
+
+
+\ELANMediaURL file:///C:/Users/Fernando Franco/Desktop/basededatos-iskonawa procesada/data/JC.NC.IC-arbol.espiritu-2013.mpg
+\ELANMediaMIME video/mpeg
+\ELANMediaURL file:///C:/Users/Fernando Franco/Desktop/basededatos-iskonawa procesada/data/JC.NC.IC-arbol.espiritu-2013.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaExtracted file:///C:/Users/Fernando Franco/Desktop/basededatos-iskonawa procesada/data/JC.NC.IC-arbol.espiritu-2013.mpg

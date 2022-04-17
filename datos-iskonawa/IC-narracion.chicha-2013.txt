@@ -1,0 +1,456 @@
+\_sh v3.0  400  text
+
+\ref 001
+\ELANBegin 0.460
+\ELANEnd 2.270
+\ELANParticipant Isabel
+\trs [?¿]
+\tx [?¿]
+\ft [?¿]
+\sound IC-narracion.chicha-2013.wav 0.460 2.270
+
+\ref 002
+\ELANBegin 2.530
+\ELANEnd 4.160
+\ELANParticipant Roberto
+\trs después podemos grabar con tu mamá
+\tx después podemos grabar con tu mamá
+\ft después podemos grabar con tu mamá
+\sound IC-narracion.chicha-2013.wav 2.530 4.160
+
+\ref 003
+\ELANBegin 4.030
+\ELANEnd 4.540
+\ELANParticipant Isabel
+\trs ya
+\tx ya
+\ft ya
+\sound IC-narracion.chicha-2013.wav 4.030 4.540
+
+\ref 004
+\ELANBegin 5.040
+\ELANEnd 7.020
+\ELANParticipant Roberto
+\trs entonces estamos ahorita con isabel
+\tx entonces estamos ahorita con isabel
+\ft entonces estamos ahorita con isabel
+\sound IC-narracion.chicha-2013.wav 5.040 7.020
+
+\ref 005
+\ELANBegin 8.150
+\ELANEnd 10.380
+\ELANParticipant Roberto
+\trs este isabel nos va a contar
+\tx este isabel nos va a contar
+\ft este isabel nos va a contar
+\sound IC-narracion.chicha-2013.wav 8.150 10.380
+
+\ref 006
+\ELANBegin 10.680
+\ELANEnd 11.500
+\ELANParticipant Roberto
+\trs este
+\tx este
+\ft este
+\sound IC-narracion.chicha-2013.wav 10.680 11.500
+
+\ref 007
+\ELANBegin 12.240
+\ELANEnd 14.200
+\ELANParticipant Roberto
+\trs cómo se hace la bebida de maiz
+\tx cómo se hace la bebida de maiz
+\ft cómo se hace la bebida de maiz
+\sound IC-narracion.chicha-2013.wav 12.240 14.200
+
+\ref 008
+\ELANBegin 14.490
+\ELANEnd 15.240
+\ELANParticipant Roberto
+\trs miná
+\tx miná
+\ft chicha
+\sound IC-narracion.chicha-2013.wav 14.490 15.240
+
+\ref 009
+\ELANBegin 15.000
+\ELANEnd 16.430
+\ELANParticipant Isabel
+\trs miná
+\tx miná
+\mb miná
+\gn chicha.suave
+\ps n.
+
+\ft chicha
+\sound IC-narracion.chicha-2013.wav 15.000 16.430
+
+\ref 010
+\ELANBegin 16.530
+\ELANEnd 17.350
+\ELANParticipant Roberto
+\trs oma
+\tx oma
+\mb oma
+\gn chicha.fuerte
+\ps n.
+
+\ft chicha
+\sound IC-narracion.chicha-2013.wav 16.530 17.350
+
+\ref 011
+\ELANBegin 16.885
+\ELANEnd 17.685
+\ELANParticipant Isabel
+\trs oma
+\tx oma
+\mb oma
+\gn chicha.fuerte
+\ps n.
+
+\ft chicha fuerte
+\sound IC-narracion.chicha-2013.wav 16.885 17.685
+
+\ref 012
+\ELANBegin 17.570
+\ELANEnd 18.340
+\ELANParticipant Roberto
+\trs oma
+\tx oma
+\mb oma
+\gn chicha.fuerte
+\ps n.
+
+\ft chicha fuerte
+\sound IC-narracion.chicha-2013.wav 17.570 18.340
+
+\ref 013
+\ELANBegin 18.200
+\ELANEnd 19.510
+\ELANParticipant Isabel
+\trs oma [mi]
+\tx oma
+\mb oma
+\gn chicha.fuerte
+\ps n.
+
+\ft chicha fuerte [?¿]
+\sound IC-narracion.chicha-2013.wav 18.200 19.510
+
+\ref 014
+\ELANBegin 19.870
+\ELANEnd 20.860
+\ELANParticipant Isabel
+\trs ajá oma
+\tx ajá   oma
+\mb ajá   oma
+\gn ajá   chicha.fuerte
+\ps inter. n.
+
+\ft [?¿]
+\sound IC-narracion.chicha-2013.wav 19.870 20.860
+
+\ref 015
+\ELANBegin 21.040
+\ELANEnd 22.310
+\ELANParticipant Roberto
+\trs chicha fuerte
+\tx chicha fuerte
+\ft chicha fuerte
+\sound IC-narracion.chicha-2013.wav 21.040 22.310
+
+\ref 016
+\ELANBegin 22.650
+\ELANEnd 26.190
+\ELANParticipant Isabel
+\trs oma mina ahonka ayapaoni
+\tx oma           mina         ahonka
+\mb oma           miná        ak      -hon       =ka
+\gn chicha.fuerte chicha.suave hacer   -SUJ>A:SIM =NAR
+\ps n.            n.           v.tran. -suf.      =clit.
+
+\tx ayapaoni
+\mb aya    -paoni
+\gn tomar  -PAS.REM:IMPF
+\ps v.tran -suf.
+
+\ft haciendo chicha fuerte y chicha suave, la bebíamos
+\sound IC-narracion.chicha-2013.wav 22.650 26.190
+
+\ref 017
+\ELANBegin 28.620
+\ELANEnd 30.530
+\ELANParticipant Isabel
+\trs miná ayakinka
+\tx miná        ayakinka
+\mb miná        aya    -kin       =ka
+\gn chicha.suave tomar  -SUJ>A:SIM =NAR
+\ps n.           v.tran -suf.      =clit.
+
+\ft tomando chicha
+\sound IC-narracion.chicha-2013.wav 28.620 30.530
+
+\ref 018
+\ELANBegin 31.200
+\ELANEnd 32.530
+\ELANParticipant Isabel
+\trs toró mená
+\tx toró         mená
+\mb toró         mená
+\gn tazón.grande LOC
+\ps n.            pos.
+
+\ft en tazón
+\sound IC-narracion.chicha-2013.wav 31.200 32.530
+
+\ref 019
+\ELANBegin 33.830
+\ELANEnd 35.130
+\ELANParticipant Isabel
+\trs toró mená
+\tx toró         mená
+\mb toró         mená
+\gn tazón.grande LOC
+\ps n.            pos.
+
+\ft en tazón
+\sound IC-narracion.chicha-2013.wav 33.830 35.130
+
+\ref 020
+\ELANBegin 35.970
+\ELANEnd 40.150
+\ELANParticipant Isabel
+\trs ayanon owe ikatibo papaboka ewen epabo
+\tx ayanon       owe            ikatibo                       papaboka               ewen    epabo
+\mb aya    -non  o     -we      ik         -kati        =bo   papa      =bo   =ka    ewen    epa   =bo
+\gn tomar  -PROP venir -IMP(SK) decir:INTR -PAS.REM:HAB =PLU  papá(SK) =PLU  =NAR   1SG:GEN padre =PLU
+\ps v.tran -suf. v.    -suf.    v.intr.    -suf.        =clit n.        =clit =clit. pron.   n.    =clit
+
+\ft "ven a tomar" decían mis papás
+\sound IC-narracion.chicha-2013.wav 35.970 40.150
+
+\ref 021
+\ELANBegin 43.650
+\ELANEnd 45.340
+\ELANParticipant Isabel
+\trs akesahonka ayamis
+\tx akesahonka                   ayamis
+\mb a   =kesa  -hon       =ka    aya    -mis
+\gn ese =COMP  -SUJ>A:SIM =NAR   tomar  -PAS.HAB.
+\ps dem =clit. -suf.      =clit. v.tran -suf.
+
+\ft preparando así tomábamos
+\sound IC-narracion.chicha-2013.wav 43.650 45.340
+
+\ref 022
+\ELANBegin 45.820
+\ELANEnd 47.040
+\ELANParticipant Isabel
+\trs pae ahon
+\tx pae        ahon
+\mb pae        ak      -hon
+\gn fermentado hacer   -SUJ>A:SIM
+\ps adj.       v.tran. -suf.
+
+\ft emborrachándonos
+\sound IC-narracion.chicha-2013.wav 45.820 47.040
+
+\ref 023
+\ELANBegin 50.830
+\ELANEnd 52.690
+\ELANParticipant Isabel
+\trs pae ahon ayamis no
+\tx pae        ahon               ayamis           no
+\mb pae        ak      -hon       aya    -mis      no
+\gn fermentado hacer   -SUJ>A:SIM tomar  -PAS.HAB. 1PL
+\ps adj.       v.tran. -suf.      v.tran -suf.     pron
+
+\ft emborrachándonos tomábamos nosotros
+\sound IC-narracion.chicha-2013.wav 50.830 52.690
+
+\ref 024
+\ELANBegin 55.530
+\ELANEnd 56.560
+\ELANParticipant Isabel
+\trs oma ahon
+\tx oma           ahon
+\mb oma           ak      -hon
+\gn chicha.fuerte hacer   -SUJ>A:SIM
+\ps n.            v.tran. -suf.
+
+\ft haciendo chicha
+\sound IC-narracion.chicha-2013.wav 55.530 56.560
+
+\ref 025
+\ELANBegin 57.530
+\ELANEnd 60.560
+\ELANParticipant Isabel
+\trs toró mená toró mihira mena ayamis
+\tx toró         mená toró         mihira mená
+\mb toró         mená toró         mihira mená
+\gn tazón.grande LOC   tazón.grande grande LOC
+\ps n.            pos.  n.            adj.   pos.
+
+\tx ayamis
+\mb aya    -mis
+\gn tomar  -PAS.HAB.
+\ps v.tran -suf.
+
+\ft en tazón grande tomábamos
+\sound IC-narracion.chicha-2013.wav 57.530 60.560
+
+\ref 026
+\ELANBegin 67.640
+\ELANEnd 73.030
+\ELANParticipant Isabel
+\trs ayakinka ayapaoni ewen ewaboton ewen epaboton
+\tx ayakinka                 ayapaoni
+\mb aya    -kin       =ka    aya    -paoni
+\gn tomar  -SUJ>A:SIM =NAR   tomar  -PAS.REM:IMPF
+\ps v.tran -suf.      =clit. v.tran -suf.
+
+\tx ewen    ewaboton           ewen
+\mb ewen    ewa   =bo   =n     ewen
+\gn 1SG:GEN madre =PLU  =ERG   1SG:GEN
+\ps pron.   n.    =clit =clit. pron.
+
+\tx epaboton
+\mb epa   =bo   =n
+\gn padre =PLU  =ERG
+\ps n.    =clit =clit.
+
+\ft tomándo tomaban así mis padres y mis madres
+\sound IC-narracion.chicha-2013.wav 67.640 73.030
+
+\ref 027
+\ELANBegin 74.400
+\ELANEnd 75.950
+\ELANParticipant Isabel
+\trs eso nomás conocía
+\tx eso nomás conocía
+\ft eso nomás conocía
+\sound IC-narracion.chicha-2013.wav 74.400 75.950
+
+\ref 028
+\ELANBegin 78.360
+\ELANEnd 80.610
+\ELANParticipant Roberto
+\trs eso es lo que se prepara el trago de maiz ¿no?
+\tx eso es lo que se prepara el trago de maiz ¿no?
+\ft eso es lo que se prepara el trago de maiz ¿no?
+\sound IC-narracion.chicha-2013.wav 78.360 80.610
+
+\ref 029
+\ELANBegin 79.530
+\ELANEnd 81.950
+\ELANParticipant Isabel
+\trs así es lo que maíz preparaba tomaba
+\tx así es lo que maíz preparaba tomaba
+\ft así es lo que maíz preparaba tomaba
+\sound IC-narracion.chicha-2013.wav 79.530 81.950
+
+\ref 030
+\ELANBegin 81.590
+\ELANEnd 84.410
+\ELANParticipant Roberto
+\trs ¿me podrías este contar eso mismo en castellano?
+\tx ¿me podrías este contar eso mismo en castellano?
+\ft ¿me podrías este contar eso mismo en castellano?
+\sound IC-narracion.chicha-2013.wav 81.590 84.410
+
+\ref 031
+\ELANBegin 84.600
+\ELANEnd 85.400
+\ELANParticipant Isabel
+\trs umhum
+\tx umhum
+\ft umhum
+\sound IC-narracion.chicha-2013.wav 84.600 85.400
+
+\ref 032
+\ELANBegin 85.250
+\ELANEnd 85.980
+\ELANParticipant Roberto
+\trs lo que me has contado
+\tx lo que me has contado
+\ft lo que me has contado
+\sound IC-narracion.chicha-2013.wav 85.250 85.980
+
+\ref 033
+\ELANBegin 86.050
+\ELANEnd 88.760
+\ELANParticipant Isabel
+\trs Yo estoy contado mi mamá mi papá
+\tx Yo estoy contado mi mamá mi papá
+\ft Yo estoy contado mi mamá mi papá
+\sound IC-narracion.chicha-2013.wav 86.050 88.760
+
+\ref 034
+\ELANBegin 89.810
+\ELANEnd 92.400
+\ELANParticipant Isabel
+\trs mi papá tomaba así oma
+\tx mi papá tomaba así oma
+\ft mi papá tomaba así oma
+\sound IC-narracion.chicha-2013.wav 89.810 92.400
+
+\ref 035
+\ELANBegin 94.930
+\ELANEnd 98.890
+\ELANParticipant Isabel
+\trs oma oma tomaba maiz crecido lo que ha sacado
+\tx oma oma tomaba maiz crecido lo que ha sacado
+\ft oma oma tomaba maiz crecido lo que ha sacado
+\sound IC-narracion.chicha-2013.wav 94.930 98.890
+
+\ref 036
+\ELANBegin 100.740
+\ELANEnd 101.880
+\ELANParticipant Isabel
+\trs se cantaba
+\tx se cantaba
+\ft se cantaba
+\sound IC-narracion.chicha-2013.wav 100.740 101.880
+
+\ref 037
+\ELANBegin 102.930
+\ELANEnd 105.950
+\ELANParticipant Isabel
+\trs mi mamá sabía hacer, estoy contando eso
+\tx mi mamá sabía hacer, estoy contando eso
+\ft mi mamá sabía hacer, estoy contando eso
+\sound IC-narracion.chicha-2013.wav 102.930 105.950
+
+\ref 038
+\ELANBegin 109.190
+\ELANEnd 113.560
+\ELANParticipant Isabel
+\trs y tomaba pues ahí en un tazón parece tazón dice toró
+\tx y tomaba pues ahí en un tazón parece tazón dice toró
+\ft y tomaba pues ahí en un tazón parece tazón dice toró
+\sound IC-narracion.chicha-2013.wav 109.190 113.560
+
+\ref 039
+\ELANBegin 114.330
+\ELANEnd 115.760
+\ELANParticipant Isabel
+\trs con ese tomaba
+\tx con ese tomaba
+\ft con ese tomaba
+\sound IC-narracion.chicha-2013.wav 114.330 115.760
+
+\ref 040
+\ELANBegin 116.660
+\ELANEnd 117.770
+\ELANParticipant Isabel
+\trs eso estoy contando
+\tx eso estoy contando
+\ft eso estoy contando
+\sound IC-narracion.chicha-2013.wav 116.660 117.770
+
+
+\ELANMediaURL file:///D:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/IC-narracion.chicha-2013.mpg
+\ELANMediaMIME video/mpeg
+\ELANMediaExtracted file:///D:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/IC-narracion.chicha-2013.wav
+\ELANMediaURL file:///D:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/IC-narracion.chicha-2013.wav
+\ELANMediaMIME audio/x-wav

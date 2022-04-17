@@ -1,0 +1,998 @@
+\_sh v3.0  684  text
+
+\ref 001
+\trs Habiraparika yoiwe. Haweatiki mato pikota
+\tx Habiraparika                     yoiwe.           Haweatiki           mato      pikota.
+\mb ha      =bira   =pari     =ka    yoi     -we      haweati      =ki    mato      pikot     -a
+\gn ese(SK) =nomás =todavía =NAR   contar  -IMP(SK) por.qué(SK) =INT   2PL:S(SK) salir(SK) -PERF
+\ps dem     =clit.  =clit.    =clit. v.tran. -suf.    pal.int      =clit. pron.     v.        -suf.
+
+\ft Eso mismo di, de que han salido, todavía. ¿Cómo han salido ustedes?
+\ELANBegin 0.000
+\ELANEnd 2.160
+\ELANParticipant William
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 0.000 2.160
+
+\ref 002
+\trs (Ininteligible)
+\tx (Ininteligible) Hawekeskaki      mato      pikota.
+\mb Ininteligible   hawekeska =ki    mato      pikot     -a
+\gn ***             cómo(SK) =INT   2PL:S(SK) salir(SK) -PERF
+\ps ***             pal.int   =clit. pron.     v.        -suf.
+
+\ft
+\ELANBegin 0.730
+\ELANEnd 1.990
+\ELANParticipant Isabel
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 0.730 1.990
+
+\ref 003
+\trs Hobo akaka ikatiki.
+\tx Hobo            akaka                 ikatiki.
+\mb hobo            ak      -a     =ka    ik      -kati        =ki
+\gn refugio.de.caza hacer   -NOMLZ =NAR   copula  -PAS.REM:HAB =CON
+\ps n.              v.tran. -suf.  =clit. v.intr. -suf.        =clit.
+
+\ft así, en sus casas vivían.
+\ELANBegin 2.000
+\ELANEnd 3.546
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 2.000 3.546
+
+\ref 004
+\trs xobo ani nonra xobo ani apaoniki, eahki kahe anika. Akan nato ibi ibi behon chaniaki.
+\tx xobo     ani        nonra            xobo     ani        apaoniki,
+\mb xobo     ani        non   =ra        xobo     ani        ak      -paoni        =ki
+\gn casa(SK) grande(SK) 1PL:A =EVID1(SK) casa(SK) grande(SK) hacer   -PAS.REM:IMPF =CON
+\ps n.       adj.       pron  =clit.     n.       adj.       v.tran. -suf.         =clit.
+
+\tx eahki        kahe anika             nato     iwi    iwi    behon
+\mb eah   =ki    kahe ani        =ka    nato     iwi    iwi    be    -hon
+\gn 1SG:S =CON   casa grande(SK) =NAR   este(SK) árbol árbol traer -SUJ>A:SIM
+\ps pron. =clit. n.   adj.       =clit. dem.     n.     n.     v     -suf.
+
+\tx chania
+\mb chani           -a
+\gn prender.horcón -PERF
+\ps v.              -suf.
+
+\ft nosotros una casa grande habíamos hecho, una casa grande. Cuando hacían la casa grande yo llevaba árboles
+para plantarlos.
+\ELANBegin 4.545
+\ELANEnd 12.500
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 4.545 12.500
+
+\ref 005
+\trs Neska rakai neska raka chani. Oa chania. Oa chania iwi keani. Makoranti akanai.
+\tx Neska rakai       neska raka  chani.          Oa   chania.               Oa
+\mb neska raka  -i    neska raka  chani           oa   chani           -a    oa
+\gn así  echar -IMPF así  echar prender.horcón ese  prender.horcón -PERF ese
+\ps adv.  v.    -suf. adv.  v.    v.              dem. v.              -suf. dem.
+
+\tx chania                iwi    keani.        Makoranti akanai.
+\mb chani           -a    iwi    kean    -i    makoranti ak      -kan  -ai
+\gn prender.horcón -PERF árbol colocar -IMPF viga      hacer   -PLU  -IMPF(SK)
+\ps v.              -suf. n.     v.      -suf. n.        v.tran. -suj. -suf.
+
+\ft Esto plantaba. Esto plantaba acá y plantaba allá. Ponía las vigas.
+\ELANBegin 12.500
+\ELANEnd 20.600
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 12.500 20.600
+
+\ref 006
+\trs Yoinon xeapariwe
+\tx Yoinon        xeapariwe.
+\mb yoi     -non  xea       =pari     -we
+\gn contar  -PROP tomar(SK) =todavía -IMP(SK)
+\ps v.tran. -suf. v.        =clit.    -suf.
+
+\ft Toma, para que puedas contar.
+\ELANBegin 21.250
+\ELANEnd 23.200
+\ELANParticipant William
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 21.250 23.200
+
+\ref 007
+\trs ka xea
+\tx Ka xea
+\mb
+
+\ft toma
+\ELANBegin 23.460
+\ELANEnd 24.280
+\ELANParticipant Roberto
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 23.460 24.280
+
+\ref 008
+\trs ayawe
+\tx Ayawe.
+\mb aya    -we
+\gn tomar  -IMP(SK)
+\ps v.tran -suf.
+
+\ft toma
+\ELANBegin 24.988
+\ELANEnd 25.602
+\ELANParticipant Nelita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 24.988 25.602
+
+\ref 009
+\trs ayawe
+\tx Ayawe.
+\mb aya    -we
+\gn tomar  -IMP(SK)
+\ps v.tran -suf.
+
+\ft toma
+\ELANBegin 25.801
+\ELANEnd 26.390
+\ELANParticipant Isabel
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 25.801 26.390
+
+\ref 010
+\trs Tenton pachianon. Tepachiwe.
+\tx Tenton   pachianon.         Tepachiwe.
+\mb tenton   pachi -a     -non  te-     pachi -we
+\gn garganta mojar -NOMLZ -PROP cuello- mojar -IMP(SK)
+\ps n.       v.    -suf.  -suf. pref.-  v.    -suf.
+
+\ft Remójate la garganta. Remójate la garganta.
+\ELANBegin 26.580
+\ELANEnd 29.660
+\ELANParticipant Nelita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 26.580 29.660
+
+\ref 011
+\trs Rama sí min kenakeska yoyoiwe.
+\tx Rama            sí        min   kenakeska         yoyoiwe.
+\mb rama            sí        min   kena       =keska yoi     - yoi     -we
+\gn actualmente(SK) sñi(CAST) 2SG:A querer(SK) =COMP  contar  - contar  -IMP(SK)
+\ps adv.            intj.      pron. v.         =suf.  v.tran. - v.tran. -suf.
+
+\ft Ahora sí cuenta lo que quieras.
+\ELANBegin 30.754
+\ELANEnd 32.296
+\ELANParticipant William
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 30.754 32.296
+
+\ref 012
+\trs Ha hema akinka hema akinka wai akibetin. Wai aka eweabetin.
+\tx Ha      hema          akinka                    hema          akinka
+\mb ha      hema          ak      -kin       =ka    hema          ak      -kin       =ka
+\gn ese(SK) comunidad(SK) hacer   -SUJ>A:SIM =NAR   comunidad(SK) hacer   -SUJ>A:SIM =NAR
+\ps dem     n.            v.tran. -suf.      =clit. n.            v.tran. -suf.      =clit.
+
+\tx wai    akibetin.               Wai    aka           eweabetin.
+\mb wai    ak      -i     -betin   wai    ak      -a    ewe    -a     -betin
+\gn chacra hacer   -NOMLZ -por.que chacra hacer   -PERF vivir  -NOMLZ -por.que
+\ps n.     v.tran. -suf.  -suf.    n.     v.tran. -suf. v.intr -suf.  -suf.
+
+\ft ya estábamos haciendo ese pueblo y esa chacra. Haciendo chacra vivimos.
+\ELANBegin 35.713
+\ELANEnd 41.280
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 35.713 41.280
+
+\ref 013
+\trs ono oinax yoyoiwe
+\tx Ono       oinax         yoyoiwe.
+\mb ono       oin    -ax    yoi     - yoi     -we
+\gn allá(SK) ver    -S/A>S contar  - contar  -IMP(SK)
+\ps adv.      v.ambi -suf.  v.tran. - v.tran. -suf.
+
+\ft habla mirando para allá.
+\ELANBegin 41.448
+\ELANEnd 42.356
+\ELANParticipant William
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 41.448 42.356
+
+\ref 014
+\trs wai ahon hema akin oroai
+\tx Wai    ahon               hema          akin               oroai.
+\mb wai    ak      -hon       hema          ak      -kin       oro          -ai
+\gn chacra hacer   -SUJ>A:SIM comunidad(SK) hacer   -SUJ>A:SIM cultivar(SK) -IMPF(SK)
+\ps n.     v.tran. -suf.      n.            v.tran. -suf.      v.           -suf.
+
+\ft hacíamos la chacra, consturíamos el pueblo, cultivábamos
+\ELANBegin 42.651
+\ELANEnd 46.073
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 42.651 46.073
+
+\ref 015
+\trs Atsa banai. Paranti banai. Heki wishai.
+\tx Atsa banai.        Paranti  banai.        Heki  wishai.
+\mb atsa bana    -i    paranti  bana    -i    heki  wisha         -i
+\gn yuca sembrar -IMPF plátano sembrar -IMPF maíz sembrar.maíz -IMPF
+\ps n.   v.tran  -suf. n.       v.tran  -suf. n.    v.            -suf.
+
+\ft Sembramos yuca, sembramos plátano, sembramos maíz.
+\ELANBegin 47.036
+\ELANEnd 51.580
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 47.036 51.580
+
+\ref 016
+\trs Wai ahon champehon ayai. Minahon xeai. Habo akai. Ayai.
+\tx Wai    ahon               champehon                              ayai.
+\mb wai    ak      -hon       champeh                     -hon       aya    -i
+\gn chacra hacer   -SUJ>A:SIM chicha.dulce.maiz.no.maduro -SUJ>A:SIM tomar  -IMPF
+\ps n.     v.tran. -suf.      n.                          -suf.      v.tran -suf.
+
+\tx Minahon                 xeai.           Habo          akai.             Ayai.
+\mb miná        -hon       xea       -i    ha      =bo   ak      -ai       aya    -i
+\gn chicha.suave -SUJ>A:SIM tomar(SK) -IMPF ese(SK) =PLU  hacer   -IMPF(SK) tomar  -IMPF
+\ps n.           -suf.      v.        -suf. dem     =clit v.tran. -suf.     v.tran -suf.
+
+\ft después de hacer la chacra, preparábamos chicha, esas cosas hacemos, tomamos.
+\ELANBegin 52.786
+\ELANEnd 60.310
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 52.786 60.310
+
+\ref 017
+\trs (Ininteligible) Champehon heki hawi champehai kankan.
+\tx (Ininteligible) Champehon                              heki  hawi
+\mb Ininteligible   champeh                     -hon       heki  hawi
+\gn ***             chicha.dulce.maiz.no.maduro -SUJ>A:SIM maíz caña.de.azúcar
+\ps ***             n.                          -suf.      n.    n.
+
+\tx champehai                             kankan.
+\mb champeh                     -ai       kankan
+\gn chicha.dulce.maiz.no.maduro -IMPF(SK) piña
+\ps n.                          -suf.     n.
+
+\ft (Ininteligible) Haciendo chicha, con máiz, con cañazo, hago chicha con piña.
+\ELANBegin 62.475
+\ELANEnd 69.770
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 62.475 69.770
+
+\ref 018
+\trs Hain i ikin kai ewe ewe ewepaoni, ma atsankera oibetin.
+\tx Hain     i       ikin               kai          ewe    ewe    ewepaoni,            ma
+\mb hain     ik      ik      -kin       ka     -i    ewe    ewe    ewe    -paoni        ma
+\gn ahí(SK) copula  copula  -SUJ>S:SIM ir     -IMPF vivir  vivir  vivir  -PAS.REM:IMPF ya
+\ps adv.     v.intr. v.intr. -suf.      v.intr -suf. v.intr v.intr v.intr -suf.         adv
+
+\tx atsankerana              o-ibetin.
+\mb atsan    -keran    -a    o     -i     -betin
+\gn cansarse -VEN:INTR -PERF venir -NOMLZ -por.que
+\ps v.       -suf.     -suf. v.    -suf.  -suf.
+
+\ft ahí, ahí vivíamos mucho tiempo, ya nos aburríamos, por eso venimos.
+\ELANBegin 72.474
+\ELANEnd 78.766
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 72.474 78.766
+
+\ref 019
+\trs ao kanohon ointimari ikebetin. Ma shinani yosiboa yosibo aia kanohon ointimariki.
+\tx Ao        kanohon           ointimari                      ikebetin.                  Ma
+\mb ao        ka     -nohon     oin    -ti    =ma    -ri       ik      -ke       -betin   ma
+\gn otro.lado ir     -PROP:TRAN ver    -NOMLZ =NEG   -todavía copula  -PERF(SK) -por.que ya
+\ps adv.      v.intr -suf.      v.ambi -suf.  =clit. -adv.     v.intr. -suf.     -suf.    adv
+
+\tx shinani      yosiboa                  yosibo             kanohon
+\mb shinan -i    yosi        =bo   -a     yosi        =bo    ka     -nohon
+\gn pensar -IMPF anciano(SK) =PLU  -NOMLZ anciano(SK) =PLU   ir     -PROP:TRAN
+\ps v.     -suf. n.          =clit -suf.  n.          =clit  v.intr -suf.
+
+\tx ointimariki.
+\mb oin    -ti    =ma    riki
+\gn ver    -NOMLZ =NEG   COP(SK)
+\ps v.ambi -suf.  =clit. part.
+
+\ft hay que ver para irnos allá. Ya pensaban los viejos para ver para irnos allá. Para irnos allá.
+\ELANBegin 81.309
+\ELANEnd 86.881
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 81.309 86.881
+
+\ref 020
+\trs iwa. iwabo, yosi
+\tx iwa. iwabo,      yosi
+\mb iwa  iwa   =bo   yosi
+\gn viejoviejo =PLU  anciano(SK)
+\ps adj. adj.  =clit n.
+
+\ft los sembríos, los viejos.
+\ELANBegin 88.271
+\ELANEnd 89.962
+\ELANParticipant Isabel
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 88.271 89.962
+
+\ref 021
+\trs aka
+\tx Aka.
+\mb ak          -a
+\gn decir(TRAN) -PERF
+\ps v.tran.     -suf.
+
+\ft ya
+\ELANBegin 88.474
+\ELANEnd 88.915
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 88.474 88.915
+
+\ref 022
+\trs Yoabo Panshin Nawa Panshin Nawa iki kokopai.
+\tx Yoabo                Panshin Nawa  Panshin Nawa  iki           kokopai.
+\mb yoa            =bo   Panshin Nawa  Panshin Nawa  ik      -i    kokopa                -i
+\gn comida.vegetal =PLU  nombre.propio nombre.propio copula  -IMPF ir.por.allá.por.acá -IMPF
+\ps n.             =clit n.            n.            v.intr. -suf. v.                    -suf.
+
+\ft a los viejos Panshín Nawá no les gustaba vivir en un solo sitio.
+\ELANBegin 90.000
+\ELANEnd 95.117
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 90.000 95.117
+
+\ref 023
+\trs Chain chain michikoinsi. Hai hai kanonriki, michabake, hainkatimarin michabake wai aki
+katimari. Hain katiriki hontapa.
+\tx Chainchainmichikoinsi. Hai hai kanonriki, michabake, hainkatimarin michabake wai aki katimari. Hain katiriki hontapa.
+\mb
+
+\ft hablaba mucho, ciertamente. "Ahí, ahí vamos a ir, hijo (mayor), ahí nos vamos a ir, hijo, vamos a ir, vamos a
+hacer chacra". "Ahí nos vamos, tío".
+\ELANBegin 95.117
+\ELANEnd 103.229
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 95.117 103.229
+
+\ref 024
+\trs Kake. Kahon wai ake, wai ake, hain i Ikeranika hain ookerani kai hain.
+\tx Kake. Kahon wai ake. Wai ake hain i. Ikeranika hain ookerani kai hain.
+\ft nos fuimos. Al ir, hicimos chacra. Hicimos chacra ahí. Hemos estado de un lado a otro, y de ahí hemos venido de
+un lado al otro, ahí.
+\ELANBegin 106.097
+\ELANEnd 113.000
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 106.097 113.000
+
+\ref 025
+\trs Nowa okonka nowa nonaka nowa.
+\tx Nowa okonka nowa nonaka nowa.
+\ft nosotros hemos vivido en la quebrada.
+\ELANBegin 117.475
+\ELANEnd 120.080
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 117.475 120.080
+
+\ref 026
+\trs No nowa ain wai aribake ainoah banake. Paranti banake. Hekiwishake. Atsa atsabanake.
+\tx No nowa ain wai aribake ainoah banake. Paronti banake. Hekiwishake. Atsa atsabanake.
+\ft Llamamos a la quebrada "nowa". Ahí en la quebrada hemos hecho chacra. De ahí hemos cultivado. Cultivábamos
+plátano, maíz, yuca.
+\ELANBegin 121.749
+\ELANEnd 131.639
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 121.749 131.639
+
+\ref 027
+\trs Banahon pii. Eweri eweri neke oribake. Awe aki ikikokoi aires eweti eweti hain.
+\tx Banahon pii. Eweri eweri neke oribake. Awe aki ikikokoi aires eweti eweti hain.
+\ft Sembrando, comíamos. Allí hemos vivido y otra vez hemos venido. "¿Qué está haciendo, yendo de un lado a
+otro, por no vivir ahí, nomás?"
+\ELANBegin 135.556
+\ELANEnd 143.245
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 135.556 143.245
+
+\ref 028
+\trs (Ininteligible) Ainoa hainmanama ainmanama. Hawerano katimaka.
+\tx (Ininteligible) Ainoa hainmanama ainmanama. Awerano katimaka.
+\ft (Ininteligible) De ahí fuimos más arriba. Ya no teníamos dónde ir.
+\ELANBegin 149.573
+\ELANEnd 155.808
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 149.573 155.808
+
+\ref 029
+\trs Awerano katima. Ma hain baneke ain. Neke chiteta ewea hain chiteta ewea. Kirinkon mera
+ki noa ehe.
+\tx Awerano katima. Ma hain baneke ain. Neke chiteta ewea hain chiteta ewea. Kirinkon mera
+ki noa ehe.
+\ft A dónde ir. Ya ahí me he quedado, acá nomás me he quedado, he vivido. Ahí me he quedado, he vivido. Allí me
+han encontrado los gringos.
+\ELANBegin 155.808
+\ELANEnd 164.327
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 155.808 164.327
+
+\ref 030
+\trs Tokepari ochopi kenoh ewebetin.
+\tx Tokepari ochopi kenoh ewebetin.
+\ft En otro lado, todavía, lejos, he vivido.
+\ELANBegin 166.195
+\ELANEnd 168.800
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 166.195 168.800
+
+\ref 031
+\trs Chitoma.
+\tx Chitoma.
+\ft Lejos.
+\ELANBegin 169.096
+\ELANEnd 169.663
+\ELANParticipant Isabel
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 169.096 169.663
+
+\ref 032
+\trs Chitoma. Chitomaha oi betin waka shitapake pahko shitapake.
+\tx Chitoma. Chitomaha oi betin waka shitapake pahko shitapake.
+\ft Lejos. De lejos he venido, he cruzado ríos, quebradas.
+\ELANBegin 169.694
+\ELANEnd 176.847
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 169.694 176.847
+
+\ref 033
+\trs Ain eweke, papakiri oike papakiri mera. Ainoa waneaka awerano katima.
+\tx Ain ewke. Papakrife oike papakiri mera. Ainoa waneaka awerano katima.
+\ft Ahí vivíamos, donde el padre Cliff vino y nos encontró. De ahí me he quedado donde ya no podía irme.
+\ELANBegin 180.552
+\ELANEnd 189.416
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 180.552 189.416
+
+\ref 034
+\trs Mana anitenama wai aribake atsabanake ainoa eweke.
+\tx Mana aintenama wai aribake atsabanake ainoa eweke.
+\ft Al pie del cerro he hecho una chacra, he sembrado yuca; ahí he vivido.
+\ELANBegin 194.908
+\ELANEnd 200.126
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 194.908 200.126
+
+\ref 035
+\trs Ainoa katiyamake ainoa ainoa ha.
+\tx Ainoa katiyamake ainoa ainoa ha.
+\ft De ahí ya no podía irme, pues.
+\ELANBegin 202.896
+\ELANEnd 206.193
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 202.896 206.193
+
+\ref 036
+\trs Ewehon wai ake. Atsa banake. Heki wishake.
+\tx Ewehon wai ake. Atsa banake. Heki wishake.
+\ft Viviendo ahí he hecho una chacra, he plantado yuca, he sembrado maíz.
+\ELANBegin 213.497
+\ELANEnd 218.546
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 213.497 218.546
+
+\ref 037
+\trs Piti yonahon. Yonahon pikatibi. Yoiwe.
+\tx Piti yonahon. Yonahon pikatibi. Yoiwe.
+\ft Cuenta de la comida ahumada que antes se comía.
+\ELANBegin 219.583
+\ELANEnd 222.941
+\ELANParticipant Isabel
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 219.583 222.941
+
+\ref 038
+\trs Iki nonra.
+\tx Iki nonra.
+\ft nosotros
+\ELANBegin 226.400
+\ELANEnd 227.889
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 226.400 227.889
+
+\ref 039
+\trs (Falso comienzo) (Ininteligible)
+\tx (Falso comienzo) (Ininteligible)
+\ft (Falso comienzo) (Ininteligible)
+\ELANBegin 229.654
+\ELANEnd 233.786
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 229.654 233.786
+
+\ref 040
+\trs Ehpiti kobin akai.
+\tx Ehpiti kobiankai.
+\ft preparábamos comida.
+\ELANBegin 233.786
+\ELANEnd 235.970
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 233.786 235.970
+
+\ref 041
+\trs Kobiahon neke kenaanai. Nekeribi anai okekenaribi anai (Ininteligiible) bewei (Ininteligible).
+Sapa akai nino.
+\tx Kobiahon neke kenaanai. Nekeribi anai okekenaribi anai (Ininteligiible) bewei (Ininteligible).
+Sapa akai nino.
+\ft Después cocinábamos pongo la mesa (el suelo) nos sentábamos a ambos lados a comer. Aquí también
+convidábamos. Aquí poníamos los platos.
+\ELANBegin 235.970
+\ELANEnd 247.669
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 235.970 247.669
+
+\ref 042
+\trs Champehon akai toromena.
+\tx Champehon akai toromena.
+\ft tomábamos la chicha en los tazones.
+\ELANBegin 247.669
+\ELANEnd 249.889
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 247.669 249.889
+
+\ref 043
+\trs Aya tsaonhonkin. Bene, natoxeaki.
+\tx Aya tsaonhon ki. Bene, natoxeaki.
+\ft Servíamos la bebida. Bebe esto, marido.
+\ELANBegin 250.889
+\ELANEnd 253.691
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 250.889 253.691
+
+\ref 044
+\trs Toma. Ayaki nato ayawe. Ain tsaonhoki.
+\tx Toma. Ayaki nato ayawe. Ain tsanhoki.
+\ft "Toma. Toma esto, toma. Ahí sírvete".
+\ELANBegin 254.331
+\ELANEnd 260.286
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 254.331 260.286
+
+\ref 045
+\trs Mahko ayawe. Ochi ayawe. Epa ayawe.
+\tx Mahko ayawe. Ochi ayawe. Epa ayawe.
+\ft "Bebe, hermano (menor)". "Toma, hermano (mayor)". "Toma, papá".
+\ELANBegin 260.286
+\ELANEnd 270.316
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 260.286 270.316
+
+\ref 046
+\trs Hakon hakoin shinahako. Hakoi (Ininteligible) wene wene rama. Akonbires ikika.
+Akonbires ikika.
+\tx Hakon hakoi sinahako. Hakoi (Ininteligible) wene wene shamani. Akonbires ikika.
+Akonbires ikika.
+\ft Yo era feliz, no pensaba en nada. Yo era muy muy feliz. Estaba feliz. Estaba Feliz.
+\ELANBegin 272.272
+\ELANEnd 280.200
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 272.272 280.200
+
+\ref 047
+\trs Enimai.
+\tx Enimai.
+\ft Muy alegre.
+\ELANBegin 280.207
+\ELANEnd 281.092
+\ELANParticipant Isabel
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 280.207 281.092
+
+\ref 048
+\trs Enimai non pii enimai non wetsabo nokon poi. Nokon irmanobetan.
+\tx Enimai non pii enimai non wetsabo nokon poi. Nokon irmanobetan.
+\ft Nosotros comíamos alegres con nuestras hermanas, nuestros hermanos.
+\ELANBegin 281.152
+\ELANEnd 288.323
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 281.152 288.323
+
+\ref 049
+\trs Aha. Piwe ochi. Piwe  bacho. Hahahahai.
+\tx Aha. Piwe ochi. Piwe bacho. Hahahahai.
+\ft "Come, hermano (mayor), come, hermana (mayor). Jajajaja".
+\ELANBegin 288.603
+\ELANEnd 296.051
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 288.603 296.051
+
+\ref 050
+\trs Osani ma ma mawa mawanti kesamaka.
+\tx Osani ma ma mawa mawanti kesamaka.
+\ft Nos reíamos como si no nos fuéramos a morir.
+\ELANBegin 297.272
+\ELANEnd 303.485
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 297.272 303.485
+
+\ref 051
+\trs Osain hehe iki hehe hoa hehehehe hea ibetin.
+\tx Osain hehe iki hehe hoa hehehehe hea ibetin.
+\ft Nos reíamos, hacíamos "Jajaja".
+\ELANBegin 304.619
+\ELANEnd 308.262
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 304.619 308.262
+
+\ref 052
+\trs Non wetsabetan iki bacho piokin, wacho, wetehiko, aiyoki wacho.
+\tx Non wetsabetan iki bacho piokin, wacho, wetehiko, aiyoki wacho.
+\ft Con nuestro hermano: "Hermano, ven a comer, hermano, esta mazamorra; ven a tomar, hermano".
+\ELANBegin 311.603
+\ELANEnd 320.198
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 311.603 320.198
+
+\ref 053
+\trs Pao bohon akain kechán nino mapó tsanwe (Ininteligible) akai.
+\tx Pao bohon akain kechán nino mapó tsanwe (Ininteligible) akai.
+\ft Cuando llevábamos concha, servíamos en ellas como platos, y aquí (en el piso) servíamos.
+\ELANBegin 320.882
+\ELANEnd 327.911
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 320.882 327.911
+
+\ref 054
+\trs Ewen papanka mewe keshaboyahon awe.
+\tx Ewen papanka mewe keshaboyahon awe.
+\ft Mi papá me dijo "Vete (a comer) con las mujeres".
+\ELANBegin 329.513
+\ELANEnd 332.226
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 329.513 332.226
+
+\ref 055
+\trs (Ininteligible) Wacho, hawekapo ayoki oh.
+\tx (Ininteligible) Wacho, hawekapo ayoki oh.
+\ft (Ininteligiblie) "Hermana, ven a tomar mazamorra de motelo".
+\ELANBegin 334.566
+\ELANEnd 341.477
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 334.566 341.477
+
+\ref 056
+\trs Ewah hawekapo ayokin.
+\tx Ewah hawekapo ayokin.
+\ft "Mamá, ven a tomar mazamorra de motelo".
+\ELANBegin 342.220
+\ELANEnd 345.617
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 342.220 345.617
+
+\ref 057
+\trs Eah chikishshita. Chikishai.
+\tx Eah chikishshita. Chikishai.
+\ft Me respondío: "No quiero todavía" "¿No quieres?"
+\ELANBegin 346.441
+\ELANEnd 350.867
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 346.441 350.867
+
+\ref 058
+\trs Chichó. Min beten ayamai chicho.
+\tx Chichó. Min beten ayamai chicho.
+\ft "Hermana, ¿no quieres tomar tu mazamorra, hermana?"
+\ELANBegin 354.940
+\ELANEnd 359.700
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 354.940 359.700
+
+\ref 059
+\trs Oe, este trípode.
+\tx Oe, este trípode.
+\ft Oe, ese trípode
+\ELANBegin 365.193
+\ELANEnd 366.588
+\ELANParticipant Roberto
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 365.193 366.588
+
+\ref 060
+\trs Habo yoi, chanchan kikí, henibo yoi, ipaonibo yoi.
+\tx Habo yowi, chanchan kikí, henibo yoi, ipaonibo yoi.
+\ft Esas cosas hablaban, parloteaban; hablan los antiguos, hablaban.
+\ELANBegin 369.820
+\ELANEnd 374.238
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 369.820 374.238
+
+\ref 061
+\trs Nonkaibo mahkabo yoi.
+\tx Nonkaibo mahkabo yoi.
+\ft Hablaban de nuestros parientes muertos.
+\ELANBegin 388.644
+\ELANEnd 390.955
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 388.644 390.955
+
+\ref 062
+\trs Wene wene akon akonki non pibetin. Hawe shinanmabobi haweki raketi yama.
+\tx Wene wene akon akonki non pibetin. Hawe shinanmabobi haweki raketi yawa.
+\ft Nostros comíamos muy alegres, bien. Sin pensar en nada. No teníamos nada a qué tener miedo.
+\ELANBegin 394.941
+\ELANEnd 404.669
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 394.941 404.669
+
+\ref 063
+\trs Piyai kai.
+\tx Piyai kai.
+\ft Comíamos, nos íbamos.
+\ELANBegin 408.462
+\ELANEnd 410.679
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 408.462 410.679
+
+\ref 064
+\trs Ohano kawe.
+\tx Ohano kawe.
+\ft "Vamos a dormir".
+\ELANBegin 413.396
+\ELANEnd 415.235
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 413.396 415.235
+
+\ref 065
+\trs Ohanon kawe, wachó, chichó.
+\tx Ohanon kawe, wachó, chichó.
+\ft "Vamos a dormir, hermana (menor), hermana (mayor)".
+\ELANBegin 418.135
+\ELANEnd 420.764
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 418.135 420.764
+
+\ref 066
+\trs Ewe papara yobeya ikati a ankaya nawa oinbeibetin.
+\tx Ewe papara yobeya ikati a ankaya nawa oinbeibetin.
+\ft Mi papá era brujo; él era el que auguraba la venida de los mestizos.
+\ELANBegin 432.672
+\ELANEnd 437.247
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 432.672 437.247
+
+\ref 067
+\trs Yobeyama yoshinya.
+\tx Yobeyama yoshinya.
+\ft "Yobeyá" no; "yoshinya".
+\ELANBegin 437.467
+\ELANEnd 438.658
+\ELANParticipant Isabel
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 437.467 438.658
+
+\ref 068
+\trs Yoshia. Yoshia ikati ewen papa.
+\tx Yoshia. Yoshia ikatie papa.
+\ft Brujo ("yoshinya"). Mi papá era brujo.
+\ELANBegin 438.668
+\ELANEnd 442.389
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 438.668 442.389
+
+\ref 069
+\trs Kakin yoamaboi, ohohe, nawa inanbake yamariki.
+\tx Kakin yoamaboi (Ininteligible) ohe (Ininteligible) nawa inanbake yamariki.
+\ft Mientras iba andando, (decía) "ohohe". "Allí no hay nada de mestizos".
+\ELANBegin 445.623
+\ELANEnd 452.580
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 445.623 452.580
+
+\ref 070
+\trs Jain (Ininteligible) ewetanwe.
+\tx Ain (Ininteligible) ewetanwe.
+\ft "Vete (Ininteligible) a vivir ahí".
+\ELANBegin 452.580
+\ELANEnd 455.181
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 452.580 455.181
+
+\ref 071
+\trs Tsomo tsomo ya ewen papa mawata iki.
+\tx Tsomo tsomo ya ewen papa mawata iki.
+\ft Sufriendo es como mi papá murió.
+\ELANBegin 459.486
+\ELANEnd 462.041
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 459.486 462.041
+
+\ref 072
+\trs Mahkai.
+\tx Mahkai.
+\ft Moría.
+\ELANBegin 462.752
+\ELANEnd 463.335
+\ELANParticipant Isabel
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 462.752 463.335
+
+\ref 073
+\trs Mahka. Ewen papa mahkata iki.
+\tx Mahka. Papa mahkataiki.
+\ft Muerto. Mi papá murió.
+\ELANBegin 463.513
+\ELANEnd 465.727
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 463.513 465.727
+
+\ref 074
+\trs Noitapai. Enbika ewen papa iwahako iketian. Ewen papa kargakarganki kara karabekin.
+\tx Noitapai. Enbika ewen papa iwahako iketian. Ewen papa kargakarganki kara karabekin.
+\ft Sufría. Porque mi papá ya era viejito, yo misma lo cargaba, lo traía cargando a mi papá.
+\ELANBegin 465.727
+\ELANEnd 474.558
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 465.727 474.558
+
+\ref 075
+\trs Pewehon pewehon eweai bembokesa.
+\tx Pewehon pewehon ewea bembokesa.
+\ft Cargándolo, cargándolo, como hombre lo llevé.
+\ELANBegin 475.676
+\ELANEnd 479.808
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 475.676 479.808
+
+\ref 076
+\trs (Ininteligible) Ani onika.
+\tx (Ininteligible) Ani onika.
+\ft (Ininteligible) Era una persona grande.
+\ELANBegin 481.474
+\ELANEnd 483.324
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 481.474 483.324
+
+\ref 077
+\trs Mastoma.
+\tx Mastoma.
+\ft Alto.
+\ELANBegin 484.697
+\ELANEnd 485.213
+\ELANParticipant Isabel
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 484.697 485.213
+
+\ref 078
+\trs Mastoma newa. Ewen papa mastoma newa. Papiki. Nekehon karka.
+\tx Mastoma newa. Ewen papa mastoma newa. Panpiki. Nekehon karka panpiki.
+\ft Era muy alto. Mi papá era muy alto. (Lo) cargaba. Aquí (en la espalda) yo lo cargué.
+\ELANBegin 485.392
+\ELANEnd 489.889
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 485.392 489.889
+
+\ref 079
+\trs A pewehon
+\tx Pewehon imis.
+\ft Cargándolo.
+\ELANBegin 490.199
+\ELANEnd 491.401
+\ELANParticipant Isabel
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 490.199 491.401
+
+\ref 080
+\trs Pewe. Pewe bera beki. Haa. Sóntaro eweai ikata há (Ininteligible) ámama ani. Ewen papa
+pewehon bekín.
+\tx Pewe. Pewe bera beki. Haa. Sóntaro eweai ikata há (Ininteligible) ámama ani. Ewen papa
+pewehon bekín. Pewehon bokinka.
+\ft Cargando, cargando lo he traído. Allí donde vivían los soldados, allí (Ininteligible), en ese cerro grande. He traído
+a mi papá cargándolo, (lo) he llevado cargando.
+\ELANBegin 491.435
+\ELANEnd 499.492
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 491.435 499.492
+
+\ref 081
+\trs Ewen pápa mahká.
+\tx Ewen pápa mahká.
+\ft Mi papá muerto.
+\ELANBegin 505.290
+\ELANEnd 506.346
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 505.290 506.346
+
+\ref 082
+\trs Otokenia reboki.
+\tx Otokenia reboki.
+\ft En la cabecera del río Utuquina.
+\ELANBegin 508.172
+\ELANEnd 509.432
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 508.172 509.432
+
+\ref 083
+\trs Hainoaribi nokon bene mawata iki.
+\tx Hainoaribi nokon bene mawata iki.
+\ft Ahí también murió mi esposo.
+\ELANBegin 510.564
+\ELANEnd 512.306
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 510.564 512.306
+
+\ref 084
+\trs Mahkái.
+\tx Mahkái.
+\ft Muriendo.
+\ELANBegin 513.162
+\ELANEnd 513.741
+\ELANParticipant Isabel
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 513.162 513.741
+
+\ref 085
+\trs Noitapai. Chihoin.
+\tx Noitapai. Chihoin.
+\ft Sufría. Tenía diarrea.
+\ELANBegin 516.468
+\ELANEnd 518.060
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 516.468 518.060
+
+\ref 086
+\trs Chihoi mahkai.
+\tx Chihoi mahkai.
+\ft Se murió de diarrea.
+\ELANBegin 520.253
+\ELANEnd 521.109
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 520.253 521.109
+
+\ref 087
+\trs Ain hokon bake chikito íkati mahkóhoko.
+\tx Ain hokon bake chikito íkati mahkóhoko.
+\ft Entonces mi hijo estaba chiquito, pequeñito.
+\ELANBegin 525.922
+\ELANEnd 531.870
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 525.922 531.870
+
+\ref 088
+\trs Hokohoko.
+\tx Hokohoko.
+\ft Bebito (pequeñito).
+\ELANBegin 533.030
+\ELANEnd 533.610
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 533.030 533.610
+
+\ref 089
+\trs Hainoa ea hema pikoke papariki heman pikoke.
+\tx Hainoa ea (Ininteligible) papariki neman pikoke.
+\ft De ahí sacó de la comunidad, el gringo nos sacó de la comunidad.
+\ELANBegin 539.110
+\ELANEnd 542.990
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 539.110 542.990
+
+\ref 090
+\trs Neno ike. Hawerano kátima.
+\tx Neno ike. Hawerano kátima.
+\ft Aquí estaba. No tenía dónde ir.
+\ELANBegin 546.388
+\ELANEnd 548.733
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 546.388 548.733
+
+\ref 091
+\trs Kioa. Kiwa. Kiwa.
+\tx Kioa. Kiwa. Kiwa.
+\ft Listo, listo. Terminado.
+\ELANBegin 553.129
+\ELANEnd 557.259
+\ELANParticipant Isabel
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 553.129 557.259
+
+\ref 092
+\trs Kiwa.
+\tx Kiwa.
+\ft Terminado.
+\ELANBegin 556.889
+\ELANEnd 557.383
+\ELANParticipant Juanita
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 556.889 557.383
+
+\ref 093
+\trs Ya, dice, ha terminado.
+\tx Ya, dice, ha terminado.
+\ft Ya, dice, ha terminado.
+\ELANBegin 558.058
+\ELANEnd 559.292
+\ELANParticipant Isabel
+\sound NC.IC.JC.WC-narracion.chacra-2013.wav 558.058 559.292
+
+
+\ELANMediaURL file:///D:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa
+procesada/data/NC.IC.JC.WC-narracion.chacra-2013.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaExtracted file:///D:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa
+procesada/data/NC.IC.JC.WC-narracion.chacra-2013.mpg
+\ELANMediaURL file:///D:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa
+procesada/data/NC.IC.JC.WC-narracion.chacra-2013.mpg
+\ELANMediaMIME video/mpeg

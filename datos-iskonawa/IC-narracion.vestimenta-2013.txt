@@ -1,0 +1,308 @@
+\_sh v3.0  400  text
+
+\ref 001
+\ELANBegin 1.900
+\ELANEnd 2.520
+\ELANParticipant Roberto
+\trs ya
+\tx ya
+\ft ya
+\sound IC-narracion.vestimenta-2013.wav 1.900 2.520
+
+\ref 002
+\ELANBegin 3.600
+\ELANEnd 7.510
+\ELANParticipant Roberto
+\trs estamos con Isabel y vamos a grabar sobre la vestimenta de los antiguos
+\tx estamos con Isabel y vamos a grabar sobre la vestimenta de los antiguos
+\ft estamos con Isabel y vamos a grabar sobre la vestimenta de los antiguos
+\sound IC-narracion.vestimenta-2013.wav 3.600 7.510
+
+\ref 003
+\ELANBegin 9.210
+\ELANEnd 10.790
+\ELANParticipant Roberto
+\trs ya Isabel ya puedes empezar
+\tx ya Isabel ya puedes empezar
+\ft ya Isabel ya puedes empezar
+\sound IC-narracion.vestimenta-2013.wav 9.210 10.790
+
+\ref 004
+\ELANBegin 11.530
+\ELANEnd 15.020
+\ELANParticipant Isabel
+\trs hopo sawemis ewen papa epaboton
+\tx hopo                sawemis          ewen
+\mb hopo                sawe   -mis      ewen
+\gn vestimenta.yanchama vestir -PAS.HAB. 1SG:GEN
+\ps n.                  v.     -suf.     pron.
+
+\tx papa      epaboton
+\mb papa      epa   =bo   =n
+\gn papá(SK) padre =PLU  =GEN
+\ps n.        n.    =clit =clit.
+
+\ft mis papás se vestían con yanchama
+\sound IC-narracion.vestimenta-2013.wav 11.530 15.020
+
+\ref 005
+\ELANBegin 21.800
+\ELANEnd 24.890
+\ELANParticipant Isabel
+\trs saweki hopo roakin
+\tx saweki        hopo                roakin
+\mb sawe   =ki    hopo                roa       -kin
+\gn vestir =CON   vestimenta.yanchama adornarse -SUJ>A:SIM
+\ps v.     =clit. n.                  v.        -suf.
+
+\ft se vestían con esa yanchama, adornándose
+\sound IC-narracion.vestimenta-2013.wav 21.800 24.890
+
+\ref 006
+\ELANBegin 26.120
+\ELANEnd 31.530
+\ELANParticipant Isabel
+\trs saweai neno saweai neno neno saweai neno saweribiai
+\tx saweai           neno      saweai           neno
+\mb sawe   -ai       neno      sawe   -ai       neno
+\gn vestir -IMPF(SK) aquí(SK) vestir -IMPF(SK) aquí(SK)
+\ps v.     -suf.     adv.      v.     -suf.     adv.
+
+\tx neno      saweai           neno
+\mb neno      sawe   -ai       neno
+\gn aquí(SK) vestir -IMPF(SK) aquí(SK)
+\ps adv.      v.     -suf.     adv.
+
+\tx saweribiai
+\mb sawe   =ribi     -ai
+\gn vestir =también -IMPF(SK)
+\ps v.     =clit.    -suf.
+
+\ft se ponían (la yanchama) acá, se ponían la yanchama acá y se ponían la yanchama acá también
+\sound IC-narracion.vestimenta-2013.wav 26.120 31.530
+
+\ref 007
+\ELANBegin 31.820
+\ELANEnd 32.870
+\ELANParticipant Isabel
+\trs ohe ikai
+\tx ohe                         ikai
+\mb ohe                         ik      -ai
+\gn adorno.amarrado.pantorrilla estar   -NOMLZ(SK)
+\ps n.                          v.intr. -suf.
+
+\ft hacían adornos trenzados
+\sound IC-narracion.vestimenta-2013.wav 31.820 32.870
+
+\ref 008
+\ELANBegin 33.455
+\ELANEnd 37.450
+\ELANParticipant Isabel
+\trs akesabo sawepaoni papabon
+\tx akesabo          sawepaoni
+\mb a   =kesa  =bo   sawe   -paoni
+\gn ese =COMP  =PLU  vestir -PAS.REM:IMPF
+\ps dem =clit. =clit v.     -suf.
+
+\tx papabon
+\mb papa      =bo   =n
+\gn papá(SK) =PLU  =GEN
+\ps n.        =clit =clit.
+
+\ft así como eso se vestían mis papás
+\sound IC-narracion.vestimenta-2013.wav 33.455 37.450
+
+\ref 009
+\ELANBegin 38.280
+\ELANEnd 39.460
+\ELANParticipant Isabel
+\trs epabokai
+\tx epabokai
+\mb epa   =bo   =kai
+\gn padre =PLU  =RESO
+\ps n.    =clit =clit.
+
+\ft mis papás
+\sound IC-narracion.vestimenta-2013.wav 38.280 39.460
+
+\ref 010
+\ELANBegin 40.550
+\ELANEnd 42.200
+\ELANParticipant Isabel
+\trs epaboton sawepaoni
+\tx epaboton           sawepaoni
+\mb epa   =bo   =n     sawe   -paoni
+\gn padre =PLU  =GEN   vestir -PAS.REM:IMPF
+\ps n.    =clit =clit. v.     -suf.
+
+\ft mis papás se vestían
+\sound IC-narracion.vestimenta-2013.wav 40.550 42.200
+
+\ref 011
+\ELANBegin 43.010
+\ELANEnd 44.090
+\ELANParticipant Isabel
+\trs ohe ihon
+\tx ohe                         ihon
+\mb ohe                         ik      -hon
+\gn adorno.amarrado.pantorrilla estar   -SUJ>A:SIM
+\ps n.                          v.intr. -suf.
+
+\ft haciéndo adornos trenzados
+\sound IC-narracion.vestimenta-2013.wav 43.010 44.090
+
+\ref 012
+\ELANBegin 45.230
+\ELANEnd 48.910
+\ELANParticipant Isabel
+\trs ohe ikika aki ohe ihon nehabohon
+\tx ohe               ikika                     aki
+\mb ohe               ik      -i         =ka    a   =ki
+\gn adorno.amarrado.paestar   -SUJ>S:SIM =NAR   ese =REP
+\ps n.                v.intr. -suf.      =clit. dem =clit.
+
+\tx ohe                         ihon
+\mb ohe                         ik      -hon
+\gn adorno.amarrado.pantorrilla estar   -SUJ>A:SIM
+\ps n.                          v.intr. -suf.
+
+\tx nehabohon
+\mb neha    -bo   -hon
+\gn amarrar -PLU  -SUJ>A:SIM
+\ps v.      -suf. -suf.
+
+\ft haciendo esos adornos trenzados, amarrándoselos
+\sound IC-narracion.vestimenta-2013.wav 45.230 48.910
+
+\ref 013
+\ELANBegin 49.990
+\ELANEnd 54.920
+\ELANParticipant Isabel
+\trs sawepaoni enra ena... ena onayamai
+\tx sawepaoni            enra
+\mb sawe   -paoni        en        =ra
+\gn vestir -PAS.REM:IMPF 1SG:A(SK) =EVID1(SK)
+\ps v.     -suf.         pron      =clit.
+
+\tx ena...  ena     onayamai
+\mb ena     ena     onan   -yama    -i
+\gn 1SG:ERG 1SG:ERG saber  -NEG(SK) -IMPF
+\ps pron.   pron.   v.tran -suf.    -suf.
+
+\ft se amarraban, pero yo no sé
+\sound IC-narracion.vestimenta-2013.wav 49.990 54.920
+
+\ref 014
+\ELANBegin 56.630
+\ELANEnd 59.210
+\ELANParticipant Isabel
+\trs ares mia yoiyai non onanyamarai
+\tx ares           mia
+\mb a   -res       mia
+\gn ese -solamente 2SG.ABS(SK)
+\ps dem -suf.      pron
+
+\tx yoiyai               non
+\mb yoi     =ya    -i    no   =n
+\gn contar  =PROP  -IMPF 1PL  =ERG
+\ps v.tran. =clit. -suf. pron =clit.
+
+\tx onanyamarai
+\mb onan   -yama    -ra       -i
+\gn saber  -NEG(SK) -EVID(SK) -IMPF
+\ps v.tran -suf.    -suf.     -suf.
+
+\ft eso nomás estoy contandote, nosotros no sabemos naada
+\sound IC-narracion.vestimenta-2013.wav 56.630 59.210
+
+\ref 015
+\ELANBegin 59.820
+\ELANEnd 61.170
+\ELANParticipant Isabel
+\trs aresra mia yoyai
+\tx areska                mia         yoyai
+\mb a   -res       =ka    mia         yoya   -i
+\gn ese -solamente =NAR   2SG.ABS(SK) decir  -IMPF
+\ps dem -suf.      =clit. pron        v.tran -suf.
+
+\ft eso nomás te cuento
+\sound IC-narracion.vestimenta-2013.wav 59.820 61.170
+
+\ref 016
+\ELANBegin 63.220
+\ELANEnd 64.640
+\ELANParticipant Isabel
+\trs eso nomás sabía
+\tx eso nomás sabía
+\ft eso nomás sabía
+\sound IC-narracion.vestimenta-2013.wav 63.220 64.640
+
+\ref 017
+\ELANBegin 71.710
+\ELANEnd 73.860
+\ELANParticipant Roberto
+\trs ¿Y cómo ha sido eso en español?
+\tx ¿Y cómo ha sido eso en español?
+\ft ¿Y cómo ha sido eso en español?
+\sound IC-narracion.vestimenta-2013.wav 71.710 73.860
+
+\ref 018
+\ELANBegin 74.640
+\ELANEnd 78.410
+\ELANParticipant Isabel
+\trs le mudaba así ve este ¿cómo se llama? hopo
+\tx le mudaba así ve este ¿cómo se llama? hopo
+\ft le mudaba así ve este ¿cómo se llama? hopo
+\sound IC-narracion.vestimenta-2013.wav 74.640 78.410
+
+\ref 019
+\ELANBegin 78.740
+\ELANEnd 84.380
+\ELANParticipant Isabel
+\trs de isko llama hopó nomás hopó ¿cómo llama eso en castellano? hopó
+\tx de isko llama hopó nomás hopó ¿cómo llama eso en castellano? hopó
+\ft de isko llama hopó nomás hopó ¿cómo llama eso en castellano? hopó
+\sound IC-narracion.vestimenta-2013.wav 78.740 84.380
+
+\ref 020
+\ELANBegin 85.050
+\ELANEnd 87.460
+\ELANParticipant Isabel
+\trs mudaba aquí ponía ve acá
+\tx mudaba aquí ponía ve acá
+\ft mudaba aquí ponía ve acá
+\sound IC-narracion.vestimenta-2013.wav 85.050 87.460
+
+\ref 021
+\ELANBegin 88.260
+\ELANEnd 91.590
+\ELANParticipant Isabel
+\trs todo muda estaba vestido bien vestidito
+\tx todo muda estaba vestido bien vestidito
+\ft todo muda estaba vestido bien vestidito
+\sound IC-narracion.vestimenta-2013.wav 88.260 91.590
+
+\ref 022
+\ELANBegin 92.990
+\ELANEnd 97.920
+\ELANParticipant Isabel
+\trs así me contaba mi mamá por eso estoy contando yo esto nomás me acuerdo yo
+\tx así me contaba mi mamá por eso estoy contando yo esto nomás me acuerdo yo
+\ft así me contaba mi mamá por eso estoy contando yo esto nomás me acuerdo yo
+\sound IC-narracion.vestimenta-2013.wav 92.990 97.920
+
+\ref 023
+\ELANBegin 98.900
+\ELANEnd 100.410
+\ELANParticipant Isabel
+\trs no acuerdo más
+\tx no acuerdo más
+\ft no acuerdo más
+\sound IC-narracion.vestimenta-2013.wav 98.900 100.410
+
+
+\ELANMediaURL file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/IC-narracion.vestimenta-2013.mpg
+\ELANMediaMIME video/mpeg
+\ELANMediaExtracted file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/IC-narracion.vestimenta-2013.mpg
+\ELANMediaURL file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/IC-narracion.vestimenta-2013.wav
+\ELANMediaMIME audio/x-wav

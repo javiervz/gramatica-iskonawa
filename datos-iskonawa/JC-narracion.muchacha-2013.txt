@@ -1,0 +1,1204 @@
+\_sh v3.0  400  text
+
+\ref 001
+\trs Eah hontoko.
+\tx Eah   hontoko.
+\mb eah   hontoko
+\gn 1SG:S muchacha
+\ps pron. n.
+
+\ft (Cuando) yo era una jovencita.
+\ELANBegin 0.340
+\ELANEnd 1.380
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 0.340 1.380
+
+\ref 002
+\trs Eah hontoko ihon ena xeati apaoni.
+\tx Eah   hontoko  ihon               ena
+\mb eah   hontoko  ik      -hon       ena
+\gn 1SG:S muchacha copula  -SUJ>A:SIM 1SG:ERG
+\ps pron. n.       v.intr. -suf.      pron.
+
+\tx xeati            apaoni.
+\mb xea       -ti    ak      -paoni
+\gn tomar(SK) -NOMLZ hacer   -PAS.REM:IMPF
+\ps v.        -suf.  v.tran. -suf.
+
+\ft Cuando yo era jovencita, solía hacer chicha.
+\ELANBegin 1.870
+\ELANEnd 4.050
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 1.870 4.050
+
+\ref 003
+\trs Ayakin ena apaoni.
+\tx Ayakin            ena     apaoni.
+\mb aya    -kin       ena     ak      -paoni
+\gn tomar  -SUJ>A:SIM 1SG:ERG hacer   -PAS.REM:IMPF
+\ps v.tran -suf.      pron.   v.tran. -suf.
+
+\ft Yo la hacía.
+\ELANBegin 4.080
+\ELANEnd 5.480
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 4.080 5.480
+
+\ref 004
+\trs Heki onkoanhon pakeai.
+\tx Heki  onkoanhon                pakeai.
+\mb heki  onkon  -a     -hon       pake    -ai
+\gn maíz brotar -NOMLZ -SUJ>A:SIM remojar -IMPF(SK)
+\ps n.    v.     -suf.  -suf.      v.      -suf.
+
+\ft Cuando brotaba el maíz, lo remojaba.
+\ELANBegin 6.045
+\ELANEnd 8.555
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 6.045 8.555
+
+\ref 005
+\trs Ahon akai minai.
+\tx Ahon               akai              minai.
+\mb ak      -hon       ak      -ai       miná        -i
+\gn hacer   -SUJ>A:SIM hacer   -IMPF(SK) chicha.suave -IMPF
+\ps v.tran. -suf.      v.tran. -suf.     n.           -suf.
+
+\ft haciéndo (eso), preparaba la chicha
+\ELANBegin 8.685
+\ELANEnd 10.585
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 8.685 10.585
+
+\ref 006
+\trs Minakin.
+\tx Minakin.
+\mb miná        -kin
+\gn chicha.suave -SUJ>A:SIM
+\ps n.           -suf.
+
+\ft Preparando la chicha.
+\ELANBegin 11.060
+\ELANEnd 12.040
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 11.060 12.040
+
+\ref 007
+\trs En apaoniki
+\tx En        apaoniki
+\mb en        ak      -paoni        =ki
+\gn 1SG:A(SK) hacer   -PAS.REM:IMPF =REP
+\ps pron      v.tran. -suf.         =clit.
+
+\ft Yo hacía hace tiempo
+\ELANBegin 12.105
+\ELANEnd 13.055
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 12.105 13.055
+
+\ref 008
+\trs Eah chikishma. Eah hontoko chikishma ikatiki.
+\tx Eah   chikishma.     Eah   hontoko
+\mb eah   chikish =ma    eah   hontoko
+\gn 1SG:S ocioso  =NEG   1SG:S muchacha
+\ps pron. adj.    =clit. pron. n.
+
+\tx chikishma      ikatiki.
+\mb chikish =ma    ik      -kati        =ki
+\gn ocioso  =NEG   copula  -PAS.REM:HAB =REP
+\ps adj.    =clit. v.intr. -suf.        =clit.
+
+\ft No era floja. No era una chica holgazana.
+\ELANBegin 13.070
+\ELANEnd 16.530
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 13.070 16.530
+
+\ref 009
+\trs Yoa akai.
+\tx Yoa                akai.
+\mb yoa                ak      -ai
+\gn comida.vegetal(SK) hacer   -IMPF(SK)
+\ps n.                 v.tran. -suf.
+
+\ft La hacía cosas.
+\ELANBegin 16.825
+\ELANEnd 18.295
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 16.825 18.295
+
+\ref 010
+\trs Heki champehain.
+\tx Heki  champehain.
+\mb heki  champeh                     -ain
+\gn maíz chicha.dulce.maiz.no.maduro -SUJ.DIF
+\ps n.    n.                          -suf.
+
+\ft Hacía chicha con el maíz.
+\ELANBegin 18.775
+\ELANEnd 20.535
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 18.775 20.535
+
+\ref 011
+\trs Hawi akai. Hawi champehon xeai. Toma.
+\tx Hawi             akai.              Hawi             champehon                              xeai.           Toma.
+\mb hawi             ak      -ai        hawi             champeh                     -hon       xea       -i    toma
+\gn caña.de.azúcar hacer   -NOMLZ(SK) caña.de.azúcar chicha.dulce.maiz.no.maduro -SUJ>A:SIM tomar(SK) -IMPF toma(CAST)
+\ps n.               v.tran. -suf.      n.               n.                          -suf.      v.        -suf. v.
+
+\ft Hacía con caña de azúcar. Hacía la chicha con caña de azúcar. Toma.
+\ELANBegin 21.130
+\ELANEnd 24.800
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 21.130 24.800
+
+\ref 012
+\trs Ahá. askara (Ininteligible) akati. Chikishma iki.
+Hontoko (Ininteligible) chikishma. Rayá rayá ainbo
+eah.
+\tx Ahá. askara          akati.              Chikishma      iki.               Hontoko  chikishma.     Rayá      rayá      ainbo eah.
+\mb ahá  aska =ra        ak      -kati       chikish =ma    ik      -i         hontoko  chikish =ma    rayá      rayá      ainbo eah
+\gn ajá  así =EVID1(SK) hacer   -PAS.REM:HABocioso  =NEG   copula  -SUJ>S:SIM muchacha ocioso  =NEG   trabajador trabajador mujer 1SG:S
+\ps intj. adv. =clit.     v.tran. -suf.       adj.    =clit. v.intr. -suf.      n.       adj.    =clit. adj.       adj.       n.    pron.
+
+\ft Aha. yo hacía así. No era ociosa. No era (Ininteligible) una señorita ociosa. Era un mujer muy hacendosa.
+\ELANBegin 25.060
+\ELANEnd 32.030
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 25.060 32.030
+
+\ref 013
+\trs Iskobakebo rayá ainbo. Ahá.
+\tx Iskobakebo        rayá      ainbo. Ahá.
+\mb isko   bake =bo   rayá      ainbo  ahá
+\gn paucar hijo =PLU  trabajador mujer  ajá
+\ps n.     n.   =clit adj.       n.     intj.
+
+\ft Era una iskonawa hacendosa. Aha.
+\ELANBegin 32.100
+\ELANEnd 34.600
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 32.100 34.600
+
+\ref 014
+\trs Xeai xeahon ayahon akai paranti peshtinhon akai.
+\tx Xeai            xeahon               ayahon            akai              paranti  peshtinhon         akai.
+\mb xea       -i    xea       -hon       aya    -hon       ak      -ai       paranti  peshtin -hon       ak      -ai
+\gn tomar(SK) -IMPF tomar(SK) -SUJ>A:SIM tomar  -SUJ>A:SIM hacer   -IMPF(SK) plátano chapear -SUJ>A:SIM hacer   -IMPF(SK)
+\ps v.        -suf. v.        -suf.      v.tran -suf.      v.tran. -suf.     n.       v.      -suf.      v.tran. -suf.
+
+\ft Tomaba haciendo chicha, chapeando plátano.
+\ELANBegin 35.770
+\ELANEnd 40.460
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 35.770 40.460
+
+\ref 015
+\trs Mapó, mapó anika mapó ani. Peshtinhon akai.
+\tx Mapó, mapó anika             mapó
+\mb mapó  mapó ani        =ka    mapó
+\gn barro  barro grande(SK) =NAR   barro
+\ps n.     n.    adj.       =clit. n.
+
+\tx ani.       Peshtinhon         akai.
+\mb ani        peshtin -hon       ak      -ai
+\gn grande(SK) chapear -SUJ>A:SIM hacer   -IMPF(SK)
+\ps adj.       v.      -suf.      v.tran. -suf.
+
+\ft En una tinaja grande, en una tinaja grande, chapeando hacía
+\ELANBegin 40.590
+\ELANEnd 44.600
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 40.590 44.600
+
+\ref 016
+\trs Nokon papa en ayamaki. Nokon poi ena ayamaki.
+\tx Nokon       papa      en        ayamaki.            Nokon       poi                         ena     ayamaki.
+\mb nokon       papa      en        aya    -ma   =ki    nokon       poi                         ena     aya    -ma   =ki
+\gn 1SG.GEN(SK) papá(SK) 1SG:A(SK) tomar  -CAUS =REP   1SG.GEN(SK) hermano.de.sexo.opuesto(SK) 1SG:ERG tomar  -CAUS =REP
+\ps pron        n.        pron      v.tran -suf. =clit. pron        n.                          pron.   v.tran -suf. =clit.
+
+\ft Hacía tomar a mi papá y hacía tomar a mi hermano
+\ELANBegin 45.080
+\ELANEnd 49.620
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 45.080 49.620
+
+\ref 017
+\trs Mia riki ayamis michaibo. Mia riki ayati onanai mia riki
+chikishma, michaibo nokon papa.
+\tx Mia         riki    ayamis           michaibo.
+\mb mia         riki    aya    -mis      michaibo
+\gn 2SG.ABS(SK) COP(SK) tomar  -PAS.HAB. hija.casada
+\ps pron        part.   v.tran -suf.     n.
+
+\tx Mia         riki    ayati
+\mb mia         riki    aya    -ti
+\gn 2SG.ABS(SK) COP(SK) tomar  -NOMLZ
+\ps pron        part.   v.tran -suf.
+
+\tx onanai            mia         riki
+\mb onan   -ai        mia         riki
+\gn saber  -NOMLZ(SK) 2SG.ABS(SK) COP(SK)
+\ps v.tran -suf.      pron        part.
+
+\tx chikishma,     micha ibo   nokon       papa.
+\mb chikish =ma    micha ibo   nokon       papa
+\gn ocioso  =NEG   hija.casada 1SG.GEN(SK) papá(SK)
+\ps adj.    =clit. n.          pron        n.
+
+\ft "Tú preparas la chicha, hija. Tú sabes hacer la chicha. No eres floja, hija", mi papá (decía).
+\ELANBegin 51.203
+\ELANEnd 59.340
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 51.203 59.340
+
+\ref 018
+\trs ewen epa.
+\tx ewen    epa.
+\mb ewen    epa
+\gn 1SG:GEN padre
+\ps pron.   n.
+
+\ft Mi papá.
+\ELANBegin 59.715
+\ELANEnd 60.669
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 59.715 60.669
+
+\ref 019
+\trs Miara chikishima iki.
+\tx Miara                  chikishima
+\mb mia         =ra        chikish -i     =ma
+\gn 2SG.ABS(SK) =EVID1(SK) ocioso  -NOMLZ =NEG
+\ps pron        =clit.     adj.    -suf.  =clit.
+
+\tx iki.
+\mb ik      -i
+\gn copula  -IMPF
+\ps v.intr. -suf.
+
+\ft "Tú no eres floja".
+\ELANBegin 61.891
+\ELANEnd 63.936
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 61.891 63.936
+
+\ref 020
+\trs Mia chikishoko iki nokon tita, nokon ewa aki miara chikishoko iki. Nokon bakera chikishima iki.
+\tx Mia         chikishoko       iki
+\mb mia         chikish =shoko   ik      -i
+\gn 2SG.ABS(SK) ocioso  =DIM(SK) copula  -IMPF
+\ps pron        adj.    =clit.   v.intr. -suf.
+
+\tx nokon       tita,     nokon       ewa
+\mb nokon       tita      nokon       ewa
+\gn 1SG.GEN(SK) madre(SK) 1SG.GEN(SK) madre
+\ps pron        n.        pron        n.
+
+\tx aki               miara
+\mb ak          -i    mia         =ra
+\gn decir(TRAN) -IMPF 2SG.ABS(SK) =EVID1(SK)
+\ps v.tran.     -suf. pron        =clit.
+
+\tx chikishoko       iki.          Nokon
+\mb chikish =shoko   ik      -i    nokon
+\gn ocioso  =DIM(SK) copula  -IMPF 1SG.GEN(SK)
+\ps adj.    =clit.   v.intr. -suf. pron
+
+\tx bakera          chikishima            iki.
+\mb bake =ra        chikish -i     =ma    ik      -i
+\gn hijo =EVID1(SK) ocioso  -NOMLZ =NEG   copula  -IMPF
+\ps n.   =clit.     adj.    -suf.  =clit. v.intr. -suf.
+
+\ft "Tú eres ociosa", le decía a mi mamá. "Tú eres ociosa. Mi hija no es ociosa".
+\ELANBegin 64.261
+\ELANEnd 70.704
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 64.261 70.704
+
+\ref 021
+\trs A xeati aki ha netetibi xeati aki.
+\tx A   xeati            aki           ha
+\mb a   xea       -ti    ak      -i    ha
+\gn ese tomar(SK) -NOMLZ hacer   -IMPF ese(SK)
+\ps dem v.        -suf.  v.tran. -suf. dem
+
+\tx netetibi       xeati            aki.
+\mb nete =tibi     xea       -ti    ak      -i
+\gn dia  =DIST(SK) tomar(SK) -NOMLZ hacer   -IMPF
+\ps n.   =suf.     v.        -suf.  v.tran. -suf.
+
+\ft Hacía chicha todos los días
+\ELANBegin 70.829
+\ELANEnd 73.533
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 70.829 73.533
+
+\ref 022
+\trs atibi ati netebi minai.
+\tx atibi         ati            netebi
+\mb a   =tibi     ak      -ti    nete =bi
+\gn ese =DIST(SK) hacer   -NOMLZ dia  =ENF
+\ps dem =suf.     v.tran. -suf.  n.   =clit.
+
+\tx minai.
+\mb miná        -i
+\gn chicha.suave -IMPF
+\ps n.           -suf.
+
+\ft Preparaba chicha cada cinco días
+\ELANBegin 73.823
+\ELANEnd 76.402
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 73.823 76.402
+
+\ref 023
+\trs Atibi champehai.
+\tx Atibi         champehai.
+\mb a   =tibi     champeh                     -ai
+\gn ese =DIST(SK) chicha.dulce.maiz.no.maduro -NOMLZ(SK)
+\ps dem =suf.     n.                          -suf.
+
+\ft Después de cinco días, preparaba chicha fuerte
+\ELANBegin 76.504
+\ELANEnd 77.947
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 76.504 77.947
+
+\ref 024
+\trs A caña champehain hawi.
+\tx A   caña     champehai
+\mb a   caña     champeh                     -ai
+\gn ese caña(SK) chicha.dulce.maiz.no.maduro -IMPF(SK)
+\ps dem n.        n.                          -suf.
+
+\tx hawi.
+\mb hawi
+\gn caña.de.azúcar
+\ps n.
+
+\ft Hacía chicha de esa caña.
+\ELANBegin 78.367
+\ELANEnd 80.731
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 78.367 80.731
+
+\ref 025
+\trs Non akabo kankan piña.
+\tx Non   akabo               kankan piña.
+\mb non   ak      -a    =bo   kankan piña
+\gn 1PL:A hacer   -PERF =PLU  piña  piña(CAST)
+\ps pron  v.tran. -suf. =clit n.     n.
+
+\ft nosotros hacíamos con piña
+\ELANBegin 81.067
+\ELANEnd 83.351
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 81.067 83.351
+
+\ref 026
+\trs habo champehon champehon non xeakin ayakin.
+Aha. Haska ikatiki eah xontako.
+\tx habo          champehon
+\mb ha      =bo   champeh                     -hon
+\gn ese(SK) =PLU  chicha.dulce.maiz.no.maduro -SUJ>A:SIM
+\ps dem     =clit n.                          -suf.
+
+\tx champehon                              non
+\mb champeh                     -hon       non
+\gn chicha.dulce.maiz.no.maduro -SUJ>A:SIM 1PL:A
+\ps n.                          -suf.      pron
+
+\tx xeakin               ayakin.           Aha.
+\mb xea       -kin       aya    -kin       aha
+\gn tomar(SK) -SUJ>A:SIM tomar  -SUJ>A:SIM huaca
+\ps v.        -suf.      v.tran -suf.      n.
+
+\tx Haska    ikatiki                     eah   xontako.
+\mb haska    ik      -kati        =ki    eah   xontako
+\gn así(SK) copula  -PAS.REM:HAB =CON   1SG:S señorita(SK)
+\ps adv.     v.intr. -suf.        =clit. pron. n.
+
+\ft Nosotros preparando esas chichas, tomábamos. Aha. Así era yo de jovencita.
+\ELANBegin 83.624
+\ELANEnd 90.135
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 83.624 90.135
+
+\ref 027
+\trs Eah viejitapakei, yonshan.
+\tx Eah   viejitapakei,        yoshan.
+\mb eah   viejita -pake  -i    yoshan
+\gn 1SG:S viejita -COMPL -IMPF vieja(SK)
+\ps pron. adj.    -suf.  -suf. adj.
+
+\ft Y me volví viejita, viejita.
+\ELANBegin 90.795
+\ELANEnd 93.090
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 90.795 93.090
+
+\ref 028
+\trs Michapakeheko, yoshan michapakeheko
+\tx Michapakeheko,     yoshan
+\mb micha -pake  -hoko yoshan
+\gn feo   -COMPL -DIM  vieja(SK)
+\ps adj.  -suf.  -suf  adj.
+
+\tx michapakeheko
+\mb micha -pake  -hoko
+\gn feo   -COMPL -DIM
+\ps adj.  -suf.  -suf
+
+\ft Me volví viejita, me volví viejita
+\ELANBegin 93.124
+\ELANEnd 95.693
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 93.124 95.693
+
+\ref 029
+\trs Eahra rayá ainbo iki epaha biai mapó mapó roe
+nokon tita ahona.
+\tx Eahra            rayá      ainbo iki
+\mb eah   =ra        rayá      ainbo ik      -i
+\gn 1SG:S =EVID1(SK) trabajador mujer copula  -IMPF
+\ps pron. =clit.     adj.       n.    v.intr. -suf.
+
+\tx epaha biai              mapó mapó roe
+\mb epaha bi      -ai       mapó mapó roe
+\gn agua  agarrar -IMPF(SK) barro tinaja
+\ps n.    v.      -suf.     n.    n.
+
+\tx nokon       tita      ahona.
+\mb nokon       tita      ak      -hon  -a
+\gn 1SG.GEN(SK) madre(SK) hacer   -BEN  -PERF
+\ps pron        n.        v.tran. -suf. -suf.
+
+\ft Yo soy una mujer muy hacendosa. Cargaba agua en tinajas. Mi mamá me hizo una tinaja.
+\ELANBegin 96.431
+\ELANEnd 102.249
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 96.431 102.249
+
+\ref 030
+\trs mapó roe neskata iata. Ochocha ochocha biai.
+\tx mapó roe neskata        iata.
+\mb mapó roe neska -ta      iat              -a
+\gn tinaja    así  -IMP.FAM cargar.en.hombro -PERF
+\ps n.        adv.  -suf.    v.               -suf.
+
+\tx Ochocha          ochocha          biai.
+\mb ocho      =cha   ocho      =cha   bi      -ai
+\gn lejos(SK) =ATE   lejos(SK) =ATE   agarrar -IMPF(SK)
+\ps adv.      =clit. adv.      =clit. v.      -suf.
+
+\ft cargaba la tinaja así, llevaba un poco lejos.
+\ELANBegin 102.521
+\ELANEnd 107.146
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 102.521 107.146
+
+\ref 031
+\trs Hawe chikishyamai.
+\tx Hawe      chikishyamai.
+\mb hawe      chikish -yama    -i
+\gn cuál(SK) ocioso  -NEG(SK) -SUJ>S:SIM
+\ps pal.int.  adj.    -suf.    -suf.
+
+\ft Yo no holgazaneaba nada
+\ELANBegin 108.113
+\ELANEnd 109.942
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 108.113 109.942
+
+\ref 032
+\trs Nokon benebetan kai, piti benai.
+\tx Nokon       benebetan     kai,
+\mb nokon       bene   =betan ka     -i
+\gn 1SG.GEN(SK) esposo =COM   ir     -IMPF
+\ps pron        n.     =clit. v.intr -suf.
+
+\tx piti           benai.
+\mb pi      -ti    bena   -i
+\gn comer   -NOMLZ buscar -IMPF
+\ps v.tran. -suf.  v.intr -suf.
+
+\ft Yo iba con mi esposo y buscaba alimento.
+\ELANBegin 110.646
+\ELANEnd 113.578
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 110.646 113.578
+
+\ref 033
+\trs hawe benai kai.
+\tx hawe      benai             kai.
+\mb hawe      bena   -i         ka     -i
+\gn cuál(SK) buscar -SUJ>S:SIM ir     -IMPF
+\ps pal.int.  v.intr -suf.      v.intr -suf.
+
+\ft Iba a buscar motelo.
+\ELANBegin 113.743
+\ELANEnd 115.242
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 113.743 115.242
+
+\ref 034
+\trs Yantankaini baripaketian oai.
+\tx Yantankaini
+\mb yantan -kain     -i
+\gn noche  -AND:INTR -SUJ>S:SIM
+\ps n.     -suf.     -suf.
+
+\tx baripaketian          oai.
+\mb bari -pake  -tian     o     -ai
+\gn sol  -COMPL -TEMP(SK) venir -IMPF(SK)
+\ps n.   -suf.  -suf.     v.    -suf.
+
+\ft regresábamos cuando llegaba la noche, cuando se iba el sol
+\ELANBegin 116.370
+\ELANEnd 119.268
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 116.370 119.268
+
+\ref 035
+\trs Hawe pichai mapo mena. Hawe pinchanhon piai.
+\tx Hawe           pichai                   mapo
+\mb hawe           pichan        -i         mapo
+\gn tortuga.motelo cocinar.carne -SUJ>A:SIM cabeza(SK)
+\ps n.             v.tran.       -suf.      n.
+
+\tx mena. Hawe           pichahon
+\mb mená hawe           pichan  -hon
+\gn LOC   tortuga.motelo cocinar -SUJ>A:SIM
+\ps pos.  n.             v.      -suf.
+
+\tx piai.
+\mb pi      -ai
+\gn comer   -IMPF(SK)
+\ps v.tran. -suf.
+
+\ft Cocinábamos el motelo en una olla. Después de cocinarlo, comíamos.
+\ELANBegin 120.090
+\ELANEnd 123.215
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 120.090 123.215
+
+\ref 036
+\trs Askati eah.
+\tx Askati      eah.
+\mb aska -ti    eah
+\gn así -NOMLZ 1SG:S
+\ps adv. -suf.  pron.
+
+\ft Yo era así.
+\ELANBegin 123.271
+\ELANEnd 124.362
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 123.271 124.362
+
+\ref 037
+\trs Askati iskobakebo ainbo chikishma eah.
+\tx Askati      iskobakebo        ainbo
+\mb aska -ti    isko   bake =bo   ainbo
+\gn así -NOMLZ paucar hijo =PLU  mujer
+\ps adv. -suf.  n.     n.   =clit n.
+
+\tx chikishma      eah.
+\mb chikish =ma    eah
+\gn ocioso  =NEG   1SG:S
+\ps adj.    =clit. pron.
+
+\ft Yo, entre las mujeres iskonawa, no era floja.
+\ELANBegin 124.890
+\ELANEnd 127.549
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 124.890 127.549
+
+\ref 038
+\trs Atiribira chikish iki isko ainbo. 
+\tx Atiribira                       chikish
+\mb a   -ti    =ribi     =ra        chikish
+\gn ese -NOMLZ =también =EVID1(SK) ocioso
+\ps dem -suf.  =clit.    =clit.     adj.
+
+\tx iki           isko   ainbo.
+\mb ik      -i    isko   ainbo
+\gn copula  -IMPF paucar mujer
+\ps v.intr. -suf. n.     n.
+
+\ft Había algunas mujeres iskonawa ociosas también. Hm...
+\ELANBegin 128.271
+\ELANEnd 131.760
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 128.271 131.760
+
+\ref 039
+\trs yoa ayohma ainbo. Eara yoa amis iki. Atiribi xeati aki.
+\tx yoa            ayohma             ainbo.
+\mb yoa            ak      -yohma     ainbo
+\gn comida.vegetal hacer   -NOMLZ:NEG mujer
+\ps n.             v.tran. -suf.      n.
+
+\tx Eara                 yoa
+\mb ea        =ra        yoa
+\gn 1SG:S(SK) =EVID1(SK) comida.vegetal
+\ps pron.     =clit.     n.
+
+\tx amis              iki.
+\mb ak      -mis      ik      -i
+\gn hacer   -PAS.HAB. copula  -IMPF
+\ps v.tran. -suf.     v.intr. -suf.
+
+\tx Atiribi              xeati            aki.
+\mb a   -ti    =ribi     xea       -ti    ak      -i
+\gn ese -NOMLZ =también tomar(SK) -NOMLZ hacer   -IMPF
+\ps dem -suf.  =clit.    v.        -suf.  v.tran. -suf.
+
+\ft mujeres que no preparaban la comida. A mí me gustaba hacer la comida. Hacía toda la chicha para tomar.
+\ELANBegin 132.772
+\ELANEnd 137.272
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 132.772 137.272
+
+\ref 040
+\trs Nawan bimibobi xeati aki ayakin
+\tx Nawan   bimibobi        xeati            aki                ayakin
+\mb nawan bimi =bo   =bi    xea       -ti    ak      -i         aya    -kin
+\gn papaya     =PLU  =ENF   tomar(SK) -NOMLZ hacer   -SUJ>A:SIM tomar  -SUJ>A:SIM
+\ps n.         =clit =clit. v.        -suf.  v.tran. -suf.      v.tran -suf.
+
+\ft Preparaba la bebida de las mismas papaya y tomábamos
+\ELANBegin 137.658
+\ELANEnd 140.419
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 137.658 140.419
+
+\ref 041
+\trs Ajá... Ayahon akai. Hatian akai.
+\tx Ajá... Ayahon            akai.             Hatian       akai.
+\mb ajá    aya    -hon       ak      -ai       hatian       ak      -ai
+\gn ajá    tomar  -SUJ>A:SIM hacer   -IMPF(SK) entonces(SK) hacer   -IMPF(SK)
+\ps inter.  v.tran -suf.      v.tran. -suf.     conec.       v.tran. -suf.
+
+\ft Hm... tomando hacía. Así hacía.
+\ELANBegin 140.532
+\ELANEnd 143.373
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 140.532 143.373
+
+\ref 042
+\trs Potó xoá.
+\tx Potó   xoá.
+\mb potó   xoá
+\gn barriga gordo
+\ps n.      adj.
+
+\ft Con la barriga gorda.
+\ELANBegin 143.469
+\ELANEnd 144.958
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 143.469 144.958
+
+\ref 043
+\trs Nokon papa xoá ikati
+\tx Nokon       papa      xoá  ikati
+\mb nokon       papa      xoá  ik      -kati
+\gn 1SG.GEN(SK) papá(SK) gordo copula  -PAS.REM:HAB
+\ps pron        n.        adj.  v.intr. -suf.
+
+\ft Mi papá era gordo.
+\ELANBegin 146.196
+\ELANEnd 147.912
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 146.196 147.912
+
+\ref 044
+\trs Ani onika, nokon papa. Mastoma. Ah...
+\tx Ani        onika,         nokon       papa.
+\mb ani        oni     =ka    nokon       papa
+\gn grande(SK) persona =NAR   1SG.GEN(SK) papá(SK)
+\ps adj.       n.      =clit. pron        n.
+
+\tx Mastoma. Ajá
+\mb mastoma  ajá
+\gn alto     ajá
+\ps adj.     inter.
+
+\ft Un hombre grande era mi papá. Era alto. Ah...
+\ELANBegin 150.005
+\ELANEnd 154.093
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 150.005 154.093
+
+\ref 045
+\trs Nokon tita. Nokon mamáribi haskara.
+\tx Nokon       tita.     Nokon
+\mb nokon       tita      nokon
+\gn 1SG.GEN(SK) madre(SK) 1SG.GEN(SK)
+\ps pron        n.        pron
+
+\tx mamáribi             haskara.
+\mb mamá       =ribi     haska    =ra
+\gn mamá(CAST) =también así(SK) =EVID1(SK)
+\ps n.          =clit.    adv.     =clit.
+
+\ft Mi mamá. Mi mamá también era así.
+\ELANBegin 154.476
+\ELANEnd 156.942
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 154.476 156.942
+
+\ref 046
+\trs Ayahon akai.
+\tx Ayahon       akai.
+\mb aya    -hon  ak      -ai
+\gn tomar  -BEN  hacer   -IMPF(SK)
+\ps v.tran -suf. v.tran. -suf.
+
+\ft tomando preparaba (la chicha)
+\ELANBegin 159.476
+\ELANEnd 160.574
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 159.476 160.574
+
+\ref 047
+\trs Champehon akai. Champehon akai. Nato ayakin epan. Nokon hermano, a xeakin ochí.
+\tx Champehon
+\mb champeh                     -hon
+\gn chicha.dulce.maiz.no.maduro -SUJ>A:SIM
+\ps n.                          -suf.
+
+\tx akai.
+\mb ak      -ai
+\gn hacer   -IMPF(SK)
+\ps v.tran. -suf.
+
+\tx Champehon
+\mb champeh                     -hon
+\gn chicha.dulce.maiz.no.maduro -SUJ>A:SIM
+\ps n.                          -suf.
+
+\tx akai.             Nato     ayakin       epan.
+\mb ak      -ai       nato     aya    -kin  epa   =n
+\gn hacer   -IMPF(SK) este(SK) tomar  -IMP  padre =VOC
+\ps v.tran. -suf.     dem.     v.tran -suf. n.    =clit.
+
+\tx Nokon       hermano,      a   xeakin
+\mb nokon       hermano       a   xea       -kin
+\gn 1SG.GEN(SK) hermano(CAST) ese tomar(SK) -IMP
+\ps pron        n.            dem v.        -suf.
+
+\tx ochí.
+\mb ochí
+\gn hermano.mayor:VOC
+\ps n.
+
+\ft Preparando la chicha hacía. "Toma esto, papá". "Toma, papá. Toma, hermano (mayor)".
+\ELANBegin 161.226
+\ELANEnd 169.851
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 161.226 169.851
+
+\ref 048
+\trs Nato xeawe mahko.
+\tx Nato     xeawe              mahko.
+\mb nato     xea       -we      mahko
+\gn este(SK) tomar(SK) -IMP(SK) hermano.menor
+\ps dem.     v.        -suf.    n.
+
+\ft "Toma esto, hermano (menor)".
+\ELANBegin 170.477
+\ELANEnd 172.613
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 170.477 172.613
+
+\ref 049
+\trs Ajá ha nokon hermanobo aki ka. Aha.
+\tx Ajá   ha      nokon       hermanobo
+\mb ajá   ha      nokon       hermano       =bo
+\gn ajá   ese(SK) 1SG.GEN(SK) hermano(CAST) =PLU
+\ps inter. dem     pron        n.            =clit
+
+\tx aki           ka.    Aja.
+\mb ak      -i    =ka    aja
+\gn hacer   -IMPF =NAR   ajá
+\ps v.tran. -suf. =clit. interj.
+
+\ft Hahaha... Mis hermanos hacían (eso). Ajá.
+\ELANBegin 172.861
+\ELANEnd 176.407
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 172.861 176.407
+
+\ref 050
+\trs Ea akai
+\tx Ea    akai
+\mb ea    ak          -ai
+\gn 1SG:A decir(TRAN) -IMPF(SK)
+\ps pron. v.tran.     -suf.
+
+\ft Yo hacía.
+\ELANBegin 177.208
+\ELANEnd 178.208
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 177.208 178.208
+
+\ref 051
+\trs Kirinko ea bea iki. Ainoah ka eah.
+\tx Kirinko ea    bea           iki.
+\mb kirinko ea    be     -a     ik      -i
+\gn gringo  1SG:P traer  -NOMLZ copula  -IMPF
+\ps n.      pron. v.tran -suf.  v.intr. -suf.
+
+\tx Ainoah   ka     eah.
+\mb Ainoah   =ka    eah
+\gn después =NAR   1SG:S
+\ps conec.   =clit. pron.
+
+\ft Un gringo fue quien me trajo. De ahí es que (aquí) estoy.
+\ELANBegin 179.635
+\ELANEnd 182.238
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 179.635 182.238
+
+\ref 052
+\trs Yoshanhako iki eah.
+\tx Yoshanhako      iki           eah.
+\mb yoshan    -hoko ik      -i    eah
+\gn vieja(SK) -DIM  copula  -IMPF 1SG:S
+\ps adj.      -suf  v.intr. -suf. pron.
+
+\ft Yo soy viejita.
+\ELANBegin 182.726
+\ELANEnd 183.919
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 182.726 183.919
+
+\ref 053
+\trs (Ininteligible)
+\tx (Ininteligible)
+\ft (Ininteligible)
+\ELANBegin 184.100
+\ELANEnd 185.578
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 184.100 185.578
+
+\ref 054
+\trs Ahoya riki.
+\tx Ahoya    riki.
+\mb ahoya    riki
+\gn qué     COP(SK)
+\ps pal.int. part.
+
+\ft ¿Cómo ha pasado?
+\ELANBegin 185.606
+\ELANEnd 186.367
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 185.606 186.367
+
+\ref 055
+\trs Ayati atipayamai.
+\tx Ayati         atipayamai.
+\mb aya    -ti    atipa -yama    -i
+\gn tomar  -NOMLZ poder -NEG(SK) -IMPF
+\ps v.tran -suf.  v.    -suf.    -suf.
+
+\ft No puedo hacer bebidas.
+\ELANBegin 186.492
+\ELANEnd 187.855
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 186.492 187.855
+
+\ref 056
+\trs Nokon bero hakonma.
+\tx Nokon       bero hakonma.
+\mb nokon       bero hakon     =ma
+\gn 1SG.GEN(SK) ojo  bueno(SK) =NEG
+\ps pron        n.   adj.      =clit.
+
+\ft Mis ojos no están bien.
+\ELANBegin 188.667
+\ELANEnd 190.497
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 188.667 190.497
+
+\ref 057
+\trs Nokon bero kai eah behoh.
+\tx Nokon       bero kai          eah   behoh.
+\mb nokon       bero ka     -i    eah   behoh
+\gn 1SG.GEN(SK) ojo  ir     -IMPF 1SG:S ciego
+\ps pron        n.   v.intr -suf. pron. adj.
+
+\ft Yo ando todo borroso (con) mis ojos
+\ELANBegin 190.849
+\ELANEnd 192.974
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 190.849 192.974
+
+\ref 058
+\trs Behohoko moa
+\tx Behohoko    moa
+\mb behoh -hoko moa
+\gn ciego -DIM  ya(SK)
+\ps adj.  -suf  adv
+
+\ft Un poco borroso ahorra
+\ELANBegin 193.030
+\ELANEnd 194.201
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 193.030 194.201
+
+\ref 059
+\trs Bakish.
+\tx Bakish.
+\mb bakish
+\gn oscuro
+\ps adv.
+
+\ft Oscuro.
+\ELANBegin 194.325
+\ELANEnd 195.177
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 194.325 195.177
+
+\ref 060
+\trs Aja.
+\tx Aja.
+\mb aja
+\gn ajá
+\ps interj.
+
+\ft Ajá.
+\ELANBegin 195.847
+\ELANEnd 196.632
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 195.847 196.632
+
+\ref 061
+\trs Yamé yamékesaka yamé moaka yamé.
+\tx Yamé     yamékesaka             yamé     moaka         yamé.
+\mb yamé     yamé     =kesa  =ka    yamé     moa    =ka    yamé
+\gn noche(SK) noche(SK) =COMP  =NAR   noche(SK) ya(SK) =NAR   noche(SK)
+\ps n.        n.        =clit. =clit. n.        adv    =clit. n.
+
+\ft es como si fuera de noche, ya es como si fuera oscuro
+\ELANBegin 197.953
+\ELANEnd 201.215
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 197.953 201.215
+
+\ref 062
+\trs askakin atipayamai askakin atipayamai eah
+\tx askakin         atipayamai           askakin         atipayamai           eah
+\mb aska -kin       atipa -yama    -i    aska -kin       atipa -yama    -i    eah
+\gn así -SUJ>A:SIM poder -NEG(SK) -IMPF así -SUJ>A:SIM poder -NEG(SK) -IMPF 1SG:S
+\ps adv. -suf.      v.    -suf.    -suf. adv. -suf.      v.    -suf.    -suf. pron.
+
+\ft Así, ya no puedo trabajar;  así yo ya no puedo trabajar.
+\ELANBegin 201.567
+\ELANEnd 204.635
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 201.567 204.635
+
+\ref 063
+\trs Yora nokon yorara hakon iki. Hatontani ikahbi ka eah
+berokai atipayamai.
+\tx Yora   nokon       yorara            hakon
+\mb yora   nokon       yora   =ra        hakon
+\gn cuerpo 1SG.GEN(SK) cuerpo =EVID1(SK) bueno(SK)
+\ps n.     pron        n.     =clit.     adj.
+
+\tx iki.          Hatontani
+\mb ik      -i    haton =tani
+\gn copula  -IMPF 3PL:A =un.poco
+\ps v.intr. -suf. pron. =n.
+
+\tx ikahbi                    ka     eah   berokai
+\mb ik      -ah        =bi    =ka    eah   bero =kai
+\gn copula  -SUJ>S:SIM =ENF   =NAR   1SG:S ojo  =RESO
+\ps v.intr. -suf.      =clit. =clit. pron. n.   =clit.
+
+\tx atipayamai.
+\mb atipa -yama    -i
+\gn poder -NEG(SK) -IMPF
+\ps v.    -suf.    -suf.
+
+\ft Mi cuerpo está bien. Aunque está más o menos bien, mis ojos ya no pueden hacer
+\ELANBegin 205.147
+\ELANEnd 210.442
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 205.147 210.442
+
+\ref 064
+\trs No puede.
+\tx No puede.
+\ft No puede.
+\ELANBegin 210.868
+\ELANEnd 211.765
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 210.868 211.765
+
+\ref 065
+\trs Ea rayá ainbo ikati.
+\tx Ea        rayá      ainbo ikati.
+\mb ea        rayá      ainbo ik      -kati
+\gn 1SG:S(SK) trabajador mujer copula  -PAS.REM:HAB
+\ps pron.     adj.       n.    v.intr. -suf.
+
+\ft Yo era una mujer hacendosa.
+\ELANBegin 215.249
+\ELANEnd 216.783
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 215.249 216.783
+
+\ref 066
+\trs Nokon bakebo.
+\tx Nokon       bakebo.
+\mb nokon       bake =bo
+\gn 1SG.GEN(SK) hijo =PLU
+\ps pron        n.   =clit
+
+\ft Mis hijos.
+\ELANBegin 218.260
+\ELANEnd 219.317
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 218.260 219.317
+
+\ref 067
+\trs Nokon bake mawata iki en reken aka.
+\tx Nokon       bake mawata           iki
+\mb nokon       bake mawat     -a     ik      -i
+\gn 1SG.GEN(SK) hijo morir(SK) -NOMLZ copula  -IMPF
+\ps pron        n.   v.        -suf.  v.intr. -suf.
+
+\tx en        reken        aka.
+\mb en        reken        ak      -a
+\gn 1SG:A(SK) primogénito hacer   -PERF
+\ps pron      n.           v.tran. -suf.
+
+\ft Mi hijo murió, el que fue mi primogénito.
+\ELANBegin 219.737
+\ELANEnd 221.930
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 219.737 221.930
+
+\ref 068
+\trs Jonas. Iskobakebori hain iki nokon baba.
+\tx Jonas.       Iskobakebori            hain     iki           nokon       baba.
+\mb jonas        isko   bake =bo   =ri   hain     ik      -i    nokon       baba
+\gn Jonás(CAST) paucar hijo =PLU  =CON  ahí(SK) copula  -IMPF 1SG.GEN(SK) nieto(SK)
+\ps n.           n.     n.   =clit =clit adv.     v.intr. -suf. pron        n.
+
+\ft Jonás. Ahí está mi nieto.
+\ELANBegin 223.760
+\ELANEnd 227.067
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 223.760 227.067
+
+\ref 069
+\trs Koronian hain ika iki ika iki Callerian. Aha.
+\tx Koronian                   hain     ika
+\mb koronia             =n     hain     ik      -a
+\gn Colonia (CAST > SK) =LOC   ahí(SK) copula  -NOMLZ
+\ps n.                  =clit. adv.     v.intr. -suf.
+
+\tx iki           ika            iki
+\mb ik      -i    ik      -a     ik      -i
+\gn copula  -IMPF copula  -NOMLZ copula  -IMPF
+\ps v.intr. -suf. v.intr. -suf.  v.intr. -suf.
+
+\tx Callerian.            Aja.
+\mb calleria       =n     aja
+\gn Calleria(CAST) =LOC   ajá
+\ps n.             =clit. interj.
+
+\ft Allí está en la colonia en Callería. Ajá.
+\ELANBegin 227.499
+\ELANEnd 233.045
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 227.499 233.045
+
+\ref 070
+\trs Rabé nokon baba iki. Nokon poihiko rabé.
+\tx Rabé   nokon       baba      iki.
+\mb rabé   nokon       baba      ik      -i
+\gn dos(SK) 1SG.GEN(SK) nieto(SK) copula  -IMPF
+\ps num.    pron        n.        v.intr. -suf.
+
+\tx Nokon       poihiko                           rabé.
+\mb nokon       poi                         -hoko rabé
+\gn 1SG.GEN(SK) hermano.de.sexo.opuesto(SK) -DIM  dos(SK)
+\ps pron        n.                          -suf  num.
+
+\ft Son dos mis nietos. Mis hermanitos, dos.
+\ELANBegin 233.508
+\ELANEnd 238.072
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 233.508 238.072
+
+\ref 071
+\trs Iskobakebo. Hain.
+\tx Iskobakebo.       Hain.
+\mb isko   bake =bo   hain
+\gn paucar hijo =PLU  ahí(SK)
+\ps n.     n.   =clit adv.
+
+\ft Iskonawas. Ahí.
+\ELANBegin 238.329
+\ELANEnd 239.636
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 238.329 239.636
+
+\ref 072
+\trs Hara oama iki koronia (Ininteligible). Yarina.
+\tx Hara               oama
+\mb ha      =ra        o     -a     =ma
+\gn ese(SK) =EVID1(SK) venir -NOMLZ =NEG
+\ps dem     =clit.     v.    -suf.  =clit.
+
+\tx iki           koronia
+\mb ik      -i    koronia
+\gn copula  -IMPF Colonia (CAST > SK)
+\ps v.intr. -suf. n.
+
+\tx (Ininteligible). Yarina.
+\mb Ininteligible    yarina
+\gn ***              Yarina(CAST)
+\ps ***              n.
+
+\ft Esos no han venido a la colonia (Callería) (Ininteligible). A Yarina.
+\ELANBegin 240.545
+\ELANEnd 244.727
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 240.545 244.727
+
+\ref 073
+\trs Eah chikishma iki.
+\tx Eah   chikishma      iki.
+\mb eah   chikish =ma    ik      -i
+\gn 1SG:S ocioso  =NEG   copula  -IMPF
+\ps pron. adj.    =clit. v.intr. -suf.
+
+\ft No soy floja.
+\ELANBegin 250.595
+\ELANEnd 252.152
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 250.595 252.152
+
+\ref 074
+\trs Ya.
+\tx Ya.
+\ft Ya.
+\ELANBegin 254.333
+\ELANEnd 254.708
+\ELANParticipant Juanita
+\sound JC-narracion.muchacha-2013.wav 254.333 254.708
+
+
+\ELANMediaURL file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC-narracion.muchacha-2013.mpg
+\ELANMediaMIME video/mpeg
+\ELANMediaExtracted file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC-narracion.muchacha-2013.wav
+\ELANMediaURL file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC-narracion.muchacha-2013.wav
+\ELANMediaMIME audio/x-wav

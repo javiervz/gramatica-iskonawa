@@ -1,0 +1,1553 @@
+\_sh v3.0  400  text
+
+\ref 001
+\ELANBegin 0.650
+\ELANEnd 6.500
+\ELANParticipant Willian
+\trs miaki nenobi itiki hawekeskaki mia iti iki shinanai
+\tx miaki              nenobi
+\mb mia         =ki    neno      =bi
+\gn 2SG.ABS(SK) =INT   aquí(SK) =ENF
+\ps pron        =clit. adv.      =clit.
+
+\tx itiki                 hawekeskaki
+\mb ik      -ti    =ki    hawekeska =ki
+\gn ser     -NOMLZ =REP   cómo(SK) =INT
+\ps v.intr. -suf.  =clit. pal.int   =clit.
+
+\tx mia         iti            iki
+\mb mia         ik      -ti    ik      -i
+\gn 2SG.ABS(SK) ser     -NOMLZ ser     -SUJ>S:SIM
+\ps pron        v.intr. -suf.  v.intr. -suf.
+
+\tx shinanai
+\mb shinan -ai
+\gn pensar -IMPF(SK)
+\ps v.     -suf.
+
+\ft ¿Estás tú acá mismo? ¿Cómo tú piensas que vas a estar?
+\sound JC.IC- vida.trabajo-2013.wav 0.650 6.500
+
+\ref 002
+\ELANBegin 4.710
+\ELANEnd 12.865
+\ELANParticipant Nelita
+\trs naya, mia kaiki oani oani kaiki mi ewepain o miaki Lima kati iki mia yoka
+\tx naya,            mia         kaiki               oani
+\mb naya             mia         ka     -i    =ki    oani
+\gn tía.de.la.mujer 2SG.ABS(SK) ir     -IMPF =INT   dónde
+\ps n.               pron        v.intr -suf. =clit. pal.int.
+
+\tx oani     kaiki               mi      ewepain
+\mb oani     ka     -i    =ki    mi      ewe    -pain
+\gn dónde   ir     -IMPF =INT   2SG:ABS vivir  -todavía
+\ps pal.int. v.intr -suf. =clit. pron    v.intr -suf.
+
+\tx o     miaki              lima kati
+\mb o     mia         =ki    lima ka     -ti
+\gn venir 2SG.ABS(SK) =INT   Lima ir     -NOMLZ
+\ps v.    pron        =clit. n.   v.intr -suf.
+
+\tx iki           mia         yoka
+\mb ik      -i    mia         yoi     =ka
+\gn ser     -IMPF 2SG.ABS(SK) contar  =NAR
+\ps v.intr. -suf. pron        v.tran. =clit.
+
+\ft tía, ¿dónde tú vas a estar? ¿dónde quieres vivir tú? ¿Tú vas a ir a lima? Tú vas a cortar
+\sound JC.IC- vida.trabajo-2013.wav 4.710 12.865
+
+\ref 003
+\ELANBegin 12.980
+\ELANEnd 13.540
+\ELANParticipant Nelita
+\trs yokati
+\tx yokati
+\mb yoi     -kati
+\gn contar  -PAS.REM:HAB
+\ps v.tran. -suf.
+
+\ft cortar
+\sound JC.IC- vida.trabajo-2013.wav 12.980 13.540
+
+\ref 004
+\ELANBegin 13.675
+\ELANEnd 14.635
+\ELANParticipant Juanita
+\trs liman kayamai
+\tx liman       kayamai
+\mb lima =n     ka     -yama    -i
+\gn Lima =LOC   ir     -NEG(SK) -IMPF
+\ps n.   =clit. v.intr -suf.    -suf.
+
+\ft yo no voy a lima
+\sound JC.IC- vida.trabajo-2013.wav 13.675 14.635
+
+\ref 005
+\ELANBegin 15.570
+\ELANEnd 16.130
+\ELANParticipant Juanita
+\trs liman kayamai
+\tx liman       kayamai
+\mb lima =n     ka     -yama    -i
+\gn Lima =LOC   ir     -NEG(SK) -IMPF
+\ps n.   =clit. v.intr -suf.    -suf.
+
+\ft yo no voy a lima
+\sound JC.IC- vida.trabajo-2013.wav 15.570 16.130
+
+\ref 006
+\ELANBegin 16.145
+\ELANEnd 23.095
+\ELANParticipant Nelita
+\trs aja ewetiki miki a hawerano ewetiki mia yukatiki Robertoka
+\tx aja     ewetiki              miki           a
+\mb aja     ewe    -ti    =ki    mi      =ki    a
+\gn ajá    vivir  -NOMLZ =INT   2SG:ABS =INT   ese
+\ps interj. v.intr -suf.  =clit. pron    =clit. dem
+
+\tx hawerano ewetiki
+\mb hawerano ewe    -ti    =ki
+\gn dónde   vivir  -NOMLZ =INT
+\ps pal.int. v.intr -suf.  =clit.
+
+\tx ma  yukatiki                Robertoka
+\mb ma  yuka      -ti    =ki    Roberto =ka
+\gn ya  preguntar -NOMLZ =CON   Roberto =NAR
+\ps adv v.        -suf.  =clit. n.      =clit.
+
+\ft ¿Dónde vas a vivir tú? Roberto pregunta
+\sound JC.IC- vida.trabajo-2013.wav 16.145 23.095
+
+\ref 007
+\ELANBegin 23.120
+\ELANEnd 25.050
+\ELANParticipant Juanita
+\trs eah hemanbiri ea eweai
+\tx eah   hemanbiri                         ea
+\mb eah   hema          =n     =bi    =ri   ea
+\gn 1SG:S comunidad(SK) =LOC   =ENF   =CON  1SG.ABS(SK)
+\ps pron. n.            =clit. =clit. =clit pron.
+
+\tx eweai
+\mb ewe    -ai
+\gn vivir  -IMPF(SK)
+\ps v.intr -suf.
+
+\ft yo voy a vivir en mi pueblo nomás
+\sound JC.IC- vida.trabajo-2013.wav 23.120 25.050
+
+\ref 008
+\ELANBegin 26.220
+\ELANEnd 27.480
+\ELANParticipant Juanita
+\trs hemanbira eah eweai
+\tx hemanbira                    eah   eweai
+\mb hema          =n     =bira   eah   ewe    -ai
+\gn comunidad(SK) =LOC   =nomás 1SG:S vivir  -IMPF(SK)
+\ps n.            =clit. =clit.  pron. v.intr -suf.
+
+\ft en mi pueblo nomás voy a vivir
+\sound JC.IC- vida.trabajo-2013.wav 26.220 27.480
+
+\ref 009
+\ELANBegin 29.620
+\ELANEnd 30.780
+\ELANParticipant Juanita
+\trs hawerano hati iki
+\tx hawerano hati                 iki
+\mb hawerano hat       -i         ik      -i
+\gn dónde   vivir(SK) -SUJ>S:SIM ser     -IMPF
+\ps pal.int. v.        -suf.      v.intr. -suf.
+
+\ft ahí nomás voy a estar
+\sound JC.IC- vida.trabajo-2013.wav 29.620 30.780
+
+\ref 010
+\ELANBegin 31.470
+\ELANEnd 34.090
+\ELANParticipant Willian
+\trs no quiere ir a ningún sitio dice no quiere ir a lima
+\tx no quiere ir a ningún sitio dice no quiere ir a lima
+\ft no quiere ir a ningún sitio dice no quiere ir a lima
+\sound JC.IC- vida.trabajo-2013.wav 31.470 34.090
+
+\ref 011
+\ELANBegin 34.440
+\ELANEnd 40.840
+\ELANParticipant Roberto
+\trs pero ¿y qué va a hacer? ¿va a trabajar en su casa? ¿ a dónde va a vivir?
+\tx pero ¿y qué va a hacer? ¿va a trabajar en su casa? ¿ a dónde va a vivir?
+\ft pero ¿y qué va a hacer? ¿va a trabajar en su casa? ¿ a dónde va a vivir?
+\sound JC.IC- vida.trabajo-2013.wav 34.440 40.840
+
+\ref 012
+\ELANBegin 41.640
+\ELANEnd 44.030
+\ELANParticipant Roberto
+\trs algo así para que pueda contar
+\tx algo así para que pueda contar
+\ft algo así para que pueda contar
+\sound JC.IC- vida.trabajo-2013.wav 41.640 44.030
+
+\ref 013
+\ELANBegin 45.110
+\ELANEnd 46.780
+\ELANParticipant Nelita
+\trs wanika mi ewekasi iki.
+\tx wanika  mi      ewekasi                 iki
+\mb wanika  mi      ewe    -kas  -i         ik      -i
+\gn dónde  2SG:ABS vivir  -DES  -SUJ>S:SIM copula  -IMPF
+\ps pal.int pron    v.intr -suf. -suf.      v.intr. -suf.
+
+\ft ¿dónde tú quieres vivir?
+\sound JC.IC- vida.trabajo-2013.wav 45.110 46.780
+
+\ref 014
+\ELANBegin 50.210
+\ELANEnd 50.590
+\ELANParticipant Juanita
+\trs paron
+\tx paron
+\mb paro            =n
+\gn río.grande(SK) =LOC
+\ps n.              =clit.
+
+\ft en el río
+\sound JC.IC- vida.trabajo-2013.wav 50.210 50.590
+
+\ref 015
+\ELANBegin 52.540
+\ELANEnd 55.940
+\ELANParticipant Juanita
+\trs ain eah ewe kati ainbi eah ewe katiainbi eah ewe kati
+\tx ain       eah   ewe    kati          ainbi            eah   ewe    kati          ainbi            eah   ewe    kati          ewe    kati
+\mb ain       eah   ewe    ka     -ti    ain       =bi    eah   ewe    ka     -ti    ain       =bi    eah   ewe    ka     -ti    ewe    ka     -ti
+\gn ahí(MIX) 1SG:S vivir  ir     -NOMLZ ahí(MIX) =ENF   1SG:S vivir  ir     -NOMLZ ahí(MIX) =ENF   1SG:S vivir  ir     -NOMLZ vivir  ir     -NOMLZ
+\ps adv.      pron. v.intr v.intr -suf.  adv.      =clit. pron. v.intr v.intr -suf.  adv.      =clit. pron. v.intr v.intr -suf.  v.intr v.intr -suf.
+
+\ft ahí mismo yo voy a vivir, ahí mismo yo voy a vivir, ahí quiero vivir
+\sound JC.IC- vida.trabajo-2013.wav 52.540 55.940
+
+\ref 016
+\ELANBegin 57.660
+\ELANEnd 59.650
+\ELANParticipant Juanita
+\trs eah moa viejita yoshanhakoi
+\tx eah   moa    viejita yoshanhakoi
+\mb eah   moa    viejita yoshan    -hoko -i
+\gn 1SG:S ya(SK) viejita vieja(SK) -DIM  -IMPF
+\ps pron. adv    adj.    adj.      -suf  -suf.
+
+\ft yo ya soy viejita
+\sound JC.IC- vida.trabajo-2013.wav 57.660 59.650
+
+\ref 017
+\ELANBegin 60.190
+\ELANEnd 61.280
+\ELANParticipant Juanita
+\trs yoshanhakoi
+\tx yoshanhakoi
+\mb yoshan    -hoko -i
+\gn vieja(SK) -DIM  -IMPF
+\ps adj.      -suf  -suf.
+
+\ft siendo viejita
+\sound JC.IC- vida.trabajo-2013.wav 60.190 61.280
+
+\ref 018
+\ELANBegin 61.570
+\ELANEnd 62.460
+\ELANParticipant Isabel
+\trs yoshanma iwa
+\tx yoshanma         iwa
+\mb yoshan    =ma    iwa
+\gn vieja(SK) =NEG   vieja
+\ps adj.      =clit. adj.
+
+\ft no es "yoshan", es "ioa" (vieja)
+\sound JC.IC- vida.trabajo-2013.wav 61.570 62.460
+
+\ref 019
+\ELANBegin 62.460
+\ELANEnd 63.570
+\ELANParticipant Juanita
+\trs iwahako eah
+\tx iwahako     eah
+\mb iwa   -hoko eah
+\gn vieja -DIM  1SG:S
+\ps adj.  -suf  pron.
+
+\ft yo soy viejita
+\sound JC.IC- vida.trabajo-2013.wav 62.460 63.570
+
+\ref 020
+\ELANBegin 65.100
+\ELANEnd 67.340
+\ELANParticipant Juanita
+\trs iwapakehekoi kati atipayamai
+\tx iwapakehekoi                    kati
+\mb iwa   pake     -hoko -i         ka     -ti
+\gn vieja caer(se) -DIM  -SUJ>S:SIM ir     -NOMLZ
+\ps adj.  v.ambi.  -suf  -suf.      v.intr -suf.
+
+\tx atipayamai
+\mb atipa -yama    -i
+\gn poder -NEG(SK) -IMPF
+\ps v.    -suf.    -suf.
+
+\ft como ya estoy bien viejita, ya no puedo ir
+\sound JC.IC- vida.trabajo-2013.wav 65.100 67.340
+
+\ref 021
+\ELANBegin 68.280
+\ELANEnd 69.340
+\ELANParticipant Juanita
+\trs nokon berora
+\tx nokon       berora
+\mb nokon       bero =ra
+\gn 1SG.GEN(SK) ojo  =EVID1(SK)
+\ps pron        n.   =clit.
+
+\ft mi ojo
+\sound JC.IC- vida.trabajo-2013.wav 68.280 69.340
+
+\ref 022
+\ELANBegin 69.695
+\ELANEnd 70.685
+\ELANParticipant Juanita
+\trs behoh iki eah
+\tx behoh iki           eah
+\mb behoh ik      -i    eah
+\gn ciego ser     -IMPF 1SG:S
+\ps adj.  v.intr. -suf. pron.
+
+\ft yo soy ciega
+\sound JC.IC- vida.trabajo-2013.wav 69.695 70.685
+
+\ref 023
+\ELANBegin 72.725
+\ELANEnd 74.010
+\ELANParticipant Juanita
+\trs bakish
+\tx bakish
+\mb bakish
+\gn oscuro
+\ps adj.
+
+\ft oscuro
+\sound JC.IC- vida.trabajo-2013.wav 72.725 74.010
+
+\ref 024
+\ELANBegin 74.410
+\ELANEnd 75.430
+\ELANParticipant Juanita
+\trs kati atipayamai
+\tx kati          atipayamai
+\mb ka     -ti    atipa -yama    -i
+\gn ir     -NOMLZ poder -NEG(SK) -IMPF
+\ps v.intr -suf.  v.    -suf.    -suf.
+
+\ft no puedo andar
+\sound JC.IC- vida.trabajo-2013.wav 74.410 75.430
+
+\ref 025
+\ELANBegin 76.195
+\ELANEnd 77.415
+\ELANParticipant Juanita
+\trs haweaki kati iki
+\tx haweaki  kati          iki
+\mb haweaki  ka     -ti    ik      -i
+\gn por.qué ir     -NOMLZ ser     -SUJ>S:SIM
+\ps pal.int. v.intr -suf.  v.intr. -suf.
+
+\ft ¿por qué voy a ir?
+\sound JC.IC- vida.trabajo-2013.wav 76.195 77.415
+
+\ref 026
+\ELANBegin 83.110
+\ELANEnd 84.710
+\ELANParticipant Roberto
+\trs bakish es como
+\tx bakish es como
+\mb bakish es como
+\gn noche  es como
+\ps n.     v. pre.
+
+\ft bakish es como
+\sound JC.IC- vida.trabajo-2013.wav 83.110 84.710
+
+\ref 027
+\ELANBegin 85.725
+\ELANEnd 86.915
+\ELANParticipant Roberto
+\trs ¿mañana, no?
+\tx ¿mañana, no?
+\ft ¿mañana, no?
+\sound JC.IC- vida.trabajo-2013.wav 85.725 86.915
+
+\ref 028
+\ELANBegin 87.145
+\ELANEnd 87.705
+\ELANParticipant Nelita
+\trs mañana
+\tx mañana
+\ft mañana
+\sound JC.IC- vida.trabajo-2013.wav 87.145 87.705
+
+\ref 029
+\ELANBegin 87.990
+\ELANEnd 88.380
+\ELANParticipant Roberto
+\trs mañana
+\tx mañana
+\ft mañana
+\sound JC.IC- vida.trabajo-2013.wav 87.990 88.380
+
+\ref 030
+\ELANBegin 90.510
+\ELANEnd 94.190
+\ELANParticipant Willian
+\trs ella explicó que, ella explicó que nunca
+\tx ella explicó que, ella explicó que nunca
+\ft ella explicó que, ella explicó que nunca
+\sound JC.IC- vida.trabajo-2013.wav 90.510 94.190
+
+\ref 031
+\ELANBegin 91.495
+\ELANEnd 92.905
+\ELANParticipant Isabel
+\trs bakish dice oscuro
+\tx bakish dice oscuro
+\mb bakish dice oscuro
+\gn oscuro dice oscuro
+\ps adj.   v.   adj.
+
+\ft "bakish" dice oscuro
+\sound JC.IC- vida.trabajo-2013.wav 91.495 92.905
+
+\ref 032
+\ELANBegin 92.405
+\ELANEnd 93.605
+\ELANParticipant Nelita
+\trs bakish oscuro
+\tx bakish oscuro
+\mb bakish oscuro
+\gn oscuro oscuro
+\ps adj.   adj.
+
+\ft "bakish", oscuro
+\sound JC.IC- vida.trabajo-2013.wav 92.405 93.605
+
+\ref 033
+\ELANBegin 94.245
+\ELANEnd 96.255
+\ELANParticipant Juanita
+\trs bakish oscuro ointikomaka
+\tx bakish oscuro ointikomaka
+\mb bakish oscuro oin    -tiko     =ma   =ka
+\gn oscuro oscuro ver    -HABI.NEG =NEG  =NAR
+\ps adj.   adj.   v.ambi -suf.     =suf. =clit.
+
+\ft "bakish" oscuro, que no puede ver
+\sound JC.IC- vida.trabajo-2013.wav 94.245 96.255
+
+\ref 034
+\ELANBegin 95.360
+\ELANEnd 97.060
+\ELANParticipant Willian
+\trs ella no piensa ir vivir a
+\tx ella no piensa ir vivir a
+\ft ella no piensa ir vivir a
+\sound JC.IC- vida.trabajo-2013.wav 95.360 97.060
+
+\ref 035
+\ELANBegin 97.340
+\ELANEnd 100.190
+\ELANParticipant Willian
+\trs en su sitio más sino donde vive que nomás
+\tx en su sitio más sino donde vive que nomás
+\ft en su sitio más sino donde que nomás
+\sound JC.IC- vida.trabajo-2013.wav 97.340 100.190
+
+\ref 036
+\ELANBegin 101.385
+\ELANEnd 103.905
+\ELANParticipant Roberto
+\trs ¿y cómo va a trabajar ahí?
+\tx ¿y cómo va a trabajar ahí?
+\ft ¿y cómo va a trabajar ahí?
+\sound JC.IC- vida.trabajo-2013.wav 101.385 103.905
+
+\ref 037
+\ELANBegin 104.390
+\ELANEnd 105.390
+\ELANParticipant Roberto
+\trs ¿va a trabajar en algo?
+\tx ¿va a trabajar en algo?
+\ft ¿va a trabajar en algo?
+\sound JC.IC- vida.trabajo-2013.wav 104.390 105.390
+
+\ref 038
+\ELANBegin 106.710
+\ELANEnd 112.380
+\ELANParticipant Willian
+\trs hain mia hain itiki mia hain ikainkobi ikinki hawe tebo akai
+\tx hain     mia         hain     itiki
+\mb hain     mia         hain     ik      -ti    =ki
+\gn ahí(SK) 2SG.ABS(SK) ahí(SK) estar   -NOMLZ =INT
+\ps adv.     pron        adv.     v.intr. -suf.  =clit.
+
+\tx mia         hain
+\mb mia         hain
+\gn 2SG.ABS(SK) ahí(SK)
+\ps pron        adv.
+
+\tx ikainkobi
+\mb ik      -ai       =nko   =bi
+\gn copula  -IMPF(SK) =LOC   =ENF
+\ps v.intr. -suf.     =clit. =clit.
+
+\tx ikinki                    hawe     tebo
+\mb ik      -kin       =ki    hawe     te       =bo
+\gn copula  -SUJ>A:SIM =INT   cuál    trabajar =PLU
+\ps v.intr. -suf.      =clit. pal.int. v.       =clit
+
+\tx akai
+\mb ak      -ai
+\gn hacer   -IMPF(SK)
+\ps v.tran. -suf.
+
+\ft ¿cómo ahí mismo  vas a estar tú?,  ¿qué trabajos vas a hacer?
+\sound JC.IC- vida.trabajo-2013.wav 106.710 112.380
+
+\ref 039
+\ELANBegin 113.230
+\ELANEnd 114.720
+\ELANParticipant Willian
+\trs hawe tebo akiki mia hain hatai
+\tx hawe     tebo          akiki
+\mb hawe     te      =bo   ak      -i         =ki
+\gn cuál    trabajo =PLU  hacer   -SUJ>S:SIM =INT
+\ps pal.int. n.      =clit v.tran. -suf.      =clit.
+
+\tx mia         hain     hatai
+\mb mia         hain     hat       -ai
+\gn 2SG.ABS(SK) ahí(SK) vivir(SK) -IMPF(SK)
+\ps pron        adv.     v.        -suf.
+
+\ft ¿qué trabajos haciendo vas a vivir ahí?
+\sound JC.IC- vida.trabajo-2013.wav 113.230 114.720
+
+\ref 040
+\ELANBegin 115.065
+\ELANEnd 115.805
+\ELANParticipant Juanita
+\trs atsa banai
+\tx atsa banai
+\mb atsa bana    -i
+\gn yuca sembrar -IMPF
+\ps n.   v.tran  -suf.
+
+\ft voy a sembrar yuca
+\sound JC.IC- vida.trabajo-2013.wav 115.065 115.805
+
+\ref 041
+\ELANBegin 118.840
+\ELANEnd 119.740
+\ELANParticipant Juanita
+\trs paranti banai
+\tx paranti  banai
+\mb paranti  bana    -i
+\gn plátano sembrar -IMPF
+\ps n.       v.tran  -suf.
+
+\ft voy a sembrar plátano
+\sound JC.IC- vida.trabajo-2013.wav 118.840 119.740
+
+\ref 042
+\ELANBegin 120.655
+\ELANEnd 121.615
+\ELANParticipant Juanita
+\trs atsa banai
+\tx atsa banai
+\mb atsa bana    -i
+\gn yuca sembrar -IMPF
+\ps n.   v.tran  -suf.
+
+\ft voy a sembrar yuca
+\sound JC.IC- vida.trabajo-2013.wav 120.655 121.615
+
+\ref 043
+\ELANBegin 123.250
+\ELANEnd 124.220
+\ELANParticipant Isabel
+\trs heki banai
+\tx heki  banai
+\mb heki  bana    -i
+\gn maíz sembrar -IMPF
+\ps n.    v.tran  -suf.
+
+\ft voy a sembrar maiz
+\sound JC.IC- vida.trabajo-2013.wav 123.250 124.220
+
+\ref 044
+\ELANBegin 125.170
+\ELANEnd 126.935
+\ELANParticipant Juanita
+\trs heki heki wishai
+\tx heki  heki
+\mb heki  heki
+\gn maíz maíz
+\ps n.    n.
+
+\tx wishai
+\mb wisha         -i
+\gn sembrar.maíz -IMPF
+\ps v.            -suf.
+
+\ft sembrar maíz, maíz
+\sound JC.IC- vida.trabajo-2013.wav 125.170 126.935
+
+\ref 045
+\ELANBegin 127.055
+\ELANEnd 128.435
+\ELANParticipant Juanita
+\trs ain wai ahon heki wishai
+\tx ain       wai    ahon               heki
+\mb ain       wai    ak      -hon       heki
+\gn ahí(MIX) chacra hacer   -SUJ>A:SIM maíz
+\ps adv.      n.     v.tran. -suf.      n.
+
+\tx wishai
+\mb wisha         -i
+\gn sembrar.maíz -IMPF
+\ps v.            -suf.
+
+\ft ahí en la chacra voy a hacer sembrar maiz
+\sound JC.IC- vida.trabajo-2013.wav 127.055 128.435
+
+\ref 046
+\ELANBegin 129.500
+\ELANEnd 133.980
+\ELANParticipant Willian
+\trs dice que va a vivir sembrando yuca, plátano, va a sembrar maiz
+\tx dice que va a vivir sembrando yuca, plátano, va a sembrar maiz
+\ft dice que va a vivr sembrando yuca, plátano, va a sembrar maíz
+\sound JC.IC- vida.trabajo-2013.wav 129.500 133.980
+
+\ref 047
+\ELANBegin 133.230
+\ELANEnd 134.130
+\ELANParticipant Juanita
+\trs awa pinohonki
+\tx awa
+\mb awá
+\gn sachavaca
+\ps n.
+
+\tx pinohonki
+\mb pi      -nohon     =ki
+\gn comer   -PROP:TRAN =CON
+\ps v.tran. -suf.      =clit.
+
+\ft para comer sachavaca
+\sound JC.IC- vida.trabajo-2013.wav 133.230 134.130
+
+\ref 048
+\ELANBegin 136.680
+\ELANEnd 138.820
+\ELANParticipant Willian
+\trs y va a cocinar el maiz y lo va a comer
+\tx y va a cocinar el maiz y lo va a comer
+\ft y va a cocinar el maíz y lo va a comer
+\sound JC.IC- vida.trabajo-2013.wav 136.680 138.820
+
+\ref 049
+\ELANBegin 137.680
+\ELANEnd 138.760
+\ELANParticipant Isabel
+\trs va comer dice
+\tx va comer dice
+\ft va a comer dice
+\sound JC.IC- vida.trabajo-2013.wav 137.680 138.760
+
+\ref 050
+\ELANBegin 141.065
+\ELANEnd 141.885
+\ELANParticipant Roberto
+\trs ¿y animales?
+\tx ¿y animales?
+\ft ¿y animales?
+\sound JC.IC- vida.trabajo-2013.wav 141.065 141.885
+
+\ref 051
+\ELANBegin 142.590
+\ELANEnd 142.910
+\ELANParticipant Isabel
+\trs sí
+\tx sí
+\ft sí
+\sound JC.IC- vida.trabajo-2013.wav 142.590 142.910
+
+\ref 052
+\ELANBegin 143.135
+\ELANEnd 143.685
+\ELANParticipant Roberto
+\trs yoina
+\tx yoina
+\mb yoina
+\gn animal
+\ps n.
+
+\ft animales
+\sound JC.IC- vida.trabajo-2013.wav 143.135 143.685
+
+\ref 053
+\ELANBegin 143.825
+\ELANEnd 145.185
+\ELANParticipant Juanita
+\trs yoina kayaki atapa
+\tx yoina  kayaki               atapa
+\mb yoina  ka     =ya    =ki    atapa
+\gn animal ir     =PROP  =CON   gallina(SK)
+\ps n.     v.intr =clit. =clit. n.
+
+\ft aumentaré animales, gallina
+\sound JC.IC- vida.trabajo-2013.wav 143.825 145.185
+
+\ref 054
+\ELANBegin 145.815
+\ELANEnd 147.635
+\ELANParticipant Roberto
+\trs atapa
+\tx atapa
+\mb atapa
+\gn gallina(SK)
+\ps n.
+
+\ft gallina
+\sound JC.IC- vida.trabajo-2013.wav 145.815 147.635
+
+\ref 055
+\ELANBegin 147.650
+\ELANEnd 148.330
+\ELANParticipant Juanita
+\trs atapa kayaki
+\tx atapa       kayaki
+\mb atapa       ka     =ya    =ki
+\gn gallina(SK) ir     =PROP  =CON
+\ps n.          v.intr =clit. =clit.
+
+\ft voy a aumentar gallinas
+\sound JC.IC- vida.trabajo-2013.wav 147.650 148.330
+
+\ref 056
+\ELANBegin 150.090
+\ELANEnd 150.690
+\ELANParticipant Isabel
+\trs nunun awe
+\tx nunun awe
+\mb nunun awe
+\gn pato  hembra
+\ps n.    adj.
+
+\ft hacer pato
+\sound JC.IC- vida.trabajo-2013.wav 150.090 150.690
+
+\ref 057
+\ELANBegin 151.220
+\ELANEnd 151.860
+\ELANParticipant Roberto
+\trs nunun
+\tx nunun
+\mb nunun
+\gn pato
+\ps n.
+
+\ft pato
+\sound JC.IC- vida.trabajo-2013.wav 151.220 151.860
+
+\ref 058
+\ELANBegin 151.595
+\ELANEnd 152.045
+\ELANParticipant Juanita
+\trs nunun
+\tx nunun
+\mb nunun
+\gn pato
+\ps n.
+
+\ft pato
+\sound JC.IC- vida.trabajo-2013.wav 151.595 152.045
+
+\ref 059
+\ELANBegin 153.435
+\ELANEnd 154.095
+\ELANParticipant Juanita
+\trs kochi
+\tx kochi
+\mb kochi
+\gn cerdo
+\ps n.
+
+\ft cerdo
+\sound JC.IC- vida.trabajo-2013.wav 153.435 154.095
+
+\ref 060
+\ELANBegin 155.015
+\ELANEnd 155.495
+\ELANParticipant Roberto
+\trs kochi
+\tx kochi
+\mb kochi
+\gn cerdo
+\ps n.
+
+\ft kuchí
+\sound JC.IC- vida.trabajo-2013.wav 155.015 155.495
+
+\ref 061
+\ELANBegin 157.130
+\ELANEnd 157.490
+\ELANParticipant Willian
+\trs pitso
+\tx pitso
+\mb pitso
+\gn pihuicho
+\ps n.
+
+\ft pihuicho
+\sound JC.IC- vida.trabajo-2013.wav 157.130 157.490
+
+\ref 062
+\ELANBegin 157.655
+\ELANEnd 158.115
+\ELANParticipant Isabel
+\trs pitso
+\tx pitso
+\mb pitso
+\gn pihuicho
+\ps n.
+
+\ft pihuicho
+\sound JC.IC- vida.trabajo-2013.wav 157.655 158.115
+
+\ref 063
+\ELANBegin 158.180
+\ELANEnd 158.780
+\ELANParticipant Juanita
+\trs pitso
+\tx pitso
+\mb pitso
+\gn pihuicho
+\ps n.
+
+\ft pihuicho
+\sound JC.IC- vida.trabajo-2013.wav 158.180 158.780
+
+\ref 064
+\ELANBegin 158.815
+\ELANEnd 159.475
+\ELANParticipant Roberto
+\trs yawá
+\tx yawá
+\mb yawa
+\gn huangana
+\ps n.
+
+\ft huangana
+\sound JC.IC- vida.trabajo-2013.wav 158.815 159.475
+
+\ref 065
+\ELANBegin 160.030
+\ELANEnd 160.570
+\ELANParticipant Isabel
+\trs yawá
+\tx yawá
+\mb yawa
+\gn huangana
+\ps n.
+
+\ft huangana
+\sound JC.IC- vida.trabajo-2013.wav 160.030 160.570
+
+\ref 066
+\ELANBegin 160.685
+\ELANEnd 161.255
+\ELANParticipant Juanita
+\trs yawá
+\tx yawá
+\mb yawa
+\gn huangana
+\ps n.
+
+\ft huangana
+\sound JC.IC- vida.trabajo-2013.wav 160.685 161.255
+
+\ref 067
+\ELANBegin 160.685
+\ELANEnd 161.255
+\ELANParticipant Roberto
+\trs yawá
+\tx yawá
+\mb yawa
+\gn huangana
+\ps n.
+
+\ft huangana
+\sound JC.IC- vida.trabajo-2013.wav 160.685 161.255
+
+\ref 068
+\ELANBegin 161.535
+\ELANEnd 162.055
+\ELANParticipant Isabel
+\trs yawan bake
+\tx yawán          bake
+\mb yawa     =n     bake
+\gn huangana =GEN   cría
+\ps n.       =clit. n.
+
+\ft cría de huangana
+\sound JC.IC- vida.trabajo-2013.wav 161.535 162.055
+
+\ref 069
+\ELANBegin 162.300
+\ELANEnd 163.245
+\ELANParticipant Juanita
+\trs yawan bake
+\tx yawán          bake
+\mb yawa     =n     bake
+\gn huangana =GEN   cría
+\ps n.       =clit. n.
+
+\ft cría de huangana
+\sound JC.IC- vida.trabajo-2013.wav 162.300 163.245
+
+\ref 070
+\ELANBegin 164.685
+\ELANEnd 165.155
+\ELANParticipant Juanita
+\trs hawán
+\tx hawán
+\mb hawán
+\gn papagayo
+\ps n.
+
+\ft papagayo
+\sound JC.IC- vida.trabajo-2013.wav 164.685 165.155
+
+\ref 071
+\ELANBegin 165.995
+\ELANEnd 166.485
+\ELANParticipant Roberto
+\trs hawán
+\tx hawán
+\mb hawán
+\gn papagayo
+\ps n.
+
+\ft guacamayo
+\sound JC.IC- vida.trabajo-2013.wav 165.995 166.485
+
+\ref 072
+\ELANBegin 166.935
+\ELANEnd 168.085
+\ELANParticipant Roberto
+\trs ¿hawán qué cosa es?
+\tx ¿hawán qué cosa es?
+\ft ¿hawán qué cosa es?
+\sound JC.IC- vida.trabajo-2013.wav 166.935 168.085
+
+\ref 073
+\ELANBegin 167.635
+\ELANEnd 168.415
+\ELANParticipant Willian
+\trs guacamayo
+\tx guacamayo
+\ft guacamayo
+\sound JC.IC- vida.trabajo-2013.wav 167.635 168.415
+
+\ref 074
+\ELANBegin 168.110
+\ELANEnd 168.880
+\ELANParticipant Roberto
+\trs guacamayo
+\tx guacamayo
+\ft guacamayo
+\sound JC.IC- vida.trabajo-2013.wav 168.110 168.880
+
+\ref 075
+\ELANBegin 173.190
+\ELANEnd 173.615
+\ELANParticipant Roberto
+\trs hawán
+\tx hawán
+\mb hawán
+\gn papagayo
+\ps n.
+
+\ft guacamayo
+\sound JC.IC- vida.trabajo-2013.wav 173.190 173.615
+
+\ref 076
+\ELANBegin 173.880
+\ELANEnd 174.460
+\ELANParticipant Roberto
+\trs xawán
+\tx xawán
+\mb xawán
+\gn papagayo(SK)
+\ps n.
+
+\ft guacamayo
+\sound JC.IC- vida.trabajo-2013.wav 173.880 174.460
+
+\ref 077
+\ELANBegin 175.015
+\ELANEnd 175.390
+\ELANParticipant Isabel
+\trs xawán
+\tx xawán
+\mb xawán
+\gn papagayo(SK)
+\ps n.
+
+\ft guacamayo
+\sound JC.IC- vida.trabajo-2013.wav 175.015 175.390
+
+\ref 078
+\ELANBegin 175.660
+\ELANEnd 176.090
+\ELANParticipant Isabel
+\trs xawán dice
+\tx xawán       dice
+\mb xawán       dice
+\gn papagayo(SK) dice
+\ps n.           v.
+
+\ft guacamayo dice
+\sound JC.IC- vida.trabajo-2013.wav 175.660 176.090
+
+\ref 079
+\ELANBegin 176.600
+\ELANEnd 177.355
+\ELANParticipant Roberto
+\trs los shipibos
+\tx los shipibos
+\ft los shipibos
+\sound JC.IC- vida.trabajo-2013.wav 176.600 177.355
+
+\ref 080
+\ELANBegin 178.485
+\ELANEnd 179.145
+\ELANParticipant Isabel
+\trs los shipibos
+\tx los shipibos
+\ft los shipibos
+\sound JC.IC- vida.trabajo-2013.wav 178.485 179.145
+
+\ref 081
+\ELANBegin 178.580
+\ELANEnd 179.915
+\ELANParticipant Willian
+\trs está diciendo pura jota
+\tx pura jota
+\ft está diciendo pura jota
+\sound JC.IC- vida.trabajo-2013.wav 178.580 179.915
+
+\ref 082
+\ELANBegin 185.050
+\ELANEnd 188.310
+\ELANParticipant Roberto
+\trs ¿y antiguamente los isconahuas criaban animales?
+\tx ¿y antiguamente los isconahuas criaban animales?
+\ft ¿y antiguamente los isconahuas criaban animales?
+\sound JC.IC- vida.trabajo-2013.wav 185.050 188.310
+
+\ref 083
+\ELANBegin 188.885
+\ELANEnd 190.235
+\ELANParticipant Roberto
+\trs cuando encontraban en el monte
+\tx cuando encontraban en el monte
+\ft cuando encontraban en el monte
+\sound JC.IC- vida.trabajo-2013.wav 188.885 190.235
+
+\ref 084
+\ELANBegin 191.180
+\ELANEnd 194.490
+\ELANParticipant Willian
+\trs Ni meran ixonki maton yoinabo inaribakatiai
+\tx Ni        meran      ixonki                    maton       yoinabo      ináribakatiai
+\mb ni        meran      ik      -xon       =ki    maton       yoina  =bo   iná  -riba     -kati        -ai
+\gn monte(SK) dentro(SK) copula  -S/A>A(SK) =INT   ustedes(SK) animal =PLU  criar -otra.vez -PAS.REM:HAB -IMPF(SK)
+\ps n.        post.      v.intr. -suf.      =clit. pron.       n.     =clit v.    -suf.     -suf.        -suf.
+
+\ft cuando estaban dentro del monte, ¿ustedes  también criaban animales?
+\sound JC.IC- vida.trabajo-2013.wav 191.180 194.490
+
+\ref 085
+\ELANBegin 194.545
+\ELANEnd 195.045
+\ELANParticipant Juanita
+\trs akin
+\tx akin
+\mb ak      -kin
+\gn hacer   -SUJ>A:SIM
+\ps v.tran. -suf.
+
+\ft hacíamos
+\sound JC.IC- vida.trabajo-2013.wav 194.545 195.045
+
+\ref 086
+\ELANBegin 196.200
+\ELANEnd 197.450
+\ELANParticipant Juanita
+\trs akin iso inaakin
+\tx akin               iso       inaakin
+\mb ak      -kin       iso       iná  -a        -kin
+\gn hacer   -SUJ>A:SIM maquisapa criar -FACT(SK) -SUJ>A:SIM
+\ps v.tran. -suf.      n.        v.    -suf.     -suf.
+
+\ft hacíamos, criábamos maquisapa
+\sound JC.IC- vida.trabajo-2013.wav 196.200 197.450
+
+\ref 087
+\ELANBegin 198.000
+\ELANEnd 199.720
+\ELANParticipant Juanita
+\trs nokon nayara iso inaakatin
+\tx nokon       nayara
+\mb nokon       naya             =ra
+\gn 1SG.GEN(SK) tía.de.la.mujer =EVID1(SK)
+\ps pron        n.               =clit.
+
+\tx iso       inaakatin
+\mb iso       iná  -a{suf.}  -kati{suf.}  =n
+\gn maquisapa criar -FACT(SK) -PAS.REM:HAB
+\ps n.
+
+\ft mi tía criaba maquisapa
+\sound JC.IC- vida.trabajo-2013.wav 198.000 199.720
+
+\ref 088
+\ELANBegin 199.905
+\ELANEnd 201.520
+\ELANParticipant Juanita
+\trs iso bene aninewa
+\tx iso       bene  anin              ewa
+\mb iso       bene  ani        =n     ewa
+\gn maquisapa macho grande(SK) =GEN   madre
+\ps n.        adj.  adj.       =clit. n.
+
+\ft maquisapa macho grandazo
+\sound JC.IC- vida.trabajo-2013.wav 199.905 201.520
+
+\ref 089
+\ELANBegin 204.230
+\ELANEnd 205.805
+\ELANParticipant Juanita
+\trs mea hain quemado oke
+\tx mea   hain     quemado oke
+\mb mea   hain     quemado o{v.} -ke
+\gn venir ahí(SK) quemado venir
+\ps v.    adv.     adj.
+
+\ft ahí nomás su maquisapa ha quemado
+\sound JC.IC- vida.trabajo-2013.wav 204.230 205.805
+
+\ref 090
+\ELANBegin 206.770
+\ELANEnd 208.240
+\ELANParticipant Juanita
+\trs awen ane tenpiske
+\tx awen    ane    tenpiske
+\mb awen    ane    tenpiske
+\gn 3SG:GEN nombre tenpiske
+\ps pron    n.     n.
+
+\ft su nombre era tenpiske
+\sound JC.IC- vida.trabajo-2013.wav 206.770 208.240
+
+\ref 091
+\ELANBegin 210.570
+\ELANEnd 211.750
+\ELANParticipant Juanita
+\trs meshkarewan
+\tx meshkarewan
+\mb meshka                        - rewan
+\gn estar.con.los.brazos.abiertos - AUM
+\ps v.                            - post.
+
+\ft bien tirado con los brazos separados
+\sound JC.IC- vida.trabajo-2013.wav 210.570 211.750
+
+\ref 092
+\ELANBegin 212.165
+\ELANEnd 212.705
+\ELANParticipant Isabel
+\trs tenpiske
+\tx tenpiske
+\mb tenpiske
+\gn maquisapa.macho.mascota
+\ps n.
+
+\ft tenpiske
+\sound JC.IC- vida.trabajo-2013.wav 212.165 212.705
+
+\ref 093
+\ELANBegin 212.950
+\ELANEnd 213.490
+\ELANParticipant Juanita
+\trs tenpiske
+\tx tenpiske
+\mb tenpiske
+\gn maquisapa.macho.mascota
+\ps n.
+
+\ft tenpiske
+\sound JC.IC- vida.trabajo-2013.wav 212.950 213.490
+
+\ref 094
+\ELANBegin 215.460
+\ELANEnd 217.550
+\ELANParticipant Isabel
+\trs nombre del maquisapa dice que era tenpiske
+\tx nombre del maquisapa dice que era tenpiske
+\ft nombre del maquisapa dice que era tenpiske
+\sound JC.IC- vida.trabajo-2013.wav 215.460 217.550
+
+\ref 095
+\ELANBegin 218.210
+\ELANEnd 219.520
+\ELANParticipant Roberto
+\trs ah ya
+\tx ah ya
+\ft ah ya
+\sound JC.IC- vida.trabajo-2013.wav 218.210 219.520
+
+\ref 096
+\ELANBegin 220.390
+\ELANEnd 223.480
+\ELANParticipant Juanita
+\trs [ininteligible] mihiran ewan ka
+\tx mihiran       ewan  ka
+\mb mihira =n     ewan  ka
+\gn grande =GEN   AUM   ir
+\ps adj.   =clit. post. v.intr
+
+\ft [ininteligible] grandazo era
+\sound JC.IC- vida.trabajo-2013.wav 220.390 223.480
+
+\ref 097
+\ELANBegin 220.395
+\ELANEnd 221.115
+\ELANParticipant Roberto
+\trs o sea
+\tx o sea
+\ft o sea
+\sound JC.IC- vida.trabajo-2013.wav 220.395 221.115
+
+\ref 098
+\ELANBegin 224.450
+\ELANEnd 225.640
+\ELANParticipant Isabel
+\trs mihira dice grande
+\tx mihira dice grande
+\mb mihira dice grande
+\gn grande dice grande
+\ps adj.   v.   adj.
+
+\ft mihira dice grande
+\sound JC.IC- vida.trabajo-2013.wav 224.450 225.640
+
+\ref 099
+\ELANBegin 227.140
+\ELANEnd 230.920
+\ELANParticipant Willian
+\trs mihiran ewan está diciendo que era grande era un maquisapa viejo
+\tx mihiran       ewan  está diciendo que era grande era un maquisapa viejo
+\mb mihira =n     ewan  está
+\gn grande =GEN   AUM   está
+\ps adj.   =clit. post. v.    
+
+\ft bien grande está diciendo que era grande era un maquisapa viejo
+\sound JC.IC- vida.trabajo-2013.wav 227.140 230.920
+
+\ref 100
+\ELANBegin 231.900
+\ELANEnd 232.400
+\ELANParticipant Isabel
+\trs teske
+\tx teske
+\mb teske
+\gn especie.pihuicho
+\ps n.
+
+\ft pihuicho
+\sound JC.IC- vida.trabajo-2013.wav 231.900 232.400
+
+\ref 101
+\ELANBegin 232.645
+\ELANEnd 233.085
+\ELANParticipant Roberto
+\trs teske
+\tx teske
+\mb teske
+\gn especie.pihuicho
+\ps n.
+
+\ft pihuicho
+\sound JC.IC- vida.trabajo-2013.wav 232.645 233.085
+
+\ref 102
+\ELANBegin 233.400
+\ELANEnd 233.780
+\ELANParticipant Juanita
+\trs tenpiske
+\tx tenpiske
+\mb tenpiske
+\gn maquisapa.macho.mascota
+\ps n.
+
+\ft (nombre propio del maquisapa)
+\sound JC.IC- vida.trabajo-2013.wav 233.400 233.780
+
+\ref 103
+\ELANBegin 233.915
+\ELANEnd 234.495
+\ELANParticipant Isabel
+\trs tenpiske
+\tx tenpiske
+\mb tenpiske
+\gn maquisapa.macho.mascota
+\ps n.
+
+\ft (nombre propio del maquisapa)
+\sound JC.IC- vida.trabajo-2013.wav 233.915 234.495
+
+\ref 104
+\ELANBegin 236.590
+\ELANEnd 237.400
+\ELANParticipant Roberto
+\trs o sea que
+\tx o sea que el
+\ft o sea que
+\sound JC.IC- vida.trabajo-2013.wav 236.590 237.400
+
+\ref 105
+\ELANBegin 238.040
+\ELANEnd 240.360
+\ELANParticipant Roberto
+\trs los los animales tenían su nombre
+\tx los los animales tenían su nombre
+\ft los los animales tenían su nombre
+\sound JC.IC- vida.trabajo-2013.wav 238.040 240.360
+
+\ref 106
+\ELANBegin 240.505
+\ELANEnd 242.595
+\ELANParticipant Isabel
+\trs sí, tenían su nombre aha
+\tx sí, tenían su nombres aha
+\ft sí, tenían su nombre ajá
+\sound JC.IC- vida.trabajo-2013.wav 240.505 242.595
+
+\ref 107
+\ELANBegin 241.045
+\ELANEnd 242.535
+\ELANParticipant Roberto
+\trs cuando eran criados
+\tx cuando eran criados
+\ft cuando eran criados
+\sound JC.IC- vida.trabajo-2013.wav 241.045 242.535
+
+\ref 108
+\ELANBegin 243.485
+\ELANEnd 244.325
+\ELANParticipant Roberto
+\trs tenpiske
+\tx tenpiske
+\mb tenpiske
+\gn maquisapa.macho.mascota
+\ps n.
+
+\ft nombre del maquisapa
+\sound JC.IC- vida.trabajo-2013.wav 243.485 244.325
+
+\ref 109
+\ELANBegin 244.630
+\ELANEnd 245.060
+\ELANParticipant Juanita
+\trs tenpiske
+\tx tenpiske
+\mb tenpiske
+\gn maquisapa.macho.mascota
+\ps n.
+
+\ft (nombre propio del maquisapa)
+\sound JC.IC- vida.trabajo-2013.wav 244.630 245.060
+
+\ref 110
+\ELANBegin 245.140
+\ELANEnd 245.660
+\ELANParticipant Isabel
+\trs tenpiske
+\tx tenpiske
+\mb tenpiske
+\gn maquisapa.macho.mascota
+\ps n.
+
+\ft (nombre propio del maquisapa)
+\sound JC.IC- vida.trabajo-2013.wav 245.140 245.660
+
+\ref 111
+\ELANBegin 246.175
+\ELANEnd 247.305
+\ELANParticipant Roberto
+\trs y
+\tx y
+\ft y
+\sound JC.IC- vida.trabajo-2013.wav 246.175 247.305
+
+\ref 112
+\ELANBegin 247.335
+\ELANEnd 247.815
+\ELANParticipant Isabel
+\trs yawaka
+\tx yawaka
+\mb yawa     =ka
+\gn huangana =NAR
+\ps n.       =clit.
+
+\ft la huangana también
+\sound JC.IC- vida.trabajo-2013.wav 247.335 247.815
+
+\ref 113
+\ELANBegin 248.070
+\ELANEnd 248.660
+\ELANParticipant Roberto
+\trs yawa
+\tx yawa
+\mb yawa
+\gn huangana
+\ps n.
+
+\ft huangana
+\sound JC.IC- vida.trabajo-2013.wav 248.070 248.660
+
+\ref 114
+\ELANBegin 248.680
+\ELANEnd 249.510
+\ELANParticipant Isabel
+\trs makoshtima
+\tx makoshtima
+\mb makoshtima
+\gn huangana.macho.mascota
+\ps n.
+
+\ft (nombre propio de huangana macho)
+\sound JC.IC- vida.trabajo-2013.wav 248.680 249.510
+
+\ref 115
+\ELANBegin 249.715
+\ELANEnd 250.435
+\ELANParticipant Juanita
+\trs makoshtima
+\tx makoshtima
+\mb makoshtima
+\gn huangana.macho.mascota
+\ps n.
+
+\ft (nombre propio de huangana macho)
+\sound JC.IC- vida.trabajo-2013.wav 249.715 250.435
+
+\ref 116
+\ELANBegin 250.510
+\ELANEnd 251.070
+\ELANParticipant Roberto
+\trs makoshtima
+\tx makoshtima
+\mb makoshtima
+\gn huangana.macho.mascota
+\ps n.
+
+\ft (nombre propio de huangana macho)
+\sound JC.IC- vida.trabajo-2013.wav 250.510 251.070
+
+\ref 117
+\ELANBegin 251.170
+\ELANEnd 251.680
+\ELANParticipant Juanita
+\trs makoshtima
+\tx makoshtima
+\mb makoshtima
+\gn huangana.macho.mascota
+\ps n.
+
+\ft (nombre propio de huangana macho)
+\sound JC.IC- vida.trabajo-2013.wav 251.170 251.680
+
+\ref 118
+\ELANBegin 252.010
+\ELANEnd 253.470
+\ELANParticipant Juanita
+\trs yawan inahon makoshtima
+\tx yawan           inahon     makoshtima
+\mb yawa     =n     iná  -hon makoshtima
+\gn huangana =GEN   criar      makoshtima
+\ps n.       =clit.            n.
+
+\ft la cria de la huangana también era makoshtima
+\sound JC.IC- vida.trabajo-2013.wav 252.010 253.470
+
+\ref 119
+\ELANBegin 253.610
+\ELANEnd 254.760
+\ELANParticipant Isabel
+\trs hembra inahon mewaraka
+\tx hembra inahon           mewaraka
+\mb hembra iná  -hon       mewaraka
+\gn hembra criar -SUJ>A:SIM huangana.hembra.mascota
+\ps n.     v.    -suf.      n.
+
+\ft cuando era hembra se llamaba mewaraka
+\sound JC.IC- vida.trabajo-2013.wav 253.610 254.760
+
+\ref 120
+\ELANBegin 255.065
+\ELANEnd 255.605
+\ELANParticipant Juanita
+\trs mewaraka
+\tx mewaraka
+\mb mewaraka
+\gn huangana.hembra.mascota
+\ps n.
+
+\ft (nombre propio de huangana hembra)
+\sound JC.IC- vida.trabajo-2013.wav 255.065 255.605
+
+\ref 121
+\ELANBegin 260.760
+\ELANEnd 264.220
+\ELANParticipant Willian
+\trs Roberto, una idea. Sería bueno hacer dialogar entre los tres.
+\tx Roberto, una idea. Sería bueno hacer dialogar entre los tres
+\ft Roberto, una idea. Sería bueno hacer dialogar entre los tres.
+\sound JC.IC- vida.trabajo-2013.wav 260.760 264.220
+
+\ref 122
+\ELANBegin 264.050
+\ELANEnd 264.370
+\ELANParticipant Roberto
+\trs Claro
+\tx Claro
+\ft Claro
+\sound JC.IC- vida.trabajo-2013.wav 264.050 264.370
+
+
+\ELANMediaURL file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC.IC- vida.trabajo-2013.mpg
+\ELANMediaMIME video/mpeg
+\ELANMediaURL file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC.IC- vida.trabajo-2013.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaExtracted file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC.IC- vida.trabajo-2013.mpg

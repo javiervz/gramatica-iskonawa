@@ -1,0 +1,389 @@
+\_sh v3.0  400  text
+
+\ref 001
+\trs tekebaini oinke
+\tx tekebaini                  oinke
+\mb teke    -bain       -i     oin    -ke
+\gn quebrar -yendo:TRAN -NOMLZ ver    -PERF(SK)
+\ps v.      -suf.       -suf.  v.ambi -suf.
+
+\ft vi que se fue rompiendo (la flecha que le habían clavado)
+\ELANBegin 0.000
+\ELANEnd 1.198
+\ELANParticipant nelita
+\sound JC.NC.IC-cancion.mono.viudo-2013.wav 0.000 1.198
+
+\ref 002
+\trs wanomabo ikai
+\tx wanomabo ikai
+\mb wanomabo ik      -ai
+\gn viudo    copula  -IMPF(SK)
+\ps n.       v.intr. -suf.
+
+\ft ahora soy viudo
+\ELANBegin 1.202
+\ELANEnd 2.409
+\ELANParticipant juanita
+\sound JC.NC.IC-cancion.mono.viudo-2013.wav 1.202 2.409
+
+\ref 003
+\trs pia tekebainkinki awinin wanonmake
+\tx pia
+\mb pia
+\gn flecha(SK)
+\ps n.
+
+\tx tekebainkinki                         awinin
+\mb teke    -bain       -kin       =ki    awi{pal.int} =n
+\gn quebrar -yendo:TRAN -SUJ>A:SIM =REP   cómo
+\ps v.      -suf.       -suf.      =clit.
+
+\tx wanomake
+\mb wanoma -ke
+\gn viudo  -PERF(SK)
+\ps n.     -suf.
+
+\ft se fue rompiendo la flecha mi mujer, ahora soy viudo
+\ELANBegin 2.409
+\ELANEnd 4.869
+\ELANParticipant juanita
+\sound JC.NC.IC-cancion.mono.viudo-2013.wav 2.409 4.869
+
+\ref 004
+\trs Aha
+\tx Aha
+\ft ajá
+\ELANBegin 4.869
+\ELANEnd 6.076
+\ELANParticipant nelita
+\sound JC.NC.IC-cancion.mono.viudo-2013.wav 4.869 6.076
+
+\ref 005
+\trs wanin tekebaini
+\tx wanin   tekebaini
+\mb wanin   teke    -bain       -i
+\gn pijuayo quebrar -yendo:TRAN -IMPF
+\ps n.      v.      -suf.       -suf.
+
+\ft se fue quebrando la flecha
+\ELANBegin 6.071
+\ELANEnd 7.549
+\ELANParticipant juanita
+\sound JC.NC.IC-cancion.mono.viudo-2013.wav 6.071 7.549
+
+\ref 006
+\trs ooo
+\tx ooo
+\mb ooo
+\gn canto.mono
+\ps ono.
+
+\ft ooo
+\ELANBegin 7.565
+\ELANEnd 8.795
+\ELANParticipant juanita
+\sound JC.NC.IC-cancion.mono.viudo-2013.wav 7.565 8.795
+
+\ref 007
+\trs wanin tekebaini
+\tx wanin   tekebaini
+\mb wanin   teke    -bain       -i
+\gn pijuayo quebrar -yendo:TRAN -IMPF
+\ps n.      v.      -suf.       -suf.
+
+\ft se fue quebrando la flecha
+\ELANBegin 8.817
+\ELANEnd 10.097
+\ELANParticipant juanita
+\sound JC.NC.IC-cancion.mono.viudo-2013.wav 8.817 10.097
+
+\ref 008
+\trs wanin tekebaini
+\tx wanin   tekebaini
+\mb wanin   teke    -bain       -i
+\gn pijuayo quebrar -yendo:TRAN -IMPF
+\ps n.      v.      -suf.       -suf.
+
+\ft se fue quebrando la flecha
+\ELANBegin 8.817
+\ELANEnd 10.097
+\ELANParticipant nelita
+\sound JC.NC.IC-cancion.mono.viudo-2013.wav 8.817 10.097
+
+\ref 009
+\trs ooo
+\tx ooo
+\mb ooo
+\gn canto.mono
+\ps ono.
+
+\ft ooo
+\ELANBegin 10.130
+\ELANEnd 11.238
+\ELANParticipant juanita
+\sound JC.NC.IC-cancion.mono.viudo-2013.wav 10.130 11.238
+
+\ref 010
+\trs ooo
+\tx ooo
+\mb ooo
+\gn canto.mono
+\ps ono.
+
+\ft ooo
+\ELANBegin 10.130
+\ELANEnd 11.238
+\ELANParticipant nelita
+\sound JC.NC.IC-cancion.mono.viudo-2013.wav 10.130 11.238
+
+\ref 011
+\trs no wanomabo
+\tx no   wanomabo
+\mb no   wanoma
+\gn 1PL  viudo
+\ps pron n.
+
+\ft nosotros somos viudos
+\ELANBegin 11.350
+\ELANEnd 14.120
+\ELANParticipant juanita
+\sound JC.NC.IC-cancion.mono.viudo-2013.wav 11.350 14.120
+
+\ref 012
+\trs ooo
+\tx ooo
+\mb ooo
+\gn canto.mono
+\ps ono.
+
+\ft ooo
+\ELANBegin 12.760
+\ELANEnd 14.120
+\ELANParticipant nelita
+\sound JC.NC.IC-cancion.mono.viudo-2013.wav 12.760 14.120
+
+\ref 013
+\trs bake noita ooo
+\tx bake  noita   ooo
+\mb bake  noitapa ooo
+\gn niño sufrir  canto.mono
+\ps n.    v.      ono.
+
+\ft nuestros hijos sufren
+\ELANBegin 14.819
+\ELANEnd 17.864
+\ELANParticipant juanita
+\sound JC.NC.IC-cancion.mono.viudo-2013.wav 14.819 17.864
+
+\ref 014
+\trs bake noita ooo
+\tx bake  noita   ooo
+\mb bake  noitapa ooo
+\gn niño sufrir  canto.mono
+\ps n.    v.      ono.
+
+\ft nuestros hijos sufren
+\ELANBegin 14.819
+\ELANEnd 17.864
+\ELANParticipant nelita
+\sound JC.NC.IC-cancion.mono.viudo-2013.wav 14.819 17.864
+
+\ref 015
+\trs bake noita no wanomabo ooo
+\tx bake  noita   no   wanomabo ooo
+\mb bake  noitapa no   wanoma   ooo
+\gn niño sufrir  1PL  viudo    canto.mono
+\ps n.    v.      pron n.       ono.
+
+\ft nosotros sufrimos por nuestros hijos y somos viudos
+\ELANBegin 17.927
+\ELANEnd 21.562
+\ELANParticipant juanita
+\sound JC.NC.IC-cancion.mono.viudo-2013.wav 17.927 21.562
+
+\ref 016
+\trs bake noita no wanomabo ooo
+\tx bake  noita   no   wanomabo ooo
+\mb bake  noitapa no   wanoma   ooo
+\gn niño sufrir  1PL  viudo    canto.mono
+\ps n.    v.      pron n.       ono.
+
+\ft nosotros sufrimos por nuestros hijos y somos viudos
+\ELANBegin 17.927
+\ELANEnd 21.562
+\ELANParticipant nelita
+\sound JC.NC.IC-cancion.mono.viudo-2013.wav 17.927 21.562
+
+\ref 017
+\trs ooo
+\tx ooo
+\mb ooo
+\gn canto.mono
+\ps ono.
+
+\ft ooo
+\ELANBegin 21.635
+\ELANEnd 22.283
+\ELANParticipant juanita
+\sound JC.NC.IC-cancion.mono.viudo-2013.wav 21.635 22.283
+
+\ref 018
+\trs wini
+\tx wini
+\mb wini       -i
+\gn llorar(SK) -IMPF
+\ps v.         -suf.
+
+\ft lloraban
+\ELANBegin 22.317
+\ELANEnd 23.488
+\ELANParticipant juanita
+\sound JC.NC.IC-cancion.mono.viudo-2013.wav 22.317 23.488
+
+\ref 019
+\trs iso wanin tekebainkinki awen awin mawata
+\tx iso       wanin
+\mb iso       wanin
+\gn maquisapa pijuayo
+\ps n.        n.
+
+\tx tekebainkinki                         awen
+\mb teke    -bain       -kin       =ki    awen
+\gn quebrar -yendo:TRAN -SUJ>A:SIM =REP   3SG:GEN
+\ps v.      -suf.       -suf.      =clit. pron
+
+\tx awin   mawata
+\mb awin   mawat     -a
+\gn esposa morir(SK) -NOMLZ
+\ps n.     v.        -suf.
+
+\ft así sufría el maquisapa cuando su mujer rompía la flecha y moría
+\ELANBegin 23.531
+\ELANEnd 27.859
+\ELANParticipant juanita
+\sound JC.NC.IC-cancion.mono.viudo-2013.wav 23.531 27.859
+
+\ref 020
+\trs ajá
+\tx ajá
+\ft ajá
+\ELANBegin 27.886
+\ELANEnd 29.774
+\ELANParticipant nelita
+\sound JC.NC.IC-cancion.mono.viudo-2013.wav 27.886 29.774
+
+\ref 021
+\trs wanin tekebainkin ooo
+\tx wanin   tekebainkin                    ooo
+\mb wanin   teke    -bain       -kin       ooo
+\gn pijuayo quebrar -yendo:TRAN -SUJ>A:SIM canto.mono
+\ps n.      v.      -suf.       -suf.      ono.
+
+\ft se fue quebrando la flecha ooo
+\ELANBegin 32.468
+\ELANEnd 35.259
+\ELANParticipant juanita
+\sound JC.NC.IC-cancion.mono.viudo-2013.wav 32.468 35.259
+
+\ref 022
+\trs wanin tekebainkin ooo
+\tx wanin   tekebainkin                    ooo
+\mb wanin   teke    -bain       -kin       ooo
+\gn pijuayo quebrar -yendo:TRAN -SUJ>A:SIM canto.mono
+\ps n.      v.      -suf.       -suf.      ono.
+
+\ft se fue quebrando la flecha ooo
+\ELANBegin 32.468
+\ELANEnd 35.259
+\ELANParticipant nelita
+\sound JC.NC.IC-cancion.mono.viudo-2013.wav 32.468 35.259
+
+\ref 023
+\trs wanomabo ooo
+\tx wanomabo ooo
+\mb wanoma   ooo
+\gn viudo    canto.mono
+\ps n.       ono.
+
+\ft ahora soy viudo
+\ELANBegin 35.301
+\ELANEnd 38.031
+\ELANParticipant juanita
+\sound JC.NC.IC-cancion.mono.viudo-2013.wav 35.301 38.031
+
+\ref 024
+\trs wanomabo ooo
+\tx wanomabo ooo
+\mb wanoma   ooo
+\gn viudo    canto.mono
+\ps n.       ono.
+
+\ft ahora soy viudo
+\ELANBegin 35.301
+\ELANEnd 38.031
+\ELANParticipant nelita
+\sound JC.NC.IC-cancion.mono.viudo-2013.wav 35.301 38.031
+
+\ref 025
+\trs bake noita ooo
+\tx bake  noita   ooo
+\mb bake  noitapa ooo
+\gn niño sufrir  canto.mono
+\ps n.    v.      ono.
+
+\ft sufrimos por nuestros hijos ooo
+\ELANBegin 38.539
+\ELANEnd 42.233
+\ELANParticipant juanita
+\sound JC.NC.IC-cancion.mono.viudo-2013.wav 38.539 42.233
+
+\ref 026
+\trs bake noita ooo
+\tx bake  noita   ooo
+\mb bake  noitapa ooo
+\gn niño sufrir  canto.mono
+\ps n.    v.      ono.
+
+\ft sufrimos por nuestros hijos ooo
+\ELANBegin 38.539
+\ELANEnd 42.233
+\ELANParticipant nelita
+\sound JC.NC.IC-cancion.mono.viudo-2013.wav 38.539 42.233
+
+\ref 027
+\trs [risas]
+\tx [risas]
+\ft [risas]
+\ELANBegin 44.906
+\ELANEnd 45.847
+\ELANParticipant juanita
+\sound JC.NC.IC-cancion.mono.viudo-2013.wav 44.906 45.847
+
+\ref 028
+\trs ya ainres
+\tx ya      ainres
+\mb ya      ain       -res
+\gn ya(CAS) ahí(MIX) -solamente
+\ps adv     adv.      -suf.
+
+\ft ya, eso es todo
+\ELANBegin 44.906
+\ELANEnd 45.847
+\ELANParticipant nelita
+\sound JC.NC.IC-cancion.mono.viudo-2013.wav 44.906 45.847
+
+\ref 029
+\trs ainres
+\tx ainres
+\ft eso es todo
+\ELANBegin 45.850
+\ELANEnd 47.093
+\ELANParticipant juanita
+\sound JC.NC.IC-cancion.mono.viudo-2013.wav 45.850 47.093
+
+
+\ELANMediaURL file:///D:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC.NC.IC-cancion.mono.viudo-2013.mpg
+\ELANMediaMIME video/mpeg
+\ELANMediaURL file:///D:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC.NC.IC-cancion.mono.viudo-2013.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaExtracted file:///D:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC.NC.IC-cancion.mono.viudo-2013.mpg

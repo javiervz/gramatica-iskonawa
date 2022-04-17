@@ -1,0 +1,1572 @@
+\_sh v3.0  740  text
+
+\ref 001
+\ELANBegin 0.570
+\ELANEnd 3.070
+\ELANParticipant Elías
+\trs ese cuento se va llamar este
+\tx ese cuento se va llamar este
+\ft
+\sound EC-cuento-henhentash-2013.wav 0.570 3.070
+
+\ref 002
+\ELANBegin 5.270
+\ELANEnd 5.970
+\ELANParticipant Elías
+\trs henhentash
+\tx henhentash
+\mb henhentash{ono}
+\gn ruido.de.ser.mítico
+\ps ***
+
+\ft "henhentash"
+\sound EC-cuento-henhentash-2013.wav 5.270 5.970
+
+\ref 003
+\ELANBegin 6.910
+\ELANParticipant Elías
+\trs henhentash
+\tx henhentash
+\mb henhentash
+\gn ruido.de.ser.mítico
+\ps ono
+
+\ft "henhentash"
+\sound EC-cuento-henhentash-2013.wav 6.910 7.640
+
+\ref 004
+\ELANBegin 9.570
+\ELANEnd 10.630
+\ELANParticipant Elías
+\trs oni ini
+\tx oni     ini
+\mb oni     ik      -ni
+\gn persona ser     -PAS.REM
+\ps n.      v.intr. -suf
+
+\ft una persona que era (así)
+\sound EC-cuento-henhentash-2013.wav 9.570 10.630
+
+\ref 005
+\ELANBegin 11.175
+\ELANEnd 12.195
+\ELANParticipant Elías
+\trs a yoshin
+\tx a   yoshin
+\mb a   yoshin
+\gn ese espíritu
+\ps dem n.
+
+\ft ese espíritu (decía)
+\sound EC-cuento-henhentash-2013.wav 11.175 12.195
+
+\ref 006
+\ELANBegin 12.300
+\ELANEnd 13.030
+\ELANParticipant Elías
+\trs henhentash
+\tx henhentash
+\mb henhentash
+\gn ruido.de.ser.mítico
+\ps ono
+
+\ft "henhentash"
+\sound EC-cuento-henhentash-2013.wav 12.300 13.030
+
+\ref 007
+\ELANBegin 15.150
+\ELANEnd 15.600
+\ELANParticipant Elías
+\trs ¿ya?
+\tx ¿ya?
+\ft ya
+\sound EC-cuento-henhentash-2013.wav 15.150 15.600
+
+\ref 008
+\ELANBegin 20.189
+\ELANEnd 22.329
+\ELANParticipant Elías
+\trs honironki ika iki westiora
+\tx honironki           ika            iki
+\mb honi       =ronki   ik      -a     ik      -i
+\gn hombre(SK) =REP(SK) ser     -NOMLZ ser     -IMPF
+\ps n.         =clit.   v.intr. -suf.  v.intr. -suf.
+
+\tx westiora
+\mb westiora
+\gn uno(SK)
+\ps num.
+
+\ft dice que había una persona
+\sound EC-cuento-henhentash-2013.wav 20.189 22.329
+
+\ref 009
+\ELANBegin 22.594
+\ELANEnd 24.984
+\ELANParticipant Elías
+\trs nena non epabo yosibo iketian
+\tx nena non         epabo         yosibo
+\mb nena no   =n     epa   =bo     yosi    =bo
+\gn ?    1PL  =GEN   padre =PLU    anciano =PLU
+\ps ?    pron =clit. n.    =clit   n.      =clit
+
+\tx iketian
+\mb ik      -ketian
+\gn ser     -SUJ.DIF:SIM
+\ps v.intr. -suf
+
+\ft cuando vivían nuestros abuelos
+\sound EC-cuento-henhentash-2013.wav 22.594 24.984
+
+\ref 010
+\ELANBegin 25.684
+\ELANEnd 27.664
+\ELANParticipant Elías
+\trs honi ika iki honiki nato
+\tx honi       ika          iki           honiki            nato
+\mb honi       ik      -a   ik      -i    honi       =ki    nato
+\gn hombre(SK) ser     -EST ser     -IMPF hombre(SK) =REP   este(SK)
+\ps n.         v.intr. -suf v.intr. -suf. n.         =clit. dem.
+
+\ft dicen que este hombre era (así)
+\sound EC-cuento-henhentash-2013.wav 25.684 27.664
+
+\ref 011
+\ELANBegin 28.169
+\ELANEnd 30.089
+\ELANParticipant Elías
+\trs yoshima ainbo boke
+\tx yoshima          ainbo boke
+\mb yoshin    =n     ainbo bo     -ke
+\gn espíritu =ERG   mujer llevar -PERF(SK)
+\ps n.        =clit. n.    v.ambi -suf.
+
+\ft el espíritu se llevó a una mujer
+\sound EC-cuento-henhentash-2013.wav 28.169 30.089
+
+\ref 012
+\ELANBegin 30.384
+\ELANEnd 30.984
+\ELANParticipant Elías
+\trs ainbi
+\tx ainbi
+\mb ain       =bi
+\gn ahí(MIX) =ENF
+\ps adv.      =clit.
+
+\ft ahí mismo
+\sound EC-cuento-henhentash-2013.wav 30.384 30.984
+
+\ref 013
+\ELANBegin 32.019
+\ELANEnd 32.609
+\ELANParticipant Elías
+\trs ainbo
+\tx ainbo
+\mb ainbo
+\gn mujer
+\ps n.
+
+\ft la mujer
+\sound EC-cuento-henhentash-2013.wav 32.019 32.609
+
+\ref 014
+\ELANBegin 33.169
+\ELANEnd 34.549
+\ELANParticipant Elías
+\trs hontokobo boa
+\tx hontokobo      boa
+\mb hontoko  =bo   bo     -a
+\gn muchacha =PLU  llevar -PERF
+\ps n.       =clit v.ambi -suf.
+
+\ft se llevó a una señorita
+\sound EC-cuento-henhentash-2013.wav 33.169 34.549
+
+\ref 015
+\ELANBegin 35.474
+\ELANEnd 36.564
+\ELANParticipant Elías
+\trs a bohonki
+\tx a   bohonki
+\mb a   bo     -hon       =ki
+\gn ese llevar -SUJ>A:SIM =REP
+\ps dem v.ambi -suf.      =clit.
+
+\ft llevándosela dice
+\sound EC-cuento-henhentash-2013.wav 35.474 36.564
+
+\ref 016
+\ELANBegin 37.764
+\ELANEnd 41.254
+\ELANParticipant Elías
+\trs ain awin ake ma a rabé ewea ma basi ewea moa a
+\tx ain       awin   ake               ma     a   rabé
+\mb ain       awin   a       -ke       ma     a   rabé
+\gn ahí(MIX) esposa hacer   -PERF(SK) ya(SK) ese dos
+\ps adv.      n.     v.tran. -suf.     adv    dem num.
+
+\tx ewea         ma     basi    ewea         moa a
+\mb ewe    -a    ma     basi    ewe    -a    moa a
+\gn vivir  -PERF ya(SK) demorar vivir  -PERF ya  ese
+\ps v.intr -suf. adv    v.intr  v.intr -suf. adv dem
+
+\ft ahí ya las hizo sus esposas y vivió con dos mujeres por bastante 
+tiempo
+\sound EC-cuento-henhentash-2013.wav 37.764 41.254
+
+\ref 017
+\ELANBegin 43.287
+\ELANEnd 44.347
+\ELANParticipant Elías
+\trs a benai
+\tx a   benai
+\mb a   bena   -i
+\gn ese buscar -IMPF
+\ps dem v.intr -suf.
+
+\ft a esas (mujeres) las buscaba
+\sound EC-cuento-henhentash-2013.wav 43.287 44.347
+
+\ref 018
+\ELANBegin 45.142
+\ELANEnd 46.392
+\ELANParticipant Elías
+\trs irabo benai
+\tx irabo  benai
+\mb irabo  bena   -i
+\gn hombre buscar -IMPF
+\ps n.     v.intr -suf.
+
+\ft un hombre las buscaba
+\sound EC-cuento-henhentash-2013.wav 45.142 46.392
+
+\ref 019
+\ELANBegin 46.932
+\ELANEnd 48.692
+\ELANParticipant Elías
+\trs bena benakin mera iki
+\tx bena   benakin           mera             iki
+\mb bena   bena   -kin       mera      -a     ik      -i
+\gn buscar buscar -SUJ>A:SIM encontrar -NOMLZ ser     -IMPF
+\ps v.intr v.intr -suf.      v.tran    -suf.  v.intr. -suf.
+
+\ft buscando mucho finalmente las encontró
+\sound EC-cuento-henhentash-2013.wav 46.932 48.692
+
+\ref 020
+\ELANBegin 48.887
+\ELANEnd 50.157
+\ELANParticipant Elías
+\trs a yoshima boa
+\tx a   yoshima          boa
+\mb a   yoshin    =n     bo     -a
+\gn ese espíritu =ERG   llevar -NOMLZ
+\ps dem n.        =clit. v.ambi -suf.
+
+\ft a las que se había llevado ese espíritu
+\sound EC-cuento-henhentash-2013.wav 48.887 50.157
+
+\ref 021
+\ELANBegin 50.727
+\ELANEnd 51.317
+\ELANParticipant Elías
+\trs ha
+\tx ha
+\mb ha
+\gn ese(SK)
+\ps dem
+
+\ft a esas
+\sound EC-cuento-henhentash-2013.wav 50.727 51.317
+
+\ref 022
+\ELANBegin 51.557
+\ELANEnd 52.347
+\ELANParticipant Elías
+\trs a hontoko
+\tx a   hontoko
+\mb a   hontoko
+\gn ese muchacha
+\ps dem n.
+
+\ft a esas señoritas
+\sound EC-cuento-henhentash-2013.wav 51.557 52.347
+
+\ref 023
+\ELANBegin 53.107
+\ELANEnd 54.107
+\ELANParticipant Elías
+\trs merahonki
+\tx merahonki
+\mb mera      -hon       =ki
+\gn encontrar -SUJ>A:SIM =REP
+\ps v.tran    -suf.      =clit.
+
+\ft encontrándolas
+\sound EC-cuento-henhentash-2013.wav 53.107 54.107
+
+\ref 024
+\ELANBegin 54.402
+\ELANEnd 57.002
+\ELANParticipant Elías
+\trs ain baneta ma abetan ike
+\tx ain       baneta        ma     abetan
+\mb ain       banet    -a   ma     a   =betan
+\gn ahí(MIX) quedarse -EST ya(SK) ese =COM
+\ps adv.      v.intr.  -suf adv    dem =clit.
+
+\tx ike
+\mb ik      -ke
+\gn ser     -PERF(SK)
+\ps v.intr. -suf.
+
+\ft se quedó ahí, con ellas
+\sound EC-cuento-henhentash-2013.wav 54.402 57.002
+
+\ref 025
+\ELANBegin 57.387
+\ELANEnd 58.927
+\ELANParticipant Elías
+\trs yoshima onayama iki
+\tx yoshima          onayama                iki
+\mb yoshin    =n     onan   -yama    -a     ik      -i
+\gn espíritu =ERG   saber  -NEG(SK) -NOMLZ ser     -IMPF
+\ps n.        =clit. v.tran -suf.    -suf.  v.intr. -suf.
+
+\ft el espíritu no sabía
+\sound EC-cuento-henhentash-2013.wav 57.387 58.927
+
+\ref 026
+\ELANBegin 59.452
+\ELANEnd 60.442
+\ELANParticipant Elías
+\trs yoshima
+\tx yoshima
+\mb yoshin    =n
+\gn espíritu =ERG
+\ps n.        =clit.
+
+\ft el espíritu
+\sound EC-cuento-henhentash-2013.wav 59.452 60.442
+
+\ref 027
+\ELANBegin 61.212
+\ELANEnd 62.172
+\ELANParticipant Elías
+\trs haskatianki
+\tx haskatianki
+\mb haska    =tian  =ki
+\gn así(SK) =TEMP  =REP
+\ps adv.     =clit. =clit.
+
+\ft cuando hizo eso
+\sound EC-cuento-henhentash-2013.wav 61.212 62.172
+
+\ref 028
+\ELANBegin 64.947
+\ELANEnd 68.477
+\ELANParticipant Elías
+\trs yoshin hain ike kai yoshima awen awin
+\tx yoshin    hain     ike                kai          yoshima          awen    awin
+\mb yoshin    hain     ik      -ke        ka     -i    yoshin    =n     awen    awin
+\gn espíritu ahí(SK) ser     -NOMLZ(SK) ir     -IMPF espíritu =ERG   3SG:GEN esposa
+\ps n.        adv.     v.intr. -suf.      v.intr -suf. n.        =clit. pron    n.
+
+\ft cuando después de estar allí, el espirítu se iba, (les decía) a su esposa
+\sound EC-cuento-henhentash-2013.wav 64.947 68.477
+
+\ref 029
+\ELANBegin 68.877
+\ELANEnd 69.697
+\ELANParticipant Elías
+\trs awin yoyai
+\tx awin   yoyai
+\mb awin   yoya   -i
+\gn esposa decir  -IMPF
+\ps n.     v.tran -suf.
+
+\ft un día le dijo a su mujer
+\sound EC-cuento-henhentash-2013.wav 68.877 69.697
+
+\ref 030
+\ELANBegin 70.382
+\ELANEnd 71.902
+\ELANParticipant Elías
+\trs ainbi koma koma
+\tx ainbi            koma   koma
+\mb ain       =bi    koma   koma
+\gn ahí(MIX) =ENF   perdiz perdiz
+\ps adv.      =clit. n.     n.
+
+\ft por ahí (había) muchas perdíces
+\sound EC-cuento-henhentash-2013.wav 70.382 71.902
+
+\ref 031
+\ELANBegin 72.317
+\ELANEnd 74.357
+\ELANParticipant Elías
+\trs tsakabatanon koma pianbatanon
+\tx tsakabatanon                   koma   pianbatanon
+\mb tsaka       -ba    -tan  -non  koma   pian    -ba    -tan  -non
+\gn flechar(SK) -ahora -ANDA -PROP perdiz flechar -ahora -ANDA -PROP
+\ps v.tran      -suf.  -suf. -suf. n.     v.tran  -suf.  -suf. -suf.
+
+\ft voy a ir a flecharlas
+\sound EC-cuento-henhentash-2013.wav 72.317 74.357
+
+\ref 032
+\ELANBegin 75.397
+\ELANEnd 77.087
+\ELANParticipant Elías
+\trs kahonki beai koma rabé
+\tx kahonki                  beai             koma   rabé
+\mb ka     -hon       =ki    be     -ai       koma   rabé
+\gn ir     -SUJ>A:SIM =REP   traer  -IMPF(SK) perdiz dos
+\ps v.intr -suf.      =clit. v.tran -suf.     n.     num.
+
+\ft yendo trajo dos perdices
+\sound EC-cuento-henhentash-2013.wav 75.397 77.087
+
+\ref 033
+\ELANBegin 79.217
+\ELANEnd 80.567
+\ELANParticipant Elías
+\trs beketian yoshima
+\tx beketian            yoshima
+\mb be     -ketian      yoshin    =n
+\gn traer  -SUJ.DIF:SIM espíritu =ERG
+\ps v.tran -suf         n.        =clit.
+
+\ft cuando el espíritu trajo (las perdices)
+\sound EC-cuento-henhentash-2013.wav 79.217 80.567
+
+\ref 034
+\ELANBegin 81.207
+\ELANEnd 83.267
+\ELANParticipant Elías
+\trs hetei hetehon hetei
+\tx hetei        hetehon           hetei
+\mb hete   -i    hete   -hon       hete   -i
+\gn oler   -IMPF oler   -SUJ>A:SIM oler   -IMPF
+\ps v.ambi -suf. v.ambi -suf.      v.ambi -suf.
+
+\ft empezó a oler y oler (por todos lados)
+\sound EC-cuento-henhentash-2013.wav 81.207 83.267
+
+\ref 035
+\ELANBegin 84.762
+\ELANEnd 86.532
+\ELANParticipant Elías
+\trs nawachá oama iki nawachá
+\tx nawachá                        oama                iki           nawachá
+\mb nawa                   -chá    o     -a     ma     ik      -i    nawa         -chá
+\gn persona.de.otro.pueblo -DIM(SK) venir -NOMLZ ya(SK) ser     -IMPF no.indígena -DIM(SK)
+\ps n.                     -suf.    v.    -suf.  adv    v.intr. -suf. n.           -suf.
+
+\ft ¿no hay venido mestizos?
+\sound EC-cuento-henhentash-2013.wav 84.762 86.532
+
+\ref 036
+\ELANBegin 87.912
+\ELANEnd 89.402
+\ELANParticipant Elías
+\trs nawachá onayamake
+\tx nawachá                        onayamake
+\mb nawa                   -chá    onan   -yama    -ke
+\gn persona.de.otro.pueblo -DIM(SK) saber  -NEG(SK) -PERF(SK)
+\ps n.                     -suf.    v.tran -suf.    -suf.
+
+\ft ¿mestizos? No lo sé (dijo la mujer)
+\sound EC-cuento-henhentash-2013.wav 87.912 89.402
+
+\ref 037
+\ELANBegin 89.922
+\ELANEnd 92.040
+\ELANParticipant Elías
+\trs neno nawachá oke nawachá
+\tx neno  nawachá                        oke             nawachá
+\mb neno  nawa                   -chá    o     -ke       nawa                   -chá
+\gn aquí persona.de.otro.pueblo -DIM(SK) venir -PERF(SK) persona.de.otro.pueblo -DIM(SK)
+\ps adv.  n.                     -suf.    v.    -suf.     n.                     -suf.
+
+\ft acá ha venido un mestizo
+\sound EC-cuento-henhentash-2013.wav 89.922 92.040
+
+\ref 038
+\ELANBegin 93.861
+\ELANEnd 94.361
+\ELANParticipant Elías
+\trs neno
+\tx neno
+\mb neno
+\gn aquí
+\ps adv.
+
+\ft aquí
+\sound EC-cuento-henhentash-2013.wav 93.861 94.361
+
+\ref 039
+\ELANBegin 94.686
+\ELANEnd 95.990
+\ELANParticipant Elías
+\trs a yoshinma kawe
+\tx a   yoshinma         kawe
+\mb a   yoshin    ma     ka     -we
+\gn ese espíritu ya(SK) ir     -IMP(SK)
+\ps dem n.        adv    v.intr -suf.
+
+\ft ese espíritu (dijo) "vamos"
+\sound EC-cuento-henhentash-2013.wav 94.686 95.990
+
+\ref 040
+\ELANBegin 96.446
+\ELANEnd 98.686
+\ELANParticipant Elías
+\trs entash entash entash entash
+\tx entash                      entash                      entash                      entash
+\mb entash                      entash                      entash                      entash
+\gn sonido.movimiento.espíritu sonido.movimiento.espíritu sonido.movimiento.espíritu sonido.movimiento.espíritu
+\ps ono                         ono                         ono                         ono
+
+\ft (onomatopeya del espíritu)
+\sound EC-cuento-henhentash-2013.wav 96.446 98.686
+
+\ref 041
+\ELANBegin 99.791
+\ELANEnd 100.641
+\ELANParticipant Elías
+\trs bene heteai
+\tx bene  heteai
+\mb bene  hete   -ai
+\gn macho oler   -IMPF(SK)
+\ps adj.  v.ambi -suf.
+
+\ft pero entonces olió al hombre
+\sound EC-cuento-henhentash-2013.wav 99.791 100.641
+
+\ref 042
+\ELANBegin 101.421
+\ELANEnd 102.241
+\ELANParticipant Elías
+\trs nenobiri
+\tx nenobiri
+\mb neno  =bi    =ri
+\gn aquí =ENF   =CON
+\ps adv.  =clit. =clit
+
+\ft "aquí mismo"
+\sound EC-cuento-henhentash-2013.wav 101.421 102.241
+
+\ref 043
+\ELANBegin 104.146
+\ELANEnd 107.210
+\ELANParticipant Elías
+\trs nenobi riki entash entash entash entash
+\tx nenobi       riki    entash                      entash                      entash                      entash
+\mb neno  =bi    riki    entash                      entash                      entash                      entash
+\gn aquí =ENF   COP(SK) sonido.movimiento.espíritu sonido.movimiento.espíritu sonido.movimiento.espíritu sonido.movimiento.espíritu
+\ps adv.  =clit. part.   ono                         ono                         ono                         ono
+
+\ft "aquí mismo" (onomatopeya del espíritu)
+\sound EC-cuento-henhentash-2013.wav 104.146 107.210
+
+\ref 044
+\ELANBegin 107.743
+\ELANEnd 109.113
+\ELANParticipant Elías
+\trs aki oni ainbi
+\tx aki        oni     ainbi
+\mb a   =ki    oni     ain       =bi
+\gn ese =REP   persona ahí(MIX) =ENF
+\ps dem =clit. n.      adv.      =clit.
+
+\ft ahí nomás estaba ese (hombre)
+\sound EC-cuento-henhentash-2013.wav 107.743 109.113
+
+\ref 045
+\ELANBegin 110.583
+\ELANEnd 111.713
+\ELANParticipant Elías
+\trs haskaketian nato
+\tx haskaketian           nato
+\mb haska    -ketian      nato
+\gn así(SK) -SUJ.DIF:SIM este(SK)
+\ps adv.     -suf         dem.
+
+\ft de esa forma, este
+\sound EC-cuento-henhentash-2013.wav 110.583 111.713
+
+\ref 046
+\ELANBegin 112.083
+\ELANEnd 112.573
+\ELANParticipant Elías
+\trs ha
+\tx ha
+\mb ha
+\gn ese(SK)
+\ps dem
+
+\ft ese
+\sound EC-cuento-henhentash-2013.wav 112.083 112.573
+
+\ref 047
+\ELANBegin 113.603
+\ELANEnd 114.373
+\ELANParticipant Elías
+\trs oniki
+\tx oniki
+\mb oni     =ki
+\gn persona =REP
+\ps n.      =clit.
+
+\ft hombre
+\sound EC-cuento-henhentash-2013.wav 113.603 114.373
+
+\ref 048
+\ELANBegin 115.793
+\ELANEnd 116.403
+\ELANParticipant Elías
+\trs ishtoke
+\tx ishtoke
+\mb ishto      -ke
+\gn correr(SK) -PERF(SK)
+\ps v.         -suf.
+
+\ft corrió
+\sound EC-cuento-henhentash-2013.wav 115.793 116.403
+
+\ref 049
+\ELANBegin 118.153
+\ELANEnd 121.853
+\ELANParticipant Elías
+\trs ishtoketian yoshima chibanai yoshin kai a chibanai a chonbi
+\tx ishtoketian             yoshima          chibanai         yoshin    kai          a
+\mb ishto      -ketian      yoshin    =n     chiban -ai       yoshin    ka     -i    a
+\gn correr(SK) -SUJ.DIF:SIM espíritu =ERG   seguir -IMPF(SK) espíritu ir     -IMPF ese
+\ps v.         -suf         n.        =clit. v.     -suf.     n.        v.intr -suf. dem
+
+\tx chibanai         a   chonbi
+\mb chiban -ai       a   chonbi
+\gn seguir -IMPF(SK) ese detrás.de
+\ps v.     -suf.     dem post.
+
+\ft cuando corrió el espíritu lo siguió detrás suyo, diciendo "está 
+escapando"
+\sound EC-cuento-henhentash-2013.wav 118.153 121.853
+
+\ref 050
+\ELANBegin 122.733
+\ELANEnd 125.453
+\ELANParticipant Elías
+\trs entash entash entash entash
+\tx entash                      entash                      entash                      entash
+\mb entash                      entash                      entash                      entash
+\gn sonido.movimiento.espíritu sonido.movimiento.espíritu sonido.movimiento.espíritu sonido.movimiento.espíritu
+\ps ono                         ono                         ono                         ono
+
+\ft (onomatopeya del espíritu)
+\sound EC-cuento-henhentash-2013.wav 122.733 125.453
+
+\ref 051
+\ELANBegin 126.603
+\ELANEnd 127.183
+\ELANParticipant Elías
+\trs ain
+\tx ain
+\mb ain
+\gn entonces(MIX)
+\ps conec.
+
+\ft entonces
+\sound EC-cuento-henhentash-2013.wav 126.603 127.183
+
+\ref 052
+\ELANBegin 127.428
+\ELANEnd 128.468
+\ELANParticipant Elías
+\trs ma nokoke
+\tx ma     nokoke
+\mb ma     noko   -ke
+\gn ya(SK) llegar -PERF(SK)
+\ps adv    v.     -suf.
+
+\ft ya lo alcanzó
+\sound EC-cuento-henhentash-2013.wav 127.428 128.468
+
+\ref 053
+\ELANBegin 129.053
+\ELANEnd 129.833
+\ELANParticipant Elías
+\trs nokohonke
+\tx nokohonke
+\mb noko   -hon  -ke
+\gn llegar -MAL  -NOMLZ(SK)
+\ps v.     -suf. -suf.
+
+\ft cuando lo alcanzó
+\sound EC-cuento-henhentash-2013.wav 129.053 129.833
+
+\ref 054
+\ELANBegin 131.108
+\ELANEnd 132.418
+\ELANParticipant Elías
+\trs neno mahkoro aki
+\tx neno  mahkoro aki
+\mb neno  mahkoro ak      -i
+\gn aquí pelacho hacer   -IMPF
+\ps adv.  adj.    v.tran. -suf.
+
+\ft aquí se había cortado el pelo
+\sound EC-cuento-henhentash-2013.wav 131.108 132.418
+
+\ref 055
+\ELANBegin 132.968
+\ELANEnd 133.708
+\ELANParticipant Elías
+\trs mahkoroa
+\tx mahkoroa
+\mb mahkoro -a
+\gn pelacho -PERF
+\ps adj.    -suf.
+
+\ft se había cortado el pelo
+\sound EC-cuento-henhentash-2013.wav 132.968 133.708
+
+\ref 056
+\ELANBegin 134.193
+\ELANEnd 134.853
+\ELANParticipant Elías
+\trs mahkoro
+\tx mahkoro
+\mb mahkoro
+\gn pelacho
+\ps adj.
+
+\ft (estaba) calvo
+\sound EC-cuento-henhentash-2013.wav 134.193 134.853
+
+\ref 057
+\ELANBegin 135.748
+\ELANEnd 137.908
+\ELANParticipant Elías
+\trs ainki mia awi ikah ikari
+\tx ainki            mia         awi     ikah               ikari
+\mb ain       =ki    mia         awi     ik      -ah        ik      -a    =ri
+\gn ahí(MIX) =REP   2SG.ABS(SK) cómo   ser     -SUJ>S:SIM ser     -PERF =CON
+\ps adv.      =clit. pron        pal.int v.intr. -suf.      v.intr. -suf. =clit
+
+\ft Entonces, (el espíritu) le preguntó ¿cómo has cortado tu pelo?
+\sound EC-cuento-henhentash-2013.wav 135.748 137.908
+
+\ref 058
+\ELANBegin 139.273
+\ELANEnd 140.843
+\ELANParticipant Elías
+\trs mari hetan ika riki ea
+\tx mari   hetan        ika           riki    ea
+\mb mari   heta  =n     ik      -a    riki    ea
+\gn añuje muela =INST  ser     -PERF COP(SK) 1SG.ABS(SK)
+\ps n.     n.    =clit. v.intr. -suf. part.   pron.
+
+\ft "lo he hecho con diente de añuje", le dice el hombre
+\sound EC-cuento-henhentash-2013.wav 139.273 140.843
+
+\ref 059
+\ELANBegin 142.283
+\ELANEnd 145.123
+\ELANParticipant Elías
+\trs ea akin ma akin ma akin
+\tx ea          akin               ma     akin               ma     akin
+\mb ea          ak      -kin       ma     ak      -kin       ma     ak      -kin
+\gn 1SG.ABS(SK) hacer   -SUJ>A:SIM ya(SK) hacer   -SUJ>A:SIM ya(SK) hacer   -SUJ>A:SIM
+\ps pron.       v.tran. -suf.      adv    v.tran. -suf.      adv    v.tran. -suf.
+
+\ft "hazme ya, hazme ya"
+\sound EC-cuento-henhentash-2013.wav 142.283 145.123
+
+\ref 060
+\ELANBegin 146.595
+\ELANEnd 147.295
+\ELANParticipant Elías
+\trs mia anon
+\tx mia         anon
+\mb mia         ak      -non
+\gn 2SG.ABS(SK) hacer   -PROP
+\ps pron        v.tran. -suf.
+
+\ft "te voy a hacer"
+\sound EC-cuento-henhentash-2013.wav 146.595 147.295
+
+\ref 061
+\ELANBegin 149.020
+\ELANEnd 152.210
+\ELANParticipant Elías
+\trs ha yoshin entash entash entash kahon
+\tx ha      yoshin    entash                      entash                      entash
+\mb ha      yoshin    entash                      entash                      entash
+\gn ese(SK) espíritu sonido.movimiento.espíritu sonido.movimiento.espíritu sonido.movimiento.espíritu
+\ps dem     n.        ono                         ono                         ono
+
+\tx kahon
+\mb ka     -hon
+\gn ir     -SUJ>A:SIM
+\ps v.intr -suf.
+
+\ft ese espíritu [onomatopeya del espíritu] yendo
+\sound EC-cuento-henhentash-2013.wav 149.020 152.210
+
+\ref 062
+\ELANBegin 153.390
+\ELANEnd 154.440
+\ELANParticipant Elías
+\trs mari iatanke
+\tx mari   iatanke
+\mb mari   ia     -tan  -ke
+\gn añuje cargar -ANDA -PERF(SK)
+\ps n.     v.     -suf. -suf.
+
+\ft se fue cargando al añuje
+\sound EC-cuento-henhentash-2013.wav 153.390 154.440
+
+\ref 063
+\ELANBegin 154.560
+\ELANEnd 157.790
+\ELANParticipant Elías
+\trs ha piosh piosh piosh piosh piosh
+\tx ha      piosh        piosh        piosh        piosh        piosh
+\mb ha      piosh        piosh        piosh        piosh        piosh
+\gn ese(SK) grito.añuje grito.añuje grito.añuje grito.añuje grito.añuje
+\ps dem     ono          ono          ono          ono          ono
+
+\ft ese [onomatopeya del añuje]
+\sound EC-cuento-henhentash-2013.wav 154.560 157.790
+
+\ref 064
+\ELANBegin 159.340
+\ELANEnd 161.710
+\ELANParticipant Elías
+\trs basimabi kai entash entash entash
+\tx basimabi              kai          entash                      entash
+\mb basi    ma     =bi    ka     -i    entash                      entash
+\gn demorar ya(SK) =ENF   ir     -IMPF sonido.movimiento.espíritu sonido.movimiento.espíritu
+\ps v.intr  adv    =clit. v.intr -suf. ono                         ono
+
+\tx entash
+\mb entash
+\gn sonido.movimiento.espíritu
+\ps ono
+
+\ft se fue sin demorar
+\sound EC-cuento-henhentash-2013.wav 159.340 161.710
+
+\ref 065
+\ELANBegin 162.660
+\ELANEnd 163.740
+\ELANParticipant Elías
+\trs beh oni oke
+\tx beh               oni     oke
+\mb be     -ah        oni     o     -ke
+\gn traer  -SUJ>S:SIM persona venir -PERF(SK)
+\ps v.tran -suf.      n.      v.    -suf.
+
+\ft trayendo vino el hombre
+\sound EC-cuento-henhentash-2013.wav 162.660 163.740
+
+\ref 066
+\ELANBegin 164.595
+\ELANEnd 165.495
+\ELANParticipant Elías
+\trs ea awe
+\tx ea          awe
+\mb ea          ak      -we
+\gn 1SG.ABS(SK) hacer   -IMP(SK)
+\ps pron.       v.tran. -suf.
+
+\ft "¡hazme!"
+\sound EC-cuento-henhentash-2013.wav 164.595 165.495
+
+\ref 067
+\ELANBegin 166.350
+\ELANEnd 167.320
+\ELANParticipant Elías
+\trs tenewe
+\tx tenewe
+\mb tene           -we
+\gn soportar.dolor -IMP(SK)
+\ps v.             -suf.
+
+\ft "¡aguanta!"
+\sound EC-cuento-henhentash-2013.wav 166.350 167.320
+
+\ref 068
+\ELANBegin 169.695
+\ELANEnd 170.585
+\ELANParticipant Elías
+\trs mari hetan
+\tx mari   hetan
+\mb mari   heta  =n
+\gn añuje muela =INST
+\ps n.     n.    =clit.
+
+\ft con el diente del añuje
+\sound EC-cuento-henhentash-2013.wav 169.695 170.585
+
+\ref 069
+\ELANBegin 170.641
+\ELANEnd 171.891
+\ELANParticipant Elías
+\trs res res res
+\tx res            res            res
+\mb res            res            res
+\gn ideofono.corte ideofono.corte ideofono.corte
+\ps ideo.          ideo.          ideo.
+
+\ft [ideófono del corte]
+\sound EC-cuento-henhentash-2013.wav 170.641 171.891
+
+\ref 070
+\ELANBegin 173.271
+\ELANEnd 176.581
+\ELANParticipant Elías
+\trs ainki arish arish arish arish  tenewe tenewe
+\tx ainki                arish arish arish arish tenewe                  tenewe
+\mb ain           =ki    arish arish arish arish tene           -we      tene           -we
+\gn entonces(MIX) =REP   dolor dolor dolor dolor soportar.dolor -IMP(SK) soportar.dolor -IMP(SK)
+\ps conec.        =clit. intj. intj. intj. intj. v.             -suf.    v.             -suf.
+
+\ft de ahí [exclamación de dolor] "¡aguanta!" "¡aguanta!"
+\sound EC-cuento-henhentash-2013.wav 173.271 176.581
+
+\ref 071
+\ELANBegin 177.411
+\ELANEnd 178.631
+\ELANParticipant Elías
+\trs res res res
+\tx res            res            res
+\mb res            res            res
+\gn ideofono.corte ideofono.corte ideofono.corte
+\ps ideo.          ideo.          ideo.
+
+\ft [onomatopeya del corte]
+\sound EC-cuento-henhentash-2013.wav 177.411 178.631
+
+\ref 072
+\ELANBegin 180.696
+\ELANEnd 181.356
+\ELANParticipant Elías
+\trs yoshin
+\tx yoshin
+\mb yoshin
+\gn espíritu
+\ps n.
+
+\ft el espíritu
+\sound EC-cuento-henhentash-2013.wav 180.696 181.356
+
+\ref 073
+\ELANBegin 181.661
+\ELANEnd 184.671
+\ELANParticipant Elías
+\trs yoshinki arish arish arish arish arish arish arish arish
+\tx yoshinki         arish arish arish arish arish arish arish arish
+\mb yoshin    =ki    arish arish arish arish arish arish arish arish
+\gn espíritu =REP   dolor dolor dolor dolor dolor dolor dolor dolor
+\ps n.        =clit. intj. intj. intj. intj. intj. intj. intj. intj.
+
+\ft el espíritu [exclamación de dolor]
+\sound EC-cuento-henhentash-2013.wav 181.661 184.671
+
+\ref 074
+\ELANBegin 186.011
+\ELANEnd 187.731
+\ELANParticipant Elías
+\trs tenewe a imiki
+\tx tenewe                  a   imiki
+\mb tene           -we      a   imi    =ki
+\gn soportar.dolor -IMP(SK) ese sangre =REP
+\ps v.             -suf.    dem n.     =clit.
+
+\ft "¡aguanta!" y la sangre (empezó a salir)
+\sound EC-cuento-henhentash-2013.wav 186.011 187.731
+
+\ref 075
+\ELANBegin 188.821
+\ELANEnd 189.921
+\ELANParticipant Elías
+\trs mia iatanbanon
+\tx mia         iatanbanon
+\mb mia         ia     -tan  -ba    -non
+\gn 2SG.ABS(SK) cargar -ANDA -ahora -PROP
+\ps pron        v.     -suf. -suf.  -suf.
+
+\ft te voy a agarrar
+\sound EC-cuento-henhentash-2013.wav 188.821 189.921
+
+\ref 076
+\ELANBegin 191.086
+\ELANEnd 192.176
+\ELANParticipant Elías
+\trs ras
+\tx ras
+\mb ras
+\gn ideófono.arrancar
+\ps ideo.
+
+\ft [ideófono de arrancar]
+\sound EC-cuento-henhentash-2013.wav 191.086 192.176
+
+\ref 077
+\ELANBegin 193.566
+\ELANEnd 195.126
+\ELANParticipant Elías
+\trs kikin mapo haobicho
+\tx kikin          mapo   haobicho
+\mb kikin          mapo   hao   =bicho
+\gn verdaderamente cabeza hueso =solamente
+\ps adv            n.     n.    =suf.
+
+\ft su cabeza le ha quedado puro hueso
+\sound EC-cuento-henhentash-2013.wav 193.566 195.126
+
+\ref 078
+\ELANBegin 196.731
+\ELANEnd 198.251
+\ELANParticipant Elías
+\trs onai waka
+\tx onai waka
+\mb onai waka
+\gn ?    río
+\ps ?    n.
+
+\ft (se fue) a un río
+\sound EC-cuento-henhentash-2013.wav 196.731 198.251
+
+\ref 079
+\ELANBegin 198.676
+\ELANEnd 199.586
+\ELANParticipant Elías
+\trs wakakama
+\tx wakakama
+\mb waka =kama
+\gn río =LIM
+\ps n.   =clit.
+
+\ft hasta el río
+\sound EC-cuento-henhentash-2013.wav 198.676 199.586
+
+\ref 080
+\ELANBegin 199.876
+\ELANEnd 200.876
+\ELANParticipant Elías
+\trs ain kahonki
+\tx ain       kahonki
+\mb ain       ka     -hon       =ki
+\gn ahí(MIX) ir     -SUJ>A:SIM =REP
+\ps adv.      v.intr -suf.      =clit.
+
+\ft yendo hasta allá
+\sound EC-cuento-henhentash-2013.wav 199.876 200.876
+
+\ref 081
+\ELANBegin 201.841
+\ELANEnd 203.941
+\ELANParticipant Elías
+\trs ain katan ain katan
+\tx ain       katan        ain       katan
+\mb ain       ka     -tan  ain       ka     -tan
+\gn ahí(MIX) ir     -ANDA ahí(MIX) ir     -ANDA
+\ps adv.      v.intr -suf. adv.      v.intr -suf.
+
+\ft "ahí anda", "ahí anda"
+\sound EC-cuento-henhentash-2013.wav 201.841 203.941
+
+\ref 082
+\ELANBegin 205.276
+\ELANEnd 206.286
+\ELANParticipant Elías
+\trs ha yoshin
+\tx ha      yoshin
+\mb ha      yoshin
+\gn ese(SK) espíritu
+\ps dem     n.
+
+\ft ese espírituº
+\sound EC-cuento-henhentash-2013.wav 205.276 206.286
+
+\ref 083
+\ELANBegin 208.046
+\ELANEnd 208.676
+\ELANParticipant Elías
+\trs koh
+\tx koh
+\mb koh
+\gn idéofono.caída.cuerpo.agua
+\ps ideo.
+
+\ft [onomatopeya de saltar al agua]
+\sound EC-cuento-henhentash-2013.wav 208.046 208.676
+
+\ref 084
+\ELANBegin 210.006
+\ELANEnd 211.246
+\ELANParticipant Elías
+\trs a yoshimaki
+\tx a   yoshimaki
+\mb a   yoshin    =n     =ki
+\gn ese espíritu =ERG   =REP
+\ps dem n.        =clit. =clit.
+
+\ft ese espíritu ya
+\sound EC-cuento-henhentash-2013.wav 210.006 211.246
+
+\ref 085
+\ELANBegin 212.291
+\ELANEnd 215.231
+\ELANParticipant Elías
+\trs teneyamakin arish arish arish arish
+\tx teneyamakin                        arish arish arish arish
+\mb tene           -yama    -kin       arish arish arish arish
+\gn soportar.dolor -NEG(SK) -SUJ>A:SIM dolor dolor dolor dolor
+\ps v.             -suf.    -suf.      intj. intj. intj. intj.
+
+\ft no aguataba el dolor [onomatopeya del dolor]
+\sound EC-cuento-henhentash-2013.wav 212.291 215.231
+
+\ref 086
+\ELANBegin 215.586
+\ELANEnd 217.276
+\ELANParticipant Elías
+\trs anon katanwe a otra vez
+\tx anon          katanwe               a   otra vez
+\mb ak      -non  ka     -tan  -we      a   otra vez
+\gn hacer   -PROP ir     -ANDA -IMP(SK) ese otra.vez(CAS)
+\ps v.tran. -suf. v.intr -suf. -suf.    dem adv.
+
+\ft ¡por ahí andate nomás otra vez!
+\sound EC-cuento-henhentash-2013.wav 215.586 217.276
+
+\ref 087
+\ELANBegin 217.566
+\ELANEnd 218.846
+\ELANParticipant Elías
+\trs karu akin toh
+\tx karu  akin               toh
+\mb karu  ak      -kin       toh
+\gn leña hacer   -SUJ>A:SIM ideófono.cortar.algo.duro
+\ps n.    v.tran. -suf.      ideo.
+
+\ft y se quedó ahi cortando su leña
+\sound EC-cuento-henhentash-2013.wav 217.566 218.846
+
+\ref 088
+\ELANBegin 221.410
+\ELANEnd 222.980
+\ELANParticipant Elías
+\trs arish arish arish arish
+\tx arish arish arish arish
+\mb arish arish arish arish
+\gn dolor dolor dolor dolor
+\ps intj. intj. intj. intj.
+
+\ft [onomatopeya del dolor]
+\sound EC-cuento-henhentash-2013.wav 221.410 222.980
+
+\ref 089
+\ELANBegin 223.940
+\ELANEnd 224.920
+\ELANParticipant Elías
+\trs aki oni
+\tx aki           oni
+\mb ak      -i    oni
+\gn hacer   -IMPF persona
+\ps v.tran. -suf. n.
+
+\ft así es ese hombre
+\sound EC-cuento-henhentash-2013.wav 223.940 224.920
+
+\ref 090
+\ELANBegin 228.252
+\ELANEnd 229.842
+\ELANParticipant Elías
+\trs ishtonke chitoma
+\tx ishtonke             chitoma
+\mb ishto      -ke       chitoma
+\gn correr(SK) -PERF(SK) lejos
+\ps v.         -suf.     adv.
+
+\ft corrió lejos
+\sound EC-cuento-henhentash-2013.wav 228.252 229.842
+
+\ref 091
+\ELANBegin 231.710
+\ELANEnd 232.660
+\ELANParticipant Elías
+\trs hasta ahí nomás es
+\tx hasta ahí nomás es
+\ft hasta ahí nomás es
+\sound EC-cuento-henhentash-2013.wav 231.710 232.660
+
+\ref 092
+\ELANBegin 234.300
+\ELANEnd 235.660
+\ELANParticipant Roberto
+\trs y de qué trataba ese cuento?
+\tx y de qué trataba ese cuento?
+\ft y de qué trataba ese cuento?
+\sound EC-cuento-henhentash-2013.wav 234.300 235.660
+
+\ref 093
+\ELANBegin 235.380
+\ELANEnd 236.770
+\ELANParticipant Elías
+\trs ese cuento era este
+\tx ese cuento era este
+\ft ese cuento era este
+\sound EC-cuento-henhentash-2013.wav 235.380 236.770
+
+\ref 094
+\ELANBegin 237.680
+\ELANEnd 239.050
+\ELANParticipant Elías
+\trs de un hombre dice era eh
+\tx de un hombre dice era eh
+\ft de un hombre dice era eh
+\sound EC-cuento-henhentash-2013.wav 237.680 239.050
+
+\ref 095
+\ELANBegin 240.130
+\ELANEnd 241.340
+\ELANParticipant Elías
+\trs era bien peluqueado
+\tx era bien peluqueado
+\ft era bien peluqueado
+\sound EC-cuento-henhentash-2013.wav 240.130 241.340
+
+\ref 096
+\ELANBegin 241.850
+\ELANEnd 242.930
+\ELANParticipant Elías
+\trs bien peluqueadito
+\tx bien peluqueadito
+\ft bien peluqueadito
+\sound EC-cuento-henhentash-2013.wav 241.850 242.930
+
+\ref 097
+\ELANBegin 244.883
+\ELANEnd 248.833
+\ELANParticipant Elías
+\trs y juntos le ha encontrado pues ahí el hombre
+\tx y juntos le ha encontrado pues ahí el hombre
+\ft y juntos le ha encontrado pues ahí el hombre
+\sound EC-cuento-henhentash-2013.wav 244.883 248.833
+
+\ref 098
+\ELANBegin 250.113
+\ELANEnd 253.703
+\ELANParticipant Elías
+\trs el hombre el diablo quería peluquearse
+\tx el hombre el diablo quería peluquearse
+\ft el hombre el diablo quería peluquearse
+\sound EC-cuento-henhentash-2013.wav 250.113 253.703
+
+\ref 099
+\ELANBegin 253.793
+\ELANEnd 255.823
+\ELANParticipant Elías
+\trs era este bien así
+\tx era este bien así
+\ft era este bien así
+\sound EC-cuento-henhentash-2013.wav 253.793 255.823
+
+\ref 100
+\ELANBegin 256.643
+\ELANEnd 258.353
+\ELANParticipant Elías
+\trs pelo largo dice [ininteligible]
+\tx pelo largo dice [ininteligible]
+\ft pelo largo dice [ininteligible]
+\sound EC-cuento-henhentash-2013.wav 256.643 258.353
+
+\ref 101
+\ELANBegin 259.051
+\ELANEnd 264.091
+\ELANParticipant Elías
+\trs el diablo le veía a la gente el hombre peluqueabo el joven bien 
+peluqueado
+\tx el diablo le veía a la gente el hombre peluqueabo el joven bien 
+peluqueado
+\ft el diablo le veía a la gente el hombre peluqueabo el joven bien 
+peluqueado
+\sound EC-cuento-henhentash-2013.wav 259.051 264.091
+
+\ref 102
+\ELANBegin 264.626
+\ELANEnd 266.686
+\ELANParticipant Elías
+\trs ese el diablo quería también esa clase
+\tx ese el diablo quería también esa clase
+\ft ese el diablo quería también esa clase
+\sound EC-cuento-henhentash-2013.wav 264.626 266.686
+
+\ref 103
+\ELANBegin 266.861
+\ELANEnd 269.181
+\ELANParticipant Elías
+\trs puta yo quería también con qué le hacía así
+\tx puta yo quería también con qué le hacía así
+\ft puta yo quería también con qué le hacía así
+\sound EC-cuento-henhentash-2013.wav 266.861 269.181
+
+\ref 104
+\ELANBegin 269.926
+\ELANEnd 271.266
+\ELANParticipant Elías
+\trs este muela de añuje
+\tx este muela de añuje
+\ft este muela de añuje
+\sound EC-cuento-henhentash-2013.wav 269.926 271.266
+
+\ref 105
+\ELANBegin 271.631
+\ELANEnd 273.711
+\ELANParticipant Elías
+\trs este asizado era muela de añuje
+\tx este asizado era muela de añuje
+\ft este asizado era muela de añuje
+\sound EC-cuento-henhentash-2013.wav 271.631 273.711
+
+\ref 106
+\ELANBegin 274.566
+\ELANEnd 276.466
+\ELANParticipant Elías
+\trs y con ese le cortaba acá dice pe
+\tx y con ese le cortaba acá dice pe
+\ft y con ese le cortaba acá dice pe
+\sound EC-cuento-henhentash-2013.wav 274.566 276.466
+
+\ref 107
+\ELANBegin 277.181
+\ELANEnd 278.571
+\ELANParticipant Elías
+\trs ¡eh!
+\tx ¡eh!
+\ft ¡eh!
+\sound EC-cuento-henhentash-2013.wav 277.181 278.571
+
+\ref 108
+\ELANBegin 279.421
+\ELANEnd 283.641
+\ELANParticipant Elías
+\trs eso no le aguantaba arish arish arish arish le hacía pues dolía 
+pues
+\tx eso no le aguantaba arish arish arish arish le hacía pues dolía 
+pues
+\ft eso no le aguantaba arish arish arish arish le hacía pues dolía 
+pues
+\sound EC-cuento-henhentash-2013.wav 279.421 283.641
+
+\ref 109
+\ELANBegin 284.036
+\ELANEnd 286.446
+\ELANParticipant Elías
+\trs no, aguanta nomás así también yo era
+\tx no, aguanta nomás así también yo era
+\ft no, aguanta nomás así también yo era
+\sound EC-cuento-henhentash-2013.wav 284.036 286.446
+
+\ref 110
+\ELANBegin 286.656
+\ELANEnd 287.566
+\ELANParticipant Elías
+\trs así me hacía
+\tx así me hacía
+\ft así me hacía
+\sound EC-cuento-henhentash-2013.wav 286.656 287.566
+
+\ref 111
+\ELANBegin 290.266
+\ELANEnd 292.056
+\ELANParticipant Elías
+\trs ahí le ha agarrado dice todo esto
+\tx ahí le ha agarrado dice todo esto
+\ft ahí le ha agarrado dice todo esto
+\sound EC-cuento-henhentash-2013.wav 290.266 292.056
+
+\ref 112
+\ELANBegin 292.306
+\ELANEnd 293.036
+\ELANParticipant Elías
+\trs ¡tra!
+\tx ¡tra!
+\ft ¡tra!
+\sound EC-cuento-henhentash-2013.wav 292.306 293.036
+
+\ref 113
+\ELANBegin 295.966
+\ELANEnd 297.326
+\ELANParticipant Elías
+\trs le ha pelado bien
+\tx le ha pelado bien
+\ft le ha pelado bien
+\sound EC-cuento-henhentash-2013.wav 295.966 297.326
+
+\ref 114
+\ELANBegin 299.111
+\ELANEnd 301.011
+\ELANParticipant Elías
+\trs bien pelad dice puro hueso
+\tx bien pelad dice puro hueso
+\ft bien pelad dice puro hueso
+\sound EC-cuento-henhentash-2013.wav 299.111 301.011
+
+\ref 115
+\ELANBegin 301.536
+\ELANEnd 303.566
+\ELANParticipant Elías
+\trs puro hueso ya pues puro hueso
+\tx puro hueso ya pues puro hueso
+\ft puro hueso ya pues puro hueso
+\sound EC-cuento-henhentash-2013.wav 301.536 303.566
+
+\ref 116
+\ELANBegin 304.176
+\ELANEnd 305.156
+\ELANParticipant Elías
+\trs ya desde ahí
+\tx ya desde ahí
+\ft ya desde ahí
+\sound EC-cuento-henhentash-2013.wav 304.176 305.156
+
+\ref 117
+\ELANBegin 305.711
+\ELANEnd 306.631
+\ELANParticipant Elías
+\trs una quebrada dice pues
+\tx una quebrada dice pues
+\ft una quebrada dice pues
+\sound EC-cuento-henhentash-2013.wav 305.711 306.631
+
+\ref 118
+\ELANBegin 306.776
+\ELANEnd 308.326
+\ELANParticipant Elías
+\trs ya vete vete a bañar ahí
+\tx ya vete vete a bañar ahí
+\ft ya vete vete a bañar ahí
+\sound EC-cuento-henhentash-2013.wav 306.776 308.326
+
+\ref 119
+\ELANBegin 308.496
+\ELANEnd 309.406
+\ELANParticipant Elías
+\trs ahí va a crecer tu pelo
+\tx ahí va a crecer tu pelo
+\ft ahí va a crecer tu pelo
+\sound EC-cuento-henhentash-2013.wav 308.496 309.406
+
+\ref 120
+\ELANBegin 310.356
+\ELANEnd 311.326
+\ELANParticipant Elías
+\trs el diablo se va
+\tx el diablo se va
+\ft el diablo se va
+\sound EC-cuento-henhentash-2013.wav 310.356 311.326
+
+\ref 121
+\ELANBegin 311.666
+\ELANEnd 313.476
+\ELANParticipant Elías
+\trs no le ha aguantado pues el dolor
+\tx no le ha aguantado pues el dolor
+\ft no le ha aguantado pues el dolor
+\sound EC-cuento-henhentash-2013.wav 311.666 313.476
+
+\ref 122
+\ELANBegin 313.816
+\ELANEnd 315.596
+\ELANParticipant Elías
+\trs un ratito salía arish arish arish
+\tx un ratito salía arish arish arish
+\ft un ratito salía arish arish arish
+\sound EC-cuento-henhentash-2013.wav 313.816 315.596
+
+\ref 123
+\ELANBegin 316.191
+\ELANEnd 318.221
+\ELANParticipant Elías
+\trs no aguanta ya está saliendo tu pelo
+\tx no aguanta ya está saliendo tu pelo
+\ft no aguanta ya está saliendo tu pelo
+\sound EC-cuento-henhentash-2013.wav 316.191 318.221
+
+\ref 124
+\ELANBegin 318.391
+\ELANEnd 319.061
+\ELANParticipant Elías
+\trs otra vez
+\tx otra vez
+\ft otra vez
+\sound EC-cuento-henhentash-2013.wav 318.391 319.061
+
+\ref 125
+\ELANBegin 320.171
+\ELANEnd 321.621
+\ELANParticipant Elías
+\trs ¡ay! ¡ay! arish arish
+\tx ¡ay! ¡ay! arish arish
+\ft ¡ay! ¡ay! arish arish
+\sound EC-cuento-henhentash-2013.wav 320.171 321.621
+
+\ref 126
+\ELANBegin 322.121
+\ELANEnd 324.061
+\ELANParticipant Elías
+\trs tienes que debemos sino no va a salir
+\tx tienes que debemos sino no va a salir
+\ft tienes que debemos sino no va a salir
+\sound EC-cuento-henhentash-2013.wav 322.121 324.061
+
+\ref 127
+\ELANBegin 324.356
+\ELANEnd 325.236
+\ELANParticipant Elías
+\trs otra vez
+\tx otra vez
+\ft otra vez
+\sound EC-cuento-henhentash-2013.wav 324.356 325.236
+
+\ref 128
+\ELANBegin 325.541
+\ELANEnd 326.361
+\ELANParticipant Elías
+\trs cuánto ha demora ya
+\tx cuánto ha demora ya
+\ft cuánto ha demora ya
+\sound EC-cuento-henhentash-2013.wav 325.541 326.361
+
+\ref 129
+\ELANBegin 326.976
+\ELANEnd 327.956
+\ELANParticipant Elías
+\trs el hombre ha largo ya
+\tx el hombre ha largo ya
+\ft el hombre ha largo ya
+\sound EC-cuento-henhentash-2013.wav 326.976 327.956
+
+\ref 130
+\ELANBegin 328.541
+\ELANEnd 329.461
+\ELANParticipant Elías
+\trs hasta ahí nomás es
+\tx hasta ahí nomás es
+\ft hasta ahí nomás es
+\sound EC-cuento-henhentash-2013.wav 328.541 329.461
+
+
+\ELANMediaURL file:///E:/documentos/iskonawa/basededatos-iskonawa procesada/data/EC-cuento-henhentash-2013.mpg
+\ELANMediaMIME video/mpeg
+\ELANMediaURL file:///E:/documentos/iskonawa/basededatos-iskonawa procesada/data/EC-cuento-henhentash-2013.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaExtracted file:///E:/documentos/iskonawa/basededatos-iskonawa procesada/data/EC-cuento-henhentash-2013.mpg

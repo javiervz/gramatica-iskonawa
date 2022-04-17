@@ -1,0 +1,2591 @@
+\_sh v3.0  400  text
+
+\ref 001
+\trs ya entonces ahora con josé vamos a escuchar otro cuento
+\tx ya entonces ahora con josé vamos a escuchar otro
+cuento
+
+\ft ya entonces ahora con josé vamos a escuchar otro cuento
+\ELANBegin 0.670
+\ELANEnd 4.550
+\ELANParticipant roberto
+\sound JP-cuento.animal-2013.wav 0.670 4.550
+
+\ref 002
+\trs ya
+\tx ya
+\ft ya
+\ELANBegin 4.610
+\ELANEnd 4.910
+\ELANParticipant roberto
+\sound JP-cuento.animal-2013.wav 4.610 4.910
+
+\ref 003
+\trs ya
+\tx ya
+\ft ya
+\ELANBegin 5.030
+\ELANEnd 5.600
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 5.030 5.600
+
+\ref 004
+\trs yoashi honi
+\tx yoashi       honi
+\mb yoashi       honi
+\gn mezquino(SK) hombre(SK)
+\ps n.           n.
+
+\ft hombre mezquino
+\ELANBegin 6.380
+\ELANEnd 7.590
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 6.380 7.590
+
+\ref 005
+\trs kikin yoashi honi ka oa ika a shipibores yoashi
+\tx kikin              yoashi       honi        ka
+\mb kikin              yoashi       honi        =ka
+\gn verdaderamente(SK) mezquino(SK) persona(SK) =NAR
+\ps adv                n.           n.          =clit.
+
+\tx oa           ika           a   shipibores
+\mb o     -a     ik      -a    a   shipibo -res
+\gn venir -NOMLZ copula  -PERF ese shipibo -solamente
+\ps v.    -suf.  v.intr. -suf. dem n.      -suf.
+
+\tx yoashi
+\mb yoashi
+\gn mezquinar(SK)
+\ps n.
+
+\ft La gente mezquina vino, los shipibos.
+\ELANBegin 8.590
+\ELANEnd 13.500
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 8.590 13.500
+
+\ref 006
+\trs noa isko mera
+\tx noa   isko   mera
+\mb noa   isko   mera      -a
+\gn 1PL.P paucar encontrar -PERF
+\ps pron. n.     v.tran    -suf.
+
+\ft Nosotros los iskonawas.
+\ELANBegin 13.855
+\ELANEnd 15.305
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 13.855 15.305
+
+\ref 007
+\trs awen
+\tx awen
+\mb awen
+\gn 3SG:GEN
+\ps pron
+
+\ft Su.
+\ELANBegin 15.615
+\ELANEnd 16.635
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 15.615 16.635
+
+\ref 008
+\trs awen ane
+\tx awen    ane
+\mb awen    ane
+\gn 3SG:GEN nombre
+\ps pron    n.
+
+\ft Su nombre.
+\ELANBegin 20.030
+\ELANEnd 21.670
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 20.030 21.670
+
+\ref 009
+\trs a ver no te acuerda
+\tx a ver no te acuerda
+\ft A ver no me acuerdo.
+\ELANBegin 26.740
+\ELANEnd 28.600
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 26.740 28.600
+
+\ref 010
+\trs abi ka yoashi yoashi
+\tx abi        ka     yoashi       yoashi
+\mb a   =bi    =ka    yoashi       yoashi
+\gn ese =ENF   =NAR   mezquino(SK) mezquino(SK)
+\ps dem =clit. =clit. n.           n.
+
+\ft Estos mismos eran mezquinos.
+\ELANBegin 37.190
+\ELANEnd 39.300
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 37.190 39.300
+
+\ref 011
+\trs oni yoashi ka
+\tx oni     yoashi       ka
+\mb oni     yoashi       =ka
+\gn persona mezquino(SK) =NAR
+\ps n.      n.           =clit.
+
+\ft Gente mezquina.
+\ELANBegin 39.830
+\ELANEnd 41.270
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 39.830 41.270
+
+\ref 012
+\trs ha honironki ka akai ha
+\tx ha      honironki           ka     akai              ha
+\mb ha      honi       =ronki   =ka    ak      -ai       ha
+\gn ese(SK) hombre(SK) =REP(SK) =NAR   hacer   -IMPF(SK) ese(SK)
+\ps dem     n.         =clit.   =clit. v.tran. -suf.     dem
+
+\ft Esa gente.
+\ELANBegin 41.885
+\ELANEnd 44.065
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 41.885 44.065
+
+\ref 013
+\trs nato paranta ka
+\tx nato     paranta      ka
+\mb nato     paranta      =ka
+\gn este(SK) plátano(SK) =NAR
+\ps dem.     n.           =clit.
+
+\ft Ese plátano.
+\ELANBegin 44.800
+\ELANEnd 46.200
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 44.800 46.200
+
+\ref 014
+\trs nato banatanwe a paranta a
+\tx nato     banatanwe              a   paranta
+\mb nato     bana    -tan  -we      a   paranta
+\gn este(SK) sembrar -ANDA -IMP(SK) ese plátano(SK)
+\ps dem.     v.tran  -suf. -suf.    dem n.
+
+\tx a
+\mb a
+\gn ese
+\ps dem
+
+\ft Eso sembraban, plátano.
+\ELANBegin 47.365
+\ELANEnd 49.975
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 47.365 49.975
+
+\ref 015
+\trs a bimi ka bimi bimi bimi
+\tx a   bimi  ka     bimi  bimi  bimi
+\mb a   bimi  =ka    bimi  bimi  bimi
+\gn ese fruto =NAR   fruto fruto fruto
+\ps dem n.    =clit. n.    n.    n.
+
+\ft Ese fruto, fruto, fruto, fruto.
+\ELANBegin 51.405
+\ELANEnd 54.485
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 51.405 54.485
+
+\ref 016
+\trs ha kai behon
+\tx ha      kai          behon
+\mb ha      ka     -i    be     -hon
+\gn ese(SK) ir     -IMPF traer  -SUJ>S:SIM
+\ps dem     v.intr -suf. v.tran -suf.
+
+\ft Hay que traer.
+\ELANBegin 55.010
+\ELANEnd 56.160
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 55.010 56.160
+
+\ref 017
+\trs a atsa banati ka tapun bana
+\tx a   atsa banati         ka     tapun bana
+\mb a   atsa bana    -ti    =ka    tapun bana
+\gn ese yuca sembrar -NOMLZ =NAR   raíz sembrar
+\ps dem n.   v.tran  -suf.  =clit. n.    v.tran
+
+\ft Hay que sembrar la yuca.
+\ELANBegin 56.610
+\ELANEnd 59.810
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 56.610 59.810
+
+\ref 018
+\trs atsa pusi pusi pusi.
+\tx atsa pusi         pusi         pusi.
+\mb atsa pusi         pusi         pusi
+\gn yuca fruto.maduro fruto.maduro fruto.maduro
+\ps n.   n.           n.           n.
+
+\ft Guayo de la yuca.
+\ELANBegin 60.255
+\ELANEnd 62.965
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 60.255 62.965
+
+\ref 019
+\trs una raiz pusi
+\tx una       raiz        pusi
+\mb una       raiz        pusi
+\gn una(CAST) raíz(CAST) fruto.maduro
+\ps art.      n.          n.
+
+\ft Una raíz, guayo.
+\ELANBegin 63.205
+\ELANEnd 65.765
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 63.205 65.765
+
+\ref 020
+\trs a banatanwe a atsa banakin
+\tx a   banatanwe              a   atsa banakin
+\mb a   bana    -tan  -we      a   atsa bana    -kin
+\gn ese sembrar -ANDA -IMP(SK) ese yuca sembrar -IMP
+\ps dem v.tran  -suf. -suf.    dem n.   v.tran  -suf.
+
+\ft Hay que sembrar eso, la yuca.
+\ELANBegin 66.240
+\ELANEnd 69.110
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 66.240 69.110
+
+\ref 021
+\trs payoresai
+\tx payoresai
+\mb payo         -res       -ai
+\gn pudrirse(SK) -solamente -IMPF(SK)
+\ps v.           -suf.      -suf.
+
+\ft Si sigue así se va a podrir.
+\ELANBegin 69.790
+\ELANEnd 70.980
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 69.790 70.980
+
+\ref 022
+\trs paranta bana ika oshin kai payoresi
+\tx paranta      bana           ika            oshin kai
+\mb paranta      bana    -a     ik      -a     oshin ka     -i
+\gn plátano(SK) sembrar -NOMLZ copula  -NOMLZ rojo  ir     -IMPF
+\ps n.           v.tran  -suf.  v.intr. -suf.  adj.  v.intr -suf.
+
+\tx payoresi
+\mb payo         -res       -i
+\gn pudrirse(SK) -solamente -IMPF
+\ps v.           -suf.      -suf.
+
+\ft Después de sembrar el plátano, hay que secarlo sino se pudre.
+\ELANBegin 71.390
+\ELANEnd 74.440
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 71.390 74.440
+
+\ref 023
+\trs ka poa
+\tx ka     poa
+\mb =ka    poa
+\gn =NAR   sachapapa
+\ps =clit. n.
+
+\ft esa sachapapa
+\ELANBegin 74.770
+\ELANEnd 76.080
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 74.770 76.080
+
+\ref 024
+\trs poa banatanwe a poa bana xoihon poa a ma xoia ka
+\tx poa       banatanwe              a   poa
+\mb poa       bana    -tan  -we      a   poa
+\gn sachapapa sembrar -ANDA -IMP(SK) ese sachapapa
+\ps n.        v.tran  -suf. -suf.    dem n.
+
+\tx bana           xoihon              poa       a
+\mb bana    -a     xoi      -hon       poa       a
+\gn sembrar -NOMLZ asar(SK) -SUJ>A:SIM sachapapa ese
+\ps v.tran  -suf.  v.       -suf.      n.        dem
+
+\tx ma  xoia           ka
+\mb ma  xoi      -a    =ka
+\gn ya  asar(SK) -PERF =NAR
+\ps adv v.       -suf. =clit.
+
+\ft vayan a sembrar sachapapa, decían (los mezquinos) cocinándola
+previamente, esa sachapapa ya esta cocinada.
+\ELANBegin 76.530
+\ELANEnd 81.230
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 76.530 81.230
+
+\ref 025
+\trs a banakin
+\tx a   banakin
+\mb a   bana    -kin
+\gn ese sembrar -IMP
+\ps dem v.tran  -suf.
+
+\ft Siembra eso.
+\ELANBegin 81.705
+\ELANEnd 82.815
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 81.705 82.815
+
+\ref 026
+\trs ma basiresi
+\tx ma  basiresi
+\mb ma  basik    -res       -i
+\gn ya  pudrirse -solamente -IMPF
+\ps adv v.       -suf.      -suf.
+
+\ft Sino se va a podrir.
+\ELANBegin 83.605
+\ELANEnd 85.205
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 83.605 85.205
+
+\ref 027
+\trs hainoa ka
+\tx hainoa     ka
+\mb hainoa     =ka
+\gn ahí:P(SK) =NAR
+\ps adv.       =clit.
+
+\ft De ahí.
+\ELANBegin 85.925
+\ELANEnd 87.425
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 85.925 87.425
+
+\ref 028
+\trs a heki
+\tx a   heki
+\mb a   heki
+\gn ese maíz
+\ps dem n.
+
+\ft El maíz.
+\ELANBegin 90.455
+\ELANEnd 91.995
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 90.455 91.995
+
+\ref 029
+\trs heki banatanwe nato banatanwe
+\tx heki  banatanwe              nato
+\mb heki  bana    -tan  -we      nato
+\gn maíz sembrar -ANDA -IMP(SK) este(SK)
+\ps n.    v.tran  -suf. -suf.    dem.
+
+\tx banatanwe
+\mb bana    -tan  -we
+\gn sembrar -ANDA -IMP(SK)
+\ps v.tran  -suf. -suf.
+
+\ft Siembra el maíz, siempra esto.
+\ELANBegin 92.460
+\ELANEnd 94.970
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 92.460 94.970
+
+\ref 030
+\trs menia iki
+\tx menia         iki
+\mb meni    -a    ik      -i
+\gn dar(SK) -PERF copula  -IMPF
+\ps v.      -suf. v.intr. -suf.
+
+\ft les entregaban (los mezquinos a los iskos)
+\ELANBegin 95.650
+\ELANEnd 96.680
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 95.650 96.680
+
+\ref 031
+\trs meniaki a heki
+\tx meniaki               a   heki
+\mb meni    -a     =ki    a   heki
+\gn dar(SK) -NOMLZ =REP   ese maíz
+\ps v.      -suf.  =clit. dem n.
+
+\ft Entrega el maíz.
+\ELANBegin 98.400
+\ELANEnd 100.550
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 98.400 100.550
+
+\ref 032
+\trs heki tobanhon toban
+\tx heki  tobanhon          toban
+\mb heki  toban  -hon       toban
+\gn maíz tostar -SUJ>A:SIM tostar
+\ps n.    v.     -suf.      v.
+
+\ft El maíz lo tostó.
+\ELANBegin 100.770
+\ELANEnd 102.670
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 100.770 102.670
+
+\ref 033
+\trs tobanhon
+\tx tobanhon
+\mb toban  -hon
+\gn tostar -SUJ>A:SIM
+\ps v.     -suf.
+
+\ft Lo tostó.
+\ELANBegin 103.455
+\ELANEnd 104.595
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 103.455 104.595
+
+\ref 034
+\trs ha menia nato banatanwe a ka heki banai
+\tx ha      menia          nato
+\mb ha      meni    -a     nato
+\gn ese(SK) dar(SK) -NOMLZ este(SK)
+\ps dem     v.      -suf.  dem.
+
+\tx banatanwe              a   ka     heki
+\mb bana    -tan  -we      a   =ka    heki
+\gn sembrar -ANDA -IMP(SK) ese =NAR   maíz
+\ps v.tran  -suf. -suf.    dem =clit. n.
+
+\tx banai
+\mb bana    -i
+\gn sembrar -IMPF
+\ps v.tran  -suf.
+
+\ft Entregaban ya tostado y les decían "vayan a sembrar maíz"
+\ELANBegin 105.040
+\ELANEnd 109.080
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 105.040 109.080
+
+\ref 035
+\trs onkonyamai
+\tx onkonyamai
+\mb onkon  -yama    -i
+\gn brotar -NEG(SK) -IMPF
+\ps v.     -suf.    -suf.
+
+\ft Pero ya no crecía.
+\ELANBegin 109.975
+\ELANEnd 111.395
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 109.975 111.395
+
+\ref 036
+\trs onkoin
+\tx onkoin
+\mb onkon  -i
+\gn brotar -IMPF
+\ps v.     -suf.
+
+\ft Crecía.
+\ELANBegin 111.670
+\ELANEnd 113.020
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 111.670 113.020
+
+\ref 037
+\trs no hay crecer
+\tx no hay crecer
+\ft No hay crecer.
+\ELANBegin 113.400
+\ELANEnd 114.930
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 113.400 114.930
+
+\ref 038
+\trs ara onkonyamai
+\tx ara            onkonyamai
+\mb a   =ra        onkon  -yama    -i
+\gn ese =EVID1(SK) brotar -NEG(SK) -IMPF
+\ps dem =clit.     v.     -suf.    -suf.
+
+\ft Ese ya no crece.
+\ELANBegin 115.440
+\ELANEnd 117.120
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 115.440 117.120
+
+\ref 039
+\trs onkonyamai
+\tx onkonyamai
+\mb onkon  -yama    -i
+\gn brotar -NEG(SK) -IMPF
+\ps v.     -suf.    -suf.
+
+\ft No crece.
+\ELANBegin 117.975
+\ELANEnd 119.475
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 117.975 119.475
+
+\ref 040
+\trs askati ka
+\tx askati      ka
+\mb aska -ti    =ka
+\gn así -NOMLZ =NAR
+\ps adv. -suf.  =clit.
+
+\ft Así fue.
+\ELANBegin 120.395
+\ELANEnd 121.855
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 120.395 121.855
+
+\ref 041
+\trs askatironki ka iki ha
+\tx askatironki        ka     iki           ha
+\mb aska -ti    =ronki =ka    ik      -i    ha
+\gn así -NOMLZ =REP(SK=NAR   copula  -IMPF ese(SK)
+\ps adv. -suf.  =clit. =clit. v.intr. -suf. dem
+
+\ft Así fue eso.
+\ELANBegin 123.450
+\ELANEnd 125.920
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 123.450 125.920
+
+\ref 042
+\trs westiora isáshoko 
+\tx westiora isáshoko             
+\mb westiora isá         =shoko
+\gn uno(SK)  pajarito(SK) =DIM(SK) 
+\ps num.     n.           =clit.
+
+\ft Un pajarito
+\ELANBegin 130.610
+\ELANEnd 133.720
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 130.610 133.720
+
+\ref 043
+\trs hainronki atsa taho honeke a isakan
+\tx hainronki         atsa taho
+\mb hain     =ronki   atsa taho
+\gn ahí(SK) =REP(SK) yuca palo.de.yuca
+\ps adv.     =clit.   n.   n.
+
+\tx bohona              iki           a
+\mb bo     -hon  -a     ik      -i    a
+\gn llevar -BEN  -NOMLZ copula  -IMPF ese
+\ps v.ambi -suf. -suf.  v.intr. -suf. dem
+
+\tx isakan
+\mb isá         =n
+\gn pajarito(SK) =ERG
+\ps n.           =clit.
+
+\ft Ahí, un pajarito nos llevó un palo de yuca.
+\ELANBegin 135.380
+\ELANEnd 139.150
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 135.380 139.150
+
+\ref 044
+\trs atsa taho bohonarokoki
+\tx atsa taho         bohonarokoki
+\mb atsa taho         bo     -hon  -a    -roko =ki
+\gn yuca palo.de.yuca llevar -BEN  -PERF -INTF =CON
+\ps n.   n.           v.ambi -suf. -suf. -suf. =clit.
+
+\ft Yuca [?¿]
+\ELANBegin 140.030
+\ELANEnd 142.265
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 140.030 142.265
+
+\ref 045
+\trs hainronki atsa banake
+\tx hainronki         atsa banake
+\mb hain     =ronki   atsa bana    -ke
+\gn ahí(SK) =REP(SK) yuca sembrar -PERF(SK)
+\ps adv.     =clit.   n.   v.tran  -suf.
+
+\ft De ahí, la yuca sembrada.
+\ELANBegin 142.455
+\ELANEnd 144.765
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 142.455 144.765
+
+\ref 046
+\trs atsa banake ha
+\tx atsa banake            ha
+\mb atsa bana    -ke       ha
+\gn yuca sembrar -PERF(SK) ese(SK)
+\ps n.   v.tran  -suf.     dem
+
+\ft Esa yuca sembrada.
+\ELANBegin 145.665
+\ELANEnd 147.535
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 145.665 147.535
+
+\ref 047
+\trs ha pota atsa banake hakonshaman onkoni hakonshaman
+\tx ha      pota  atsa banake
+\mb ha      pota  atsa bana    -ke
+\gn ese(SK) botar yuca sembrar -PERF(SK)
+\ps dem     v.    n.   v.tran  -suf.
+
+\tx hakonshaman         onkoni
+\mb hakon     -shaman   onkon  -i
+\gn bueno(SK) -INTF(SK) brotar -IMPF
+\ps adj.      -suf.     v.     -suf.
+
+\tx hakonshaman
+\mb hakon     -shaman
+\gn bueno(SK) -INTF(SK)
+\ps adj.      -suf.
+
+\ft El pajarito se lo ha llevado y lo ha dejado botado y eso han sembrado los buenos.
+\ELANBegin 150.825
+\ELANEnd 155.705
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 150.825 155.705
+
+\ref 048
+\trs ha riki ha ahon ka ha awati
+\tx ha      riki    ha      ahon
+\mb ha      riki    ha      ak      -hon
+\gn ese(SK) COP(SK) ese(SK) hacer   -SUJ>A:SIM
+\ps dem     part.   dem     v.tran. -suf.
+
+\tx ka     ha      awati
+\mb =ka    ha      awati
+\gn =NAR   ese(SK) de.qué.tamaño
+\ps =clit. dem     pal.int
+
+\ft [?¿] De qué tamaño.
+\ELANBegin 156.560
+\ELANEnd 158.850
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 156.560 158.850
+
+\ref 049
+\trs awati
+\tx awati
+\mb awati
+\gn de.qué.tamaño
+\ps pal.int
+
+\ft de qué tamaño.
+\ELANBegin 158.910
+\ELANEnd 160.260
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 158.910 160.260
+
+\ref 050
+\trs ani ani ani
+\tx ani        ani        ani
+\mb ani        ani        ani
+\gn grande(SK) grande(SK) grande(SK)
+\ps adj.       adj.       adj.
+
+\ft Grande, grande, grande.
+\ELANBegin 160.400
+\ELANEnd 162.230
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 160.400 162.230
+
+\ref 051
+\trs atsa banake
+\tx atsa banake
+\mb atsa bana    -ke
+\gn yuca sembrar -NOMLZ(SK)
+\ps n.   v.tran  -suf.
+
+\ft La yuca sembrada.
+\ELANBegin 162.890
+\ELANEnd 164.230
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 162.890 164.230
+
+\ref 052
+\trs ani ahon ikai hainoah ma atsa kaia
+\tx ani        ahon               ikai
+\mb ani        ak      -hon       ik      -ai
+\gn grande(SK) hacer   -SUJ>A:SIM copula  -IMPF(SK)
+\ps adj.       v.tran. -suf.      v.intr. -suf.
+
+\tx hainoah          ma  atsa kaia
+\mb hainoa    =h     ma  atsa kai          -a
+\gn ahi:S(SK) =S     ya  yuca aumentar(SK) -PERF
+\ps adv.      =clit. adv n.   v.           -suf.
+
+\ft Haciendo eso de ahí la yuca aumentó.
+\ELANBegin 165.105
+\ELANEnd 167.825
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 165.105 167.825
+
+\ref 053
+\trs haskatiki ikebi noa yoashi yoashi bakebo
+\tx haskatiki              ikebi
+\mb haska    -ti    =ki    ik      -ke        =bi
+\gn así(SK) -NOMLZ =REP   copula  -NOMLZ(SK) =ENF
+\ps adv.     -suf.  =clit. v.intr. -suf.      =clit.
+
+\tx noa   yoashi              yoashi        bakebo
+\mb noa   yoashi        -i    yoashi        bake =bo
+\gn 1PL.P mezquinar(SK) -IMPF mezquinar(SK) hijo =PLU
+\ps pron. v.            -suf. n.            n.   =clit
+
+\ft Así los hijos de los mezquinos nos mezquinaban.
+\ELANBegin 168.430
+\ELANEnd 172.410
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 168.430 172.410
+
+\ref 054
+\trs yoashi bakebo noa paranhon noa haska akeni
+\tx yoashi       bakebo     noa   paranhon
+\mb yoashi       bake =bo   noa   paran    -hon
+\gn mezquino(SK) hijo =PLU  1PL.P engañar -SUJ>A:SIM
+\ps n.           n.   =clit pron. v.       -suf.
+
+\tx noa   haska    akanai
+\mb noa   haska    ak      -kan  -ai
+\gn 1PL.P así(SK) hacer   -PLU  -IMPF(SK)
+\ps pron. adv.     v.tran. -suj. -suf.
+
+\ft Nosotros engañamos a los hijos de los mezquinos.
+\ELANBegin 174.890
+\ELANEnd 178.750
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 174.890 178.750
+
+\ref 055
+\trs reteti riki ka retetiriki ka retenon bokanwe
+\tx reteti           riki    ka     reteti           riki    ka     retenon         bokanwe
+\mb rete      -ti    riki    =ka    rete      -ti    riki    =ka    rete      -non  bo     -kan  -we
+\gn matar(SK) -NOMLZ COP(SK) =NAR   matar(SK) -NOMLZ COP(SK) =NAR   matar(SK) -PROP ir:PL  -PLU  -IMP(SK)
+\ps v.        -suf.  part.   =clit. v.        -suf.  part.   =clit. v.        -suf. v.ambi -suj. -suf.
+
+\ft "Hay que matarlos, hay que matarlos, vamos a matarlos"
+\ELANBegin 179.885
+\ELANEnd 183.245
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 179.885 183.245
+
+\ref 056
+\trs retenohon kabiti akanwe kabiti akanwe flecha
+\tx retenohon            kabiti akanwe
+\mb rete      -nohon     kabiti ak      -kan  -we
+\gn matar(SK) -PROP:TRAN flecha hacer   -PLU  -IMP(SK)
+\ps v.        -suf.      n.     v.tran. -suj. -suf.
+
+\tx kabiti akanwe                 flecha
+\mb kabiti ak      -kan  -we      flecha
+\gn flecha hacer   -PLU  -IMP(SK) flecha(CAST)
+\ps n.     v.tran. -suj. -suf.    n.
+
+\ft Matamos a los mezquinos, haciendo flechas vayamos a matarlos.
+\ELANBegin 184.500
+\ELANEnd 189.050
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 184.500 189.050
+
+\ref 057
+\trs haka matan  
+\tx haka           matan
+\mb ha      =ka    matan
+\gn ese(SK) =NAR   matan(CAST)
+\ps dem     =clit. v.
+
+\ft [?¿]
+\ELANBegin 189.780
+\ELANEnd 192.910
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 189.780 192.910
+
+\ref 058
+\trs kabiti akanwe a ahonke a
+\tx kabiti akanwe                 a
+\mb kabiti ak      -kan  -we      a
+\gn flecha hacer   -PLU  -IMP(SK) ese
+\ps n.     v.tran. -suj. -suf.    dem
+
+\tx ahonke                  a
+\mb ak      -hon  -ke       a
+\gn hacer   -BEN  -PERF(SK) ese
+\ps v.tran. -suf. -suf.     dem
+
+\ft Hagamos flechas.
+\ELANBegin 193.365
+\ELANEnd 195.865
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 193.365 195.865
+
+\ref 059
+\trs a retei bokanke retei ka
+\tx a   retei                bokanke
+\mb a   rete      -i         bo     -kan  -ke
+\gn ese matar(SK) -SUJ>S:SIM ir:PL  -PLU  -PERF(SK)
+\ps dem v.        -suf.      v.ambi -suj. -suf.
+
+\tx retei                ka
+\mb rete      -i         ka     -a
+\gn matar(SK) -SUJ>S:SIM ir     -PERF
+\ps v.        -suf.      v.intr -suf.
+
+\ft Se fueron a matar.
+\ELANBegin 196.330
+\ELANEnd 198.840
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 196.330 198.840
+
+\ref 060
+\trs retei bohonki a retei boabiki ha
+\tx retei                bohonki                  a
+\mb rete      -i         bo     -hon       =ki    a
+\gn matar(SK) -SUJ>S:SIM ir:PL  -SUJ>A:SIM =REP   ese
+\ps v.        -suf.      v.ambi -suf.      =clit. dem
+
+\tx retei                boabiki
+\mb rete      -i         bo     -a    =bi    =ki
+\gn matar(SK) -SUJ>S:SIM ir:PL  -PERF =ENF   =INT
+\ps v.        -suf.      v.ambi -suf. =clit. =clit.
+
+\tx ha
+\mb ha
+\gn ese(SK)
+\ps dem
+
+\ft Se fueron a matar a esos, se fueron a matarlos
+\ELANBegin 200.420
+\ELANEnd 204.050
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 200.420 204.050
+
+\ref 061
+\trs a nokoti kabitioma
+\tx a   nokoti        kabitioma
+\mb a   noko   -ti    kabiti =oma
+\gn ese llegar -NOMLZ flecha =PROP.NEG
+\ps dem v.     -suf.  n.     =clit.
+
+\ft Cuando llegaron, no tenían flechas
+\ELANBegin 204.110
+\ELANEnd 206.410
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 204.110 206.410
+
+\ref 062
+\trs kabitioma moxa icha moxa icha oinwe ha oni
+winotiyama
+\tx kabitioma        moxa       icha      moxa
+\mb kabiti =oma      moxa       icha      moxa
+\gn flecha =PROP.NEG espina(SK) mucho(SK) espina(SK)
+\ps n.     =clit.    n.         cuant.    n.
+
+\tx icha      oinwe           ha      oni
+\mb icha      oin    -we      ha      oni
+\gn mucho(SK) ver    -IMP(SK) ese(SK) persona
+\ps cuant.    v.ambi -suf.    dem     n.
+
+\tx winotiyama
+\mb winot  -i    -yama
+\gn cruzar -IMPF -NEG(SK)
+\ps v.     -suf. -suf.
+
+\ft No tenían flechas: "mira, no se puede pasar, hay muchas espinas."
+\ELANBegin 207.775
+\ELANEnd 213.765
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 207.775 213.765
+
+\ref 063
+\trs neskara moxa
+\tx neskara          moxa
+\mb neska =ra        moxa
+\gn así  =EVID1(SK) espina(SK)
+\ps adv.  =clit.     n.
+
+\ft Gran cantidad de espinas.
+\ELANBegin 214.905
+\ELANEnd 216.365
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 214.905 216.365
+
+\ref  064
+\trs hainhonronki aka iki ha
+\tx hainhonronki                 aka
+\mb hain     -hon       =ronki   ak          -a
+\gn ahí(SK) -SUJ>A:SIM =REP(SK) decir(TRAN) -PERF
+\ps adv.     -suf.      =clit.   v.tran.     -suf.
+
+\tx iki           ha
+\mb ik      -i    ha
+\gn copula  -IMPF ese(SK)
+\ps v.intr. -suf. dem
+
+\ft Luego de que dijeron eso.
+\ELANBegin 218.490
+\ELANEnd 220.580
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 218.490 220.580
+
+\ref 065
+\trs a oini ka
+\tx a   oini         ka
+\mb a   oin    -i    ka     -a
+\gn ese ver    -IMPF ir     -PERF
+\ps dem v.ambi -suf. v.intr -suf.
+
+\ft Se fueron a mirar
+\ELANBegin 222.180
+\ELANEnd 224.000
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 222.180 224.000
+
+\ref 066
+\trs awá
+\tx awá
+\mb awá
+\gn sachavaca
+\ps n.
+
+\ft qué
+\ELANBegin 226.315
+\ELANEnd 227.305
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 226.315 227.305
+
+\ref 067
+\trs awá yoihontanwe
+\tx awá      yoihontanwe
+\mb awá      yoi        -hon  -tan  -we
+\gn sachavaca llamar(SK) -BEN  -ANDA -IMP(SK)
+\ps n.        v.tran.    -suf. -suf. -suf.
+
+\ft Anda a llamar a la sachavaca
+\ELANBegin 229.135
+\ELANEnd 231.045
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 229.135 231.045
+
+\ref 068
+\trs ha ohonronkiki a
+\tx ha      ohonronkiki                      a
+\mb ha      o     -hon       =ronki   =ki    a
+\gn ese(SK) venir -SUJ>A:SIM =REP(SK) =INT   ese
+\ps dem     v.    -suf.      =clit.   =clit. dem
+
+\ft Cuando vino
+\ELANBegin 232.235
+\ELANEnd 234.475
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 232.235 234.475
+
+\ref 069
+\trs ha ohonronkiki a xateamabobi awá
+\tx ha      ohonronkiki                      a
+\mb ha      o     -hon       =ronki   =ki    a
+\gn ese(SK) venir -SUJ>A:SIM =REP(SK) =INT   ese
+\ps dem     v.    -suf.      =clit.   =clit. dem
+
+\tx xateamabobi                          awá
+\mb xate       -a    =ma    =bo   =bi    awá
+\gn cortar(SK) -PERF =NEG   =PLU  =ENF   sachavaca
+\ps v.         -suf. =clit. =clit =clit. n.
+
+\ft No cortaba nada, no podía hacer camino.
+\ELANBegin 235.800
+\ELANEnd 239.340
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 235.800 239.340
+
+\ref 070
+\trs tabemakaresi
+\tx tabemakaresi
+\mb tabemaka         -res       -i
+\gn pasar.por.debajo -solamente -IMPF
+\ps v.               -suf.      -suf.
+
+\ft Pasaba debajo no más, sin importar nada.
+\ELANBegin 239.445
+\ELANEnd 240.900
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 239.445 240.900
+
+\ref 071
+\trs ainoah chaho chaho yoihontanwe
+\tx ainoah                      chaho  chaho  yoihontanwe
+\mb ain       =no    =ah        chaho  chaho  yoi        -hon  -tan  -we
+\gn ahí(MIX) =LOC   =SUJ>S:SIM venado venado llamar(SK) -BEN  -ANDA -IMP(SK)
+\ps adv.      =clit. =suf.      n.     n.     v.tran.    -suf. -suf. -suf.
+
+\ft De ahí dijo que venga el venado.
+\ELANBegin 241.140
+\ELANEnd 244.160
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 241.140 244.160
+
+\ref 072
+\trs chaho ayamai
+\tx chaho  ayamai
+\mb chaho  ak      -yama    -i
+\gn venado hacer   -NEG(SK) -IMPF
+\ps n.     v.tran. -suf.    -suf.
+
+\ft El venado no pudo salir.
+\ELANBegin 244.320
+\ELANEnd 246.200
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 244.320 246.200
+
+\ref 073
+\trs ainohon hono hono yoihontanwe
+\tx ainohon hono       hono       yoihontanwe
+\mb ainohon hono       hono       yoi        -hon  -tan  -we
+\gn de.ahí sajino(SK) sajino(SK) llamar(SK) -BEN  -ANDA -IMP(SK)
+\ps conec.  n.         n.         v.tran.    -suf. -suf. -suf.
+
+\ft De ahí dijo anda a llamar al sajino.
+\ELANBegin 247.255
+\ELANEnd 249.685
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 247.255 249.685
+
+\ref 074
+\trs a xateyamai
+\tx a   xateyamai
+\mb a   xate       -yama    -i
+\gn ese cortar(SK) -NEG(SK) -IMPF
+\ps dem v.         -suf.    -suf.
+
+\ft Y eso no lo pudo cortar.
+\ELANBegin 250.285
+\ELANEnd 251.615
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 250.285 251.615
+
+\ref 075
+\trs haskake yoiki
+\tx haskake            yoiki
+\mb haska    -ke       yoi     -i    =ki
+\gn así(SK) -PERF(SK) contar  -IMPF =INT
+\ps adv.     -suf.     v.tran. -suf. =clit.
+
+\ft Así decía.
+\ELANBegin 253.665
+\ELANEnd 255.855
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 253.665 255.855
+
+\ref 076
+\trs ene shirinwa
+\tx ene shirinwa
+\mb ene shirinwa
+\gn animal.mágico
+\ps n.
+
+\ft Que venga el shirinwa
+\ELANBegin 255.915
+\ELANEnd 257.495
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 255.915 257.495
+
+\ref 077
+\trs ene shirinwa yoihontankin
+\tx ene shirinwa   yoihontankin
+\mb ene shirinwa   yoi        -hon  -tan  -kin
+\gn animal.mágico llamar(SK) -BEN  -ANDA -IMP
+\ps n.             v.tran.    -suf. -suf. -suf.
+
+\ft Que venga el shirinwa dijo.
+\ELANBegin 257.985
+\ELANEnd 260.405
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 257.985 260.405
+
+\ref 078
+\trs a ene shirinwa oke
+\tx a   ene shirinwa   oke
+\mb a   ene shirinwa   o     -ke
+\gn ese animal.mágico venir -PERF(SK)
+\ps dem n.             v.    -suf.
+
+\ft Vino el shirinwa
+\ELANBegin 261.630
+\ELANEnd 264.070
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 261.630 264.070
+
+\ref 079
+\trs ohonronki a ka iki a
+\tx ohonronki                 aka            iki           a
+\mb o     -hon       =ronki   ak      -a     ik      -i    a
+\gn venir -SUJ>A:SIM =REP(SK) hacer   -NOMLZ copula  -IMPF ese
+\ps v.    -suf.      =clit.   v.tran. -suf.  v.intr. -suf. dem
+
+\ft Vino y lo hizo.
+\ELANBegin 264.285
+\ELANEnd 266.875
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 264.285 266.875
+
+\ref 080
+\trs igual al machete
+\tx igual al machete
+
+\ft Igual al machete.
+\ELANBegin 268.145
+\ELANEnd 271.165
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 268.145 271.165
+
+\ref 081
+\trs hara ha wainko wainko pikoke
+\tx hara               ha      wainko
+\mb ha      =ra        ha      wai    =nko
+\gn ese(SK) =EVID1(SK) ese(SK) chacra =LOC(SK)
+\ps dem     =clit.     dem     n.     =clit.
+
+\tx wainko          pikoke
+\mb wai    =nko     piko    -ke
+\gn chacra =LOC(SK) salir   -PERF(SK)
+\ps n.     =clit.   v.intr. -suf.
+
+\ft Entonces, lograron salir de la chacra.
+\ELANBegin 272.870
+\ELANEnd 275.950
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 272.870 275.950
+
+\ref 082
+\trs a wainko pikoke a wai waihontanwe a pikota iki ene shirinwa kake
+\tx a   wainko          pikoke             a
+\mb a   wai    =nko     piko    -ke        a
+\gn ese chacra =LOC(SK) salir   -NOMLZ(SK) ese
+\ps dem n.     =clit.   v.intr. -suf.      dem
+
+\tx wai    waihontanwe                 a
+\mb wai    wai    -hon  -tan  -we      a
+\gn chacra chacra -BEN  -ANDA -IMP(SK) ese
+\ps n.     n.     -suf. -suf. -suf.    pron
+
+\tx pikota           iki            ene shirinwa
+\mb pikot     -a     ik      -i     ene shirinwa
+\gn salir(SK) -NOMLZ copula  -NOMLZ animal.mágico
+\ps v.        -suf.  v.intr. -suf.  n.
+
+\tx kake
+\mb ka     -ke
+\gn ir     -PERF(SK)
+\ps v.intr -suf.
+
+\ft Y lograron salir de la chacra, cuado el ene shirinwa se fue
+\ELANBegin 277.295
+\ELANEnd 284.140
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 277.295 284.140
+
+\ref 083
+\trs hainki bokanke
+\tx hainki          bokanke
+\mb hain     =ki    bo     -kan  -ke
+\gn ahí(SK) =REP   ir:PL  -PLU  -PERF(SK)
+\ps adv.     =clit. v.ambi -suj. -suf.
+
+\ft De ahí fueron.
+\ELANBegin 284.330
+\ELANEnd 286.210
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 284.330 286.210
+
+\ref 084
+\trs bohonki ha icha honi
+\tx bohonki                  ha      icha
+\mb bo     -hon       =ki    ha      icha
+\gn ir:PL  -SUJ>S:SIM =REP   ese(SK) mucho(SK)
+\ps v.ambi -suf.      =clit. dem     cuant.
+
+\tx honi
+\mb honi
+\gn persona(SK)
+\ps n.
+
+\ft Mucha, mucha gente había ido.
+\ELANBegin 288.665
+\ELANEnd 292.205
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 288.665 292.205
+
+\ref 085
+\trs icha honi bokana retei bokana pianki
+\tx icha      honi        bokana
+\mb icha      honi        bo     -kan  -a
+\gn mucho(SK) persona(SK) ir:PL  -PLU  -PERF
+\ps cuant.    n.          v.ambi -suj. -suf.
+
+\tx retei                bokana             pianki
+\mb rete      -i         bo     -kan  -a    pianki
+\gn matar(SK) -SUJ>S:SIM ir:PL  -PLU  -PERF flechar
+\ps v.        -suf.      v.ambi -suj. -suf. v.tran.
+
+\ft Mucha gente había ido para flechear, para ir a matar a los mezquinos.
+\ELANBegin 292.470
+\ELANEnd 296.745
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 292.470 296.745
+
+\ref 086
+\trs ha ati bohonki a tankana habira kani ka
+\tx ha      ati            bohonki
+\mb ha      ak      -ti    bo     -hon       =ki
+\gn ese(SK) hacer   -NOMLZ ir:PL  -SUJ>S:SIM =REP
+\ps dem     v.tran. -suf.  v.ambi -suf.      =clit.
+
+\tx a   tankana       habira          kani
+\mb a   tankana       ha      =bira   ka     -ni
+\gn ese tangana(CAST) ese(SK) =nomás ir     -PAS.REM
+\ps dem n.            dem     =clit.  v.intr -suf
+
+\tx ka
+\mb =ka
+\gn =NAR
+\ps =clit.
+
+\ft Todos habían ido.
+\ELANBegin 297.325
+\ELANEnd 302.305
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 297.325 302.305
+
+\ref 087
+\trs habira aka iki ha
+\tx habira          aka            iki           ha
+\mb ha      =bira   ak      -a     ik      -i    ha
+\gn ese(SK) =nomás hacer   -NOMLZ copula  -IMPF ese(SK)
+\ps dem     =clit.  v.tran. -suf.  v.intr. -suf. dem
+
+\ft Eso habrán hecho.
+\ELANBegin 302.900
+\ELANEnd 305.090
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 302.900 305.090
+
+\ref 088
+\trs ainki ma inkinkana ha a xobo a xobo mena inkinkana
+inki kahon
+\tx ainki            ma  inkinkana          ha      a
+\mb ain       =ki    ma  inkin  -kan  -a    ha      a
+\gn ahí(MIX) =REP   ya  entrar -PLU  -PERF ese(SK) ese
+\ps adv.      =clit. adv v.     -suj. -suf. dem     dem
+
+\tx xobo     a   xobo     mena
+\mb xobo     a   xobo     mená
+\gn casa(SK) ese casa(SK) LOC
+\ps n.       dem n.       pos.
+
+\tx inkinkana          inkin  kahon
+\mb inkin  -kan  -a    inkin  ka     -hon
+\gn entrar -PLU  -PERF entrar ir     -SUJ>A:SIM
+\ps v.     -suj. -suf. v.     v.intr -suf.
+
+\ft De ahí fueron a la casa y entraron.
+\ELANBegin 305.590
+\ELANEnd 310.590
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 305.590 310.590
+
+\ref 089
+\trs hiki  kahon riki a
+\tx hiki       kahon             riki    a
+\mb hiki       ka     -hon       riki    a
+\gn entrar(SK) ir     -SUJ>S:SIM COP(SK) ese
+\ps v.         v.intr -suf.      part.   dem
+
+\ft Entraron.
+\ELANBegin 311.445
+\ELANEnd 313.065
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 311.445 313.065
+
+\ref 090
+\trs aronki ha oni pian tsakake
+\tx aronki       ha  oni     pian
+\mb a   =ronki   a   oni     pia        =n
+\gn ese =REP(SK) ese persona flecha(SK) =INST
+\ps dem =clit.   dem n.      n.         =clit.
+
+\tx tsakake
+\mb tsaka       -ke
+\gn flechar(SK) -PERF(SK)
+\ps v.tran      -suf.
+
+\ft De ahí la gente empezó a flechear.
+\ELANBegin 313.670
+\ELANEnd 316.580
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 313.670 316.580
+
+\ref 091
+\trs pian apakekina
+\tx pian              apakekina
+\mb pia        =n     ak      -pake -kin  -a
+\gn flecha(SK) =INST  hacer   -ITER -ASOC -PERF
+\ps n.         =clit. v.tran. -suf. -suf. -suf.
+
+\ft Flechear.
+\ELANBegin 316.580
+\ELANEnd 318.510
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 316.580 318.510
+
+\ref 092
+\trs atibi marei
+\tx atibi         marei
+\mb a   =tibi     mare  -i
+\gn ese =DIST(SK) matar -IMPF
+\ps dem =suf.     v.    -suf.
+
+\ft Todos mataban.
+\ELANBegin 318.710
+\ELANEnd 320.680
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 318.710 320.680
+
+\ref 093
+\trs a wino wino wino
+\tx a   wino   wino   wino
+\mb a   wino   wino   wino
+\gn ese macana macana macana
+\ps dem n.     n.     n.
+
+\ft A ese macana, macana, macana.
+\ELANBegin 320.690
+\ELANEnd 322.830
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 320.690 322.830
+
+\ref 094
+\trs wino
+\tx wino
+\mb wino
+\gn macana
+\ps n.
+
+\ft Macana.
+\ELANBegin 322.885
+\ELANEnd 324.185
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 322.885 324.185
+
+\ref 095
+\trs a riki honi marekin toh toh toh
+\tx a   riki    honi        marekin
+\mb a   riki    honi        mare  -kin
+\gn ese COP(SK) persona(SK) matar -SUJ>A:SIM
+\ps dem part.   n.          v.    -suf.
+
+\tx toh                        toh
+\mb toh                        toh
+\gn ideófono.cortar.algo.duro ideófono.cortar.algo.duro
+\ps ideo.                      ideo.
+
+\tx toh
+\mb toh
+\gn ideófono.cortar.algo.duro
+\ps ideo.
+
+\ft Así mataban a la gente (too, onomatopeya de matar).
+\ELANBegin 324.290
+\ELANEnd 328.910
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 324.290 328.910
+
+\ref 096
+\trs atibiri ashi
+\tx atibiri             ashi
+\mb a   =tibi     =ri   ashi
+\gn ese =DIST(SK) =CON  lanza
+\ps dem =suf.     =clit n.
+
+\ft Mataban a todos con lanza
+\ELANBegin 328.955
+\ELANEnd 330.505
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 328.955 330.505
+
+\ref 097
+\trs a honi chachiti
+\tx a   honi        chachiti
+\mb a   honi        chachi    -ti
+\gn ese persona(SK) picar(SK) -NOMLZ
+\ps dem n.          v.        -suf.
+
+\ft A esa gente la picaban con la lanza.
+\ELANBegin 330.545
+\ELANEnd 332.305
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 330.545 332.305
+
+\ref 098
+\trs a riki cha cha
+\tx a   riki    cha    cha
+\mb a   riki    cha    cha
+\gn ese COP(SK) clavar clavar
+\ps dem part.   ono.   ono.
+
+\ft Así (cha, onomatopeya para picar con lanza).
+\ELANBegin 332.970
+\ELANEnd 335.400
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 332.970 335.400
+
+\ref 099
+\trs atian a keyoke
+\tx atian    a   keyoke
+\mb atian    a   keyo         -ke
+\gn entonces ese terminar(SK) -PERF(SK)
+\ps conec.   dem v.tran.      -suf.
+
+\ft Así terminó.
+\ELANBegin 336.180
+\ELANEnd 338.760
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 336.180 338.760
+
+\ref 100
+\trs a keyohonronki ha
+\tx a   keyohonronki                     ha
+\mb a   keyo         -hon       =ronki   ha
+\gn ese terminar(SK) -SUJ>S:SIM =REP(SK) ese(SK)
+\ps dem v.tran.      -suf.      =clit.   dem
+
+\ft Asi terminó.
+\ELANBegin 339.785
+\ELANEnd 342.095
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 339.785 342.095
+
+\ref 101
+\trs paranti ka paranti takobo bike ha poa
+\tx paranti  ka     paranti  takobo
+\mb paranti  =ka    paranti  tako              =bo
+\gn plátano =NAR   plátano tallo.de.plátano =PLU
+\ps n.       =clit. n.       n.                =clit
+
+\tx bike              ha      poa
+\mb bi      -ke       ha      poa
+\gn agarrar -PERF(SK) ese(SK) sachapapa
+\ps v.      -suf.     dem     n.
+
+\ft Así agarraron la semilla del plátano y la sachapapa.
+\ELANBegin 343.915
+\ELANEnd 348.955
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 343.915 348.955
+
+\ref 102
+\trs a keyohonronki ha parantibo banake atsa poa banake
+\tx a   keyohonronki                     ha
+\mb a   keyo         -hon       =ronki   ha
+\gn ese terminar(SK) -SUJ>A:SIM =REP(SK) ese(SK)
+\ps dem v.tran.      -suf.      =clit.   dem
+
+\tx parantibo      banake            atsa poa
+\mb paranti  =bo   bana    -ke       atsa poa
+\gn plátano =PLU  sembrar -PERF(SK) yuca sachapapa
+\ps n.       =clit v.tran  -suf.     n.   n.
+
+\tx banake
+\mb bana    -ke
+\gn sembrar -PERF(SK)
+\ps v.tran  -suf.
+
+\ft Así acabó esto y luego pudimos sembrar plátano, yuca y sachapapa.
+\ELANBegin 353.580
+\ELANEnd 359.210
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 353.580 359.210
+
+\ref 103
+\trs ainoaronki honi bekankoin
+\tx ainoaronki      honi       bekankoin
+\mb ainoa  =ronki   honi       be        -kan  =koin
+\gn ahí:P =REP(SK) hombre(SK) venir(PL) -PLU  =verdadero
+\ps adv.   =clit.   n.         v         -suj. =clit.
+
+\ft De ahí regresaron
+\ELANBegin 359.640
+\ELANEnd 361.960
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 359.640 361.960
+
+\ref 104
+\trs ma keyoberan bekani ka
+\tx ma  keyoberan              bekani                   ka
+\mb ma  keyo         -beran    be        -kan  -ni      =ka
+\gn ya  terminar(SK) -VEN:TRAN venir(PL) -PLU  -PAS.REM =NAR
+\ps adv v.tran.      -suf.     v         -suj. -suf     =clit.
+
+\ft Ya llegamos.
+\ELANBegin 362.735
+\ELANEnd 364.995
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 362.735 364.995
+
+\ref 105
+\trs ainoah westiora bea
+\tx ainoah                 westiora bea
+\mb ain       =no    =ah   westiora be    -a
+\gn ahí(MIX) =LOC   =S    uno(SK)  traer -PERF
+\ps adv.      =clit. =suf. num.     v     -suf.
+
+\ft De ahí, uno trajo.
+\ELANBegin 365.810
+\ELANEnd 368.440
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 365.810 368.440
+
+\ref 106
+\trs westiora oni ika iki chai
+\tx westiora oni     ika            iki           chai
+\mb westiora oni     ik      -a     ik      -i    chai
+\gn uno(SK)  persona copula  -NOMLZ copula  -IMPF cuñado
+\ps num.     n.      v.intr. -suf.  v.intr. -suf. n.
+
+\ft Una persona era, el cuñado.
+\ELANBegin 368.640
+\ELANEnd 371.410
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 368.640 371.410
+
+\ref 107
+\trs chai
+\tx chai
+\mb chai
+\gn cuñado
+\ps n.
+
+\ft Cuñado.
+\ELANBegin 371.930
+\ELANEnd 373.260
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 371.930 373.260
+
+\ref 108
+\trs mira bichi benokainai [...]
+\tx mira             bichi
+\mb mi    =ra        bichi
+\gn 2SG:A =EVID1(SK) piel
+\ps pron. =clit.     n.
+
+\tx benokainai
+\mb beno        -kain     -ai
+\gn casarse(SK) -AND:INTR -IMPF(SK)
+\ps v.          -suf.     -suf.
+
+\ft Tu piel se está cayendo
+\ELANBegin 373.570
+\ELANEnd 375.850
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 373.570 375.850
+
+\ref 109
+\trs neribi biwi
+\tx neribi      biwi
+\mb neri =bi    biwi
+\gn acá =ENF   oso.hormiguero
+\ps adv. =clit. n.
+
+\ft ahora es oso hormiguero
+\ELANBegin 375.985
+\ELANEnd 377.615
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 375.985 377.615
+
+\ref 110
+\trs neribi biwi ma
+\tx neribi      biwi           ma
+\mb neri =bi    biwi           ma
+\gn acá =ENF   oso.hormiguero ya
+\ps adv. =clit. n.             adv
+
+\ft ya es oso hormiguero
+\ELANBegin 377.685
+\ELANEnd 379.625
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 377.685 379.625
+
+\ref 111
+\trs ma biwikaini ka biwi shihui
+\tx ma  biwikaini                      ka
+\mb ma  biwi           -kain     -i    =ka
+\gn ya  oso.hormiguero -AND:INTR -IMPF =NAR
+\ps adv n.             -suf.     -suf. =clit.
+
+\tx biwi           shihui
+\mb biwi           shihui
+\gn oso.hormiguero oso.hormiguero(CAST)
+\ps n.             n.
+
+\ft Se fueron convitiéndose en hormiguero.
+\ELANBegin 380.140
+\ELANEnd 383.100
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 380.140 383.100
+
+\ref 112
+\trs ma shihuiwake
+\tx ma  shihuiwake
+\mb ma  shihui               -wa   -ke
+\gn ya  oso.hormiguero(CAST) -FACT -NOMLZ(SK)
+\ps adv n.                   -suf  -suf.
+
+\ft ya se convirtieron en oso hormiguero
+\ELANBegin 383.245
+\ELANEnd 385.075
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 383.245 385.075
+
+\ref 113
+\trs hares ma oa rere bochikikainiribi
+\tx hares          ma  oa   rere
+\mb a   -res       ma  oa   rere
+\gn ese -solamente ya  ese  gatear
+\ps dem -suf.      adv dem. v.
+
+\tx bochikikainiribi
+\mb bochiki -kain     -i    =ribi
+\gn subir   -AND:INTR -IMPF =también
+\ps v.      -suf.     -suf. =clit.
+
+\ft y ya estaban trepando a los árboles
+\ELANBegin 385.575
+\ELANEnd 389.445
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 385.575 389.445
+
+\ref 114
+\trs ainoa wetsa ikai
+\tx ainoa  wetsa    ikai
+\mb ainoa  wetsa    ik      -ai
+\gn ahí:P otro(SK) copula  -IMPF(SK)
+\ps adv.   adj.     v.intr. -suf.
+
+\ft De ahí otro.
+\ELANBegin 390.065
+\ELANEnd 391.575
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 390.065 391.575
+
+\ref 115
+\trs a wetsaki ikai a
+\tx a   wetsaki         ikai              a
+\mb a   wetsa    =ki    ik      -ai       a
+\gn ese otro(SK) =REP   copula  -IMPF(SK) ese
+\ps dem adj.     =clit. v.intr. -suf.     dem
+
+\ft Otro dijo.
+\ELANBegin 392.635
+\ELANEnd 394.825
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 392.635 394.825
+
+\ref 116
+\trs eara shima shima iki
+\tx eara                   shima shima iki
+\mb ea          =ra        shima shima ik -i
+\gn 1SG.ABS(SK) =EVID1(SK) tener.sed      -IMPF
+\ps pron.       =clit.     v.             -suf.
+
+\ft Tenemos sed.
+\ELANBegin 396.625
+\ELANEnd 398.585
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 396.625 398.585
+
+\ref 117
+\trs eara shima shima ikiki
+\tx eara                   shima shima iki
+\mb ea          =ra        shima shima ik -i
+\gn 1SG.ABS(SK) =EVID1(SK) tener.sed      -IMPF
+\ps pron.       =clit.     v.             -suf.
+
+\tx iki
+\mb ik         -i
+\gn decir:INTR -IMPF
+\ps v.intr.    -suf.
+
+\ft Tenemos mucha sed.
+\ELANBegin 398.900
+\ELANEnd 401.930
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 398.900 401.930
+
+\ref 118
+\trs isan toka isan to
+\tx isan      toka                  isan      to
+\mb isan      to             =ka    isan      to
+\gn ungurahui flor.ungurahui =NAR   ungurahui flor.ungurahui
+\ps n.        n.             =clit. n.        n.
+
+\ft Fue y cogió una hoja de ungurahui y la llevó.
+\ELANBegin 402.860
+\ELANEnd 404.930
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 402.860 404.930
+
+\ref 119
+\trs isan to hain
+\tx isan      to             hain
+\mb isan      to             hain
+\gn ungurahui flor.ungurahui ahí(SK)
+\ps n.        n.             adv.
+
+\ft Hoja de ungurahui.
+\ELANBegin 405.570
+\ELANEnd 407.140
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 405.570 407.140
+
+\ref 120
+\trs ainka epaha bospia
+\tx ainka            epaha bospia
+\mb ain       =ka    epaha bospi  -a
+\gn ahí(MIX) =NAR   agua  llenar -PERF
+\ps adv.      =clit. n.    v.     -suf.
+
+\ft La llenó con agua.
+\ELANBegin 407.450
+\ELANEnd 409.520
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 407.450 409.520
+
+\ref 121
+\trs haki neskahon xeai
+\tx haki           neskahon         xeai
+\mb ha      =ki    neska -hon       xea       -i
+\gn ese(SK) =ALA   así  -SUJ>A:SIM tomar(SK) -IMPF
+\ps dem     =clit. adv.  -suf.      v.        -suf.
+
+\ft Entonces, tomó.
+\ELANBegin 409.870
+\ELANEnd 412.100
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 409.870 412.100
+
+\ref 122
+\trs a bitanki neno
+\tx a   bitanki              neno
+\mb a   bi      -tan  =ki    neno
+\gn ese agarrar -ANDA =REP   aquí(SK)
+\ps dem v.      -suf. =clit. adv.
+
+\ft Habiendo acabado, se puso la hoja en la espalda.
+\ELANBegin 414.200
+\ELANEnd 416.380
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 414.200 416.380
+
+\ref 123
+\trs huns
+\tx huns
+\mb huns
+\gn transformación
+\ps ono.
+
+\ft Onomatopeya de transformación.
+\ELANBegin 418.245
+\ELANEnd 419.255
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 418.245 419.255
+
+\ref 124
+\trs hae
+\tx hae
+\mb hae
+\gn oso.hormiguero
+\ps n.
+
+\ft Oso hormiguero.
+\ELANBegin 419.620
+\ELANEnd 420.870
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 419.620 420.870
+
+\ref 125
+\trs ma haei oso hormiguero
+\tx ma  haei                 oso       hormiguero
+\mb ma  hae            -i    oso       hormiguero
+\gn ya  oso.hormiguero -IMPF oso(CAST) hormiguero(CAST)
+\ps adv n.             -suf. n.        n.
+
+\ft Se convirtió en un oso hormiguero.
+\ELANBegin 421.320
+\ELANEnd 425.190
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 421.320 425.190
+
+\ref 126
+\trs ma haekaini
+\tx ma  haekaini
+\mb ma  hae            -kain     -i
+\gn ya  oso.hormiguero -AND:INTR -IMPF
+\ps adv n.             -suf.     -suf.
+
+\ft Ya se convirtió en oso hormiguero.
+\ELANBegin 425.440
+\ELANEnd 427.520
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 425.440 427.520
+
+\ref 127
+\trs hain ain ka oni ka
+\tx hain     ain       ka     oni     ka
+\mb hain     ain       =ka    oni     =ka
+\gn ahí(SK) ahí(MIX) =NAR   persona =NAR
+\ps adv.     adv.      =clit. n.      =clit.
+
+\ft De ahí, otra persona.
+\ELANBegin 428.480
+\ELANEnd 430.650
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 428.480 430.650
+
+\ref 128
+\trs hain yakata
+\tx hain     yakata
+\mb hain     yakat        -a
+\gn ahí(SK) sentarse(SK) -PERF
+\ps adv.     v.           -suf.
+
+\ft Se sentó.
+\ELANBegin 430.790
+\ELANEnd 433.410
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 430.790 433.410
+
+\ref 129
+\trs ain ka wewa wewa ka wewa
+\tx ain       ka     wewa     wewa     ka     wewa
+\mb ain       =ka    wewa     wewa     =ka    wewa
+\gn ahí(MIX) =NAR   sentarse sentarse =NAR   sentarse
+\ps adv.      =clit. v.       v.       =clit. v.
+
+\ft Se sentó.
+\ELANBegin 433.560
+\ELANEnd 437.140
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 433.560 437.140
+
+\ref 130
+\trs wewaroko ikai ka
+\tx wewaroko       ikai              ka
+\mb wewa     -roko ik      -ai       =ka
+\gn sentarse -INTF copula  -IMPF(SK) =NAR
+\ps v.       -suf. v.intr. -suf.     =clit.
+
+\ft Se sentó.
+\ELANBegin 437.140
+\ELANEnd 439.560
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 437.140 439.560
+
+\ref 131
+\trs tois tois tois tois ka
+\tx tois       tois       tois       tois       ka
+\mb tois       tois       tois       tois       =ka
+\gn canto.loro canto.loro canto.loro canto.loro =NAR
+\ps ono.       ono.       ono.       ono.       =clit.
+
+\ft (tois: canto del toshi)
+\ELANBegin 442.250
+\ELANEnd 446.990
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 442.250 446.990
+
+\ref 132
+\trs toshikaini toshi
+\tx toshikaini             toshi
+\mb toshi  -kain     -i    toshi
+\gn lorito -AND:INTR -IMPF lorito
+\ps n.     -suf.     -suf. n.
+
+\ft Se convirtió en toshi.
+\ELANBegin 447.065
+\ELANEnd 449.555
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 447.065 449.555
+
+\ref 133
+\trs ajá toshi
+\tx ajá   toshi
+\mb ajá   toshi
+\gn ajá   lorito
+\ps inter. n.
+
+\ft [?¿] Toshí.
+\ELANBegin 449.645
+\ELANEnd 451.095
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 449.645 451.095
+
+\ref 134
+\trs loro
+\tx loro       
+\mb loro
+\gn loro(CAST)
+\ps n.
+
+\ft loro
+\ELANBegin 451.115
+\ELANEnd 452.925
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 451.115 452.925
+
+\ref 135
+\trs ainoah bawa
+\tx ainoah                 bawa
+\mb ain       =no    =ah   bawa
+\gn ahí(MIX) =LOC   =S    loro
+\ps adv.      =clit. =suf. n.
+
+\ft De ahí el loro.
+\ELANBegin 453.025
+\ELANEnd 455.695
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 453.025 455.695
+
+\ref 136
+\trs cha cha cha cha oa kai ma bawa
+\tx cha        cha        cha        cha        oa
+\mb cha        cha        cha        cha        oa
+\gn canto.loro canto.loro canto.loro canto.loro ese
+\ps ono.       ono.       ono.       ono.       dem.
+
+\tx kai          ma  bawa
+\mb ka     -i    ma  bawa
+\gn ir     -IMPF ya  loro
+\ps v.intr -suf. adv n.
+
+\ft (Cha: onomatopeya del canto del loro) y se fue.
+\ELANBegin 455.775
+\ELANEnd 459.945
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 455.775 459.945
+
+\ref 137
+\trs aka wetsaka
+\tx aka        wetsaka
+\mb a   =ka    wetsa    =ka
+\gn ese =NAR   otro(SK) =NAR
+\ps dem =clit. adj.     =clit.
+
+\ft De ahí otra persona.
+\ELANBegin 460.465
+\ELANEnd 462.705
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 460.465 462.705
+
+\ref 138
+\trs aka asin
+\tx aka        asin
+\mb a   =ka    asin
+\gn ese =NAR   paujil
+\ps dem =clit. n.
+
+\ft Ese paujil.
+\ELANBegin 463.390
+\ELANEnd 465.075
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 463.390 465.075
+
+\ref 139
+\trs paka hotobanon paka hotobanon ikaini
+\tx paka   hotobanon           paka
+\mb paka   hoto   -ba    -non  paka
+\gn bambú raspar -ahora -PROP bambú
+\ps n.     v.     -suf.  -suf. n.
+
+\tx hotobanon           ikaini
+\mb hoto   -ba    -non  ik      -kain     -i
+\gn raspar -ahora -PROP copula  -AND:INTR -IMPF
+\ps v.     -suf.  -suf. v.intr. -suf.     -suf.
+
+\ft Raspando la paca para preparar flechas
+\ELANBegin 465.075
+\ELANEnd 468.225
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 465.075 468.225
+
+\ref 140
+\trs paka hotobanon ha kai
+\tx paka   hotobanon           ha      kai
+\mb paka   hoto   -ba    -non  ha      ka     -i
+\gn bambú raspar -ahora -PROP ese(SK) ir     -IMPF
+\ps n.     v.     -suf.  -suf. dem     v.intr -suf.
+
+\ft Raspando la paca se estaba yendo
+\ELANBegin 468.265
+\ELANEnd 470.165
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 468.265 470.165
+
+\ref 141
+\trs chaish
+\tx chaish
+\mb chaish
+\gn romper
+\ps ono.
+
+\ft Onomatopeya [?¿]
+\ELANBegin 470.250
+\ELANEnd 471.200
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 470.250 471.200
+
+\ref 142
+\trs chaish
+\tx chaish
+\mb chaish
+\gn romper
+\ps ono.
+
+\ft Onomatopeya [?¿]
+\ELANBegin 471.300
+\ELANEnd 472.380
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 471.300 472.380
+
+\ref 143
+\trs a ka asin koish koish koish ma paujil
+\tx a   ka     asin   koish           koish
+\mb a   =ka    asin   koish           koish
+\gn ese =NAR   paujil transformación transformación
+\ps dem =clit. n.     ono.            ono.
+
+\tx koish           ma  paujil
+\mb koish           ma  paujil
+\gn transformación ya  paujil(CAST)
+\ps ono.            adv n.
+
+\ft Así, entonces, se convirtió en paujil (kuish, canto del paujil)
+\ELANBegin 472.515
+\ELANEnd 476.495
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 472.515 476.495
+
+\ref 144
+\trs ehe ajá
+\tx ehe   ajá
+\mb ehe   ajá
+\gn sí   ajá
+\ps intj. inter.
+
+\ft ajá
+\ELANBegin 476.960
+\ELANEnd 479.370
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 476.960 479.370
+
+\ref 145
+\trs ikaini ha ka
+\tx ikaini                  ha      ka
+\mb ik      -kain     -i    ha      ka     -a
+\gn copula  -AND:INTR -IMPF ese(SK) ir     -PERF
+\ps v.intr. -suf.     -suf. dem     v.intr -suf.
+
+\ft y se fue
+\ELANBegin 479.820
+\ELANEnd 482.160
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 479.820 482.160
+
+\ref 146
+\trs wetsaki a mari
+\tx wetsaki         a   mari
+\mb wetsa    =ki    a   mari
+\gn otro(SK) =REP   ese añuje
+\ps adj.     =clit. dem n.
+
+\ft Luego, otro en añuje
+\ELANBegin 484.055
+\ELANEnd 486.395
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 484.055 486.395
+
+\ref 147
+\trs ishá ma marikaini
+\tx ishá                  ma  marikaini
+\mb ishá                  ma  mari   -kain     -i
+\gn transformación.añuje ya  añuje -AND:INTR -IMPF
+\ps ono.                   adv n.     -suf.     -suf.
+
+\ft Onomatopeya del añuje, se convirtió.
+\ELANBegin 486.675
+\ELANEnd 490.135
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 486.675 490.135
+
+\ref 148
+\trs a mari
+\tx a   mari
+\mb a   mari
+\gn ese añuje
+\ps dem n.
+
+\ft Ese añuje.
+\ELANBegin 491.690
+\ELANEnd 493.110
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 491.690 493.110
+
+\ref 149
+\trs atibi a yaka yakatai ka
+\tx atibi         a   yaka   yakatai
+\mb a   =tibi     a   yaka   yakat        -ai
+\gn ese =DIST(SK) ese sentar sentarse(SK) -IMPF(SK)
+\ps dem =suf.     dem v.ambi v.           -suf.
+
+\tx ka
+\mb =ka
+\gn =NAR
+\ps =clit.
+
+\ft De ahi estando todos sentados.
+\ELANBegin 494.035
+\ELANEnd 497.255
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 494.035 497.255
+
+\ref 150
+\trs ainka ka
+\tx ainka            ka
+\mb ain       =ka    ka     -a
+\gn ahí(MIX) =NAR   ir     -PERF
+\ps adv.      =clit. v.intr -suf.
+
+\ft [?¿]
+\ELANBegin 497.490
+\ELANEnd 499.040
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 497.490 499.040
+
+\ref 151
+\trs itibi ka kai
+\tx itibi             ka     kai
+\mb ik      =tibi     =ka    ka     -i
+\gn copula  =DIST(SK) =NAR   ir     -IMPF
+\ps v.intr. =suf.     =clit. v.intr -suf.
+
+\ft [?¿]
+\ELANBegin 499.320
+\ELANEnd 501.620
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 499.320 501.620
+
+\ref 152
+\trs hawan
+\tx hawan
+\mb hawán
+\gn papagayo
+\ps n.
+
+\ft Guacamayo, onomatopeya del guacamayo.
+\ELANBegin 503.525
+\ELANEnd 505.715
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 503.525 505.715
+
+\ref 153
+\trs hawan ha ha ha ma hawain
+\tx hawan     ha             ha             ha             ma  hawain
+\mb hawan     ha             ha             ha             ma  hawan    -i
+\gn papagayo  canto.papagayo canto.papagayo canto.papagayo ya  papagayo -IMPF
+\ps n.        ono            ono            ono            adv n.       -suf.
+
+\ft Onomatopeya del guacamayo, se convirtió en guacamayo.
+\ELANBegin 505.925
+\ELANEnd 510.065
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 505.925 510.065
+
+\ref 154
+\trs hawain guacamayo
+\tx hawain         guacamayo
+\mb hawan    -i    guacamayo
+\gn papagayo -IMPF guacamayo(CAST)
+\ps n.       -suf. n.
+
+\ft El guacamayo convertido.
+\ELANBegin 510.380
+\ELANEnd 512.330
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 510.380 512.330
+
+\ref 155
+\trs ma hawain
+\tx ma  hawain
+\mb ma  hawan    -i
+\gn ya  papagayo -IMPF
+\ps adv n.       -suf.
+
+\ft Ya siendo guacamayo.
+\ELANBegin 512.690
+\ELANEnd 515.570
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 512.690 515.570
+
+\ref 156
+\trs hawankaini kai  ha
+\tx hawankaini               kai          ha
+\mb hawan    -kain     -i    ka     -i    ha
+\gn papagayo -AND:INTR -IMPF ir     -IMPF ese(SK)
+\ps n.       -suf.     -suf. v.intr -suf. dem
+
+\ft Convirtiéndose en guacamayo.
+\ELANBegin 516.345
+\ELANEnd 518.515
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 516.345 518.515
+
+\ref 157
+\trs hatian ma
+\tx hatian       ma
+\mb hatian       ma
+\gn entonces(SK) ya
+\ps conec.       adv
+
+\ft También ya.
+\ELANBegin 520.155
+\ELANEnd 522.035
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 520.155 522.035
+
+\ref 158
+\trs otro grupohake ma
+\tx otro       grupohake         ma
+\mb otro       grupo       -hake ma
+\gn otro(CAST) grupo(CAST) -por  ya
+\ps adj.       n.          -suf. adv
+
+\ft Otro grupo
+\ELANBegin 522.980
+\ELANEnd 525.810
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 522.980 525.810
+
+\ref 159
+\trs ma yoinayamai hakama hawekeskatiki mato
+hawekeskatiki mato
+\tx ma  yoinayamai            hakama
+\mb ma  yoina  -yama    -i    ha      =kama
+\gn ya  animal -NEG(SK) -IMPF ese(SK) =LIM
+\ps adv n.     -suf.    -suf. dem     =clit.
+
+\tx hawekeskatiki           mato
+\mb hawekeska -ti    =ki    mato
+\gn cómo(SK) -NOMLZ =INT   2PL:S(SK)
+\ps pal.int   -suf.  =clit. pron.
+
+\tx hawekeskatiki           mato
+\mb hawekeska -ti    =ki    mato
+\gn cómo(SK) -NOMLZ =INT   2PL:S(SK)
+\ps pal.int   -suf.  =clit. pron.
+
+\ft El otro grupo no se había convetido en animal, "¿qué les ha
+pasado a ustedes?, ¿qué les ha pasado a ustedes?"
+\ELANBegin 527.100
+\ELANEnd 532.130
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 527.100 532.130
+
+\ref 160
+\trs mato haskatai eara askayamai  eara askayamai
+\tx mato      haskatai
+\mb mato      haskat   -ai
+\gn 2PL:S(SK) ser.así -IMPF(SK)
+\ps pron.     v.       -suf.
+
+\tx eara                   askayamai
+\mb ea          =ra        aska -yama    -i
+\gn 1SG.ABS(SK) =EVID1(SK) así -NEG(SK) -IMPF
+\ps pron.       =clit.     adv. -suf.    -suf.
+
+\tx eara                   askayamai
+\mb ea          =ra        aska -yama    -i
+\gn 1SG.ABS(SK) =EVID1(SK) así -NEG(SK) -IMPF
+\ps pron.       =clit.     adv. -suf.    -suf.
+
+\ft Por qué ustedes no se convierten en animales.
+\ELANBegin 532.590
+\ELANEnd 536.320
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 532.590 536.320
+
+\ref 161
+\trs guacamayo ha hakon ma
+\tx guacamayo       ha      hakon     ma
+\mb guacamayo       ha      hakon     ma
+\gn guacamayo(CAST) ese(SK) bueno(SK) ya
+\ps n.              dem     adj.      adv
+
+\ft ya están bien guacamayos
+\ELANBegin 536.750
+\ELANEnd 539.350
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 536.750 539.350
+
+\ref 162
+\trs guacamayo eama
+\tx guacamayo       eama
+\mb guacamayo       ea          =ma
+\gn guacamayo(CAST) 1SG.ABS(SK) =NEG
+\ps n.              pron.       =clit.
+
+\ft yo no soy guacamayo
+\ELANBegin 540.265
+\ELANEnd 542.275
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 540.265 542.275
+
+\ref 163
+\trs haskatai riki ha
+\tx haskatai           riki    ha
+\mb haskat   -ai       riki    ha
+\gn ser.así -IMPF(SK) COP(SK) ese(SK)
+\ps v.       -suf.     part.   dem
+
+\ft [Sin traducción]
+\ELANBegin 543.335
+\ELANEnd 545.185
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 543.335 545.185
+
+\ref 164
+\trs ha ika iki a
+\tx ha      ika            iki           a
+\mb ha      ik      -a     ik      -i    a
+\gn ese(SK) copula  -NOMLZ copula  -IMPF ese
+\ps dem     v.intr. -suf.  v.intr. -suf. dem
+
+\ft [Sin traducción]
+\ELANBegin 545.805
+\ELANEnd 547.655
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 545.805 547.655
+
+\ref 165
+\trs ma kai ha
+\tx ma  kai          ha
+\mb ma  ka     -i    ha
+\gn ya  ir     -IMPF ese(SK)
+\ps adv v.intr -suf. dem
+
+\ft ya se fueron
+\ELANBegin 548.285
+\ELANEnd 550.065
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 548.285 550.065
+
+\ref 166
+\trs ma yoashi bakebo yoashi honibo ma
+\tx ma  yoashi       bakebo     yoashi
+\mb ma  yoashi       bake =bo   yoashi
+\gn ya  mezquino(SK) hijo =PLU  mezquino(SK)
+\ps adv n.           n.   =clit n.
+
+\tx honibo            ma
+\mb honi        =bo   ma
+\gn persona(SK) =PLU  ya
+\ps n.          =clit adv
+
+\ft [Sin traducción]
+\ELANBegin 550.480
+\ELANEnd 554.310
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 550.480 554.310
+
+\ref 167
+\trs ma keyo retea
+\tx ma  keyo         retea
+\mb ma  keyo         rete      -a
+\gn ya  terminar(SK) matar(SK) -PERF
+\ps adv v.tran.      v.        -suf.
+
+\ft [Sin traducción]
+\ELANBegin 554.460
+\ELANEnd 556.110
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 554.460 556.110
+
+\ref 168
+\trs pian apakea marepakea
+\tx pian              apakea              marepakea
+\mb pia        =n     ak      -pake -a    mare  -pake -a
+\gn flecha(SK) =INST  hacer   -ITER -PERF matar -ITER -PERF
+\ps n.         =clit. v.tran. -suf. -suf. v.    -suf. -suf.
+
+\ft [Sin traducción]
+\ELANBegin 556.150
+\ELANEnd 558.610
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 556.150 558.610
+
+\ref 169
+\trs ma yama
+\tx ma  yama
+\mb ma  yama
+\gn ya  NEG
+\ps adv adv
+
+\ft [Sin traducción]
+\ELANBegin 559.325
+\ELANEnd 560.915
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 559.325 560.915
+
+\ref 170
+\trs ma ka yama ha iki
+\tx ma  ka     yama ha      iki
+\mb ma  =ka    yama ha      ik      -i
+\gn ya  =NAR   NEG  ese(SK) copula  -IMPF
+\ps adv =clit. adv  dem     v.intr. -suf.
+
+\ft [Sin traducción]
+\ELANBegin 561.285
+\ELANEnd 563.155
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 561.285 563.155
+
+\ref 171
+\trs hainra aka iki ha
+\tx hainra              aka            iki           ha
+\mb hain     =ra        ak      -a     ik      -i    ha
+\gn ahí(SK) =EVID1(SK) hacer   -NOMLZ copula  -IMPF ese(SK)
+\ps adv.     =clit.     v.tran. -suf.  v.intr. -suf. dem
+
+\ft así les pasó a ellos
+\ELANBegin 564.085
+\ELANEnd 566.155
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 564.085 566.155
+
+\ref 172
+\trs hatibi ma
+\tx hatibi    ma
+\mb hatibi    ma
+\gn todos(SK) ya
+\ps adj.      adv
+
+\ft [Sin traducción]
+\ELANBegin 567.575
+\ELANEnd 569.275
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 567.575 569.275
+
+\ref 173
+\trs hainki ma hatibi parantia parantia ma hatibi yoaya
+moatin yoama ikati
+\tx hainki          ma  hatibi    parantia
+\mb hain     =ki    ma  hatibi    paranti  -a
+\gn ahí(SK) =CON   ya  todos(SK) plátano -PERF
+\ps adv.     =clit. adv adj.      n.       -suf.
+
+\tx parantia       ma  hatibi    yoaya
+\mb paranti  -a    ma  hatibi    yoa            =ya
+\gn plátano -PERF ya  todos(SK) comida.vegetal =PROP
+\ps n.       -suf. adv adj.      n.             =clit.
+
+\tx moatin               yoa            ma
+\mb moa    -ti    =n     yoa            ma
+\gn ya(SK) -NOMLZ =LOC   comida.vegetal ya
+\ps adv    -suf.  =clit. n.             adv
+
+\tx ikati
+\mb ik         -kati
+\gn decir:INTR -PAS.REM:HAB
+\ps v.intr.    -suf.
+
+\ft De esa forma, sembramos plátano y empezamos a tener
+alimentos, hace mucho tiempo
+\ELANBegin 574.490
+\ELANEnd 580.770
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 574.490 580.770
+
+\ref 174
+\trs moa wasi
+\tx moa    wasi
+\mb moa    wasi
+\gn ya(SK) demorar(SK)
+\ps adv    v.
+
+\ft hace mucho tiempo
+\ELANBegin 581.095
+\ELANEnd 582.945
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 581.095 582.945
+
+\ref 175
+\trs haskara ihon ma yoishi bakebo
+\tx haskara             ihon               ma  yoishi
+\mb haska    =ra        ik      -hon       ma  yoishi
+\gn así(SK) =EVID1(SK) copula  -SUJ>S:SIM ya  mezquino
+\ps adv.     =clit.     v.intr. -suf.      adv n.
+
+\tx bakebo
+\mb bake =bo
+\gn hijo =PLU
+\ps n.   =clit
+
+\ft [Sin traducción]
+\ELANBegin 583.735
+\ELANEnd 586.445
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 583.735 586.445
+
+\ref 176
+\trs ainoah riki ma keyota ainres ajá
+\tx ainoah                 riki    ma
+\mb ain       =no    =ah   riki    ma
+\gn ahí(MIX) =LOC   =S    COP(SK) ya
+\ps adv.      =clit. =suf. part.   adv
+
+\tx keyota                ainres               ajá
+\mb keyo         -ta      ain       -res       ajá
+\gn terminar(SK) -IMP.FAM ahí(MIX) -solamente ajá
+\ps v.tran.      -suf.    adv.      -suf.      inter.
+
+\ft [Sin traducción]
+\ELANBegin 589.660
+\ELANEnd 593.900
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 589.660 593.900
+
+\ref 177
+\trs ya
+\tx ya
+\ft Ya.
+\ELANBegin 594.690
+\ELANEnd 596.030
+\ELANParticipant jose
+\sound JP-cuento.animal-2013.wav 594.690 596.030
+
+
+\ELANMediaURL file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JP-cuento.animal-2013.mpg
+\ELANMediaMIME video/mpeg
+\ELANMediaURL file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JP-cuento.animal-2013.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaExtracted file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JP-cuento.animal-2013.mpg

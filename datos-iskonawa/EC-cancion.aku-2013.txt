@@ -1,0 +1,284 @@
+\_sh v3.0  523  text
+
+\ref 001
+\ELANBegin 0.930
+\ELANEnd 3.390
+\ELANParticipant Roberto
+\trs entonces estamos grabando estamos acá con Elias
+\tx entonces estamos grabando estamos acá con Elias
+\ft entonces estamos grabando estamos acá con Elias
+\sound EC-cancion.aku-2013.wav 0.930 3.390
+
+\ref 002
+\ELANBegin 3.770
+\ELANEnd 6.510
+\ELANParticipant Roberto
+\trs y Elias va a hacer una canción propia de isconahua
+\tx y Elias va a hacer una canción propia de isconahua
+\ft y Elias va a hacer una canción propia de isconahua
+\sound EC-cancion.aku-2013.wav 3.770 6.510
+
+\ref 003
+\ELANBegin 7.595
+\ELANEnd 8.405
+\ELANParticipant Roberto
+\trs ya puedes empezar
+\tx ya puedes empezar
+\ft ya puedes empezar
+\sound EC-cancion.aku-2013.wav 7.595 8.405
+
+\ref 004
+\ELANBegin 8.895
+\ELANEnd 9.865
+\ELANParticipant Elias
+\trs non kentihokobi
+\tx non         kentihokobi
+\mb no   =n     kenti -hoko =bi
+\gn 1PL  =GEN   olla  -DIM  =ENF
+\ps pron =clit. n.    -suf  =clit.
+\ft nuestra ollita
+\sound EC-cancion.aku-2013.wav 8.895 9.865
+
+\ref 005
+\ELANBegin 9.915
+\ELANEnd 10.902
+\ELANParticipant Elias
+\trs non kentihokobi
+\tx non         kentihokobi
+\mb no   =n     kenti -hoko =bi
+\gn 1PL  =GEN   olla  -DIM  =ENF
+\ps pron =clit. n.    -suf  =clit.
+
+\ft nuestra ollita
+\sound EC-cancion.aku-2013.wav 9.915 10.902
+
+\ref 006
+\ELANBegin 10.902
+\ELANEnd 11.825
+\ELANParticipant Elias
+\trs non kentihokobi
+\tx non         kentihokobi
+\mb no   =n     kenti -hoko =bi
+\gn 1PL  =GEN   olla  -DIM  =ENF
+\ps pron =clit. n.    -suf  =clit.
+\ft nuestra ollita
+\sound EC-cancion.aku-2013.wav 10.902 11.825
+
+\ref 007
+\ELANBegin 11.873
+\ELANEnd 12.978
+\ELANParticipant Elias
+\trs kapa chopa biribi
+\tx kapa    chopa biribi
+\mb kapa    chopa biri      =bi
+\gn ardilla piel  brillante =ENF
+\ps n.      n.    adj.      =clit.
+\ft piel brillante de ardilla
+\sound EC-cancion.aku-2013.wav 11.873 12.978
+
+\ref 008
+\ELANBegin 12.978
+\ELANEnd 13.989
+\ELANParticipant Elias
+\trs kapa chopa biribi
+\tx kapa    chopa biribi
+\mb kapa    chopa biri      =bi
+\gn ardilla piel  brillante =ENF
+\ps n.      n.    adj.      =clit.
+\ft piel brillante de ardilla
+\sound EC-cancion.aku-2013.wav 12.978 13.989
+
+\ref 009
+\ELANBegin 14.015
+\ELANEnd 14.970
+\ELANParticipant Elias
+\trs kapa chopa biribi
+\tx kapa    chopa biribi
+\mb kapa    chopa biri      =bi
+\gn ardilla piel  brillante =ENF
+\ps n.      n.    adj.      =clit.
+\ft piel brillante de ardilla
+\sound EC-cancion.aku-2013.wav 14.015 14.970
+
+\ref 010
+\ELANBegin 15.005
+\ELANEnd 15.365
+\ELANParticipant Elias
+\trs kapa
+\tx kapa
+\mb kapa
+\gn ardilla
+\ps n.
+\ft ardilla
+\sound EC-cancion.aku-2013.wav 15.005 15.365
+
+\ref 011
+\ELANBegin 15.393
+\ELANEnd 16.405
+\ELANParticipant Elias
+\trs kapa meken beneme
+\tx kapa    meken beneme
+\mb kapa    meken bene  =me
+\gn ardilla mano  macho =?
+\ps n.      n.    n.    =clit
+\ft mano de ardilla macho (hay metatesis)
+\sound EC-cancion.aku-2013.wav 15.393 16.405
+
+\ref 012
+\ELANBegin 16.405
+\ELANEnd 17.320
+\ELANParticipant Elias
+\trs kapa bene mekeme
+\tx kapa    bene  mekeme
+\mb kapa    bene  meken =n
+\gn ardilla macho mano  =INST
+\ps n.      adj.  n.    =clit.
+
+\ft mano de ardilla macho (hay metatesis)
+\sound EC-cancion.aku-2013.wav 16.405 17.320
+
+\ref 013
+\ELANBegin 18.050
+\ELANEnd 19.109
+\ELANParticipant Elias
+\trs pon pon chokama
+\tx pon pon chokama
+\mb pon pon chokama
+\gn sonido.tambor
+\ps ono
+
+\ft [onomatopeia]
+\sound EC-cancion.aku-2013.wav 18.050 19.109
+
+\ref 014
+\ELANBegin 19.147
+\ELANEnd 20.166
+\ELANParticipant Elias
+\trs pon pon chokama
+\tx pon pon chokama
+\mb pon pon chokama
+\gn sonido.tambor
+\ps ono
+
+\ft [onomatopeia]
+\sound EC-cancion_aku-2013.wav 19.147 20.166
+
+\ref 015
+\ELANBegin 20.174
+\ELANEnd 21.143
+\ELANParticipant Elias
+\trs pon pon chokama
+\tx pon pon chokama
+\mb pon pon chokama
+\gn sonido.tambor
+\ps ono
+
+\ft [onomatopeia]
+\sound EC-cancion.aku-2013.wav 20.174 21.143
+
+\ref 016
+\ELANBegin 21.190
+\ELANEnd 22.111
+\ELANParticipant Elias
+\trs pon pon chokama
+\tx pon pon chokama
+\mb pon pon chokama
+\gn sonido.tambor
+\ps ono
+
+\ft [onomatopeia]
+\sound EC-cancion.aku-2013.wav 21.190 22.111
+
+\ref 017
+\ELANBegin 22.430
+\ELANEnd 23.378
+\ELANParticipant Elias
+\trs kebo boshti boshtiri
+\tx kebo      boshti boshtiri
+\mb kebo      boshti boshti =ri
+\gn pucacunga cresta cresta =COP.INT
+\ps n.        n.     n.     =clit
+
+\ft cresta de pucacunga
+\sound EC-cancion.aku-2013.wav 22.430 23.378
+
+\ref 018
+\ELANBegin 23.402
+\ELANEnd 24.344
+\ELANParticipant Elias
+\trs kebo boshti boshtiri
+\tx kebo      boshti boshtiri
+\mb kebo      boshti boshti =ri
+\gn pucacunga cresta cresta =COP.INT
+\ps n.        n.     n.     =clit
+
+\ft cresta de pucacunga
+\sound EC-cancion.aku-2013.wav 23.402 24.344
+
+\ref 019
+\ELANBegin 24.396
+\ELANEnd 25.321
+\ELANParticipant Elias
+\trs kebo boshti boshtiri
+\tx kebo      boshti boshtiri
+\mb kebo      boshti boshti =ri
+\gn pucacunga cresta cresta =COP.INT
+\ps n.        n.     n.     =clit
+
+\ft cresta de pucacunga
+\sound EC-cancion.aku-2013.wav 24.396 25.321
+
+\ref 020
+\ELANBegin 25.420
+\ELANEnd 26.289
+\ELANParticipant Elias
+\trs nokon kentihoko ma
+\tx nokon       kentihoko   ma
+\mb nokon       kenti -hoko ma
+\gn 1SG.GEN(SK) olla  -DIM  ya
+\ps pron        n.    -suf  adv
+
+\ft mi ollita
+\sound EC-cancion.aku-2013.wav 25.420 26.289
+
+\ref 021
+\ELANBegin 26.365
+\ELANEnd 27.300
+\ELANParticipant Elias
+\trs nokon kentihoko ma
+\tx nokon       kentihoko   ma
+\mb nokon       kenti -hoko ma
+\gn 1SG.GEN(SK) olla  -DIM  ya
+\ps pron        n.    -suf  adv
+
+\ft mi ollita
+\sound EC-cancion.aku-2013.wav 26.365 27.300
+
+\ref 022
+\ELANBegin 27.388
+\ELANEnd 28.343
+\ELANParticipant Elias
+\trs nokon kentihoko ma
+\tx nokon       kentihoko   ma
+\mb nokon       kenti -hoko ma
+\gn 1SG.GEN(SK) olla  -DIM  ya
+\ps pron        n.    -suf  adv
+
+\ft mi ollita
+\sound EC-cancion.aku-2013.wav 27.388 28.343
+
+\ref 023
+\ELANBegin 28.415
+\ELANEnd 28.915
+\ELANParticipant Elias
+\trs eso nomás
+\tx eso nomás
+\ft eso nomás
+\sound EC-cancion.aku-2013.wav 28.415 28.915
+
+
+\ELANMediaURL file:///E:/documentos/iskonawa/Iskonawa ELAN/EC-cancion.aku-2013.mpg
+\ELANMediaMIME video/mpeg
+\ELANMediaURL file:///E:/documentos/iskonawa/Iskonawa ELAN/EC-cancion.aku-2013.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaExtracted file:///E:/documentos/iskonawa/Iskonawa ELAN/EC-cancion.aku-2013.mpg

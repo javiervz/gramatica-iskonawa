@@ -1,0 +1,902 @@
+\_sh v3.0  400  text
+
+\ref 001
+\ELANBegin 1.670
+\ELANEnd 5.110
+\ELANParticipant Roberto
+\trs Y cuando se mata sachavaca
+\tx Y cuando se mata sachavaca
+\ft Y cuando se mata sachavaca
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 1.670 5.110
+
+\ref 002
+\ELANBegin 5.580
+\ELANEnd 6.410
+\ELANParticipant Roberto
+\trs o huangana
+\tx o huangana
+\ft o huangana
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 5.580 6.410
+
+\ref 003
+\ELANBegin 7.160
+\ELANEnd 8.000
+\ELANParticipant Roberto
+\trs ¿hay canción?
+\tx ¿hay canción?
+\ft ¿hay canción?
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 7.160 8.000
+
+\ref 004
+\ELANBegin 9.255
+\ELANEnd 10.525
+\ELANParticipant Nelita
+\trs yawa retea bewáhima
+\tx yawa     retea            bewáhima
+\mb yawa     rete      -a     bewá  -hima
+\gn huangana matar(SK) -NOMLZ cantar -nunca(INTR)
+\ps n.       v.        -suf.  v.     -suf.
+
+\ft cuando se mataba huangana nunca se cantaba
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 9.255 10.525
+
+\ref 005
+\ELANBegin 10.695
+\ELANEnd 11.145
+\ELANParticipant Juanita
+\trs bewáma
+\tx bewáma
+\mb bewá  -a     =ma
+\gn cantar -NOMLZ =NEG
+\ps v.     -suf.  =clit.
+
+\ft no se cantaba
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 10.695 11.145
+
+\ref 006
+\ELANBegin 15.545
+\ELANEnd 16.485
+\ELANParticipant Roberto
+\trs los cacataibo
+\tx los cacataibo
+\ft los cacataibo
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 15.545 16.485
+
+\ref 007
+\ELANBegin 16.850
+\ELANEnd 18.820
+\ELANParticipant Roberto
+\trs cantan cuando matan sachavaca
+\tx cantan cuando matan sachavaca
+\ft cantan cuando matan sachavaca
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 16.850 18.820
+
+\ref 008
+\ELANBegin 18.930
+\ELANEnd 20.270
+\ELANParticipant Roberto
+\trs cuando matan huangana
+\tx cuando matan huangana
+\ft cuando matan huangana
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 18.930 20.270
+
+\ref 009
+\ELANBegin 21.290
+\ELANEnd 23.240
+\ELANParticipant Roberto
+\trs cuando van al monte a cazar sachavaca
+\tx cuando van al monte a cazar sachavaca
+\ft cuando van al monte a cazar sachavaca
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 21.290 23.240
+
+\ref 010
+\ELANBegin 24.190
+\ELANEnd 24.940
+\ELANParticipant Roberto
+\trs cuando
+\tx cuando
+\ft cuando
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 24.190 24.940
+
+\ref 011
+\ELANBegin 28.490
+\ELANEnd 29.480
+\ELANParticipant Roberto
+\trs cuando viajan
+\tx cuando viajan
+\ft cuando viajan
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 28.490 29.480
+
+\ref 012
+\ELANBegin 30.320
+\ELANEnd 33.020
+\ELANParticipant Roberto
+\trs cuando han cuando alguien se va de viaje también cantan
+\tx cuando han cuando alguien se va de viaje también cantan
+\ft cuando han... cuando alguien se va de viaje también cantan
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 30.320 33.020
+
+\ref 013
+\ELANBegin 34.330
+\ELANEnd 35.754
+\ELANParticipant Nelita
+\trs también se canta viaje
+\tx también se canta viaje
+\ft también se canta viaje
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 34.330 35.754
+
+\ref 014
+\ELANBegin 36.465
+\ELANEnd 37.965
+\ELANParticipant Nelita
+\trs noaribira iti atipanka noa
+\tx noaribira                  iti            atipanka      noa
+\mb noa   =ribi     =ra        ik      -ti    atipan =ka    noa
+\gn 1PL.P =también =EVID1(SK) copula  -NOMLZ poder  =NAR   1PL.P
+\ps pron. =clit.    =clit.     v.intr. -suf.  v.     =clit. pron.
+
+\ft nosotros también podemos cantar
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 36.465 37.965
+
+\ref 015
+\ELANBegin 38.080
+\ELANEnd 39.220
+\ELANParticipant Nelita
+\trs habira non onana
+\tx habi=ra                   non         onan-a
+\mb ha      =bi    =ra        no   =n     onan   -a
+\gn ese(SK) =ENF   =EVID1(SK) 1PL  =ERG   saber  -NOMLZ
+\ps dem     =clit. =clit.     pron =clit. v.tran -suf.
+
+\ft eso mismo lo que sabemos
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 38.080 39.220
+
+\ref 016
+\ELANBegin 39.475
+\ELANEnd 41.472
+\ELANParticipant Nelita
+\trs shipibo ikai ninkatai
+\tx shipibo ikai                  ninkatai
+\mb shipibo ik         -ai        ninkat   -ai
+\gn shipibo decir:INTR -NOMLZ(SK) escuchar -IMPF(SK)
+\ps n.      v.intr.    -suf.      v.       -suf.
+
+\ft lo que cantan los shipibos escuchamos
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 39.475 41.472
+
+\ref 017
+\ELANBegin 39.475
+\ELANEnd 41.512
+\ELANParticipant Isabel
+\trs onana onanama ka iki
+\tx onan-a       onan-a=ma            ka     iki
+\mb onan   -a    onan   -a     =ma    ka     ik      -i
+\gn saber  -PERF saber  -NOMLZ =NEG   ir     copula  -SUJ>S:SIM
+\ps v.tran -suf. v.tran -suf.  =clit. v.intr v.intr. -suf.
+
+\ft no sabemos
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 39.475 41.512
+
+\ref 018
+\ELANBegin 42.590
+\ELANEnd 42.596
+\ELANParticipant Nelita
+\trs nobi pikotai
+\tx nobi        pikotai
+\mb no   =bi    pikot     -ai
+\gn 1PL  =ENF   salir(SK) -IMPF(SK)
+\ps pron =clit. v.        -suf.
+
+\ft nosotros solemos salir
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 42.590 42.596
+
+\ref 019
+\ELANBegin 42.596
+\ELANEnd 43.646
+\ELANParticipant Nelita
+\trs nonbi pikotai
+\tx nonbi              pikotai
+\mb no   =n     =bi    pikot     -ai
+\gn 1PL  =ERG   =ENF   salir(SK) -IMPF(SK)
+\ps pron =clit. =clit. v.        -suf.
+
+\ft nosotros podemos sacar (inventar) (una canción)
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 42.596 43.646
+
+\ref 020
+\ELANBegin 43.778
+\ELANEnd 46.667
+\ELANParticipant Nelita
+\trs nonbi pikotai hakonka ka iti bebanohon
+\tx nonbi              pikotai
+\mb no   =n     =bi    pikot     -ai
+\gn 1PL  =ERG   =ENF   salir(SK) -NOMLZ(SK)
+\ps pron =clit. =clit. v.        -suf.
+
+\tx hakonka          ka     iti
+\mb hakon     =ka    ka     ik      -ti
+\gn bueno(SK) =NAR   ir     copula  -NOMLZ
+\ps adj.      =clit. v.intr v.intr. -suf.
+
+\tx bewánohon
+\mb bewá  -nohon
+\gn cantar -PROP:TRAN
+\ps v.     -suf.
+
+\ft nosotros mismos sacar bien lo que cantamos cuando alguien se va (despedida)
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 43.778 46.667
+
+\ref 021
+\ELANBegin 45.970
+\ELANEnd 50.320
+\ELANParticipant Isabel
+\trs ka iti bebahonti oni kai ti noa hohomiska
+\tx ka            iti
+\mb ka     -a     ik      -ti
+\gn ir     -NOMLZ copula  -NOMLZ
+\ps v.intr -suf.  v.intr. -suf.
+
+\tx bebahonti                  oni     ka
+\mb be     -ba    -hon  -ti    oni     ka     -a
+\gn traer  -ahora -BEN  -NOMLZ persona ir     -NOMLZ
+\ps v.tran -suf.  -suf. -suf.  n.      v.intr -suf.
+
+\tx iti            noa   hohomiska
+\mb ik      -ti    noa   hoho   -mis      =ka
+\gn copula  -NOMLZ 1PL.P llorar -PAS.HAB. =NAR
+\ps v.intr. -suf.  pron. v.     -suf.     =clit.
+
+\ft en vez de cantarle a una persona cuando se iba, nosotros llorábamos no más
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 45.970 50.320
+
+\ref 022
+\ELANBegin 49.100
+\ELANEnd 50.390
+\ELANParticipant Juanita
+\trs a hohomiska iki
+\tx a   hohomiska                iki
+\mb a   hoho   -mis       =ka    ik         -i
+\gn ese llorar -NOMLZ:HAB =NAR   decir:INTR -SUJ>S:SIM
+\ps dem v.     -suf.      =clit. v.intr.    -suf.
+
+\ft ibamos llorando
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 49.100 50.390
+
+\ref 023
+\ELANBegin 50.700
+\ELANEnd 51.340
+\ELANParticipant Juanita
+\trs wini
+\tx wini
+\mb wini       -i
+\gn llorar(SK) -IMPF
+\ps v.         -suf.
+
+\ft llorábamos
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 50.700 51.340
+
+\ref 024
+\ELANBegin 51.305
+\ELANEnd 54.395
+\ELANParticipant Nelita
+\trs hohoamaka bebatika yoyai hohoama
+\tx hohoamaka
+\mb hoho   -a     =ma    =ka
+\gn llorar -NOMLZ =NEG   =NAR
+\ps v.     -suf.  =clit. =clit.
+
+\tx bebatika                    yoyai
+\mb be     -ba    -ti    =ka    yoya   -i
+\gn traer  -ahora -NOMLZ =NAR   decir  -IMPF
+\ps v.tran -suf.  -suf.  =clit. v.tran -suf.
+
+\tx hohoama
+\mb hoho   -a     =ma
+\gn llorar -NOMLZ =NEG
+\ps v.     -suf.  =clit.
+
+\ft no lo que llorábamos, lo que cantábamos hay que contar, no lo que llorábamos
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 51.305 54.395
+
+\ref 025
+\ELANBegin 52.815
+\ELANEnd 54.415
+\ELANParticipant Isabel
+\trs bebatika
+\tx bebatika
+\mb be     -ba    -ti    =ka
+\gn traer  -ahora -NOMLZ =NAR
+\ps v.tran -suf.  -suf.  =clit.
+
+\ft lo que cantábamos
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 52.815 54.415
+
+\ref 026
+\ELANBegin 55.400
+\ELANEnd 56.290
+\ELANParticipant Juanita
+\trs non ka iki hoho
+\tx non         ka           iki              hoho
+\mb no   =n     ka     -a    ik         -i    hoho
+\gn 1PL  =ERG   ir     -PERF decir:INTR -IMPF llorar
+\ps pron =clit. v.intr -suf. v.intr.    -suf. v.
+
+\ft nosotros llorábamos
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 55.400 56.290
+
+\ref 027
+\ELANBegin 56.000
+\ELANEnd 59.490
+\ELANParticipant Elias
+\trs bebaisma iki ikon ikama ikama winiresai kaitian
+\tx bebaisma                 iki              ikon   ik-a=ma              ik-a=ma              winiresai                       kaitian
+\mb be     -ba    -isma      ik         -i    ikon   ik      -a    =ma    ik      -a    =ma    wini       -res       -ai       ka     -i     =tian
+\gn traer  -ahora -nunca(SK) decir:INTR -IMPF verdad copula  -PERF =NEG   copula  -PERF =NEG   llorar(SK) -solamente -IMPF(SK) ir     -NOMLZ =TEMP(SK)
+\ps v.tran -suf.  -suf.      v.intr.    -suf. adv.   v.intr. -suf. =clit. v.intr. -suf. =clit. v.         -suf.      -suf.     v.intr -suf.  =clit.
+
+\ft no cantábamos, ¿verdad?, no era así, no era así, solo llorábamos cuando alguien se iba
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 56.000 59.490
+
+\ref 028
+\ELANBegin 59.640
+\ELANEnd 61.526
+\ELANParticipant Juanita
+\trs winiresai winiresai
+\tx winiresai
+\mb wini       -res       -ai
+\gn llorar(SK) -solamente -IMPF(SK)
+\ps v.         -suf.      -suf.
+
+\tx winiresai
+\mb wini       -res       -ai
+\gn llorar(SK) -solamente -IMPF(SK)
+\ps v.         -suf.      -suf.
+
+\ft solomente llorábamos
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 59.640 61.526
+
+\ref 029
+\ELANBegin 59.670
+\ELANEnd 60.350
+\ELANParticipant Nelita
+\trs winiresai
+\tx winiresai
+\mb wini       -res       -ai
+\gn llorar(SK) -solamente -IMPF(SK)
+\ps v.         -suf.      -suf.
+
+\ft solamente llorábamos
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 59.670 60.350
+
+\ref 030
+\ELANBegin 61.410
+\ELANEnd 66.740
+\ELANParticipant Elias
+\trs Ah dice que no que no ha cantando sino ha llorado nomás
+\tx Ah dice que no que no ha cantando sino ha llorado nomás
+\ft Ah, dice que no que no ha cantado sino ha llorado nomás
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 61.410 66.740
+
+\ref 031
+\ELANBegin 68.270
+\ELANEnd 68.830
+\ELANParticipant Roberto
+\trs se llora nomás
+\tx se llora nomás
+\ft se llora nomás
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 68.270 68.830
+
+\ref 032
+\ELANBegin 68.885
+\ELANEnd 69.635
+\ELANParticipant Elias
+\trs llora nomás
+\tx llora nomás
+\ft llora nomás
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 68.885 69.635
+
+\ref 033
+\ELANBegin 70.115
+\ELANEnd 71.255
+\ELANParticipant Isabel
+\trs cuando ta viajando
+\tx cuando ta viajando
+\ft cuando está viajando
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 70.115 71.255
+
+\ref 034
+\ELANBegin 72.780
+\ELANEnd 73.810
+\ELANParticipant Isabel
+\trs llora dice
+\tx llora dice
+\ft llora dice
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 72.780 73.810
+
+\ref 035
+\ELANBegin 75.040
+\ELANEnd 76.800
+\ELANParticipant Elias
+\trs de pena creo ha llorado
+\tx de pena creo ha llorado
+\ft de pena creo ha llorado
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 75.040 76.800
+
+\ref 036
+\ELANBegin 77.060
+\ELANEnd 80.480
+\ELANParticipant Roberto
+\trs y cuando y cuando hay, cuando se canta? en las fiestas
+\tx y cuando y cuando hay, cuando se canta? en las fiestas
+\ft y cuándo, y cuándo hay, cuándo se canta? en las fiestas
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 77.060 80.480
+
+\ref 037
+\ELANBegin 81.140
+\ELANEnd 83.930
+\ELANParticipant Roberto
+\trs ¿cuándo los isconahuas cantaban?
+\tx ¿cuándo los isconahuas cantaban?
+\ft ¿cuándo los isconahuas cantaban?
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 81.140 83.930
+
+\ref 038
+\ELANBegin 84.640
+\ELANEnd 86.840
+\ELANParticipant Nelita
+\trs fiesta rebo wewamisi ikon
+\tx fiesta rebo wewamisi ikon
+\ft en la fiesta sí se cantaba, verdad
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 84.640 86.840
+
+\ref 039
+\ELANBegin 84.685
+\ELANEnd 85.375
+\ELANParticipant Elias
+\trs fiesta
+\tx fiesta
+\ft fiesta
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 84.685 85.375
+
+\ref 040
+\ELANBegin 88.420
+\ELANEnd 89.570
+\ELANParticipant Isabel
+\trs fiestaka
+\tx fiestaka
+\mb fiesta =ka
+\gn fiesta =NAR
+\ps n.     =clit.
+
+\ft fiesta
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 88.420 89.570
+
+\ref 041
+\ELANBegin 89.620
+\ELANEnd 92.320
+\ELANParticipant Nelita
+\trs paena omaka bewátiki
+\tx paena
+\mb pae        -anan
+\gn fermentado -MAL
+\ps adj.       -suf
+
+\tx omaka                bewátiki
+\mb oma           =ka    bewá  -ti    =ki
+\gn chicha.fuerte =NAR   cantar -NOMLZ =INT
+\ps n.            =clit. v.     -suf.  =clit.
+
+\ft borracho con la chicha fermentada cantaba
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 89.620 92.320
+
+\ref 042
+\ELANBegin 93.625
+\ELANEnd 96.505
+\ELANParticipant Juanita
+\trs oma aka rewinmis areska rewinmis
+\tx oma           aka           rewinmis
+\mb oma           ak      -a    rewin -mis
+\gn chicha.fuerte hacer   -PERF canto -PAS.HAB.
+\ps n.            v.tran. -suf. n.    -suf.
+
+\tx areska                rewinmis
+\mb a   -res       =ka    rewin -mis
+\gn ese -solamente =NAR   canto -PAS.HAB.
+\ps dem -suf.      =clit. n.    -suf.
+
+\ft se cantaba tomando la chicha fermentada con eso nomás se cantaba
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 93.625 96.505
+
+\ref 043
+\ELANBegin 96.760
+\ELANEnd 98.280
+\ELANParticipant Nelita
+\trs ainka rewini
+\tx ainka            rewini
+\mb ain       =ka    rewin -i
+\gn ahí(MIX) =NAR   canto -IMPF
+\ps adv.      =clit. n.    -suf.
+
+\ft ahí se cantaba
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 96.760 98.280
+
+\ref 044
+\ELANBegin 99.290
+\ELANEnd 100.850
+\ELANParticipant Juanita
+\trs bewá ika rewinmis
+\tx bewá               ika               rewinmis
+\mb bewá               ik         =ka    rewin -mis
+\gn canto               decir:INTR =NAR   canto -PAS.HAB.
+\ps n.                  v.intr.    =clit. n.    -suf.
+
+\ft solían cantar
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 99.290 100.850
+
+\ref 045
+\ELANBegin 102.095
+\ELANEnd 103.165
+\ELANParticipant Elias
+\trs Sí, cantaba
+\tx Sí, cantaba
+\ft Sí, cantaba
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 102.095 103.165
+
+\ref 046
+\ELANBegin 103.450
+\ELANEnd 104.740
+\ELANParticipant Elias
+\trs cuando hacía fiesta
+\tx cuando hacía fiesta
+\ft cuando hacía fiesta
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 103.450 104.740
+
+\ref 047
+\ELANBegin 104.800
+\ELANEnd 105.370
+\ELANParticipant Roberto
+\trs fiesta
+\tx fiesta
+\ft fiesta
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 104.800 105.370
+
+\ref 048
+\ELANBegin 105.520
+\ELANEnd 106.080
+\ELANParticipant Elias
+\trs aha
+\tx aha
+\ft ajá
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 105.520 106.080
+
+\ref 049
+\ELANBegin 107.215
+\ELANEnd 109.525
+\ELANParticipant Elias
+\trs noa ibake ono choron choron maya maya aketani
+\tx noa   ibake                                 ono
+\mb noa   ik      -iba                -ke       ono
+\gn 1PL.P copula  -PAS.una.semana(SK) -PERF(SK) allá(SK)
+\ps pron. v.intr. -suf.               -suf.     adv.
+
+\tx choron     choron     maya            maya
+\mb choron     choron     maya            maya
+\gn saltar(SK) saltar(SK) en.círculo(SK) en.círculo(SK)
+\ps v.         v.         adv.            adv.
+
+\tx aketani
+\mb ak      -ke       =tani
+\gn hacer   -PERF(SK) =un.poco
+\ps v.tran. -suf.     =n.
+
+\ft nosotros saltábamos dando vueltas el otro día por allá
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 107.215 109.525
+
+\ref 050
+\ELANBegin 110.080
+\ELANEnd 111.730
+\ELANParticipant Elias
+\trs José Antoniobetan
+\tx José Antoniobetan
+\ft con José Antonio
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 110.080 111.730
+
+\ref 051
+\ELANBegin 112.220
+\ELANEnd 114.750
+\ELANParticipant Isabel
+\trs con José Antonio estaba cantando
+\tx con José Antonio estaba cantando
+\ft con José Antonio estaba cantando
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 112.220 114.750
+
+\ref 052
+\ELANBegin 114.140
+\ELANEnd 115.140
+\ELANParticipant Elias
+\trs hemos hecho danzar a José Antonio
+\tx hemos hecho danzar a José Antonio
+\ft hemos hecho danzar a José Antonio
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 114.140 115.140
+
+\ref 053
+\ELANBegin 115.120
+\ELANEnd 115.570
+\ELANParticipant Roberto
+\trs ¿ah sí?
+\tx ¿ah sí?
+\ft ¿ah sí?
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 115.120 115.570
+
+\ref 054
+\ELANBegin 115.695
+\ELANEnd 116.075
+\ELANParticipant Elias
+\trs aha
+\tx aha
+\ft ajá
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 115.695 116.075
+
+\ref 055
+\ELANBegin 116.400
+\ELANEnd 118.450
+\ELANParticipant Isabel
+\trs José Antonio también estaba danzando
+\tx José Antonio también estaba danzando
+\ft José Antonio también estaba danzando
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 116.400 118.450
+
+\ref 056
+\ELANBegin 121.380
+\ELANEnd 122.690
+\ELANParticipant Elias
+\trs así se cantaba cuando
+\tx así se cantaba cuando
+\ft así se cantaba cuando
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 121.380 122.690
+
+\ref 057
+\ELANBegin 122.910
+\ELANEnd 124.610
+\ELANParticipant Roberto
+\trs faltaba la chicha de maiz
+\tx faltaba la chicha de maiz
+\ft faltaba la chicha de maíz
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 122.910 124.610
+
+\ref 058
+\ELANBegin 124.845
+\ELANEnd 126.365
+\ELANParticipant Nelita
+\trs chicha de maiz
+\tx chicha de maiz
+\ft chicha de maíz
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 124.845 126.365
+
+\ref 059
+\ELANBegin 128.090
+\ELANEnd 129.190
+\ELANParticipant Nelita
+\trs xekima, heki
+\tx xekima,          heki
+\mb xeki      =ma    heki
+\gn maíz(SK) =NEG   maíz
+\ps n.        =clit. n.
+
+\ft no digas "xeki", di, "heki" (maíz)
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 128.090 129.190
+
+\ref 060
+\ELANBegin 129.355
+\ELANEnd 129.915
+\ELANParticipant Roberto
+\trs heki
+\tx heki
+\mb heki
+\gn maíz
+\ps n.
+
+\ft maiz
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 129.355 129.915
+
+\ref 061
+\ELANBegin 129.970
+\ELANEnd 130.580
+\ELANParticipant Nelita
+\trs heki
+\tx heki
+\mb heki
+\gn maíz
+\ps n.
+
+\ft maiz
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 129.970 130.580
+
+\ref 062
+\ELANBegin 129.970
+\ELANEnd 130.580
+\ELANParticipant Juanita
+\trs heki
+\tx heki
+\mb heki
+\gn maíz
+\ps n.
+
+\ft maiz
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 129.970 130.580
+
+\ref 063
+\ELANBegin 130.690
+\ELANEnd 132.070
+\ELANParticipant Nelita
+\trs shipibo akai xeki
+\tx shipibo akai                  xeki
+\mb shipibo ak          -ai       xeki
+\gn shipibo decir(TRAN) -IMPF(SK) maíz(SK)
+\ps n.      v.tran.     -suf.     n.
+
+\ft los shipibos dicen xeki
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 130.690 132.070
+
+\ref 064
+\ELANBegin 133.325
+\ELANEnd 134.595
+\ELANParticipant Elias
+\trs está tomando miná
+\tx está tomando miná
+\ft está tomando chicha sin fermentar
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 133.325 134.595
+
+\ref 065
+\ELANBegin 135.720
+\ELANEnd 136.080
+\ELANParticipant Elias
+\trs miná
+\tx miná
+\ft chicha sin fermentar
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 135.720 136.080
+
+\ref 066
+\ELANBegin 136.345
+\ELANEnd 136.785
+\ELANParticipant Roberto
+\trs miná
+\tx miná
+\mb miná
+\gn chicha.suave
+\ps n.
+
+\ft chicha sin fermentar
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 136.345 136.785
+
+\ref 067
+\ELANBegin 137.910
+\ELANEnd 138.360
+\ELANParticipant Juanita
+\trs miná
+\tx miná
+\mb miná
+\gn chicha.suave
+\ps n.
+
+\ft chicha sin fermentar
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 137.910 138.360
+
+\ref 068
+\ELANBegin 139.270
+\ELANEnd 139.810
+\ELANParticipant Juanita
+\trs oma
+\tx oma
+\mb oma
+\gn chicha.fuerte
+\ps n.
+
+\ft chicha fermentada
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 139.270 139.810
+
+\ref 069
+\ELANBegin 140.125
+\ELANEnd 140.595
+\ELANParticipant Elias
+\trs oma
+\tx oma
+\ft chicha fermentada
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 140.125 140.595
+
+\ref 070
+\ELANBegin 150.670
+\ELANEnd 152.550
+\ELANParticipant Roberto
+\trs ¿qué canción podríamos grabar?
+\tx ¿qué canción podríamos grabar?
+\ft ¿qué canción podríamos grabar?
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 150.670 152.550
+
+\ref 071
+\ELANBegin 154.450
+\ELANEnd 155.940
+\ELANParticipant Roberto
+\trs ¿hay otra canción que recuerden?
+\tx ¿hay otra canción que recuerden?
+\ft ¿hay otra canción que recuerden?
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 154.450 155.940
+
+\ref 072
+\ELANBegin 158.900
+\ELANEnd 159.890
+\ELANParticipant Elias
+\trs mi shinanai bebabo
+\tx mi shinanai bebabo
+\ft tu sabes canciones
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 158.900 159.890
+
+\ref 073
+\ELANBegin 161.890
+\ELANEnd 164.540
+\ELANParticipant Elias
+\trs westiora wewa akasiri nato
+\tx westiora wewa akasiri nato
+\ft ¿quiéres hacer una canción para este?
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 161.890 164.540
+
+\ref 074
+\ELANBegin 167.960
+\ELANEnd 169.720
+\ELANParticipant Nelita
+\trs westiwan wewamakasi noa
+\tx westiwan wewamakasi noa
+\ft quiere hacernos cantar una canción a nosotros
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 167.960 169.720
+
+\ref 075
+\ELANBegin 169.735
+\ELANEnd 170.055
+\ELANParticipant Juanita
+\trs aha
+\tx aha
+\ft aha
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 169.735 170.055
+
+\ref 076
+\ELANBegin 170.520
+\ELANEnd 172.235
+\ELANParticipant Nelita
+\trs ibanon ochi ikintani
+\tx ibanon ochi ikintani
+\ft para que cantes con tu hermano un poco
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 170.520 172.235
+
+\ref 077
+\ELANBegin 177.595
+\ELANEnd 178.375
+\ELANParticipant Nelita
+\trs wistewan wewa
+\tx wistewan wewa
+\ft una canción
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 177.595 178.375
+
+\ref 078
+\ELANBegin 178.700
+\ELANEnd 180.300
+\ELANParticipant Juanita
+\trs wewa wistewan awe chibí
+\tx wewa wistewan awe chibí
+\ft ¡canta una canción, chibi!
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 178.700 180.300
+
+\ref 079
+\ELANBegin 180.515
+\ELANEnd 183.301
+\ELANParticipant Nelita
+\trs hawe wewa
+\tx hawe wewa
+\ft ¿qué canción?
+\sound JC.NC.IC.EC-conversacion.canciones-2013.wav 180.515 183.301
+
+
+\ELANMediaURL file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC.NC.IC.EC-conversacion.canciones-2013.mpg
+\ELANMediaMIME video/mpeg
+\ELANMediaURL file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC.NC.IC.EC-conversacion.canciones-2013.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaExtracted file:///d:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC.NC.IC.EC-conversacion.canciones-2013.mpg

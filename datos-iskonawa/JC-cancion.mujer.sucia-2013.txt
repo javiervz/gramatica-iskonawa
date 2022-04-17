@@ -1,0 +1,396 @@
+\_sh v3.0  400  text
+
+\ref 001
+\trs non irabo iwe
+\tx non         irabo  iwe
+\mb no   =n     irabo  ik         -we
+\gn 1PL  =GEN   hombre decir:INTR -IMP(SK)
+\ps pron =clit. n.     v.intr.    -suf.
+
+\ft cantale a nuestros hombres [?]
+\ELANBegin 0.920
+\ELANEnd 1.870
+\ELANParticipant Nelita
+\sound JC-cancion.mujer.sucia-2013.wav 0.920 1.870
+
+\ref 002
+\trs ainbo hankospihiko
+\tx ainbo hankospihiko
+\mb ainbo han-         -kospi -hoko
+\gn mujer entrepierna- -sucio -DIM
+\ps n.    pref.-       -lig.  -suf
+
+\ft mujer que no se lava su entrepierna
+\ELANBegin 2.890
+\ELANEnd 4.450
+\ELANParticipant Juanita
+\nt estos son de esas particulas, son productivas con otros prefijos pero
+no se pueden usar solos
+\sound JC-cancion.mujer.sucia-2013.wav 2.890 4.450
+
+\ref 003
+\trs ainbo hankospihiko
+\tx ainbo hankospihiko
+\mb ainbo han-         -kospi -hoko
+\gn mujer entrepierna- -sucio -DIM
+\ps n.    pref.-       -lig.  -suf
+
+\ft mujer que no se lava su entrepierna
+\ELANBegin 4.260
+\ELANEnd 5.150
+\ELANParticipant Isabel
+\sound JC-cancion.mujer.sucia-2013.wav 4.260 5.150
+
+\ref 004
+\trs ainbo chishtahako
+\tx ainbo chishtahako
+\mb ainbo chi-     -shta  -hoko
+\gn mujer trasero- -sucio -DIM
+\ps n.    pref.-   -lig.  -suf
+
+\ft mujer que no se lava su poto
+\ELANBegin 4.600
+\ELANEnd 6.160
+\ELANParticipant Juanita
+\sound JC-cancion.mujer.sucia-2013.wav 4.600 6.160
+
+\ref 005
+\trs chishtahako
+\tx chishtahako
+\mb chi-     -shta  -hoko
+\gn trasero- -sucio -DIM
+\ps pref.-   -lig.  -suf
+
+\ft que no se lava su poto
+\ELANBegin 5.690
+\ELANEnd 6.560
+\ELANParticipant Nelita
+\sound JC-cancion.mujer.sucia-2013.wav 5.690 6.560
+
+\ref 006
+\trs ainbo hansereheko
+\tx ainbo hansereheko
+\mb ainbo han-         sere  -hoko
+\gn mujer entrepierna- rayas -DIM
+\ps n.    pref.-       n.    -suf
+
+\ft mujer de entrepierna cochina
+\ELANBegin 6.360
+\ELANEnd 7.760
+\ELANParticipant Juanita
+\sound JC-cancion.mujer.sucia-2013.wav 6.360 7.760
+
+\ref 007
+\trs hansereheko
+\tx hansereheko
+\mb han-         sere  -hoko
+\gn entrepierna- rayas -DIM
+\ps pref.-       n.    -suf
+
+\ft de entrepierna cochina
+\ELANBegin 7.270
+\ELANEnd 8.470
+\ELANParticipant Nelita
+\sound JC-cancion.mujer.sucia-2013.wav 7.270 8.470
+
+\ref 008
+\trs hansereheko
+\tx hansereheko
+\mb han-         sere  -hoko
+\gn entrepierna- rayas -DIM
+\ps pref.-       n.    -suf
+
+\ft de entrepierna cochina
+\ELANBegin 7.270
+\ELANEnd 8.490
+\ELANParticipant Isabel
+\sound JC-cancion.mujer.sucia-2013.wav 7.270 8.490
+
+\ref 009
+\trs ainbo chikospihiko
+\tx ainbo chikospihiko
+\mb ainbo chi         -kospi -hoko
+\gn mujer candela(SK) -sucio -DIM
+\ps n.    n           -lig.  -suf
+
+\ft mujer que no se lava su poto
+\ELANBegin 7.905
+\ELANEnd 9.300
+\ELANParticipant Juanita
+\sound JC-cancion.mujer.sucia-2013.wav 7.905 9.300
+
+\ref 010
+\trs chikospihiko
+\tx chikospihiko
+\mb chi         -kospi -hoko
+\gn candela(SK) -sucio -DIM
+\ps n           -lig.  -suf
+
+\ft que no se lava su poto
+\ELANBegin 8.610
+\ELANEnd 9.860
+\ELANParticipant Nelita
+\sound JC-cancion.mujer.sucia-2013.wav 8.610 9.860
+
+\ref 011
+\trs chikospihiko
+\tx chikospihiko
+\mb chi         -kospi -hoko
+\gn candela(SK) -sucio -DIM
+\ps n           -lig.  -suf
+
+\ft que no se lava su poto
+\ELANBegin 8.790
+\ELANEnd 9.780
+\ELANParticipant Isabel
+\sound JC-cancion.mujer.sucia-2013.wav 8.790 9.780
+
+\ref 012
+\trs ainbo hanshtahako
+\tx ainbo hanshtahako
+\mb ainbo han-         -shta  -hoko
+\gn mujer entrepierna- -sucio -DIM
+\ps n.    pref.-       -lig.  -suf
+
+\ft mujer de entrepierna sucia
+\ELANBegin 9.615
+\ELANEnd 11.260
+\ELANParticipant Juanita
+\sound JC-cancion.mujer.sucia-2013.wav 9.615 11.260
+
+\ref 013
+\trs ainbo hanshtahako
+\tx ainbo hanshtahako
+\mb ainbo han-         -shta  -hoko
+\gn mujer entrepierna- -sucio -DIM
+\ps n.    pref.-       -lig.  -suf
+
+\ft de entrepierna sucia
+\ELANBegin 10.530
+\ELANEnd 11.520
+\ELANParticipant Isabel
+\sound JC-cancion.mujer.sucia-2013.wav 10.530 11.520
+
+\ref 014
+\trs ainbo hanshtahako
+\tx ainbo hanshtahako
+\mb ainbo han-         -shta  -hoko
+\gn mujer entrepierna- -sucio -DIM
+\ps n.    pref.-       -lig.  -suf
+
+\ft de entrepierna sucia
+\ELANBegin 10.540
+\ELANEnd 12.130
+\ELANParticipant Nelita
+\sound JC-cancion.mujer.sucia-2013.wav 10.540 12.130
+
+\ref 015
+\trs ki
+\tx ki
+\ft ?
+\ELANBegin 11.475
+\ELANEnd 11.940
+\ELANParticipant Juanita
+\sound JC-cancion.mujer.sucia-2013.wav 11.475 11.940
+
+\ref 016
+\trs tsikospihiko
+\tx tsikospihiko
+\mb chi-     -kospi -hoko
+\gn trasero- -sucio -DIM
+\ps pref.-   -lig.  -suf
+
+\ft que no se lava su muslo
+\ELANBegin 11.985
+\ELANEnd 13.140
+\ELANParticipant Juanita
+\sound JC-cancion.mujer.sucia-2013.wav 11.985 13.140
+
+\ref 017
+\trs tsikospihiko
+\tx tsikospihiko
+\mb chi-     -kospi -hoko
+\gn trasero- -sucio -DIM
+\ps pref.-   -lig.  -suf
+
+\ft que no se lava su poto
+\ELANBegin 12.880
+\ELANEnd 13.820
+\ELANParticipant Nelita
+\sound JC-cancion.mujer.sucia-2013.wav 12.880 13.820
+
+\ref 018
+\trs tsikospihiko
+\tx tsikospihiko
+\mb chi-     -kospi -hoko
+\gn trasero- -sucio -DIM
+\ps pref.-   -lig.  -suf
+
+\ft que no se lava su poto
+\ELANBegin 12.880
+\ELANEnd 13.830
+\ELANParticipant Isabel
+\sound JC-cancion.mujer.sucia-2013.wav 12.880 13.830
+
+\ref 019
+\trs chishtahako
+\tx chishtahako
+\mb chi-     -shta  -hoko
+\gn trasero- -sucio -DIM
+\ps pref.-   -lig.  -suf
+
+\ft que no se lava su poto
+\ELANBegin 13.700
+\ELANEnd 14.540
+\ELANParticipant Juanita
+\sound JC-cancion.mujer.sucia-2013.wav 13.700 14.540
+
+\ref 020
+\trs chishtahako
+\tx chishtahako
+\mb chi-     -shta  -hoko
+\gn trasero- -sucio -DIM
+\ps pref.-   -lig.  -suf
+
+\ft que no se lava su poto
+\ELANBegin 14.130
+\ELANEnd 15.030
+\ELANParticipant Nelita
+\sound JC-cancion.mujer.sucia-2013.wav 14.130 15.030
+
+\ref 021
+\trs chishtahako
+\tx chishtahako
+\mb chi-     -shta  -hoko
+\gn trasero- -sucio -DIM
+\ps pref.-   -lig.  -suf
+
+\ft que no se lava su poto
+\ELANBegin 14.130
+\ELANEnd 15.060
+\ELANParticipant Isabel
+\sound JC-cancion.mujer.sucia-2013.wav 14.130 15.060
+
+\ref 022
+\trs hankospihiko
+\tx hankospihiko
+\mb han-         -kospi -hoko
+\gn entrepierna- -sucio -DIM
+\ps pref.-       -lig.  -suf
+
+\ft que no se lava su entrepierna
+\ELANBegin 14.920
+\ELANEnd 16.170
+\ELANParticipant Juanita
+\sound JC-cancion.mujer.sucia-2013.wav 14.920 16.170
+
+\ref 023
+\trs hankospihiko
+\tx hankospihiko
+\mb han-         -kospi -hoko
+\gn entrepierna- -sucio -DIM
+\ps pref.-       -lig.  -suf
+
+\ft que no se lava su entrepierna
+\ELANBegin 15.610
+\ELANEnd 16.600
+\ELANParticipant Isabel
+\sound JC-cancion.mujer.sucia-2013.wav 15.610 16.600
+
+\ref 024
+\trs hankospihiko
+\tx hankospihiko
+\mb han-         -kospi -hoko
+\gn entrepierna- -sucio -DIM
+\ps pref.-       -lig.  -suf
+
+\ft que no se lava su entrepierna
+\ELANBegin 15.610
+\ELANEnd 16.940
+\ELANParticipant Nelita
+\sound JC-cancion.mujer.sucia-2013.wav 15.610 16.940
+
+\ref 025
+\trs hansereheko
+\tx hansereheko
+\mb han-         sere  -hoko
+\gn entrepierna- rayas -DIM
+\ps pref.-       n.    -suf
+
+\ft de entrepiernita cochinita
+\ELANBegin 16.295
+\ELANEnd 18.640
+\ELANParticipant Juanita
+\sound JC-cancion.mujer.sucia-2013.wav 16.295 18.640
+
+\ref 026
+\trs hansereheko
+\tx hansereheko
+\mb han-         sere  -hoko
+\gn entrepierna- rayas -DIM
+\ps pref.-       n.    -suf
+
+\ft de entrepiernita cochinita
+\ELANBegin 16.965
+\ELANEnd 17.720
+\ELANParticipant Isabel
+\sound JC-cancion.mujer.sucia-2013.wav 16.965 17.720
+
+\ref 027
+\trs hansereheko
+\tx hansereheko
+\mb han-         sere  -hoko
+\gn entrepierna- rayas -DIM
+\ps pref.-       n.    -suf
+
+\ft de entrepiernita cochinita
+\ELANBegin 16.965
+\ELANEnd 18.030
+\ELANParticipant Nelita
+\sound JC-cancion.mujer.sucia-2013.wav 16.965 18.030
+
+\ref 028
+\trs ainbo hansereheko
+\tx ainbo hansereheko
+\mb ainbo han-         sere  -hoko
+\gn mujer entrepierna- rayas -DIM
+\ps n.    pref.-       n.    -suf
+
+\ft mujer de entrepierna cochina
+\ELANBegin 18.170
+\ELANEnd 19.290
+\ELANParticipant Nelita
+\sound JC-cancion.mujer.sucia-2013.wav 18.170 19.290
+
+\ref 029
+\trs ainbo chishtahako
+\tx ainbo chishtahako
+\mb ainbo chi-     -shta  -hoko
+\gn mujer trasero- -sucio -DIM
+\ps n.    pref.-   -lig.  -suf
+
+\ft mujer que no se lava su poto
+\ELANBegin 18.700
+\ELANEnd 20.150
+\ELANParticipant Juanita
+\sound JC-cancion.mujer.sucia-2013.wav 18.700 20.150
+
+\ref 030
+\trs ainbo chishtahako
+\tx ainbo chishtahako
+\mb ainbo chi-     -shta  -hoko
+\gn mujer trasero- -sucio -DIM
+\ps n.    pref.-   -lig.  -suf
+
+\ft mujer que no se lava su poto
+\ELANBegin 19.700
+\ELANEnd 21.090
+\ELANParticipant Nelita
+\sound JC-cancion.mujer.sucia-2013.wav 19.700 21.090
+
+
+\ELANMediaURL file:///D:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC-cancion.mujer.sucia-2013.mpg
+\ELANMediaMIME video/mpeg
+\ELANMediaURL file:///D:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC-cancion.mujer.sucia-2013.wav
+\ELANMediaMIME audio/x-wav
+\ELANMediaExtracted file:///D:/Users/mlinguistica2018/Documents/iskonawa/basededatos-iskonawa procesada/data/JC-cancion.mujer.sucia-2013.mpg
